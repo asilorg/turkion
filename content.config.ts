@@ -8,13 +8,6 @@ const { options } = useNuxt()
 const cwd = joinURL(options.rootDir, 'content')
 const locales = options.i18n?.locales
 
-const Image = z.object({
-  src: z.string(),
-  alt: z.string().optional(),
-  width: z.number().optional(),
-  height: z.number().optional()
-})
-
 const Avatar = z.object({
   src: z.string(),
   alt: z.string().optional()

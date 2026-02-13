@@ -1,41 +1,7 @@
 <script setup lang="ts">
-import type { DropdownMenuItem } from '#ui/components/DropdownMenu.vue'
-import type { ArrayOrNested } from '#ui/types/utils'
 
 const route = useRoute()
 const { desktopLinks } = useHeader()
-
-const DROPDOWN_ITEMS: ArrayOrNested<DropdownMenuItem> = [
-  {
-    label: 'Timeline',
-    to: '/timeline',
-    checked: route.path === '/timeline'
-  }, {
-    label: 'Flags',
-    to: '/flags'
-  },
-  {
-    label: 'Nations',
-    to: '/nations',
-    color: 'primary',
-    // checked: true,
-    type: 'checkbox'
-  }, {
-    label: 'SaaS',
-    to: 'https://saas-template.nuxt.dev/'
-  }, {
-    label: 'Dashboard',
-    to: 'https://dashboard-template.nuxt.dev/'
-  }, {
-    label: 'Chat',
-    to: 'https://chat-template.nuxt.dev/'
-  }, {
-    label: 'Portfolio',
-    to: 'https://portfolio-template.nuxt.dev/'
-  }, {
-    label: 'Changelog',
-    to: 'https://changelog-template.nuxt.dev/'
-  }]
 </script>
 
 <template>
