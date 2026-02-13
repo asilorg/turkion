@@ -1,0 +1,32 @@
+{
+  "banner": "Biz olimlarni, talabalarni, kelajakni ko‘ruvchilarni va investorlarni taklif qilmoqdamiz. Keling, merosni birgalikda shakllantiramiz.",
+  "contact": "Muallif bilan aloqa",
+  "navigation": {
+    "explore":  "Tadqiq qilish",
+    "timeline": "Vaqt jadvali",
+    "flags":  "Bayroqlar",
+    "miniatures": "Miniaturalar",
+    "blog":  "Blog",
+    "people": "Odamlar"
+  },
+  "common": {
+		"or": "veya",
+		"error": {
+			"title": "Sayfa bulunamadı",
+			"description": "Üzgünüz, bu sayfa bulunamadı."
+		}
+	},
+	"docs": {
+		"copy": {
+			"page": "Sayfayı kopyala",
+			"link": "Markdown bağlantısını kopyala",
+			"view": "Markdown olarak görüntüle",
+			"gpt": "ChatGPT'de aç",
+			"claude": "Claude'da aç"
+		},
+		"links": "Topluluk",
+		"toc": "Bu sayfada",
+		"report": "Sorun bildir",
+		"edit": "Bu sayfayı düzenle"
+	}
+}

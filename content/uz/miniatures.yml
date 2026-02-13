@@ -1,0 +1,876 @@
+title: Miniatyuralar
+description: Onado‘lining qirmizi yulduzi va yarim oyidan tortib, Markaziy Osiyoning moviy dalalarigacha — turkiy xalqlarning bayroqlari qadimiy ildizlar, umumiy tarix va rang-barang madaniyatlar haqida hikoya qiladi. Ushbu sahifa ushbu ramzlarga singdirilgan boy simvolizmni o‘rganish uchun darvoza vazifasini o‘taydi. Ranglar ortidagi ma’nolar, naqshlarning ahamiyati hamda keng turkiy dunyoni tashkil etuvchi har bir millat va jamoaning o‘ziga xos rivoyatlariga sho‘ng‘ing. Bu xalqlarni bir-biriga bog‘lab turuvchi umumiy motivlarni va har bir bayroqni o‘zlikning g‘ururli bayonotiga aylantiruvchi o‘ziga xos elementlarni kashf eting.
+navigation: true
+hero:
+  title: Turkiy miniatyura xazinalari
+  description: O‘rta asrlar islom kitobat san’atining yorqin olamiga raqamli sayohat; Temuriylar, Usmoniylar, Safaviylar va Boburiylar saroylarining badiiy merosini ularning tasviriy san’at durdonalari orqali o‘rganish.
+timur_miniatures:
+  - title: Temuriylar miniatyuralari
+    items:
+      - img: /miniatures/timurid/Troops_of_Timur_attacking_the_city_of_Khiva,_Urganj_(right).jpg
+        url:
+        name: Temur qo‘shinlarining Xivaga hujumi
+      - img: /miniatures/timurid/Timurid_Anthology.jpg
+        url:
+        name: Temuriylar antologiyasi
+      - img: /miniatures/timurid/Building_of_the_Great_Mosque_in_Samarkand_(left).jpg
+        url:
+        name: Samarqanddagi Jome masjidining qurilishi
+      - img: /miniatures/timurid/Building_of_the_Great_Mosque_in_Samarkand_(right).jpg
+        url:
+        name: Samarqanddagi Jome masjidining qurilishi (2-qism)
+      - img: /miniatures/timurid/Sharaf_al-Din_Ali_Yazdi._Timur_Besieges_the_Georgian_Castle_of_Gortin._Miniature_manuscripts_(15th_century).jpg
+        url:
+        name: Temurning Gruziyadagi Gortin qal’asini qamal qilishi
+      - img: /miniatures/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(right).jpg
+        url:
+        name: Temurning taxtga o‘tirish marosimi
+      - img: /miniatures/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(left).jpg
+        url:
+        name: Temurning taxtga o‘tirish marosimi (2-qism)
+      - img: /miniatures/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg
+        url:
+        name: Umar Shayx qo‘mondonligidagi Temur qo‘shinining Urganchga hujumi
+      - img: /miniatures/abd-al-razzak/Muhammad_and_the_Angel_Gabriel_by_Abd_al-Razzak.jpg
+        url:
+        name: Muhammad (s.a.v.) va Jabroil farishta
+      - img: /miniatures/anthology-of-sultan-iskandar/Bahram_Ghur_in_the_corridor_of_the_seven_images,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
+        name: Bahrom Go‘r yetti go‘zal dahlizida
+      - img: /miniatures/anthology-of-sultan-iskandar/Before_and_after_rescue_from_water_damage._Frontispiece_of_the_Anthology_of_Sultan_Iskandar_(MCG,_LA161).jpg
+        name: Sulton Iskandar antologiyasining frontispisi
+        url:
+      - img: /miniatures/anthology-of-sultan-iskandar/Iskandar_observing_bathing_sirens._1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
+        name: Iskandar cho‘milayotgan parilarni kuzatmoqda
+      - img: /miniatures/anthology-of-sultan-iskandar/Iskander_Anthology_-_Iskander_imprison_Darab.png
+        name: Iskandarning Dorobni asirga olishi
+      - img: /miniatures/anthology-of-sultan-iskandar/Prisoners_brought_before_Khosrow,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
+        name: Asirlarning Xusrav huzuriga keltirilishi
+      - img: /miniatures/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg
+        url:
+        name: Shoir qozi sudida
+      - img: /miniatures/timurid/Terken_Khatun-1.1.jpg
+        url:
+        name: Turkan xotun
+      - img: /miniatures/timurid/Temüjin_proclaimed_as_Genghis_Khan_in_1206_Jami'_al-tawarikh_manuscript.jpg
+        url:
+        name: Temujinning Chingizxon deb e’lon qilinishi
+      - img: /miniatures/timurid/Sultan-Husayn_Bayqara,_possibly_in_conversation_with_Majd_al-Din_Muhammad_Khvafi.png
+        url:
+        name: Sulton Husayn Boyqaro
+      - img: /miniatures/timurid/Siège_de_Mossoul_(1261-1262).jpeg
+        url:
+        name: Mosul qamali
+      - img: /miniatures/timurid/Siege_of_Alamut._BnF_MS_pers._206_f._149v.jpg
+        url:
+        name: Alamut qamali
+      - img: /miniatures/timurid/Sham_Ghazan,_mausoleum_of_Ghazan_in_Tabriz_(also_called_Gunbad-i_'Âlî)_(BNF,_Supplément_Persan_1113_f.256v-257).jpg
+        url:
+        name: Tabrizdagi G‘ozonxon maqbarasi
+      - img: /miniatures/timurid/Sad'i_and_the_Youth_of_Kashgar,_Ascribed_to_Bihzad,_From_a_copy_of_the_Gulistan_(Rosegarden)_by_Sa'di.jpg
+        url:
+        name: Sa’diy va qashqarlik yigit
+      - img: /miniatures/timurid/Rustam_and_Isfandiyar_testing_each_other’s_grip._Golestan_Palace_Library,_ms._716.jpg
+        url:
+        name: Rustam va Isfandiyor
+      - img: /miniatures/timurid/Princely_banquet._Frontispiece_from_a_Shahnama_manuscript,_Shiraz,_1444._Possibly_made_for_Abdallah_Mirza,_son_of_Ibrahim_Sultan.jpg
+        url:
+        name: Shohona ziyofat
+      - img: /miniatures/timurid/Muhammad_and__shameless_women__in_Hell.jpg
+        url:
+        name: Muhammad (s.a.v.) va do‘zaxdagi ayollar
+      - img: /miniatures/timurid/Muhammad_and__mocking_women__in_Hell.jpg
+        url:
+        name: Muhammad (s.a.v.) va do‘zaxdagi mazax qiluvchi ayollar
+      - img: /miniatures/timurid/Les_chemins_du_paradis_(Collection_Al_Thani,_Paris)._For_Abu_Sa'id_Gurkan,_Herat,_Afghanistan._Timurid_1458-1469_(1466_probable).jpg
+        url:
+        name: Jannat yo‘llari
+      - img: /miniatures/timurid/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg
+        url:
+        name: Xarnaq qal’asining qurilishi
+      - img: /miniatures/timurid/Jésus_et_Mahomet_dans_un_manuscrit_timouride_(Collection_Al_Thani,_Paris).jpg
+        url:
+        name: Iso va Muhammad (s.a.v.)
+      - img: /miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_21.jpg
+        url:
+        name: Jomi Jam (Jamshid jomi) (21)
+      - img: /miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_4.jpg
+        url:
+        name: Jomi Jam (Jamshid jomi) (4)
+      - img: /miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_1.jpg
+        url:
+        name: Jomi Jam (Jamshid jomi) (1)
+      - img: /miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_12.jpg
+        url:
+        name: Jomi Jam (Jamshid jomi) (12)
+      - img: /miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_11.jpg
+        url:
+        name: Jomi Jam (Jamshid jomi) (11)
+      - img: /miniatures/timurid/Humay_and_Humayun_in_a_garden._Possibly_from_an_Anthology._Herat,_circa_1430.jpg
+        url:
+        name: Humoy va Humoyun bog‘da
+      - img: /miniatures/timurid/Horoscope_from_'The_book_of_birth_of_Iskandar__Wellcome_L0040150.jpg
+        url:
+        name: Iskandarning munajjimlar bashorati
+      - img: /miniatures/timurid/Gulnar_sees_Ardashir_and_falls_in_love_with_him._Baysungur's_Shahnama,_1430._The_Gulistan_Palace_Museum,_Tehran.f469.jpg
+        url:
+        name: Gulnor va Ardashir
+      - img: /miniatures/timurid/Frontispiece_from_the_Cairo_Bustan._Herat,_c._1488,_for_Sultan_Husayn_Bayqara._Cairo,_Dar_al-kutub,_Adab_farisi_22,_folio_1b-2a.jpg
+        url:
+        name: Qohira "Bo‘ston"ining frontispisi
+      - img: /miniatures/timurid/Frontispiece_Baysunghur's_Shahnama_(Gulistan_Palace_Library,_MS._716)_folio_4r_Hunting_scene_in_the_presence_of_prince_Baysunghur.jpg
+        url:
+        name: "Boysung‘ur Shohnomasi: Ov sahnasi"
+      - img: /miniatures/timurid/F._467v_The_Byzantine_emperor_is_brought_before_Šāpūr_II_in_chains,_his_ears_cut_off_and_his_nose_pierced._Shahnama,_1444,_Shiraz_(BNF,_Supplément_Persan_494).jpg
+        url:
+        name: Vizantiya imperatori Shoxpur II huzurida
+      - img: /miniatures/timurid/Destruction_of_the_remnant_of_the_Kipchak_Army_(left).jpg
+        url:
+        name: Qipchoq qo‘shini qoldiqlarining tor-mor etilishi
+      - img: /miniatures/timurid/Depiction_of_Timur_granting_audience_on_the_occasion_of_his_accession,_in_the_near_contemporary_Zafarnama_(1424-1428),_1467_edition.jpg
+        url:
+        name: Temurning taxtga o‘tirishi (Zafarnoma)
+      - img: /miniatures/timurid/Death_of_Farhads,_CBL_163,_f._72r.jpg
+        url:
+        name: Farhodning o‘limi
+      - img: /miniatures/timurid/Dance_of_Sufi_Dervishes.jpg
+        url:
+        name: So‘fiy darvishlar raqsi
+      - img: /miniatures/timurid/Coronation_of_Mahmud_II,_son_of_Muhammad,_grandson_of_Malik_Shah,_great_grandson_of_Alp_Arslan_of_Seljuk_dynasty,_King_of_Iran_(571-525_A.H._-_1117-1131_CE).jpg
+        url:
+        name: Mahmud II ning toj kiyish marosimi
+      - img: /miniatures/timurid/Combat_between_Gav_and_Talhand_(wounded_on_his_elephant),_folio_430v._Shahnama,_1440,_Herat_(Royal_Asiatic_Society_of_Great_Britain_and_Ireland,_no._239).jpg
+        url:
+        name: Gov va Talhand jangi
+      - img: /miniatures/timurid/Building_Samarkand_Mosque.jpg
+        url:
+        name: Samarqand masjidining qurilishi
+      - img: /miniatures/timurid/Behzad_or_Qasim_Ali._Iskandar,_in_the_likeness_of_Husayn_Bayqara,_visiting_the_wise_man_in_a_cave._Ascribed_to_Bihzad_underneath,_but_to_Qasim_ʻAli_in_the_text_panel..jpg
+        url:
+        name: Iskandarning g‘ordagi donishmand huzuriga tashrifi
+      - img: /miniatures/timurid/Behzad_beggar_at_a_mosque.jpg
+        url:
+        name: Masjiddagi gado
+      - img: /miniatures/timurid/Baysonghori_Shahnameh_battle-scene-cropped.jpg
+        url:
+        name: "Boysung‘ur Shohnomasi: Jang sahnasi"
+      - img: /miniatures/timurid/Bayasanghori_Shahnameh_5_(crop-b).jpg
+        url:
+        name: Boysung‘ur Shohnomasi tasviri
+      - img: /miniatures/timurid/Battle_on_the_River_Oxus,_Zafarnama_of_Sultan_Husayn_or_‘Garrett_Zafarnama’,_c.1480_painting.jpg
+        url:
+        name: Amudaryo bo‘yidagi jang
+      - img: /miniatures/timurid/Battle_of_Homs_(1299)_(Bibliothèque_nationale_de_France,_Supplément_Persan_1113_f.236).jpg
+        url:
+        name: Xoms jangi
+      - img: /miniatures/timurid/Bahram_and_dragon.jpg
+        url:
+        name: Bahrom va ajdarho
+      - img: /miniatures/timurid/Amir_Khalil._A_youth_is_marooned_by_an_angry_boatman._Sa'di,_Gulistan._f.29v._Chester_Beatty_Library,_Dublin..jpg
+        url:
+        name: G‘azablangan qayiqchi tomonidan tashlab ketilgan yigit
+      - img: /miniatures/timurid/A_drunken_prince_assaults_a_Chinese_maiden.Miniature_from_Gulistan_Sa'di._Herat,_1427._Chester_Beatty_Library,_Dublin._f.16r.jpg
+        url:
+        name: Shahzoda va Xitoylik qiz
+      - img: /miniatures/timurid/_Laila_and_Majnun_at_School_,_Folio_from_a_Khamsa_(Quintet)_of_Nizami_MET_DP159399.jpg
+        url:
+        name: Layli va Majnun maktabda
+      - img: /miniatures/timurid/_Dancing_Dervishes_,_Folio_from_a_Divan_of_Hafiz_MET_DP231332.jpg
+        url:
+        name: Raksga tushayotgan darvishlar
+
+ottoman_miniatures:
+  - title: Usmoniylar miniatyuralari
+    items:
+      - img: /miniatures/ottoman/(Fol._34r)_A_Tavern_Scene.jpg
+        url:
+        name: Mayxona sahnasi
+      - img: /miniatures/ottoman/(Fol._82v)_Locals_Confront_an_Adulterous_Woman.jpg
+        url:
+        name: Mahalliy aholining zinokor ayol bilan to‘qnashuvi
+      - img: /miniatures/ottoman/1396-Battle_of_Nicopolis.jpg
+        url:
+        name: Nikopol jangi, 1396
+      - img: /miniatures/ottoman/1526-Cavalry_units_participating_in_the_Battle_of_Mohacs-Hunername.jpg
+        url:
+        name: Moxach jangidagi otliq qo‘shinlar
+      - img: /miniatures/ottoman/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg
+        url:
+        name: Sulton Sulaymon va Moxach jangi
+      - img: /miniatures/ottoman/1566-The_Funeral_of_Sultan_Suleyman_the_Magnificent-left-large.jpg
+        url:
+        name: Sulton Sulaymon Qonuniyning dafn marosimi
+      - img: /miniatures/ottoman/A_miniature_depicting_the_capture_of_Bayezid_I.jpg
+        url:
+        name: Boyazid I ning asirga olinishi
+      - img: /miniatures/ottoman/Ali_Beheading_Nadr_ibn_al-Harith_in_the_Presence_of_the_Prophet_Muhammad._Miniature_from_volume_4_of_a_copy_of_Mustafa_al-Darir’s_Siyar-i-Nabi._Istanbul;_c._1594_The_David_Col..jpg
+        url:
+        name: Alining Nadr ibn al-Horisni qatl qilishi
+      - img: /miniatures/ottoman/Alim_Şəmsəddin_Əhməd_Qarabaği,_Seyyid_Loğman_və_Alimin_Komandanlığında_Nəkka_və_Xəttlar_Məclisi_T.S.M._A._3595,_s._9a.jpg
+        url:
+        name: Musavvirlar va xattotlar kengashi
+      - img: /miniatures/ottoman/Barbarossa_fleet_wintering_in_Toulon_1543.jpg
+        url:
+        name: Barbarossa floti Tulonda, 1543
+      - img: /miniatures/ottoman/BASA-822K-1-77-17a-Shahnameh_-_Shemailname-al-Osman.jpg
+        url:
+        name: Shohoma - Shemailname al-Osman
+      - img: /miniatures/ottoman/BASA-822K-1-77-18-Shahnameh_-_Shemailname-al-Osman.jpg
+        url:
+        name: Shohoma - Shemailname al-Osman (Portret)
+      - img: /miniatures/ottoman/Bataille_de_Siffîn.png
+        url:
+        name: Siffin jangi
+      - img: /miniatures/ottoman/Battle_against_the_Cossacks-Shahin-Shah-nama.jpg
+        url:
+        name: Kazaklarga qarshi jang
+      - img: /miniatures/ottoman/Battle_at_Lipova,_1551.jpg
+        url:
+        name: Lipova jangi, 1551
+      - img: /miniatures/ottoman/Battle_of_Mezőkeresztes_1596.jpg
+        url:
+        name: Mezekereshtes jangi, 1596
+      - img: /miniatures/ottoman/Battle_of_Mohács,_Turkish_miniature.jpg
+        url:
+        name: Moxach jangi
+      - img: /miniatures/ottoman/Battle_of_Mohács,_with_Suleiman_I_in_the_middle.jpg
+        url:
+        name: Moxach jangi va Sulaymon I
+      - img: /miniatures/ottoman/British_Library_MS_Oriental_7238,_fol_10v_Maktel-i_Ali_Resul_The_Battle_of_Nehrevan.jpg
+        url:
+        name: Nahravon jangi
+      - img: /miniatures/ottoman/Büyükçekmece_köprüsu.jpg
+        url:
+        name: Buyukchekmeje ko‘prigi
+      - img: /miniatures/ottoman/Chester_Beatty_T_414_fol_92v_Irmiya_in_the_wilderness.jpg
+        url:
+        name: Irmiyo sahroda
+      - img: /miniatures/ottoman/Chester_Beatty_T_414_fol_99r_baby_Yahya_being_held_by_two_angels.jpg
+        url:
+        name: Chaqaloq Yahyo va ikki farishta
+      - img: /miniatures/ottoman/Chingui_ou_joueuse_d'instrument.jpg
+        url:
+        name: Ayol sozanda
+      - img: /miniatures/ottoman/Chronology_of_Ancient_Nations_BNF_87r_(detail).jpg
+        url:
+        name: Qadimiy xalqlar xronologiyasi
+      - img: /miniatures/ottoman/Chronology_of_Ancient_Nations_BNF_112v.jpg
+        url:
+        name: Qadimiy xalqlar xronologiyasi (Qo‘lyozma)
+      - img: /miniatures/ottoman/Cod._Cicogna_1971,_fol._22r.png
+        url:
+        name: Qo‘lyozma sahifasi (Cod. Cicogna)
+      - img: /miniatures/ottoman/Cod._Cicogna_1971,_fol._30r.png
+        url:
+        name: Qo‘lyozma sahifasi (Portret)
+      - img: /miniatures/ottoman/Cod._Cicogna_1971,_fol._54r.png
+        url:
+        name: Qo‘lyozma sahifasi (Tantana)
+      - img: /miniatures/ottoman/Crossing_the_Bridge_on_the_Drava,_from_the_History_of_Sultan_Süleyman_(CBL_T_413.60).jpg
+        url:
+        name: Drava ko‘prigidan o‘tish
+      - img: /miniatures/ottoman/Double_page_from_the__Divan-i_Muhibbi__(IÜ_Ktp._T.5467).jpg
+        url:
+        name: Devoni Muhibbiy'dan qo‘sh sahifa
+      - img: /miniatures/ottoman/Expedition_to_Revan-Shahin-Shah-nama.jpg
+        url:
+        name: Ravon safari
+      - img: /miniatures/ottoman/Futuh_al-Haramain_(Description_of_the_Holy_Cities)_MET_DP285263.jpg
+        url:
+        name: Muqaddas shaharlar tavsifi
+      - img: /miniatures/ottoman/Garden_of_the_Blessed.jpg
+        url:
+        name: Saodatmandlar bog‘i
+      - img: /miniatures/ottoman/Genealogia_od_początku_świata.jpg
+        url:
+        name: Dunyo yaralishidan boshlab shajara
+      - img: /miniatures/ottoman/Iskendername.jpg
+        url:
+        name: Iskandarnoma
+      - img: /miniatures/ottoman/Istanbul,_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakkaş_Osman.jpg
+        url:
+        name: Sulaymon I (Naqqosh Usmon asari)
+      - img: /miniatures/ottoman/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_1038_fol_19b-20a.jpg
+        url:
+        name: Haj va ziyorat san’ati
+      - img: /miniatures/ottoman/Khusrau_and_Shirin_MET_DP236653.jpg
+        url:
+        name: Xusrav va Shirin
+      - img: /miniatures/ottoman/Khusrau_and_Shirin_MET_sf69-27frontcov.jpg
+        url:
+        name: Xusrav va Shirin (Muqova)
+      - img: /miniatures/ottoman/La_Bataille_de_Badr_-_Siyar-i_nabi_-_1595_ca_-_Turkey_-_Louvre_-_MAO_928.jpg
+        url:
+        name: Badr jangi
+      - img: /miniatures/ottoman/Leaf_from_an_Illustrated_Herbal_LACMA_AC1995.124.10.jpg
+        url:
+        name: Tasvirli o‘simliklar kitobidan sahifa
+      - img: /miniatures/ottoman/Matrakçı_Nasuh_-_İstanbul.jpg
+        url:
+        name: Istanbul xaritasi (Matrakchi Nasuh asari)
+      - img: /miniatures/ottoman/Matrakçı_Nasuh_-_İstanbul_(cropped-Galata).jpg
+        url:
+        name: Galata xaritasi (Matrakchi Nasuh asari)
+      - img: /miniatures/ottoman/Matrakçı_Nasuh_Map_(17).jpeg
+        url:
+        name: Matrakchi Nasuh xaritasi (17)
+      - img: /miniatures/ottoman/Matrakçı_Nasuh_Map_(19).jpeg
+        url:
+        name: Matrakchi Nasuh xaritasi (19)
+      - img: /miniatures/ottoman/Matrakçı_Nasuh_Map_of_Tabriz.jpeg
+        url:
+        name: Tabriz xaritasi (Matrakchi Nasuh asari)
+      - img: /miniatures/ottoman/Mohamed_Ramaḍān_ibn_Muḥammad_al-Zǎʾiraǧī.jpg
+        url:
+        name: Muhammad Ramazon ibn Muhammad al-Zayrajiy
+      - img: /miniatures/ottoman/Muhammad_3.jpg
+        url:
+        name: Muhammad (s.a.v.)
+      - img: /miniatures/ottoman/Muhammad_ibn_Muhammad_Shakir_Ruzmah-'i_Nathani_-_A_Parrot_and_a_Nightingale_-_Walters_W659118A_-_Full_Page.jpg
+        url:
+        name: To‘ti va Bulbul
+      - img: /miniatures/ottoman/New_York_Public_Library,_Spencer_Collection_Turk._MS._3_Siyar-i_Nabî_fol._215v_Abd_Allah_ibn_Salam_argues_to_the_Jews_that_the_Tawrat_foretells_the_coming_of_Muhammad.jpg
+        url:
+        name: Abdulloh ibn Salom va yahudiylar
+      - img: /miniatures/ottoman/Old_Tabriz_(1538_Matrakçı_Nasuh_Map_vs_1827_Russian_map).jpg
+        url:
+        name: Tabriz xaritalari qiyoslovi
+      - img: /miniatures/ottoman/Ottoman_Dynasty,_Portrait_of_a_Painter,_Reign_of_Mehmet_II_(1444-1481).jpg
+        url:
+        name: Musavvir portreti (Mehmed II davri)
+      - img: /miniatures/ottoman/Secaatname_0198.jpg
+        url:
+        name: Shijoatnoma
+      - img: /miniatures/ottoman/Siyar-I-Nabi_of_Mustafa_Dharir-_the_aftermath_of_the_Battle_of_Badr,_copied_by_Mustafa_Bin_Vali,_Turkey,_1594-95.jpg
+        url:
+        name: Badr jangidan so‘ng
+      - img: /miniatures/ottoman/Siyer-i_Nebi_-_Imam_Ali_und_Hamza_bei_dem_vorgezogenen_Einzelkampf_in_Badr_gegen_die_Götzendiener.jpg
+        url:
+        name: Imom Ali va Hamza Badr jangida
+      - img: /miniatures/ottoman/Siyer-i_Nebi_-_Muhammad_auf_dem_himmlischen_Thron_mit_den_Erzenegeln_um_sich.jpg
+        url:
+        name: Muhammad (s.a.v.) samoviy taxtda
+      - img: /miniatures/ottoman/Siyer-i_Nebi_-_Muhammad_und_Imam_Ali_werfen_die_Götzen_aus_der_Kaaba.jpg
+        url:
+        name: Muhammad (s.a.v.) va Imom Alining Ka’badagi butlarni uloqtirishi
+      - img: /miniatures/ottoman/Suleiman_I_after_the_victory_at_Mohács.jpg
+        url:
+        name: Sulaymon I Moxach g‘alabasidan so‘ng
+      - img: /miniatures/ottoman/Suleiman_the_Magnificent_receives_an_Ambassador-by_Matrakci_Nasuh.jpg
+        url:
+        name: Sulton Sulaymonning elchini qabul qilishi
+      - img: /miniatures/ottoman/Sultan_Selim_between_Plovdiv_(Filibe)_and_Sofĳia_on_the_way_to_Szigetvár;_Nüzhet,_fols._83b–84a.jpg
+        url:
+        name: Sulton Salim Sigetvar yo‘lida
+      - img: /miniatures/ottoman/Sultans_of_the_Ottoman_Empire_-_Orhan_-_Murad_I_-_Bayezid_I_-_Mehmed_I.jpeg
+        url:
+        name: "Usmonli sultonlari: Orhandan Mehmed I gacha"
+      - img: /miniatures/ottoman/Surname-ı_Hümayun_Dragon.png
+        url:
+        name: "Surnomai Humoyun: Ajdarho"
+      - img: /miniatures/ottoman/Surname-ı_Hümayun_parade.png
+        url:
+        name: "Surnomai Humoyun: Tantana"
+      - img: /miniatures/ottoman/Süleyman's_Pilgrimage_to_Eyüp_(CBL_T_413.38).jpg
+        url:
+        name: Sulaymonning Eyüp ziyorati
+      - img: /miniatures/ottoman/Taner_Alakuş_eseri_-_Kız_kulesi.jpg
+        url:
+        name: Qiz minorasi (Taner Alakush asari)
+      - img: /miniatures/ottoman/Taner_Alakuş_eseri_-_Yeni_Çeri.jpg
+        url:
+        name: Yanishar (Taner Alakush asari)
+      - img: /miniatures/ottoman/The_Funeral_Procession_of_Suleyman_the_Magnificent_(CBL_T_413,_f._115b).jpg
+        url:
+        name: Sulton Sulaymonning dafn marosimi tantanasi
+      - img: /miniatures/ottoman/The_Ottoman_army_arrives_at_Szigetvar,_from_the_History_of_Sultan_Süleyman_(Chester_Beatty,_T._413).jpg
+        url:
+        name: Usmonli qo‘shinining Sigetvarga yetib kelishi
+      - img: /miniatures/ottoman/The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg
+        url:
+        name: Usmonli qo‘shinining Tunisga yurishi, 1569
+      - img: /miniatures/ottoman/Tughra_Suleiman.jpg
+        url:
+        name: Sulaymonning tug‘rosi
+      - img: /miniatures/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár.jpg
+        url:
+        name: Sigetvar fathidan so‘ng Davlat kengashi yig‘ilishi
+      - img: /miniatures/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár (1).jpg
+        url:
+        name: Davlat kengashi yig‘ilishi (Boshqa ko‘rinish)
+      - img: /miniatures/ottoman/War_council_after_the_unsuccessful_siege_of_Vienna.jpg
+        url:
+        name: Vena qamalidan so‘ng Harbiy kengash
+      - img: /miniatures/ottoman/Zakariya_ibn_Muhammad_Qazwini_-_An_Elephant-like_Animal_-_Walters_W659104A_-_Full_Page.jpg
+        url:
+        name: Filga o‘xshash hayvon (Qazviniy)
+mughal_miniatures:
+  - title: Boburiylar miniatyuralari
+    items:
+      - img: /miniatures/mughal/'Elephant_with_Mahout',_circa_1660,_The_Metropolitan_Museum_of_Art.jpg
+        name: Fil va filbon
+        url:
+      - img: /miniatures/mughal/1._AN._Ādam_Khān_wird_gefangen_genommen.jpg
+        name: Adhamxonning asirga olinishi
+        url:
+      - img: /miniatures/mughal/2_Basawan._Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj,_Folio_from_a_Hamzanama_1564-69_Metropolitan_Museum_N-Y.jpg
+        name: Malik Iraj qarorgohiga tungi hujum
+        url:
+      - img: /miniatures/mughal/18_Abu'l_Hasan._Portrait_of_Jahangir,_1615-20,_Metropolitan_Museum_of_Art,_New-York.jpg
+        name: Jahongirshoh portreti
+        url:
+      - img: /miniatures/mughal/20_Abu'l_Hasan._Prince_Khurram,_ca._1616-1617,_Victoria_and_Albert_Museum,_London.jpg
+        name: Shahzoda Xurram
+        url:
+      - img: /miniatures/mughal/51_The_Crucifixion_With_The_Virgin_And_St._John_ca._1600,_Aga_Khan_Museum,_Geneva.jpg
+        name: Mixlanish (Crucifixion)
+        url:
+      - img: /miniatures/mughal/1494-Abubekr_Duglat_attempting_unsuccessfully_to_take_Uzgend_th.jpg
+        name: Abu Bakr Duglat O‘zganda
+        url:
+      - img: /miniatures/mughal/1494-Babur_enthroned.png
+        name: Bobur taxtga o‘tirishi
+        url:
+      - img: /miniatures/mughal/1498-In_Samarkand_Babur_took_seriously_ill.jpg
+        name: Boburning Samarqanddagi og‘ir xastaligi
+        url:
+      - img: /miniatures/mughal/1499-Babur's_siege_of_Andijan.jpg
+        name: Andijon qamali
+        url:
+      - img: /miniatures/mughal/1502_Acclamation_of_Nine_Standards-detail.jpg
+        name: To‘qqiz tug‘ning olqishlanishi
+        url:
+      - img: /miniatures/mughal/1502_Acclamation_of_Nine_Standards_th.jpg
+        name: To‘qqiz tug‘ning olqishlanishi
+        url:
+      - img: /miniatures/mughal/1504-5-Baqi_Beg_Chaghaniani_paying_homage_to_Babur.jpg
+        name: Boqi Beg Chog‘oniyoniyning Boburga hurmati
+        url:
+      - img: /miniatures/mughal/1507-A_banquet_including_roast_goose_given_for_Babur_by_the_Mirzas.jpg
+        name: Mirzolar tomonidan Bobur sharafiga berilgan ziyofat
+        url:
+      - img: /miniatures/mughal/1507-Babur_hunting_on_the_plains_of_Kattavaz.jpg
+        name: Boburning Kattavoz dashtlaridagi ovi
+        url:
+      - img: /miniatures/mughal/1508-Babur_celebrates_the_birth_of_Humayun_in_the_Chahar_Bagh_of_Kabul.jpg
+        name: Humoyun Mirzoning tug‘ilishi
+        url:
+      - img: /miniatures/mughal/1530-Babur_orders_the_inscription_at_the_spring_near_Zarafshan.jpg
+        name: Zarafshon yaqinidagi buloqda kitoba yozish buyrug‘i
+        url:
+      - img: /miniatures/mughal/_'Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_DP235937.jpg
+        name: Umar Po‘lat qal’asi yonida
+        url:
+      - img: /miniatures/mughal/_A_Bathhouse_Keeper_is_Consumed_by_Passion_for_his_Beloved_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120806.jpg
+        name: Hammomchining ishqiy ehtirosi
+        url:
+      - img: /miniatures/mughal/_Alexander_Fights_a_Sea_Battle_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120807.jpg
+        name: Iskandarning dengiz jangi
+        url:
+      - img: /miniatures/mughal/_Alexander_is_Lowered_Into_the_Sea_.jpg
+        name: Iskandarning dengiz tubiga tushishi
+        url:
+      - img: /miniatures/mughal/_Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_CAT_10r1_89A.jpg
+        name: Assad Ibn Karibaning tungi hujumi
+        url:
+      - img: /miniatures/mughal/_Hamza's_Heroes_Fight_in_Support_of_Qasim_and_Badi'uzzaman_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf18-44-2a.jpg
+        name: Hamza qahramonlari jangda
+        url:
+      - img: /miniatures/mughal/_Krishna_Holds_Up_Mount_Govardhan_to_Shelter_the_Villagers_of_Braj_,_Folio_from_a_Harivamsa_(The_Legend_of_Hari_(Krishna))_MET_is28.63.1.R.jpg
+        name: Krishnaning Govardxan tog‘ini ko‘tarishi
+        url:
+      - img: /miniatures/mughal/_Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf24-48-1a.jpg
+        name: Baqqol Misboh va ayg‘oqchi Parron
+        url:
+      - img: /miniatures/mughal/_Shah_Jahan_on_Horseback_,_Folio_from_the_Shah_Jahan_Album_MET_DT1030.jpg
+        name: Shoh Jahon ot ustida
+        url:
+      - img: /miniatures/mughal/A_banquet_for_Babur.jpg
+        name: Bobur uchun ziyofat
+        url:
+      - img: /miniatures/mughal/A_Lion_at_Rest,_ca_1585,_Collection_Nasli_and_Alice_Heeramaneck,_New_Haven.jpg
+        name: Orom olayotgan sher
+        url:
+      - img: /miniatures/mughal/A_Nawab_of_Awadh,_Lucknow,_India._19th_century.jpg
+        name: Avad navobi
+        url:
+      - img: /miniatures/mughal/A_party_held_in_the_pillared_porch_of_Sultan_Ibrahim’s_private_apartments_in_Agra_during_which_gifts_were_made_to_various_officers_(1526)_(Bhura).jpg
+        name: Sulton Ibrohim ayvonidagi bazm
+        url:
+      - img: /miniatures/mughal/A_portrait_of_Khwajah_Abu'l_Hasan_seated_in_profile_wearing_double_dagger_at_wais.jpg
+        name: Xoja Abul Hasan portreti
+        url:
+      - img: /miniatures/mughal/A_royal_couple_in_a_pavilion_with_attendants.jpg
+        name: Shohona juftlik shiyponda
+        url:
+      - img: /miniatures/mughal/A_seated_portrait_of_Sayyid_Abdullah_Khan_holding_court_Early_18th_century_The_British_Museum.jpg
+        name: Sayyid Abdullaxon huzurida
+        url:
+      - img: /miniatures/mughal/A_Sudden_Flight_is_Reported-_Umar_and_Landhaur_Converse_outside_Hamza's_tent_._._(6125071400).jpg
+        name: Umar va Landhaur
+        url:
+      - img: /miniatures/mughal/A_Woman_Visiting_a_Yogini_by_a_River.jpg
+        name: Yogini huzuriga kelgan ayol
+        url:
+      - img: /miniatures/mughal/After_the_Rhinoceros_hunt_th.jpg
+        name: Karkidon ovidan so‘ng
+        url:
+      - img: /miniatures/mughal/Ahmad_Miran_Shahi_and_Mahmud_Chaghata’i,_uncles_of_Babur,_routing_the_enemy_on_a_bridge_when_they_invaded_Farghana_(Murhan).jpg
+        name: Ko‘prik ustidagi jang
+        url:
+      - img: /miniatures/mughal/Ain-i_Akbari_Weaponry.jpg
+        name: "Oyin-i Akbariy: Qurol-aslahalar"
+        url:
+      - img: /miniatures/mughal/Alam_Shah_cleaving_the_chain_of_the_wheel_-_1565_-_Cleveland_Museum_of_Art_(30164502511).jpg
+        name: Olamshoh zanjirni uzmoqda
+        url:
+      - img: /miniatures/mughal/ALI_HUSAIN_bhisma_retells_that_the_four_varna's_emerges_from_Brahma_head_,_arms_,_things_and_feet.jpg
+        name: Bhishma va varnalar
+        url:
+      - img: /miniatures/mughal/Ambassador_of_Bengal_at_a_reception_with_Babur._Baburnama_of_1590,_British_Library_Or._3714.jpg
+        name: Bengaliya elchisi va Bobur
+        url:
+      - img: /miniatures/mughal/Amir_Khusrau,_Brahman_and_Muslim_pilgrim,_Detail,_MET_13.228.29.jpeg
+        name: Brahman va musulmon ziyoratchi
+        url:
+      - img: /miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._115a,_Detail,_Layli_visits_Majnun_in_the_wilderness.jpg
+        name: Laylining Majnun huzuriga kelishi
+        url:
+      - img: /miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._139a,_The_Khaqan_of_China_pays_Homage_to_Sikandar.jpg
+        name: Xitoy xoqonining Iskandarga ehtiromi
+        url:
+      - img: /miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._203b,_Prince_Ram_and_the_div_in_the_Temple.jpg
+        name: Shahzoda Ram va ibodatxonadagi dev
+        url:
+      - img: /miniatures/mughal/Amir_Khusrau,_Met_13.228.24,_Bahram_Gur_visits_the_Blue_Pavilion.jpg
+        name: Bahrom Go‘r ko‘k shiyponda
+        url:
+      - img: /miniatures/mughal/Amir_Khusraw_Dihlavi_-_Five_Poems_(Quintet)_-_Google_Art_Project.jpg
+        name: Amir Xusrav Dehlaviyning besh dostoni
+        url:
+      - img: /miniatures/mughal/Amir_Khusraw_Dihlavi_-_Fratricide_Witnesses_the_Loyalty_of_Two_Friends_-_Walters_W62424B_-_Full_Page.jpg
+        name: Ikki do‘st sadoqati
+        url:
+      - img: /miniatures/mughal/Amir_Khusraw_Dihlavi_-_Illuminated_Finispiece_-_Walters_W624173B_-_Full_Page.jpg
+        name: Bezatilgan xotima (Finispiece)
+        url:
+      - img: /miniatures/mughal/Amir_Khusraw_Dihlavi_-_The_Story_of_the_Man_Falsely_Accused_of_Incest_as_Told_by_the_Princess_of_the_Sandlwood_Pavilion_-_Walters_W624203B_-_Full_Page.jpg
+        name: Sandal shiyponi malikasi
+        url:
+      - img: /miniatures/mughal/An_elderly_woman,_Bibi_Juliyana_(Juliana_Dias_da_Costa),_a_former_attendant_of_the_Mughal_Emperors,_Mughal,_circa_1730-50.jpg
+        name: Bibi Juliana
+        url:
+      - img: /miniatures/mughal/Arrival_of_Babur_and_his_army_at_Kabul_(1507)_(Tiriyya).jpg
+        name: Bobur qo‘shinining Kobulga kelishi
+        url:
+      - img: /miniatures/mughal/Aswamedhayaga_from_Razmnama.jpg
+        name: Ashvamedxayaga qurbonligi
+        url:
+      - img: /miniatures/mughal/Aurangzeb_reading_the_Quran.jpg
+        name: Avrangzeb Qur’on o‘qimoqda
+        url:
+      - img: /miniatures/mughal/Babur_and_his_army_arriving_at_Bila_on_the_Indus_(1505)_(Dhanraj).jpg
+        name: Boburning Hind daryosi bo‘yiga kelishi
+        url:
+      - img: /miniatures/mughal/Babur_and_his_troops_warming_themselves_by_fires_on_their_way_to_Kabul_(1507)_(Ramdas).jpg
+        name: Olov atrofida isinayotgan askarlar
+        url:
+      - img: /miniatures/mughal/Babur_entertained_by_Jahangir_Mirza_at_Ghazni_(1505)_(Bhim_Gujarati).jpg
+        name: Bobur G‘aznada
+        url:
+      - img: /miniatures/mughal/Babur_fights_Hazara_tribesmen_in_February_1507_on_the_road_from_Herat_to_Kabul.jpg
+        name: Hazoralar bilan jang
+        url:
+      - img: /miniatures/mughal/Babur_greets_courtiers_at_the_Id_festival.jpg
+        name: Bobur Hayit bayramida
+        url:
+      - img: /miniatures/mughal/Babur_having_prisoners_brought_before_him_after_his_army_had_taken_the_fort_of_Bajaur_(1519)_(Paras).jpg
+        name: Bobur huzuriga keltirilgan asirlar
+        url:
+      - img: /miniatures/mughal/Babur_meets_Khanzada_Begam_and_other_ladies_at_Qunduz,_in_January_1511._Baburnama_of_1598.jpg
+        name: Boburning Xonzoda begim bilan uchrashuvi
+        url:
+      - img: /miniatures/mughal/Babur_Seeks_His_Grandmothers_Advice.jpg
+        name: Bobur buvisidan maslahat so‘ramoqda
+        url:
+      - img: /miniatures/mughal/Babur_supervising_the_laying_out_of_the_Garden_of_Fidelity_in_Kabul_(facing_double_page).jpg
+        name: Bog‘i Vafo bunyod etilishi
+        url:
+      - img: /miniatures/mughal/Babur_treated_by_doctors_during_a_serious_illness.jpg
+        name: Bobur va tabiblar
+        url:
+      - img: /miniatures/mughal/Babur_visiting_the_Begums_at_Herat_in_Sultan_Husain_Baiqara_Mirza’s_college_at_his_mausoleum_(1506)_(Khizr_Chela).jpg
+        name: Boburning Hirotga tashrifi
+        url:
+      - img: /miniatures/mughal/Babur_watching_men_altering_the_course_of_the_stream.jpg
+        name: Bobur ariq yo‘li o‘zgartirilishini kuzatmoqda
+        url:
+      - img: /miniatures/mughal/Babur_with_a_guide_during_his_visit_to_Bigram_(1505)_(Jagannath)._Baburnama_of_1590.jpg
+        name: Bobur Bigromda
+        url:
+      - img: /miniatures/mughal/Baburnama.jpg
+        name: "Boburnoma: Tasvir"
+        url:
+      - img: /miniatures/mughal/Babur’s_army_in_battle_against_the_army_of_Rana_Sanga_at.jpg
+        name: Rana Sanga qo‘shiniga qarshi jang
+        url:
+      - img: /miniatures/mughal/Babur’s_army_skirmishing_with_Baisunghur’s_army_at_Khan_Yurti,_near_Samarkand_(1496)_(Bhawani).jpg
+        name: Xon yurti yaqinidagi to‘qnashuv
+        url:
+      - img: /miniatures/mughal/Babur’s_army_storming_Samarkand_(1497)_(Paras).jpg
+        name: Samarqandning ishg‘ol qilinishi
+        url:
+      - img: /miniatures/mughal/Babur’s_meeting_with_Sultan_‘Ali_Mirza_near_the_Kohik_water,_to_beleaguer_Samarqand_(1495-96)._Baburnama_of_1598.jpg
+        name: Bobur va Sulton Ali Mirzo
+        url:
+      - img: /miniatures/mughal/Babur’s_second_raid_on_the_Hazaras_(1507);_by_Banwari_Khurd.jpg
+        name: Hazoralarga qarshi ikkinchi yurish
+        url:
+      - img: /miniatures/mughal/Bagta_-_Portrait_of_Rawat_Gokal_Das_Celebrating_'holi'_with_his_consorts,_dated_1808.jpg
+        name: Ravat Gokal Dasning Holi bayramini nishonlashi
+        url:
+      - img: /miniatures/mughal/Baharistan_Manuscript_from_Bodleian_Libraries_folio_35b.jpg
+        name: "Bahoriston qo‘lyozmasi"
+        url:
+      - img: /miniatures/mughal/Basawan._The_Vain_Dervish_and_the_Sufi._Baharistan_of_Jami._Dated_1595,_Bodleian_Library,_Oxford..jpg
+        name: Maqtanchoq darvesh va so‘fiy
+        url:
+      - img: /miniatures/mughal/Battle_of_Panipat_(20_April_1526)._Baburnama_of_1598.jpg
+        name: Panipat jangi
+        url:
+      - img: /miniatures/mughal/Battle_scene_from_the_1570_Hamzanama_of_Akbar.jpg
+        name: "Hamzanoma: Jang sahnasi"
+        url:
+      - img: /miniatures/mughal/Bhima_Kills_Kichaka_and_his_brothers,_signed_by_Dhannu_-_Mughal_Miniature_Painting,_circa_1598-99.jpg
+        name: Bhimaning Kichakani o‘ldirishi
+        url:
+      - img: /miniatures/mughal/Blochmann_Ain_i_Akbari_Titelseite_1873.jpg
+        name: "Oyin-i Akbariy: Sarlavha sahifasi"
+        url:
+      - img: /miniatures/mughal/Bobur_ko'l_o'rtasiga_qurilgan_sufada-large.jpg
+        name: Bobur sufa ustida
+        url:
+      - img: /miniatures/mughal/Bodleian_Library_MS._Pers._d.104_p_82.jpg
+        name: Bodli qo‘lyozmasi sahifasi
+        url:
+      - img: /miniatures/mughal/Bodleian_Library_MS._Pers._d.109_p_65_crop.jpg
+        name: Bodli qo‘lyozmasidan parcha
+        url:
+      - img: /miniatures/mughal/Bodleian_Library_MS._Pers._d.110_p_105_crop.jpg
+        name: Bodli qo‘lyozmasidan parcha
+        url:
+      - img: /miniatures/mughal/Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg
+        name: Arg‘an devning sovut keltirishi
+        url:
+      - img: /miniatures/mughal/Brooklyn_Museum_-_Yusuf_and_Zulaykha.jpg
+        name: Yusuf va Zulayxo
+        url:
+      - img: /miniatures/mughal/Chaupar,_Ain-i_Akbari,_Ahmad_Khan.jpg
+        name: Shovpar o‘yini
+        url:
+      - img: /miniatures/mughal/Colophon_page_from_the_manuscript_of_Gulistan_of_Sa‘di.jpg
+        name: "Guliston: Kolofon sahifasi"
+        url:
+      - img: /miniatures/mughal/Darbar_of_Jahangir,_folio_from_the_St._Petersburg_Album_(Russian_Academy_of_Sciences_E-14_f.22r).jpg
+        name: Jahongirshohning qabul marosimi
+        url:
+      - img: /miniatures/mughal/Darbar_of_Jahangir_(1620_AD).jpg
+        name: Jahongirshoh qabuli
+        url:
+      - img: /miniatures/mughal/Darbar_of_Shah_Jahan,_Page_from_the_Windsor_Padshahnama,_ca._1657,_The_Royal_Library,_Windsor_Castle.jpg
+        name: Shoh Jahon qabuli
+        url:
+      - img: /miniatures/mughal/Darbarscene.jpg
+        name: Qabul sahnasi
+        url:
+      - img: /miniatures/mughal/Delhi-National_Museum-Babur_at_Samarkand-20131006.jpg
+        name: Bobur Samarqandda
+        url:
+      - img: /miniatures/mughal/Dust_Muhammad_1550.jpg
+        name: Do‘st Muhammad miniatyurasi
+        url:
+      - img: /miniatures/mughal/Dārāb-nāma,_Or._4615,_Fol._66v_Geschenke_für_Dārāb._Maler_Sānwala.png
+        name: Dorob uchun sovg‘alar
+        url:
+      - img: /miniatures/mughal/Elefant_und_Jungtier_aus_dem_Stall_der_Moghulkaiser.jpg
+        name: Fil va uning bolasi
+        url:
+      - img: /miniatures/mughal/Emissaries_bring_news_from_the_provinces_of_Khaybar_and_Chin_to_Anoshirvan._From_the_Hamzanama.jpg
+        name: Anushirvonga keltirilgan xabarlar
+        url:
+      - img: /miniatures/mughal/Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art.jpg
+        name: Ko‘zi bog‘langan oshiq
+        url:
+      - img: /miniatures/mughal/Gulistan_RAS_258,_Fol._86r.png
+        name: "Guliston: Tasvir"
+        url:
+      - img: /miniatures/mughal/Gulistan_Saadi_RAS_258,_128r.png
+        name: "Guliston: Tasvir"
+        url:
+      - img: /miniatures/mughal/Hamzanama.jpg
+        name: "Hamzanoma sahifasi"
+        url:
+      - img: /miniatures/mughal/Humayun_Khamsa_of_Nizami,_Kabul,_1550-54,_folio_34r.jpg
+        name: "Nizomiy: Xamsa"
+        url:
+      - img: /miniatures/mughal/Hunting_1.jpg
+        name: Ov sahnasi
+        url:
+      - img: /miniatures/mughal/Illustrations_from_Babur-namah_1.jpg
+        name: "Boburnoma: Tasvir"
+        url:
+      - img: /miniatures/mughal/Image_of_the_almond_harvest_and_dervish_from_the_Memoirs_of_Babur.jpg
+        name: Bodom hosili va darvesh
+        url:
+      - img: /miniatures/mughal/India,_forse_Pratapgarh,_l'imperatore_shah_jahan_dà_una_spada_a_rawat_hari_singh,_gouache_su_carta_con_lumeggiature_in_oro_e_argento,_1675-1700_ca.jpg
+        name: Shoh Jahonning qilich sovg‘a qilishi
+        url:
+      - img: /miniatures/mughal/India_Female_eremite.jpg
+        name: Ayol zohid
+        url:
+      - img: /miniatures/mughal/Indian_-_A_Lady_at_Her_Toilette_-_Walters_W878.jpg
+        name: Pardoz qilayotgan ayol
+        url:
+      - img: /miniatures/mughal/Indian_-_Bracelet_with_Portrait_Miniatures_-_Walters_38665_-_Open.jpg
+        name: Miniatyura tasvirlangan bilakuzuk
+        url:
+      - img: /miniatures/mughal/Indian_-_Embracing_Lovers_with_Sparklers_-_Walters_W870.jpg
+        name: Mushakbozlik va oshiqlar
+        url:
+      - img: /miniatures/mughal/Islamic_-_Two_Illustrations_from_a_Manuscript_of_Gulistan_by_Sadi_-_Walters_W66849A.jpg
+        name: "Guliston: Ikki tasvir"
+        url:
+      - img: /miniatures/mughal/Jahangir_-_Abu_al-Hasan.jpeg
+        name: Jahongirshoh portreti
+        url:
+      - img: /miniatures/mughal/Jahangir_holding_the_picture_of_Madonna_-_Google_Art_Project.jpg
+        name: Jahongirshoh va Madonna tasviri
+        url:
+      - img: /miniatures/mughal/Kolophonportrait_Gulistan_RAS_258,_Fol._128r.png
+        name: "Guliston: Kolofon portreti"
+        url:
+      - img: /miniatures/mughal/Krishna-kills-the-evil-king-of-Mathura-Kansa---Mughal-Painting-c1590_V_&_A.jpg
+        name: Krishnaning Kansani o‘ldirishi
+        url:
+      - img: /miniatures/mughal/Löwenangriff._Free_Library_Philadelphia.jpg
+        name: Sher hujumi
+        url:
+      - img: /miniatures/mughal/Mahiya_frees_Zambur,_Beheads_his_sleeping_guards,_and_suspends_Gharrad_in_his_stead_Hamzanama,_Harvard_Art_Museum,_Cambridge.jpg
+        name: Mahiyaning Zamburni ozod qilishi
+        url:
+      - img: /miniatures/mughal/Mahlaj_shows_his_skill_to_Zumurrud_Shah_and_runs_a_spear_through_a_tree_(From_the_Hamzanama,_Volume_11).jpg
+        name: Mahlajning mahorati
+        url:
+      - img: /miniatures/mughal/Meeting_of_Babur_with_his_elder_sister_Khanzade_Begum_(f._13b)_in_1510._Miniature_from_the_manuscript_Baburnama_of_1590._British_Library_Or._3714.jpg
+        name: Bobur va Xonzoda begim uchrashuvi
+        url:
+      - img: /miniatures/mughal/Miniatura_moghul,_krishna_che_conversa_con_altri_re,_01.jpg
+        name: Krishna va shohlar suhbati
+        url:
+      - img: /miniatures/mughal/Mir_Sayyid_Ali_Ilia_prorok.jpg
+        name: Ilyos payg‘ambar
+        url:
+      - img: /miniatures/mughal/Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House,_folio_from_a_Hamzanama.jpg
+        name: Misboh va ayg‘oqchi Parron
+        url:
+      - img: /miniatures/mughal/Mughal_-_A_page_of_the_Dastan-i_Amir_Hamza_(Hamzanama)_-_Google_Art_Project.jpg
+        name: "Hamzanoma tasviri"
+        url:
+      - img: /miniatures/mughal/Mughal_emperor_farrukhsiyar16_hi.jpg
+        name: Imperator Farruxsiyar
+        url:
+      - img: /miniatures/mughal/Mughal_Ganjiya_Playing_Cards,_Early_19th_century,_courtesy_the_Wovensouls_collection.jpg
+        name: Ganjifa qartalari
+        url:
+      - img: /miniatures/mughal/Muhammad_Beg_Zulfiqar_Khan.jpg
+        name: Muhammad Beg Zulfiqorxon
+        url:
+      - img: /miniatures/mughal/Muhammad_Faqirullah_Khan_A_lady_visiting_a_Saivite_shrine_ca._1750_British_Library,.jpg
+        name: Shivaitlar ibodatxonasidagi ayol
+        url:
+      - img: /miniatures/mughal/Muhammad_Husain_Mirza_brought_before_Babur_and_laughing_courtiers_in_the_bedroll_in_which_he_tried_to_hide_(1507)_(Shankar_Gujarati).jpg
+        name: Muhammad Husayn Mirzo Bobur huzurida
+        url:
+      - img: /miniatures/mughal/Periodo_del_sultanato_mogul,_folio_dal_manoscritto_dell'anvar-i-suhayli,_cap._4-7,_il_sempliciotto_e_la_sua_pecora,_1575_ca._01.jpg
+        name: Sodda odam va uning qo‘yi
+        url:
+      - img: /miniatures/mughal/Periodo_mogul,_ritratto_di_shaista_khan,_delhi_1650_ca._01.jpg
+        name: Shoista xon portreti
+        url:
+      - img: /miniatures/mughal/Portrait_of_Akbar_II.jpg
+        name: Akbarshoh II portreti
+        url:
+      - img: /miniatures/mughal/Prince_Akbar_and_Noblemen_Hawking,_Probably_Accompanied_by_His_Guardian_Bairam_Khan.jpg
+        name: Shahzoda Akbar lochin ovi bilan
+        url:
+      - img: /miniatures/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(1_of_2).jpg
+        name: Shahzoda Qosim va pahlavonlar
+        url:
+      - img: /miniatures/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(2_of_2).jpg
+        name: Shahzoda Qosim va pahlavonlar
+        url:
+      - img: /miniatures/mughal/Princes_of_the_House_of_Timur.jpg
+        name: Temuriylar xonadoni shahzodalari
+        url:
+      - img: /miniatures/mughal/Reunion_of_Babur_with_his_sister_Khanzada_Begum_at_Kunduz_in_1511,_after_her_release_from_captivity_by_their_Iranian_enemies.jpg
+        name: Bobur va Xonzoda begimning diydori
+        url:
+      - img: /miniatures/mughal/RhinoHuntBabur.jpg
+        name: Boburning karkidon ovi
+        url:
+      - img: /miniatures/mughal/Shah_Jahan,_Standing_with_a_Flower_and_a_Sword,_Rembrandt,_c.1656-61.jpg
+        name: Shoh Jahon (Rembrandt asari)
+        url:
+      - img: /miniatures/mughal/Shah_Jahan_on_the_Peacock_Throne_by_'Abid_son_of_Aqa_Riza_SDM_6124501635.jpg
+        name: Shoh Jahon Tovus taxtida
+        url:
+      - img: /miniatures/mughal/Shah_Jahan_Receives_Persian_Ambassadors.jpg
+        name: Shoh Jahon Fors elchilarini qabul qilmoqda
+        url:
+      - img: /miniatures/mughal/Simorgh_und_Qilin_im_Gulistan_RAS_258,_Fol._82v.png
+        name: Simurg‘ va Qilin
+        url:
+      - img: /miniatures/mughal/Sultan_Ahmad_Alaq_meeting_Babur_and_sending_his_son_Sultan_Sai‘d_Khan_forward_to_greet_him_in_1502._By_Sanwlah,_circa_1590._Or._3714,_f.133.jpg
+        name: Boburning Sulton Ahmad Aloq bilan uchrashuvi
+        url:
+      - img: /miniatures/mughal/Sultan_Sanjar_und_die_alte_Frau._Khamsa_DMA.jpg
+        name: Sulton Sanjar va kampir
+        url:
+      - img: /miniatures/mughal/Sunset_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg
+        name: Qun botishi sahnasi
+        url:
+      - img: /miniatures/mughal/The_battle_of_Mazandaran.jpg
+        name: Mozandaron jangi
+        url:
+      - img: /miniatures/mughal/The_Fourth_Mughal_Emperor_Janhangir,_c._1850,_Doris_Duke_Foundation_11.29.jpg
+        name: Imperator Jahongir
+        url:
+      - img: /miniatures/mughal/The_Maharana_of_Mewar_submitting_to_Prince_Khurram.jpg
+        name: Mevar maxaranasining itoati
+        url:
+      - img: /miniatures/mughal/The_Punishment_of_Khwaja_Mu'azzam_-_Google_Art_Project_(cropped).jpg
+        name: Xoja Muazzamning jazolanishi
+        url:
+      - img: /miniatures/mughal/The_Younger_Khan,_Alasha,_the_Slayer,_paying_homage_to_Babur_near_Yagha_village_situated_between_Tashkent_and_Sairam_(1502-03)._Baburnama_of_1598.jpg
+        name: Boburga ehtirom
+        url:
+      - img: /miniatures/mughal/This_painting_depicts_Ahmad_Shah_(1748-54)..jpg
+        name: Ahmadshoh
+        url:
+      - img: /miniatures/mughal/Three_horsemen_on_a_mountain_road_near_Begram_in_1525_(in_a_scene_of_Babur_and_his_sons_hunting_a_rhinoceros).jpg
+        name: Bigrom yaqinidagi uch chavandoz
+        url:
+      - img: /miniatures/mughal/Timur's_army_attacks_the_fortress_of_Herat_and_Ghiyath_al-Din,_the_Kartid_ruler,_sues_for_peace,_signed_Dharm_Das,_Mughal_India,_circa_1595-1600.jpg
+        name: Temur qo‘shinining Hirotga hujumi
+        url:
+      - img: /miniatures/mughal/Umar_Defeats_a_Dragon_-_Daswanth.jpg
+        name: Umarning ajdahoni yengishi
+        url:
+      - img: /miniatures/mughal/Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground,_Folio_from_a_Hamzanama_ca._1570_(73x56.5_cm)_Metmuseum_N-Y.jpg
+        name: Umar Po‘lat qal’asida
+        url:
+      - img: /miniatures/mughal/Weighing_grain,_from_the_Babur-namah.jpg
+        name: "Boburnoma: Don o‘lchash"
+        url:
+      - img: /miniatures/mughal/Women_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg
+        name: Ayollar tasviri
+        url:

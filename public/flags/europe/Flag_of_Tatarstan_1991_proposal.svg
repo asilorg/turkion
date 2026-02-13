@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="500"
+   id="svg3872"
+   version="1.1"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Flag_of_Tatarstan_1991_proposal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3874" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.179"
+     inkscape:cx="500"
+     inkscape:cy="250.21204"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3909"
+     showgrid="false"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata3877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3909"
+       transform="translate(15.476136,0)">
+      <rect
+         y="0"
+         x="-15.476136"
+         height="500"
+         width="250"
+         id="rect3887"
+         style="fill:#0f309a;fill-opacity:1;stroke:none" />
+      <rect
+         y="0"
+         x="284.52386"
+         height="500"
+         width="700"
+         id="rect3889"
+         style="fill:#ce000f;fill-opacity:1;stroke:none" />
+      <rect
+         y="0"
+         x="234.52386"
+         height="500"
+         width="50"
+         id="rect3887-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3916"
+       transform="translate(-9.611119,-6.46837)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3838"
+         d="m 59.611119,181.4816 c 0,41.41822 33.568545,74.98677 74.986771,74.98677 41.41823,0 75.01323,-33.56855 75.01323,-74.98677 0,-6.04245 -0.71452,-11.91404 -2.06386,-17.54278 -7.89971,32.95362 -37.5736,57.444 -72.94937,57.444 -35.375772,0 -65.023202,-24.49038 -72.922915,-57.444 -1.349334,5.62874 -2.063856,11.50033 -2.063856,17.54278 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(-1.1345891,0,0,-1.1345891,134.61112,100.13992)"
+         inkscape:transform-center-y="-7.5304332"
+         d="M 1.8623804e-6,69.505043 -15.524536,21.367689 -66.103224,21.478241 -25.119225,-8.1617322 -40.854041,-56.23076 1.1221669e-6,-26.411917 40.854038,-56.230762 25.119226,-8.1617301 66.103225,21.478238 15.524534,21.36769 z"
+         inkscape:randomized="0"
+         inkscape:rounded="-3.469447e-018"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="26.411917"
+         sodipodi:r1="69.505043"
+         sodipodi:cy="0"
+         sodipodi:cx="0"
+         sodipodi:sides="5"
+         id="path3914"
+         style="fill:#ce000f;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>

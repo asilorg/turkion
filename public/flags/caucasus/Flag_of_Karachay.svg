@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="400" viewBox="0 0 800 400" overflow="visible" enable-background="new 0 0 800 400" xml:space="preserve">
+<rect fill="#ffff00" width="800" height="400"/>
+<g transform="translate(400,70) scale(25)">
+<g id="a">
+<polygon id="b" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#b" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#a" transform="rotate(72)"/>
+<use xlink:href="#a" transform="rotate(-72)"/>
+<use xlink:href="#a" transform="rotate(144)"/>
+<use xlink:href="#a" transform="rotate(-144)"/>
+</g>
+<g transform="translate(490,110) scale(25)">
+<g id="c">
+<polygon id="d" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#d" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#c" transform="rotate(72)"/>
+<use xlink:href="#c" transform="rotate(-72)"/>
+<use xlink:href="#c" transform="rotate(144)"/>
+<use xlink:href="#c" transform="rotate(-144)"/>
+</g>
+<g transform="translate(530,200) scale(25)">
+<g id="e">
+<polygon id="f" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#f" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#e" transform="rotate(72)"/>
+<use xlink:href="#e" transform="rotate(-72)"/>
+<use xlink:href="#e" transform="rotate(144)"/>
+<use xlink:href="#e" transform="rotate(-144)"/>
+</g>
+<g transform="translate(490,290) scale(25)">
+<g id="g">
+<polygon id="h" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#h" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#g" transform="rotate(72)"/>
+<use xlink:href="#g" transform="rotate(-72)"/>
+<use xlink:href="#g" transform="rotate(144)"/>
+<use xlink:href="#g" transform="rotate(-144)"/>
+</g>
+<g transform="translate(400,330) scale(25)">
+<g id="i">
+<polygon id="j" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#j" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#i" transform="rotate(72)"/>
+<use xlink:href="#i" transform="rotate(-72)"/>
+<use xlink:href="#i" transform="rotate(144)"/>
+<use xlink:href="#i" transform="rotate(-144)"/>
+</g>
+<g transform="translate(310,290) scale(25)">
+<g id="k">
+<polygon id="l" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#l" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#k" transform="rotate(72)"/>
+<use xlink:href="#k" transform="rotate(-72)"/>
+<use xlink:href="#k" transform="rotate(144)"/>
+<use xlink:href="#k" transform="rotate(-144)"/>
+</g>
+<g transform="translate(270,200) scale(25)">
+<g id="m">
+<polygon id="n" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#n" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#m" transform="rotate(72)"/>
+<use xlink:href="#m" transform="rotate(-72)"/>
+<use xlink:href="#m" transform="rotate(144)"/>
+<use xlink:href="#m" transform="rotate(-144)"/>
+</g>
+<g transform="translate(310,110) scale(25)">
+<g id="o">
+<polygon id="p" fill="#ff0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#p" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#o" transform="rotate(72)"/>
+<use xlink:href="#o" transform="rotate(-72)"/>
+<use xlink:href="#o" transform="rotate(144)"/>
+<use xlink:href="#o" transform="rotate(-144)"/>
+</g>
+</svg>

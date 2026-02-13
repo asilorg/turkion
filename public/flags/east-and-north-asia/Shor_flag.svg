@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="249" height="150">
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Flag of the Shor people of Russia</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+  <path d="M0,0H249V150H0Z" style="fill:#0198fc;fill-opacity:1"/>
+  <circle cx="124.5" cy="75" r="58.4182" style="fill:#f3f905;fill-opacity:1"/>
+  <path d="M83.8918,75L124.5,115.6082L165.1082,75L124.5,34.3918Z" style="fill:#089b00"/>
+</svg>

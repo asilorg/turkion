@@ -1,0 +1,390 @@
+title: Flags
+description: From the crimson star and crescent of Anatolia to the sky-blue fields of Central Asia, the flags of Turkic ethnic groups tell a story of ancient roots, shared history, and diverse cultures. This page is your gateway to exploring the rich symbolism embedded in these emblems. Delve into the meanings behind the colors, the significance of the patterns, and the unique narratives of each nation and community that make up the wider Turkic world. Uncover the shared motifs that bind these peoples together and the distinct elements that make each flag a proud declaration of identity.
+navigation: false
+hero:
+  title: Flags of Turkic ethnic groups
+  description: A visual guide to the flags of Turkic ethnic groups. Discover the meaning behind the colors, symbols, and history of each banner.
+flags:
+  - title: Extinct Turks
+    items:
+      - img: /flags/extinct-turks/Flag_of_Hatay.svg
+        name: Flag of the former Hatay State
+        url: https://en.wikipedia.org/wiki/Hatay_State
+      - img: /flags/extinct-turks/Unofficial_flag_of_Nakhchivan_(1991-1993).svg
+        name: Flag of Nakhchivan (unofficial between 1991-1993)
+        url: https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic
+      - img: /flags/extinct-turks/Flag_of_the_Young_Turk_Revolution.svg
+        name: Flag of the Young Turks
+        url: https://en.wikipedia.org/wiki/Young_Turks
+      - img: /flags/extinct-turks/Flag_of_the_Göktürks_Khaganate.svg
+        name: Flag of the Göktürk people
+        url: https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks
+      - img: /flags/extinct-turks/Cumania_Khanate_flag.svg
+        name: Flag of the Kipchak people
+        url: https://en.wikipedia.org/wiki/Kipchaks
+      - img: /flags/extinct-turks/Flag_of_Oghuz.svg
+        name: Flag of the Oghuz people
+        url: https://en.wikipedia.org/wiki/Oghuz_Turks
+      - img: /flags/extinct-turks/Flag_of_Xiongnu_(16_Great_Turkic_Empires).svg
+        name: Flag of the Xiongnu people
+        url: https://en.wikipedia.org/wiki/Xiongnu
+      - img: /flags/extinct-turks/Flag_of_Karluk_Khanate.svg
+        name: Flag of the Karluk people
+        url: https://en.wikipedia.org/wiki/Karluks
+      - img: /flags/extinct-turks/Flag_of_the_Ottoman_Empire_(1844–1922).svg
+        name: Flag of the Ottoman people
+        url: https://en.wikipedia.org/wiki/Ottomans_Turks
+      - img: /flags/extinct-turks/Flag_of_Kara-Khanid_Khanate_(Fictive).svg
+        name: Flag of the Karakhanid people
+        url: https://uz.wikipedia.org/wiki/Qoraxoniylar
+      - img: /flags/extinct-turks/Flag_of_Chagatai_Khanate.svg
+        name: Flag of the Chagatai people
+        url: https://uz.wikipedia.org/wiki/Chig%CA%BBatoylar
+      - img: /flags/extinct-turks/Golden_Horde_flag_1339.svg
+        name: Flag of the Golden Horde Turki People
+        url: https://en.wikipedia.org/wiki/Khorezmian_language_(Turkic)
+      - img: /flags/extinct-turks/Flag_of_Seljuk_Empire_(16_Great_Turkic_Empires)_3.svg
+        name: Flag of the Seljuk people
+        url: https://en.wikipedia.org/wiki/Old_Anatolian_Turkish
+      - img: /flags/extinct-turks/Avar_Kaganátus_zászló.svg
+        name: Flag of the Avar people
+        url: https://en.wikipedia.org/wiki/Pannonian_Avars
+      - img: /flags/extinct-turks/Flag_of_Pecheneg.svg
+        name: Flag of the Pecheneg people
+        url: https://en.wikipedia.org/wiki/Pechenegs
+      - img: /flags/extinct-turks/Flag_of_Uyghur_Khaganate_(16_Great_Turkic_Empires)_1.svg
+        name: Flag of the Uyghur people (former)
+        url: https://en.wikipedia.org/wiki/Old_Uyghur
+      - img: /flags/extinct-turks/Volga_Bulgaria.svg
+        name: Flag of the Volga Bulgaria people
+        url: https://en.wikipedia.org/wiki/Volga_Bulgaria
+
+  - title: Central Asia
+    items:
+      - img: /flags/central-asia/Kokbayraq_flag.svg
+        name: Flag of the Uyghur people
+        url: https://en.wikipedia.org/wiki/Uyghur_people
+      - img: /flags/central-asia/Flag_of_Äynu_people.svg
+        name: Flag of the Äynu people
+        url: https://en.wikipedia.org/wiki/%C3%84ynu_people
+      - img: /flags/central-asia/Yugur_flag.webp
+        name: Flag of the Yugur people
+        url: https://en.wikipedia.org/wiki/Yugurs
+      - img: /flags/central-asia/Bandera_de_Khiva_1917-1920.svg
+        name: Flag of the Khwrazmian Uzbek people
+        url: https://uz.wikipedia.org/wiki/O%CA%BBzbek_tilining_Xorazm_shevasi
+      - img: /flags/central-asia/Flag_of_andijan_kyrgyz.svg
+        name: Flag of the Uzbek Kyrgyzs
+        url: https://ky.wikipedia.org/wiki/%D3%A8%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA_%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D0%B4%D0%B0%D1%80
+      - img: /flags/central-asia/Flag_of_Karakalpaks.svg
+        name: Flag of the Karakalpak people
+        url: https://en.wikipedia.org/wiki/Karakalpaks
+      - img: /flags/central-asia/Flag_of_Karakalpakstan.svg
+        name: Flag of Karakalpakstan
+        url: https://en.wikipedia.org/wiki/Karakalpakstan
+      - img: /flags/central-asia/Flag_of_Kazakhstan.svg
+        name: Flag of the Kazakh people
+        url: https://en.wikipedia.org/wiki/Kazakhs
+      - img: /flags/central-asia/Flag_of_Uyghurs_in_Kazakhstan.png
+        name: Flag of the Uyghur people in Kazakhstan
+        url: https://en.wikipedia.org/wiki/Uyghur_people
+      - img: /flags/central-asia/Flag_of_Kyrgyzstan.svg
+        name: Flag of the Kyrgyz people
+        url: https://en.wikipedia.org/wiki/Kyrgyz_people
+      - img: /flags/central-asia/Flag_of_Talas_Province_Kyrgyzstan.svg
+        name: Flag of the Talas Turks
+        url: https://en.wikipedia.org/wiki/Talas_Region
+      - img: /flags/central-asia/Flag_of_Turkmenistan.svg
+        name: Flag of the Turkmen people
+        url: https://en.wikipedia.org/wiki/Turkmens
+      - img: /flags/central-asia/Flag_of_Uzbekistan.svg
+        name: Flag of the Uzbek people
+        url: https://en.wikipedia.org/wiki/Uzbeks
+      - img: /flags/central-asia/Flag_of_Khorosan_Turks.svg
+        name: Flag of the Khorasan People
+        url: https://en.wikipedia.org/wiki/Khorasani_Turks
+      - img: /flags/central-asia/Flag_of_South_Turkestan-Afghanistan_Turks.svg
+        name: Flag of the Uzbek people in Afghanistan
+        url: https://uz.wikipedia.org/wiki/Afg%CA%BBonistonlik_o%CA%BBzbeklar
+      - img: /flags/central-asia/Uzbeks_in_Tajikistan.svg
+        name: Flag of the Uzbek people in Tajikistan
+        url: https://uz.wikipedia.org/wiki/Tojikistonlik_%C3%B4zbeklar
+      - img: /flags/central-asia/Hazaristan_Flag.svg
+        name: Flag of the Hazara people
+        url: https://en.wikipedia.org/wiki/Hazaras
+      - img: /flags/central-asia/Hazara_Flag.jpg
+        name: Alternate Flag of the Hazara people
+        url: https://en.wikipedia.org/wiki/Hazaras
+      - img: /flags/central-asia/Flag_of_Hazarajat.svg
+        name: Flag of Hazarajat
+        url: https://en.wikipedia.org/wiki/Hazarajat
+      - img: /flags/central-asia/Karakorum_Turks.svg
+        name: Flag of the Hunza Turks
+        url: https://en.wikipedia.org/wiki/Turks_in_Pakistan
+      - img: /flags/central-asia/Flag_of_Hunza.svg
+        name: Alternate Flag of the Hunza Turks
+        url: https://en.wikipedia.org/wiki/Turks_in_Pakistan
+      - img: /flags/central-asia/Flag_of_Nagaybak.svg
+        name: Flag of Nagaibaks
+        url: https://en.wikipedia.org/wiki/Na%C4%9Fayb%C3%A4k
+
+  - title: East and North Asia
+    items:
+      - img: /flags/east-and-north-asia/Flag_of_Altai_Republic.svg
+        name: Flag of the Altay people
+        url: https://en.wikipedia.org/wiki/Altai_people
+      - img: /flags/east-and-north-asia/Flag_of_Altai_Krai.svg
+        name: Flag of the Kumandin and Chelkan peoples
+        url: https://en.wikipedia.org/wiki/Kumandins
+      - img: /flags/east-and-north-asia/Flag_of_Sakha.svg
+        name: Flag of the Sakha/Yakut people
+        url: https://en.wikipedia.org/wiki/Yakuts
+      - img: /flags/east-and-north-asia/Salar_flag.svg
+        name: Flag of the Salar people
+        url: https://en.wikipedia.org/wiki/Salar_people
+      - img: /flags/east-and-north-asia/Flag_of_Tuva.svg
+        name: Flag of the Tuvan people
+        url: https://en.wikipedia.org/wiki/Tuvan_people
+      - img: /flags/east-and-north-asia/Flag_of_Tannu_Tuva_(1921-1926).svg
+        name: Flag of Tannu Tuva
+        url: https://en.wikipedia.org/wiki/Tuvan_People%27s_Republic
+      - img: /flags/east-and-north-asia/Flag_of_Todzhinsky_District.png
+        name: Flag of the Tozhu Tuvan people
+        url: https://en.wikipedia.org/wiki/Tozhu_Tuvans
+      - img: /flags/east-and-north-asia/Mn_flag_bayan_olgiy_aymag.svg
+        name: Flag of the Kazakh people in Mongolia
+        url: https://en.wikipedia.org/wiki/Mongolian_Kazakhs
+      - img: /flags/east-and-north-asia/Khakas_ethnic_flag.svg
+        name: Flag of the Khakas people
+        url: https://en.wikipedia.org/wiki/Khakas_people
+      - img: /flags/east-and-north-asia/Flag_of_the_Chulym_People.svg
+        name: Flag of the Chulym people
+        url: https://en.wikipedia.org/wiki/Chulyms
+      - img: /flags/east-and-north-asia/Flag_of_Taymyr_Autonomous_Okrug.svg
+        name: Flag of Taymyria
+        url: https://en.wikipedia.org/wiki/Taymyr_Autonomous_Okrug
+      - img: /flags/east-and-north-asia/Flag_of_Dolgans.svg
+        name: Flag of the Dolgan people
+        url: https://en.wikipedia.org/wiki/Dolgans
+      - img: /flags/east-and-north-asia/Shor_flag.svg
+        name: Flag of the Shor people
+        url: https://en.wikipedia.org/wiki/Shors
+      - img: /flags/east-and-north-asia/Флаг_Шорцев.svg
+        name: Alternate Flag of the Shor people
+        url: https://en.wikipedia.org/wiki/Shors
+      - img: /flags/east-and-north-asia/Flag_of_Nizhneudinsky_District.png
+        name: Flag of the Tofa people
+        url: https://en.wikipedia.org/wiki/Tofalar
+
+  - title: Middle East
+    items:
+      - img: /flags/middle-east/Flag_of_Khalaj_People_(Fictive).svg
+        name: Flag of the Khalaj people
+        url: https://en.wikipedia.org/wiki/Khalaj_people
+      - img: /flags/middle-east/Qashqai_Flag.jpg
+        name: Flag of the Qashqai people
+        url: https://en.wikipedia.org/wiki/Qashqai_people
+      - img: /flags/middle-east/Qajar_Civil_Ensign.svg
+        name: Flag of the Qajar people
+        url: https://en.wikipedia.org/wiki/Qajar_(tribe)
+      - img: /flags/middle-east/Bayat_Turk.svg
+        name: Flag of the Bayat people
+        url: https://en.wikipedia.org/wiki/Bayat_(tribe)
+      - img: /flags/middle-east/Afsharid_Imperial_Standard.svg
+        name: Flag of the Afshar People
+        url: https://en.wikipedia.org/wiki/Afshar_people
+      - img: /flags/middle-east/Flag_of_the_Afshar_Tribe.svg
+        name: Flag of the Afshar Tribe
+        url: https://en.wikipedia.org/wiki/Afshar_people
+      - img: /flags/middle-east/Flag_of_South_Azerbaijan.svg
+        name: Flag of the South Azerbaijani people
+        url: https://en.wikipedia.org/wiki/Iranian_Azerbaijanis
+      - img: /flags/middle-east/South_Azerbaijan_Flag.png
+        name: Alternate Flag of the South Azerbaijani people
+        url: https://en.wikipedia.org/wiki/Iranian_Azerbaijanis
+      - img: /flags/middle-east/Kuresunni_flag.svg
+        name: Flag of the Küresünni Turks
+        url: https://en.wikipedia.org/wiki/K%C3%BCres%C3%BCnni
+      - img: /flags/middle-east/Turkmensahra_Liberation_Organization_flag.svg
+        name: Flag of the Iranian Turkmen people
+        url: https://en.wikipedia.org/wiki/Iranian_Turkmens
+      - img: /flags/middle-east/Flag_of_the_Iraqi_Turkmen_Front.svg
+        name: Flag of the Iraqi Turkmen people
+        url: https://en.wikipedia.org/wiki/Iraqi_Turkmen
+      - img: /flags/middle-east/Flag_of_the_Iraqi_Turkmen.svg
+        name: Alternate Flag of the Iraqi Turkmen people
+        url: https://en.wikipedia.org/wiki/Iraqi_Turkmen
+      - img: /flags/middle-east/Flag_of_Syrian_Turkomans.svg
+        name: Flag of the Syrian Turkmen people
+        url: https://en.wikipedia.org/wiki/Syrian_Turkmen
+      - img: /flags/middle-east/Flag_of_Syrian_Turkmens.svg
+        name: Alternate Flag of the Syrian Turkmen people
+        url: https://en.wikipedia.org/wiki/Syrian_Turkmen
+      - img: /flags/middle-east/Flag_of_Syrian_Turkmens_(variant_2).svg
+        name: Alternate Flag of the Syrian Turkmen people
+        url: https://en.wikipedia.org/wiki/Syrian_Turkmen
+      - img: /flags/middle-east/Official_Flag_of_Syrian_Turkmen.jpg
+        name: Official Flag of the Syrian Turkmen people
+        url: https://en.wikipedia.org/wiki/Syrian_Turkmen
+      - img: /flags/middle-east/Shakhseven_flag.svg
+        name: Flag of the Shahsevan people
+        url: https://en.wikipedia.org/wiki/Shahsevan
+      - img: /flags/middle-east/Maritime_flag_of_Regency_of_Tripoli_(18th_century).svg
+        name: Flag of the Turkish people in Libya
+        url: https://en.wikipedia.org/wiki/Turks_in_Libya
+      - img: /flags/middle-east/Flag_of_Egypt_(1922-1958).svg
+        name: Flag of the Turkish people in Egypt
+        url: https://en.wikipedia.org/wiki/Turks_in_Egypt
+      - img: /flags/middle-east/Flag_of_the_Turkmen_of_Israel_and_Lebanon.png
+        name: Flag of the Turkmen people in Israel
+        url: https://en.wikipedia.org/wiki/Israeli_Turkmen÷
+
+  - title: Europe
+    items:
+      - img: /flags/europe/Flag_of_Turkey.svg
+        name: Flag of Turkey and the Turkish people
+        url: https://en.wikipedia.org/wiki/Turkey
+      - img: /flags/europe/Alternatif_Yörük_Kültür_Bayrağı_(1).png
+        name: Flag of Yörük Turks
+        url: https://en.wikipedia.org/wiki/Y%C3%B6r%C3%BCks
+      - img: /flags/europe/Alternatif_Yörük_Kültür_Bayrağı_(2).png
+        name: Alternate Flag of Yörük Turks
+        url: https://en.wikipedia.org/wiki/Y%C3%B6r%C3%BCks
+      - img: /flags/europe/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg
+        name: Flag of Turkish Cyprus and Northern Cyprus
+        url: https://en.wikipedia.org/wiki/Turkish_Cypriots
+      - img: /flags/europe/Flag_of_SFR_Yugoslav_Turkish_Minority.svg
+        name: Flag of the Serbian Turks
+        url: https://en.wikipedia.org/wiki/Turks_in_Serbia
+      - img: /flags/europe/Flag_of_the_Bulgarian_Turks.svg
+        name: Flag of the Bulgarian Turks
+        url: https://en.wikipedia.org/wiki/Bulgarian_Turks
+      - img: /flags/europe/Flag_of_Bulgarian_Turks.jpg
+        name: Alternate Flag of the Bulgarian Turks
+        url: https://en.wikipedia.org/wiki/Bulgarian_Turks
+      - img: /flags/europe/Flag_of_Tatarstan.svg
+        name: Flag of Tatarstan
+        url: https://en.wikipedia.org/wiki/Tatarstan
+      - img: /flags/europe/Flag_of_Tatarstan_1991_proposal.svg
+        name: Flag of Tatarstan (proposal)
+        url: https://en.wikipedia.org/wiki/Tatarstan
+      - img: /flags/europe/Flag_of_Bashkortostan_(1918).svg
+        name: Flag of the Bashkir people
+        url: https://en.wikipedia.org/wiki/Bashkirs
+      - img: /flags/europe/Flag_of_Bashkortostan.svg
+        name: Flag of Bashkortostan
+        url: https://en.wikipedia.org/wiki/Bashkortostan
+      - img: /flags/europe/Flag_of_Chuvashia.svg
+        name: Flag of the Chuvash people
+        url: https://en.wikipedia.org/wiki/Chuvash_people
+      - img: /flags/europe/Flag_of_the_Chuvash_Republic_of_1918_year_v.1.jpg
+        name: Previous Flag of Chuvashia
+        url: https://en.wikipedia.org/wiki/Chuvashia
+      - img: /flags/europe/Proposed_flag_for_the_contest_of_Chuvashia_1990.svg
+        name: Flag of the Chuvash people in Zakamye region
+        url: https://en.wikipedia.org/wiki/Chuvash_people
+      - img: /flags/europe/Flag_of_TRWT.svg
+        name: Flag of the Turkish people in Western Thrace
+        url: https://en.wikipedia.org/wiki/Turks_in_Western_Thrace
+      - img: /flags/europe/Flar_karapapakhs.jpg
+        name: Alternate Flag of the Karapapakh People
+        url: https://en.wikipedia.org/wiki/Karapapakhs
+      - img: /flags/europe/Flag_of_Skopje_Turks.svg
+        name: Flag of the Macedonian Turks
+        url: https://en.wikipedia.org/wiki/Turks_in_North_Macedonia
+      - img: /flags/europe/Flag_of_the_Crimean_Tatar_people.svg
+        name: Flag of the Crimean Tatars
+        url: https://en.wikipedia.org/wiki/Crimean_Tatars
+      - img: /flags/europe/Flag_of_Crimean_Karaites.svg
+        name: Flag of the Karaites
+        url: https://en.wikipedia.org/wiki/Crimean_Karaites
+      - img: /flags/europe/Proposed_flag_of_Krymchaks.svg
+        name: Flag of the Krymchaks
+        url: https://en.wikipedia.org/wiki/Krymchaks
+      - img: /flags/europe/TatarsOfDobrujaFlag.svg
+        name: Flag of the Dobrujan Tatars
+        url: https://en.wikipedia.org/wiki/Tatars_of_Romania
+      - img: /flags/europe/Flag_of_the_Gagauz_people.svg
+        name: Flag of the Gagauz people
+        url: https://en.wikipedia.org/wiki/Gagauz_people
+      - img: /flags/europe/Flag_of_Gagauzia.svg
+        name: Flag of Gagauzia
+        url: https://en.wikipedia.org/wiki/Gagauzia
+      - img: /flags/europe/Faux_drapeau_germano-turc.svg
+        name: Flag of the Turkish people in Germany
+        url: https://en.wikipedia.org/wiki/Turks_in_Germany
+      - img: /flags/europe/Flag_of_Russlandics.svg
+        name: Flag of the Turkic/Tatar people in Russia
+        url: https://en.wikipedia.org/wiki/Turks_in_Russia
+      - img: /flags/europe/Belarusian_Lipka_Tatar_Flag.svg
+        name: Flag of the Lipka Tatars in Belarus
+        url: https://en.wikipedia.org/wiki/Lipka_Tatars
+      - img: /flags/europe/Lipka_Tatar_Flag_SVG.svg
+        name: Flag of the Lipka Tatars in Poland
+        url: https://en.wikipedia.org/wiki/Lipka_Tatars
+      - img: /flags/europe/Karagash_Nogay.svg
+        name: Flag of the Karagash people
+        url: https://en.wikipedia.org/wiki/Karagash
+      - img: /flags/europe/Flag_of_Nogai_El.svg
+        name: Alternate Flag of the Karagash people
+        url: https://en.wikipedia.org/wiki/Karagash
+      - img: /flags/europe/Flag_of_Nagaybak_district.svg
+        name: Flag of the Nağaybäk people
+        url: https://en.wikipedia.org/wiki/Na%C4%9Fayb%C3%A4k
+      - img: /flags/europe/Proposed_flag_of_Meskhetian_Turks.svg
+        name: Flag of the Meskhetian Turks
+        url: https://en.wikipedia.org/wiki/Meskhetian_Turks
+      - img: /flags/europe/Proposed_flag_of_Meskhetian_Turks.svg
+        name: Alternate Flag of the Meskhetian Turks
+        url: https://en.wikipedia.org/wiki/Meskhetian_Turks
+      - img: /flags/europe/Flag_of_Turkmen_district.svg
+        name: Flag of the Stavropol Turkmen people
+        url: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D1%8B
+
+  - title: Caucasus
+    items:
+      - img: /flags/caucasus/Flag_of_Azerbaijan.svg
+        name: Flag of the Azerbaijani Turks
+        url: https://en.wikipedia.org/wiki/Azerbaijanis
+      - img: /flags/caucasus/Flag_of_West_Azerbaijan.png
+        name: Flag of the Azerbaijanis in Armenia
+        url: https://en.wikipedia.org/wiki/Azerbaijanis_in_Armenia
+      - img: /flags/caucasus/Flag_of_West_Azerbaijan.svg
+        name: Alternate Flag of the Azerbaijanis in Armenia
+        url: https://en.wikipedia.org/wiki/Azerbaijanis_in_Armenia
+      - img: /flags/caucasus/Flag_of_the_South_West_Caucasian_Republic.svg
+        name: Flag of the Karapapakh people
+        url: https://en.wikipedia.org/wiki/Karapapakhs
+      - img: /flags/caucasus/Nogai_flag.svg
+        name: Flag of the Nogai people
+        url: https://en.wikipedia.org/wiki/Nogai_people
+      - img: /flags/caucasus/Flag_of_the_Kumukh_people_1.svg
+        name: Flag of the Kumyk people
+        url: https://en.wikipedia.org/wiki/Kumyks
+      - img: /flags/caucasus/Flag_of_Kumyks.svg
+        name: Alternate Flag of the Kumyk people
+        url: https://en.wikipedia.org/wiki/Kumyks
+      - img: /flags/caucasus/Alan_flagnew.svg
+        name: Flag of Karachay-Balkaria
+        url: https://en.wikipedia.org/wiki/Karachay-Balkar
+      - img: /flags/caucasus/Karachay_flag.svg
+        name: Flag of the Karachay people
+        url: https://en.wikipedia.org/wiki/Karachays
+      - img: /flags/caucasus/Flag_of_Karachay.svg
+        name: Alternate Flag of the Karachay people
+        url: https://en.wikipedia.org/wiki/Karachays
+      - img: /flags/caucasus/Ethnic_flag_of_the_Balkar_and_Karachay_peoples_(Karachay-Balkaria).svg
+        name: Flag of the Balkar people
+        url: https://en.wikipedia.org/wiki/Balkars
+
+  - title: Others
+    items:
+      - img: /flags/others/Flag_of_the_Organization_of_Turkic_States.svg
+        name: Flag of the Organization of Turkic States
+        url: https://en.wikipedia.org/wiki/Organization_of_Turkic_States
+      - img: /flags/others/Flag_of_Turkestan.svg
+        name: Flag of Turkestan
+        url: https://en.wikipedia.org/wiki/Turkestan
+      - img: /flags/others/Flag_of_Idel-Ural.svg
+        name: Flag of Idel-Ural
+        url: https://en.wikipedia.org/wiki/Idel-Ural

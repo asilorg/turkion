@@ -1,0 +1,32 @@
+{
+  "banner": "We are inviting scholars, students, visionaries and investors. Let's shape legacy together.",
+  "contact": "Write to the Author",
+  "navigation": {
+    "explore":  "Explore",
+    "timeline": "Timeline",
+    "flags":  "Flags",
+    "miniatures": "Miniatures",
+    "blog":  "Blog",
+    "people": "People"
+  },
+  "common": {
+    "or": "or",
+    "error": {
+      "title": "Page not found",
+      "description": "We are sorry but this page could not be found."
+    }
+  },
+  "docs": {
+    "copy": {
+      "page": "Copy page",
+      "link": "Copy Markdown page",
+      "view": "View as Markdown",
+      "gpt": "Open in ChatGPT",
+      "claude": "Open in Claude"
+    },
+    "links": "Community",
+    "toc": "On this page",
+    "report": "Report an issue",
+    "edit": "Edit this page"
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="хакас" width="1200px" height="600px" enable-background="new 0 0 1200 600" version="1.1" viewBox="0 0 1200 600" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<rect id="rect1" width="1200" height="600" fill="#009847"/>
+<g id="grp">
+<g id="tri">
+<path id="tri2_3" d="m435 465 280.5-49.5 49.5-280.5-280.5 49.5z" fill="#ffd700"/>
+<path id="tri1_4" d="m765 465-280.5-49.5-49.5-280.5 280.5 49.5z" fill="#ffd700"/>
+</g>
+<circle id="circle5" cx="600" cy="300" r="187.5" fill="#ffd700"/>
+<circle id="circle4" cx="600" cy="300" r="165" fill="#009847"/>
+<circle id="circle3" cx="600" cy="300" r="142.5" fill="#ffd700"/>
+<circle id="circle2" cx="600" cy="300" r="93.75" fill="#009847"/>
+<circle id="circleinner" cx="600" cy="300" r="75" fill="#ffd700"/>
+</g>
+</svg>

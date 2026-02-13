@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg154" width="900" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect935" width="900" height="600" fill="#00b7fb" fill-rule="evenodd" stroke-width="2.69377"/>
+ <path id="path132" d="m60 300v-300h42v600h-42z" fill="#fcfdfd" stroke-width=".246837"/>
+ <g id="g1110" fill="#ffffff" stroke-width=".01">
+  <path id="path1106" d="m525.162 380.21a150 150 0 1 1 0-160.42 120 120 0 1 0 0 160.42z"/>
+  <path id="path943" d="m525.162 300 135.68-44.08-83.86 115.41v-142.66l83.86 115.41z"/>
+ </g>
+</svg>

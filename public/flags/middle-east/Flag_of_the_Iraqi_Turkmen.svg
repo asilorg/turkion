@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="1376.4449" height="916.24188" viewBox="0 0 316.50927 240.66013">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <g id="star" transform="translate(74.5,0)scale(9.20863,9.20863)rotate(-90)">
+      <g id="cone">
+        <polygon id="triangle" points="0,1 0.5,1 0,0"
+           transform="translate(0,-1)rotate(18)"/>
+        <use xlink:href="#triangle" transform="scale(-1,1)"/>
+      </g>
+      <use xlink:href="#cone" transform="rotate(72)"/>
+      <use xlink:href="#cone" transform="rotate(144)"/>
+      <use xlink:href="#cone" transform="rotate(216)"/>
+      <use xlink:href="#cone" transform="rotate(288)"/>
+    </g>
+  </defs>
+  <g transform="translate(83.642785,-0.86655051)">
+    <rect
+       y="0.86655051"
+       x="-106.15669"
+       height="240.66013"
+       width="361.53708"
+       style="fill:#0099ff;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 505.03125,136.375 c -178.17748,0 -322.625,144.61897 -322.625,323.03125 0,178.41228 144.44752,323.0625 322.625,323.0625 83.13084,0 158.89363,-31.51004 216.09375,-83.21875 -39.71398,23.64848 -85.82333,37.1875 -135.03125,37.1875 -148.93809,0 -269.6875,-124.03918 -269.6875,-277.03125 0,-152.99207 120.74941,-277 269.6875,-277 49.20792,0 95.31727,13.53902 135.03125,37.1875 C 663.92488,167.88504 588.16209,136.375 505.03125,136.375 z"
+       transform="matrix(0.26266004,0,0,0.26266004,-107.94774,0.8665505)"/>
+    <g style="fill:#ffffff;stroke:none" transform="translate(45.9957,121.53625)">
+      <use xlink:href="#star" transform="rotate(-50)"/>
+      <use xlink:href="#star" transform="rotate(-30)"/>
+      <use xlink:href="#star" transform="rotate(-10)"/>
+      <use xlink:href="#star" transform="rotate(10)"/>
+      <use xlink:href="#star" transform="rotate(30)"/>
+      <use xlink:href="#star" transform="rotate(50)"/>
+    </g>
+  </g>
+</svg>

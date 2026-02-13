@@ -1,0 +1,9 @@
+<svg width="900" height="585" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g shape-rendering="crispEdges">
+<rect width="300" height="585" fill="green"/>
+<rect x="300" width="600" height="195" fill="#FFF"/>
+<rect x="300" y="195" width="600" height="195" fill="#E30A17"/>
+<rect x="300" y="390" width="600" height="195"/>
+</g>
+<path d="M252.4 195.4a106 106 0 1 0 0 180.15 131 131 0 1 1 0-180.15Z" fill="#FFF"/>
+</svg>

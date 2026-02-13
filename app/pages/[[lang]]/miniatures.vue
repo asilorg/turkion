@@ -1,0 +1,106 @@
+<script setup lang="ts">
+import { MiniatureType, useMiniatures } from '~/composables/useMiniatures'
+
+const { miniature } = useMiniatures()
+const localePath = useLocalePath()
+const { locale } = useI18n()
+
+const { data: page } = await useAsyncData('miniatures', () => queryCollection(`miniatures_${locale.value}`).first(), { watch: [locale] })
+if (!page.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
+}
+
+const MINIATURE = {
+  [MiniatureType.TIMURID]: page.value.timur_miniatures,
+  [MiniatureType.OTTOMAN]: page.value.ottoman_miniatures,
+  [MiniatureType.MUGHAL]: page.value.mughal_miniatures
+}
+
+useSeoMeta({
+  titleTemplate: '%s - Nuxt UI',
+  title: page.value.title,
+  description: page.value.description,
+  ogTitle: `${page.value.title} - Nuxt UI`,
+  ogDescription: page.value.description
+})
+
+defineOgImageComponent('Docs')
+</script>
+
+<template>
+  <div v-if="page">
+    <UPageHero
+      :title="`${page.hero.title}`"
+      :description="page.hero.description"
+      :links="page.hero.links"
+      :ui="{
+        container: 'relative lg:py-32'
+      }"
+    >
+      <template #top>
+        <div class="absolute z-[-1] rounded-full bg-primary blur-[300px] size-60 sm:size-80 transform -translate-x-1/2 left-1/2 -translate-y-80" />
+      </template>
+
+      <LazyStarsBg />
+
+      <div
+        aria-hidden="true"
+        class="hidden lg:block absolute z-[-1] border-x border-default inset-0 mx-4 sm:mx-6 lg:mx-8"
+      />
+    </UPageHero>
+
+    <UPageSection :ui="{ container: '!pt-0 relative' }">
+      <div
+        aria-hidden="true"
+        class="hidden lg:block absolute z-[-1] border-x border-default inset-0 mx-4 sm:mx-6 lg:mx-8"
+      />
+      <MiniatureTabs class="w-full" />
+
+      <div
+        v-for="flag in MINIATURE[miniature]"
+        :key="flag.title"
+        class="border-l border-t  border-default"
+      >
+        <UHeader
+          :title="flag.title"
+          class="grid justify-center border-r"
+        />
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-start justify-center divide-y divide-x divide-default">
+          <li
+            v-for="item in flag.items"
+            :key="item.name"
+            class="group relative flex items-center justify-center flex-1 size-full p-2 last:border-r last:border-b border-default overflow-hidden"
+          >
+            <NuxtLink
+              class="inset-0 absolute"
+              :to="localePath(item.url)"
+              target="_blank"
+            >
+              <span class="sr-only">Go to {{ item.name }}</span>
+            </NuxtLink>
+            <NuxtImg
+              width="200"
+              :zoom="true"
+              :src="item.img"
+              :alt="`Screenshot of ${item.name}`"
+              :modifiers="{
+                position: 'top'
+              }"
+              class="group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"
+            />
+
+            <div class="absolute flex items-center px-2.5 py-0.75 gap-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none bg-black/90 rounded-full">
+              <span class="text-sm text-white font-medium">
+                {{ item.name }}
+              </span>
+              <UIcon
+                name="i-lucide-arrow-up-right"
+                class="size-4 shrink-0 text-white"
+              />
+            </div>
+          </li>
+        </ul>
+      </div>
+    </UPageSection>
+  </div>
+</template>

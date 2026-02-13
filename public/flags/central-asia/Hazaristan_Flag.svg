@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900"
+   height="600"
+   viewBox="0 0 9 6"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Hazaristan_Flag.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.56083333"
+     inkscape:cx="192.57058"
+     inkscape:cy="261.21842"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <rect
+     fill="#f4ff01"
+     width="9"
+     height="6"
+     id="rect2"
+     style="fill:#fff002;fill-opacity:1" />
+  <rect
+     fill="#FFF"
+     width="9"
+     height="4"
+     id="rect4" />
+  <rect
+     fill="#4254b3"
+     width="9"
+     height="2"
+     id="rect6"
+     style="fill:#3f6eb4;fill-opacity:1" />
+</svg>

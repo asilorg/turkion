@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve">
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m0,153.3l0,46.7l400,0l0,-93.4l-400,0l0,46.7" fill="#8c04a4" fill-rule="evenodd" id="path1"/>
+  <path d="m0.25,100.25l0,6.6l400,0l0,-13.2l-400,0l0,6.6" fill="#fcfcfc" fill-rule="evenodd" id="path2"/>
+  <path d="m0,46.7l0,46.7l400,0l0,-93.4l-400,0l0,46.7" fill="#FFF301" fill-rule="evenodd" id="path3" stroke-width="0.31"/>
+  <path d="m0,153.3l0,-46.54l200,0l200,0l0,46.54l0,46.55l-200,0l-200,0l0,-46.55z" fill="#CF0304" id="path4" stroke-width="0.31"/>
+  <path d="m0,155.3l0,-44.54l200,0l200,0l0,44.54l0,44.55l-200,0l-200,0l0,-44.55z" fill="#CF0304" id="path5" stroke-width="0.31" transform="matrix(1 0 0 1 0 0)"/>
+  <path d="m0,45.07l0,-44.92l200,0l200,0l0,44.92l0,44.92l-200,0l-200,0l0,-44.92z" fill="#FFF301" id="path6" stroke-width="0.31" transform="matrix(1 0 0 1 0 0)"/>
+ </g>
+</svg>
