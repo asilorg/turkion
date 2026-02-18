@@ -12,8 +12,14 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n'
   ],
 
+  ssr: true,
+
   devtools: {
     enabled: true
+  },
+
+  app: {
+    baseURL: '/'
   },
 
   css: ['~/assets/css/main.css'],
