@@ -22,19 +22,6 @@ export default defineNuxtConfig({
     baseURL: '/'
   },
 
-  nitro: {
-    prerender: {
-      routes: [
-        '/',
-        '/en',
-        '/uz'
-      ],
-      crawlLinks: true,
-      autoSubfolderIndex: false
-    }
-  },
-
-
   css: ['~/assets/css/main.css'],
 
   content: {
@@ -48,6 +35,18 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: '2024-07-11',
+
+  nitro: {
+    prerender: {
+      routes: [
+        '/',
+        '/en',
+        '/uz'
+      ],
+      crawlLinks: true,
+      autoSubfolderIndex: false
+    }
+  },
 
   eslint: {
     config: {
