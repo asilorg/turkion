@@ -22,6 +22,19 @@ export default defineNuxtConfig({
     baseURL: '/'
   },
 
+  nitro: {
+    prerender: {
+      routes: [
+        '/',
+        '/en',
+        '/uz'
+      ],
+      crawlLinks: true,
+      autoSubfolderIndex: false
+    }
+  },
+
+
   css: ['~/assets/css/main.css'],
 
   content: {

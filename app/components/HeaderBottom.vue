@@ -16,7 +16,12 @@ const items = computed(() => mapContentNavigation(navigation?.value.map(item => 
   <USeparator class="hidden lg:flex" />
 
   <UContainer class="hidden lg:flex items-center justify-between">
-    <UNavigationMenu :items="items" variant="pill" highlight class="-mx-2.5 -mb-px" />
+    <UNavigationMenu
+      :items="items"
+      variant="pill"
+      highlight
+      class="-mx-2.5 -mb-px"
+    />
 
     <FrameworkTabs class="w-full" />
   </UContainer>
