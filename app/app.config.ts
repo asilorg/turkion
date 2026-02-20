@@ -32,44 +32,44 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-templates/docs',
+      'to': 'https://github.com/asilorg/asilturk',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
   },
   footer: {
     credits: `Copyright • © 2025 - ${new Date().getFullYear()} Asilbek Madiev`,
-    colorMode: false,
-    links: [
-      {
-        'icon': 'i-simple-icons-discord',
-        'to': 'https://go.nuxt.com/discord',
-        'target': '_blank',
-        'aria-label': 'Nuxt on Discord'
-      },
-      {
-        'icon': 'i-simple-icons-x',
-        'to': 'https://go.nuxt.com/x',
-        'target': '_blank',
-        'aria-label': 'Nuxt on X'
-      },
-      {
-        'icon': 'i-simple-icons-github',
-        'to': 'https://github.com/nuxt/ui',
-        'target': '_blank',
-        'aria-label': 'Nuxt UI on GitHub'
-      }
-    ]
+    colorMode: false
+    // links: [
+    //   {
+    //     'icon': 'i-simple-icons-discord',
+    //     'to': 'https://go.nuxt.com/discord',
+    //     'target': '_blank',
+    //     'aria-label': 'Nuxt on Discord'
+    //   },
+    //   {
+    //     'icon': 'i-simple-icons-x',
+    //     'to': 'https://go.nuxt.com/x',
+    //     'target': '_blank',
+    //     'aria-label': 'Nuxt on X'
+    //   },
+    //   {
+    //     'icon': 'i-simple-icons-github',
+    //     'to': 'https://github.com/nuxt/ui',
+    //     'target': '_blank',
+    //     'aria-label': 'Nuxt UI on GitHub'
+    //   }
+    // ]
   },
   toc: {
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/nuxt-ui-templates/docs/edit/main/content',
+      edit: 'https://github.com/asilorg/asilturk/blob/main/content/',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
+        to: 'https://github.com/asilorg/asilturk',
         target: '_blank'
       }
       ]

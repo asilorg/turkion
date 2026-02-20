@@ -55,12 +55,7 @@ export default defineNuxtConfig({
       { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' }
     ],
     strategy: 'prefix',
-    defaultLocale: 'en',
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root'
-    }
+    defaultLocale: 'en'
   },
 
   icon: {
