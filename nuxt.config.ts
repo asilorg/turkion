@@ -12,14 +12,8 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n'
   ],
 
-  ssr: true,
-
   devtools: {
     enabled: true
-  },
-
-  app: {
-    baseURL: '/'
   },
 
   css: ['~/assets/css/main.css'],
@@ -32,10 +26,7 @@ export default defineNuxtConfig({
         }
       }
     },
-    database: {
-      type: 'sqlite',
-      filename: '/tmp/content.db'
-    }
+    experimental: { sqliteConnector: 'native' }
   },
 
   compatibilityDate: '2024-07-11',
