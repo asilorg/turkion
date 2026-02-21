@@ -7,11 +7,11 @@ Use this template to build your own documentation with [Nuxt UI](https://ui.nuxt
 - [Live demo](https://docs-template.nuxt.dev/)
 - [Documentation](https://ui.nuxt.com/docs/getting-started/installation)
 
-<a href="https://docs-template.nuxt.dev/" target="_blank">
+<a href="https://asilturk.vercel.app/" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ui.nuxt.com/assets/templates/nuxt/docs-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://ui.nuxt.com/assets/templates/nuxt/docs-light.png">
-    <img alt="Nuxt Docs Template" src="https://ui.nuxt.com/assets/templates/nuxt/docs-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="public/preview.png">
+    <source media="(prefers-color-scheme: light)" srcset="public/preview.png">
+    <img alt="Nuxt Docs Template" src="public/preview.png">
   </picture>
 </a>
 
