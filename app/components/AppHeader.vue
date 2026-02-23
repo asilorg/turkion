@@ -5,7 +5,7 @@ import { useNavigation } from '~/composables/useNavigation'
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const { navigationByCategory } = useNavigation(navigation!)
 
-const { desktopLinks, mobileLinks } = useHeader()
+const { desktopLinks } = useHeader()
 const config = useRuntimeConfig().public
 const locales = config.i18n.locales
 
@@ -86,7 +86,7 @@ const { header } = useAppConfig()
     <template #body>
       <UNavigationMenu
         orientation="vertical"
-        :items="mobileLinks"
+        :items="desktopLinks"
         class="-mx-2.5"
       />
 
