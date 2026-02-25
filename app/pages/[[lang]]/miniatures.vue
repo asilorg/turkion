@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { MiniatureType, useMiniatures } from '~/composables/useMiniatures'
+import { WEBSITE_NAME } from '~/constants/common'
 
 const { miniature } = useMiniatures()
 const localePath = useLocalePath()
@@ -17,10 +18,10 @@ const MINIATURE = {
 }
 
 useSeoMeta({
-  titleTemplate: '%s - Nuxt UI',
+  titleTemplate: `%s - ${WEBSITE_NAME}`,
   title: page.value.title,
   description: page.value.description,
-  ogTitle: `${page.value.title} - Nuxt UI`,
+  ogTitle: `${page.value.title} - ${WEBSITE_NAME}`,
   ogDescription: page.value.description
 })
 

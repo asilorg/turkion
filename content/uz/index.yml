@@ -134,8 +134,8 @@ details:
 users:
   title: Foydalanuvchilarimiz nima deydi
   features:
-    - title: Asilbek Madiev
-      description: CEO & CTO & Founder
+    - title: Asilbek Madiyev
+      description: Asoschi va Bosh texnik direktor
       icon: i-fa-solid:user-tie
       img: /users/founder.jpg
       to: /docs/common/turkic-peoples

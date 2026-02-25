@@ -1,3 +1,5 @@
+import { WEBSITE_NAME } from '~/constants/common'
+
 export default defineAppConfig({
   toaster: {
     position: 'bottom-right' as const,
@@ -18,7 +20,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt Docs Template'
+    siteName: WEBSITE_NAME
   },
   header: {
     title: '',
@@ -32,7 +34,7 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/asilorg/asilturk',
+      'to': 'https://github.com/asilorg/turkion',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
@@ -65,11 +67,11 @@ export default defineAppConfig({
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/asilorg/asilturk/blob/main/content/',
+      edit: 'https://github.com/asilorg/turkion/blob/main/content/',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
-        to: 'https://github.com/asilorg/asilturk',
+        to: 'https://github.com/asilorg/turkion',
         target: '_blank'
       }
       ]

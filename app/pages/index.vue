@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { WEBSITE_NAME } from '~/constants/common'
+
 const { locale } = useI18n()
 const localePath = useLocalePath()
 const { data: page } = await useAsyncData('index', () => queryCollection(`index_${locale.value}`).first(), { watch: [locale] })
@@ -11,13 +13,13 @@ const title = page.value.seo?.title || page.value.title
 const description = page.value.seo?.description || page.value.description
 
 useSeoMeta({
-  titleTemplate: '',
+  titleTemplate: `%s - ${WEBSITE_NAME}`,
   title,
   ogTitle: title,
   description,
   ogDescription: description,
-  ogImage: 'https://ui.nuxt.com/assets/templates/nuxt/docs-light.png',
-  twitterImage: 'https://ui.nuxt.com/assets/templates/nuxt/docs-light.png'
+  ogImage: 'public/preview.png',
+  twitterImage: 'public/preview.png'
 })
 </script>
 

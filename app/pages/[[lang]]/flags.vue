@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { WEBSITE_NAME } from '~/constants/common'
+
 const { locale } = useI18n()
 const { data: page } = await useAsyncData('flags', () => queryCollection(`flags_${locale.value}`).first(), { watch: [locale] })
 if (!page.value) {
@@ -6,10 +8,10 @@ if (!page.value) {
 }
 
 useSeoMeta({
-  titleTemplate: '%s - Nuxt UI',
+  titleTemplate: `%s - ${WEBSITE_NAME}`,
   title: page.value.title,
   description: page.value.description,
-  ogTitle: `${page.value.title} - Nuxt UI`,
+  ogTitle: `${page.value.title} - ${WEBSITE_NAME}`,
   ogDescription: page.value.description
 })
 
