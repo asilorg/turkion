@@ -40,7 +40,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: `Copyright • © 2025 - ${new Date().getFullYear()} Asilbek Madiev`,
+    credits: `Copyright • © 2025 - ${new Date().getFullYear()} ${WEBSITE_NAME}`,
     colorMode: false,
     links: [
     //   {

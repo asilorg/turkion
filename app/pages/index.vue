@@ -29,7 +29,7 @@ useSeoMeta({
       orientation="horizontal"
       :ui="{
         container: 'pb-0 sm:pb-0 lg:py-0',
-        title: 'lg:mt-16 md:text-6xl',
+        title: 'lg:mt-16 md:text-5xl',
         links: 'lg:mb-16',
         description: 'text-balance'
       }"
@@ -38,13 +38,13 @@ useSeoMeta({
         v-if="locale === 'uz'"
         #title
       >
-        <span class="text-primary">Turk Dunyosi</span> <br> Raqamli Ensiklopediyasi
+        <span class="text-primary">Turk Dunyosi</span> <br> Ochiq Manbali<br> Raqamli <span class="text-primary">Ensiklopediyasi</span>
       </template>
       <template
         v-else
         #title
       >
-        Digital Encyclopedia <br> of the <span class="text-primary">Turkic World</span>
+        <span class="text-primary">Open-Source</span> <br>Digital Encyclopedia <br> of the <span class="text-primary">Turkic World</span>
       </template>
 
       <template #description>
@@ -274,7 +274,7 @@ useSeoMeta({
           <ULink
             v-for="miniature of page.details.miniatures"
             :key="miniature.img"
-            class="relative group/link w-[290px] xl:w-[330px] 2xl:w-[320px] 2xl:p-2"
+            class="relative group/link 2xl:w-[320px] 2xl:p-2"
             :to="localePath(miniature.to)"
           >
             <UColorModeImage
@@ -283,7 +283,7 @@ useSeoMeta({
               :alt="`${miniature.title} preview`"
               width="350"
               height="500"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125"
               loading="lazy"
             />
             <UBadge
@@ -306,7 +306,7 @@ useSeoMeta({
           <ULink
             v-for="city of page.details.cities"
             :key="city.img"
-            class="relative group/link w-[300px] xl:w-[300px] 2xl:w-[300px] 2xl:p-2"
+            class="relative group/link 2xl:p-2"
             :to="localePath(city.to)"
           >
             <UColorModeImage
@@ -315,7 +315,7 @@ useSeoMeta({
               :alt="`${city.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full w-[300px] xl:w-[300px] 2xl:w-[300px]"
               loading="lazy"
             />
             <UBadge
@@ -410,7 +410,7 @@ useSeoMeta({
             width="620"
             height="348"
             loading="lazy"
-            class="rounded-lg w-full border border-default aspect-video bg-cover"
+            class="rounded-lg border border-default bg-cover w-full"
           />
         </UPageCard>
       </UCarousel>
@@ -431,7 +431,7 @@ useSeoMeta({
           <ULink
             v-for="war of page.wars.features"
             :key="war.img"
-            class="relative group/link w-[300px] xl:w-[300px] 2xl:w-[300px] 2xl:p-2"
+            class="relative group/link  2xl:p-2"
             :to="localePath(war.to)"
           >
             <UColorModeImage
@@ -440,7 +440,7 @@ useSeoMeta({
               :alt="`${war.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px] xl:w-[300px] 2xl:w-[300px]"
               loading="lazy"
             />
             <UBadge

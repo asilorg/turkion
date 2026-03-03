@@ -135,7 +135,7 @@ users:
     title: What our users say
     features:
       - title: Asilbek Madiev
-        description: CEO & CTO & Founder
+        description: Founder & CTO
         icon: i-fa-solid:user-tie
         img: /users/founder.jpg
         to: /docs/getting-started
