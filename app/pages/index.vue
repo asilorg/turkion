@@ -41,6 +41,12 @@ useSeoMeta({
         <span class="text-primary">Turk Dunyosi</span> <br> Ochiq Manbali<br> Raqamli <span class="text-primary">Ensiklopediyasi</span>
       </template>
       <template
+        v-else-if="locale === 'ru'"
+        #title
+      >
+        <span class="text-primary">Открытая</span> <br>Цифровая Энциклопедия <br> <span class="text-primary">Тюркского Мира</span>
+      </template>
+      <template
         v-else
         #title
       >

@@ -28,7 +28,7 @@ features:
     description: A nation of neutrality, deep history, and unique traditions.
     icon: i-circle-flags:tm
     to: /docs/common/turkic-peoples
-  - title: Türkiye
+  - title: Turkey
     description: Where East meets West, a bridge between continents and a hub of dynamic growth.
     icon: i-circle-flags:lang-tr
     to: /docs/getting-started
@@ -160,7 +160,7 @@ wars:
       to: /docs/common/turkic-peoples
       img: /wars/Battle of Talas.png
     - title: Seljuk-Byzantine Wars (1048–1308)
-      description: Seljuk Empire vs. Byzantine Empire. The decisive Seljuk victory at Manzikert opened Anatolia (modern Turkey) to Turkic settlement, leading to its eventual Turkification and Islamization. This is the foundational event for the creation of modern Türkiye.
+      description: Seljuk Empire vs. Byzantine Empire. The decisive Seljuk victory at Manzikert opened Anatolia (modern Turkey) to Turkic settlement, leading to its eventual Turkification and Islamization. This is the foundational event for the creation of modern Turkey.
       to: /docs/common/turkic-peoples
       img: /wars/Seljuk-Byzantine Wars.png
     - title: Mongol Conquests (1206–1368)
@@ -184,7 +184,7 @@ wars:
       to: /docs/common/turkic-peoples
       img: /wars/Russo-Kazan Wars.png
     - title: Ottoman-Safavid Wars (1514–1639)
-      description: Ottoman Empire vs. Safavid Empire (Persia). A sectarian and geopolitical struggle between the Sunni Ottoman and Shia Safavid empires. It solidified the split of the West Asian world along Ottoman-Persian lines and established a lasting border, heavily influencing the identities of modern Türkiye, Iran, and Iraq.
+      description: Ottoman Empire vs. Safavid Empire (Persia). A sectarian and geopolitical struggle between the Sunni Ottoman and Shia Safavid empires. It solidified the split of the West Asian world along Ottoman-Persian lines and established a lasting border, heavily influencing the identities of modern Turkey, Iran, and Iraq.
       to: /docs/common/turkic-peoples
       img: /wars/Ottoman-Safavid Wars.png
     - title: Foundation of the Mughal Empire (1526)
@@ -192,7 +192,7 @@ wars:
       to: /docs/common/turkic-peoples
       img: /wars/Mughal Empire.png
     - title: The Turkish War of Independence (1919–1923)
-      description: Turkish National Movement (Ankara Government) vs. Allied Powers (Greece, France, Armenia, UK/Italy) & the Ottoman Sultanate. Led by Mustafa Kemal Atatürk, this conflict followed WWI and prevented the partition of Anatolia by Allied powers. It resulted in the abolition of the Ottoman Sultanate and the establishment of the Republic of Türkiye as a modern, secular nation-state.
+      description: Turkish National Movement (Ankara Government) vs. Allied Powers (Greece, France, Armenia, UK/Italy) & the Ottoman Sultanate. Led by Mustafa Kemal Atatürk, this conflict followed WWI and prevented the partition of Anatolia by Allied powers. It resulted in the abolition of the Ottoman Sultanate and the establishment of the Republic of Turkey as a modern, secular nation-state.
       to: /docs/common/turkic-peoples
       img: /wars/The Turkish War of Independence.png
 

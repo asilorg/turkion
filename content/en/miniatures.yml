@@ -22,7 +22,6 @@ timur_miniatures:
       - img: /miniatures/timurid/Sharaf_al-Din_Ali_Yazdi._Timur_Besieges_the_Georgian_Castle_of_Gortin._Miniature_manuscripts_(15th_century).jpg
         url:
         name: Timur Besieges Georgian Castle of Gortin
-
       - img: /miniatures/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(right).jpg
         url:
         name: Timur's Accession Audience
@@ -420,7 +419,7 @@ mughal_miniatures:
       - img: /miniatures/mughal/18_Abu'l_Hasan._Portrait_of_Jahangir,_1615-20,_Metropolitan_Museum_of_Art,_New-York.jpg
         name: Portrait of Jahangir
         url:
-      - img: /miniatures/mughal/20_Abu'l_Hasan._Prince_Khurram,_ca._1616-1617,_Victoria_and_Albert_Museum,_London.jpg
+      - img: /miniatures/mughal/Prince_Khurram.jpg
         name: Prince Khurram
         url:
       - img: /miniatures/mughal/51_The_Crucifixion_With_The_Virgin_And_St._John_ca._1600,_Aga_Khan_Museum,_Geneva.jpg

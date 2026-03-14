@@ -53,7 +53,8 @@ export default defineNuxtConfig({
   i18n: {
     locales: [
       { code: 'en', name: 'English', language: 'en', file: 'en.json' },
-      { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' }
+      { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' },
+      { code: 'ru', name: 'Русский', language: 'ru', file: 'ru.json' }
     ],
     strategy: 'prefix',
     defaultLocale: 'en'
@@ -76,14 +77,21 @@ export default defineNuxtConfig({
         title: 'Getting Started',
         contentCollection: 'docs_en',
         contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/getting-started%' }
+          { field: 'path', operator: 'LIKE', value: '/getting-started' }
         ]
       },
       {
         title: 'Explore',
         contentCollection: 'docs_en',
         contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/common%' }
+          { field: 'path', operator: 'LIKE', value: '/common' }
+        ]
+      },
+      {
+        title: 'Исследовать ',
+        contentCollection: 'docs_ru',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/common' }
         ]
       }
     ]
