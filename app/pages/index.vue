@@ -283,7 +283,7 @@ useSeoMeta({
               :alt="`${miniature.title} preview`"
               width="350"
               height="500"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125 bg-cover"
               loading="lazy"
             />
             <UBadge
@@ -403,9 +403,8 @@ useSeoMeta({
             leadingIcon: 'text-highlighted'
           }"
         >
-          <UColorModeImage
-            :light="item.img"
-            :dark="item.img"
+          <NuxtImg
+            :src="item.img"
             :alt="`Template ${item.title} screenshot`"
             width="620"
             height="348"
