@@ -315,7 +315,7 @@ useSeoMeta({
               :alt="`${city.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full w-[300px] xl:w-[300px] 2xl:w-[300px]"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"
               loading="lazy"
             />
             <UBadge
@@ -439,7 +439,7 @@ useSeoMeta({
               :alt="`${war.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px] xl:w-[300px] 2xl:w-[300px]"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"
               loading="lazy"
             />
             <UBadge

@@ -63,10 +63,6 @@ export default defineNuxtConfig({
     provider: 'iconify'
   },
 
-  image: {
-    provider: 'ipx'
-  },
-
   llms: {
     domain: 'https://docs-template.nuxt.dev/',
     title: 'Nuxt Docs Template',

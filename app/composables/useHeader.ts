@@ -33,7 +33,7 @@ export function useHeader() {
   const mobileLinks = computed(() => [{
     label: 'Get Started',
     icon: 'i-lucide-square-play',
-    to: localePath('/expore'),
+    to: localePath('/explore'),
     active: route.path.startsWith('/docs/getting-started')
   }, {
     label: 'Components',
@@ -76,7 +76,7 @@ export function useHeader() {
     to: localePath('/releases')
   }, {
     label: 'GitHub',
-    to: 'https://github.com/nuxt/ui',
+    to: 'https://github.com/asilorg/turkion',
     icon: 'i-simple-icons-github',
     target: '_blank'
   }])

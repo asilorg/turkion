@@ -1,32 +1,32 @@
 {
-  "banner": "Biz olimlarni, talabalarni, kelajakni ko‘ruvchilarni va investorlarni taklif qilmoqdamiz. Keling, merosni birgalikda shakllantiramiz.",
+  "banner": "Biz olimlarni, talabalarni, kelajakni ko'ruvchilarni va investorlarni taklif qilmoqdamiz. Keling, merosni birgalikda shakllantiramiz.",
   "contact": "Muallif bilan aloqa",
   "navigation": {
-    "explore":  "Tadqiq qilish",
+    "explore": "Tadqiq qilish",
     "timeline": "Vaqt jadvali",
-    "flags":  "Bayroqlar",
+    "flags": "Bayroqlar",
     "miniatures": "Miniaturalar",
-    "blog":  "Blog",
+    "blog": "Blog",
     "people": "Odamlar"
   },
   "common": {
-		"or": "veya",
-		"error": {
-			"title": "Sayfa bulunamadı",
-			"description": "Üzgünüz, bu sayfa bulunamadı."
-		}
-	},
-	"docs": {
-		"copy": {
-			"page": "Sayfayı kopyala",
-			"link": "Markdown bağlantısını kopyala",
-			"view": "Markdown olarak görüntüle",
-			"gpt": "ChatGPT'de aç",
-			"claude": "Claude'da aç"
-		},
-		"links": "Topluluk",
-		"toc": "Bu sayfada",
-		"report": "Sorun bildir",
-		"edit": "Bu sayfayı düzenle"
-	}
+    "or": "yoki",
+    "error": {
+      "title": "Sahifa topilmadi",
+      "description": "Kechirasiz, ushbu sahifa topilmadi."
+    }
+  },
+  "docs": {
+    "copy": {
+      "page": "Sahifani nusxalash",
+      "link": "Markdown havolasini nusxalash",
+      "view": "Markdown sifatida ko'rish",
+      "gpt": "ChatGPT'da ochish",
+      "claude": "Claude'da ochish"
+    },
+    "links": "Jamiyat",
+    "toc": "Ushbu sahifada",
+    "report": "Muammoni bildirish",
+    "edit": "Ushbu sahifani tahrirlash"
+  }
 }
