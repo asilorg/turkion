@@ -65,7 +65,6 @@ provide('navigation', navigation)
 
     <ClientOnly>
       <LazyUContentSearch
-        label="Search123"
         :files="files"
         :navigation="navigation"
       />

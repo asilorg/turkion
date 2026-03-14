@@ -53,7 +53,8 @@ export default defineNuxtConfig({
   i18n: {
     locales: [
       { code: 'en', name: 'English', language: 'en', file: 'en.json' },
-      { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' }
+      { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' },
+      { code: 'ru', name: 'Русский', language: 'ru', file: 'ru.json' }
     ],
     strategy: 'prefix',
     defaultLocale: 'en'
@@ -64,26 +65,33 @@ export default defineNuxtConfig({
   },
 
   llms: {
-    domain: 'https://docs-template.nuxt.dev/',
-    title: 'Nuxt Docs Template',
-    description: 'A template for building documentation with Nuxt UI and Nuxt Content.',
+    domain: 'https://turkion.org/',
+    title: 'Turkion',
+    description: 'Open-source digital encyclopedia of the Turkic world.',
     full: {
-      title: 'Nuxt Docs Template - Full Documentation',
-      description: 'This is the full documentation for the Nuxt Docs Template.'
+      title: 'Turkion - Full Documentation',
+      description: 'Full documentation for Turkion — the open-source digital encyclopedia of the Turkic world.'
     },
     sections: [
       {
         title: 'Getting Started',
         contentCollection: 'docs_en',
         contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/getting-started%' }
+          { field: 'path', operator: 'LIKE', value: '/getting-started' }
         ]
       },
       {
-        title: 'Explore timeline',
+        title: 'Explore',
         contentCollection: 'docs_en',
         contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/essentials%' }
+          { field: 'path', operator: 'LIKE', value: '/common' }
+        ]
+      },
+      {
+        title: 'Исследовать ',
+        contentCollection: 'docs_ru',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/common' }
         ]
       }
     ]

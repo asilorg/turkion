@@ -41,6 +41,12 @@ useSeoMeta({
         <span class="text-primary">Turk Dunyosi</span> <br> Ochiq Manbali<br> Raqamli <span class="text-primary">Ensiklopediyasi</span>
       </template>
       <template
+        v-else-if="locale === 'ru'"
+        #title
+      >
+        <span class="text-primary">Открытая</span> <br>Цифровая Энциклопедия <br> <span class="text-primary">Тюркского Мира</span>
+      </template>
+      <template
         v-else
         #title
       >
@@ -283,7 +289,7 @@ useSeoMeta({
               :alt="`${miniature.title} preview`"
               width="350"
               height="500"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125 bg-cover"
               loading="lazy"
             />
             <UBadge
@@ -315,7 +321,7 @@ useSeoMeta({
               :alt="`${city.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-full w-[300px] xl:w-[300px] 2xl:w-[300px]"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"
               loading="lazy"
             />
             <UBadge
@@ -403,9 +409,8 @@ useSeoMeta({
             leadingIcon: 'text-highlighted'
           }"
         >
-          <UColorModeImage
-            :light="item.img"
-            :dark="item.img"
+          <NuxtImg
+            :src="item.img"
             :alt="`Template ${item.title} screenshot`"
             width="620"
             height="348"
@@ -440,7 +445,7 @@ useSeoMeta({
               :alt="`${war.title} preview`"
               width="300"
               height="300"
-              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px] xl:w-[300px] 2xl:w-[300px]"
+              class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"
               loading="lazy"
             />
             <UBadge

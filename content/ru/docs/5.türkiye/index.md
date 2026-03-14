@@ -1,8 +1,8 @@
 ---
-title: Turkiya
+title: Турция
 description:
 navigation:
   icon: i-openmoji:flag-turkey
 ---
 
-## Coming Soon
+## Скоро
