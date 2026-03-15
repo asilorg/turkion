@@ -415,7 +415,7 @@ useSeoMeta({
             width="620"
             height="348"
             loading="lazy"
-            class="rounded-lg border border-default bg-cover"
+            class="rounded-lg border border-default bg-cover h-[348px] w-[620px]"
           />
         </UPageCard>
       </UCarousel>

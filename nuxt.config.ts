@@ -65,7 +65,7 @@ export default defineNuxtConfig({
   },
 
   image: {
-    provider: 'vercel'
+    provider: process.env.NODE_ENV === 'production' ? 'vercel' : 'ipx'
   },
 
   llms: {
