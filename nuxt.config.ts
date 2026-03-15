@@ -60,6 +60,10 @@ export default defineNuxtConfig({
     defaultLocale: 'en'
   },
 
+  image: {
+    provider: 'vercel'
+  },
+
   icon: {
     provider: 'iconify'
   },
