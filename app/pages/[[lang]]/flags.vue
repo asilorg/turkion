@@ -73,9 +73,6 @@ defineOgImageComponent('Docs')
               :alt="`Screenshot of ${item.name}`"
               width="327"
               height="184"
-              :modifiers="{
-                position: 'top'
-              }"
               class="aspect-[16/9] size-full group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"
             />
 

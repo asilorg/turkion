@@ -84,9 +84,6 @@ defineOgImageComponent('Docs')
               :zoom="true"
               :src="item.img"
               :alt="`Screenshot of ${item.name}`"
-              :modifiers="{
-                position: 'top'
-              }"
               class="group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"
             />
 

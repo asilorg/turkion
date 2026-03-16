@@ -64,6 +64,10 @@ export default defineNuxtConfig({
     provider: 'iconify'
   },
 
+  image: {
+    provider: process.env.NODE_ENV === 'production' ? 'vercel' : 'ipx'
+  },
+
   llms: {
     domain: 'https://turkion.org/',
     title: 'Turkion',
