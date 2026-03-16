@@ -16,12 +16,12 @@ Package manager is **pnpm**. There are no tests — CI runs lint and typecheck o
 
 ## Architecture
 
-**Turkion** is a Nuxt 4 (Vue 3) digital encyclopedia of the Turkic world. It is a content-driven, SSR site with dual-language support (English and Uzbek).
+**Turkion** is a Nuxt 4 (Vue 3) digital encyclopedia of the Turkic world. It is a content-driven, SSR site with tri-language support (English, Uzbek, Russian).
 
 ### Key layers
 
-- **`app/pages/`** — File-based routing. `index.vue` is the home page; all other routes live under `[[lang]]/` for i18n prefix routing (`/en/*`, `/uz/*`). Default locale is English.
-- **`content/`** — All site content stored as YAML and Markdown files, organized by locale (`content/en/`, `content/uz/`). Managed via Nuxt Content v3 with 11 typed collections defined in `content.config.ts` (index, docs, timeline, flags, blog, people, miniatures, templates, community, team, releases).
+- **`app/pages/`** — File-based routing. `index.vue` is the home page; all other routes live under `[[lang]]/` for i18n prefix routing (`/en/*`, `/uz/*`, `/ru/*`). Default locale is English.
+- **`content/`** — All site content stored as YAML and Markdown files, organized by locale (`content/en/`, `content/uz/`, `content/ru/`). Managed via Nuxt Content v3 with 11 typed collections per locale defined in `content.config.ts` (index, docs, timeline, flags, blog, people, miniatures, templates, community, team, releases). Collections are named with locale suffix e.g. `docs_en`, `docs_uz`, `docs_ru`.
 - **`app/components/`** — Vue components, grouped by feature (e.g. `home/`, `content/`, `OgImage/`).
 - **`app/composables/`** — Shared logic: `useNavigation.ts`, `useHeader.ts`, `useMiniatures.ts`, `useFrameworks.ts`.
 - **`app/app.config.ts`** — App-level runtime config: UI colors, header/footer links, SEO defaults, TOC settings.
@@ -33,13 +33,16 @@ Package manager is **pnpm**. There are no tests — CI runs lint and typecheck o
 
 | Module | Role |
 |--------|------|
-| `@nuxt/content` | Markdown/YAML CMS with typed collections |
-| `@nuxtjs/i18n` | Locale prefix routing and translation |
+| `@nuxt/content` | Markdown/YAML CMS with typed collections (native SQLite connector) |
+| `@nuxtjs/i18n` | Locale prefix routing and translation (en, uz, ru) |
 | `@nuxt/ui` + Tailwind CSS 4 | Component library and styling |
-| `@nuxt/image` | Optimized image handling |
+| `@nuxt/image` | Optimized image handling (`vercel` provider in prod, `ipx` in dev) |
 | `nuxt-og-image` | Dynamic OG image generation (requires `NUXT_PUBLIC_SITE_URL`) |
-| `nuxt-llms` + `@nuxtjs/mcp-toolkit` | LLM/MCP integration |
+| `nuxt-llms` | LLM integration (exposes `/llms.txt` and `/llms-full.txt`) |
+| `@nuxtjs/mcp-toolkit` | MCP server integration |
+| `nuxt-component-meta` | Component metadata extraction |
 | `motion-v/nuxt` | Animations |
+| `@vercel/analytics` | Vercel Analytics |
 
 ### Environment
 
