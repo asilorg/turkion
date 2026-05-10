@@ -1,5 +1,5 @@
 ---
-title: Turkic peoples
+title: Тюркские народы
 description:
 ---
 
@@ -796,4 +796,3 @@ The kokpar began with the nomadic Turkic peoples who have come from farther nort
 332. Burak, Sansal. "Turkish Jereed (Javelin)". All About Turkey. Retrieved 16 November 2016.
 333. Christensen, karen; Levinson, David (1999). Encyclopedia of World Sport: From Ancient Times to the Present. Oxford University Press. ISBN 978-0-19-513195-6.
 334. "ДЖИГИТ". dic.academic.ru (in Russian).
-

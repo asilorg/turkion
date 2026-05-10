@@ -436,7 +436,7 @@ useSeoMeta({
           <ULink
             v-for="war of page.wars.features"
             :key="war.img"
-            class="relative group/link  2xl:p-2"
+            class="relative group/link 2xl:p-2"
             :to="localePath(war.to)"
           >
             <UColorModeImage
