@@ -11,7 +11,11 @@ export default eventHandler(async (event) => {
 
   const path = withLeadingSlash(slug.replace('.md', ''))
 
-  const page = await queryCollection(event, 'docs' as keyof Collections).path(path).first()
+  const localeMatch = path.match(/^\/(en|uz|ru)(?=\/)/)
+  const locale = localeMatch?.[1] ?? 'en'
+  const collection = `docs_${locale}` as keyof Collections
+
+  const page = await queryCollection(event, collection).path(path).first()
   if (!page) {
     throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
   }

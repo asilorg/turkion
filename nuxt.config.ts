@@ -92,7 +92,7 @@ export default defineNuxtConfig({
         ]
       },
       {
-        title: 'Исследовать ',
+        title: 'Исследовать',
         contentCollection: 'docs_ru',
         contentFilters: [
           { field: 'path', operator: 'LIKE', value: '/common' }
