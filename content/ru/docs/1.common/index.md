@@ -7,8 +7,8 @@ description: Статьи энциклопедии, охватывающие н�
 
 ## Статьи
 
-- [Тюркские народы](/docs/common/turkic-peoples)
-- [Навруз](/docs/common/navruz)
-- [Тюркская кухня](/docs/common/turkic-cuisine)
+- [Тюркские народы](/ru/docs/common/turkic-peoples)
+- [Навруз](/ru/docs/common/navruz)
+- [Тюркская кухня](/ru/docs/common/turkic-cuisine)
 
 Редакционные правила для авторов — в файле репозитория `content/EDITORIAL-RUBRIC.md`.

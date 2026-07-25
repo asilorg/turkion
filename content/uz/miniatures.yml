@@ -31,20 +31,6 @@ timur_miniatures:
       - img: /miniatures/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg
         url:
         name: Umar Shayx qo‘mondonligidagi Temur qo‘shinining Urganchga hujumi
-      - img: /miniatures/abd-al-razzak/Muhammad_and_the_Angel_Gabriel_by_Abd_al-Razzak.jpg
-        url:
-        name: Muhammad (s.a.v.) va Jabroil farishta
-      - img: /miniatures/anthology-of-sultan-iskandar/Bahram_Ghur_in_the_corridor_of_the_seven_images,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Bahrom Go‘r yetti go‘zal dahlizida
-      - img: /miniatures/anthology-of-sultan-iskandar/Before_and_after_rescue_from_water_damage._Frontispiece_of_the_Anthology_of_Sultan_Iskandar_(MCG,_LA161).jpg
-        name: Sulton Iskandar antologiyasining frontispisi
-        url:
-      - img: /miniatures/anthology-of-sultan-iskandar/Iskandar_observing_bathing_sirens._1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Iskandar cho‘milayotgan parilarni kuzatmoqda
-      - img: /miniatures/anthology-of-sultan-iskandar/Iskander_Anthology_-_Iskander_imprison_Darab.png
-        name: Iskandarning Dorobni asirga olishi
-      - img: /miniatures/anthology-of-sultan-iskandar/Prisoners_brought_before_Khosrow,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Asirlarning Xusrav huzuriga keltirilishi
       - img: /miniatures/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg
         url:
         name: Shoir qozi sudida
@@ -176,7 +162,7 @@ timur_miniatures:
         name: Layli va Majnun maktabda
       - img: /miniatures/timurid/_Dancing_Dervishes_,_Folio_from_a_Divan_of_Hafiz_MET_DP231332.jpg
         url:
-        name: Raksga tushayotgan darvishlar
+        name: Raqsga tushayotgan darvishlar
 
 ottoman_miniatures:
   - title: Usmoniylar miniatyuralari
@@ -213,10 +199,10 @@ ottoman_miniatures:
         name: Barbarossa floti Tulonda, 1543
       - img: /miniatures/ottoman/BASA-822K-1-77-17a-Shahnameh_-_Shemailname-al-Osman.jpg
         url:
-        name: Shohoma - Shemailname al-Osman
+        name: Shohnoma - Shemailname al-Osman
       - img: /miniatures/ottoman/BASA-822K-1-77-18-Shahnameh_-_Shemailname-al-Osman.jpg
         url:
-        name: Shohoma - Shemailname al-Osman (Portret)
+        name: Shohnoma - Shemailname al-Osman (Portret)
       - img: /miniatures/ottoman/Bataille_de_Siffîn.png
         url:
         name: Siffin jangi
@@ -836,7 +822,7 @@ mughal_miniatures:
         name: Sulton Sanjar va kampir
         url:
       - img: /miniatures/mughal/Sunset_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg
-        name: Qun botishi sahnasi
+        name: Kun botishi sahnasi
         url:
       - img: /miniatures/mughal/The_battle_of_Mazandaran.jpg
         name: Mozandaron jangi

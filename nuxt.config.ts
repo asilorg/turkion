@@ -12,8 +12,9 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n'
   ],
 
+  // Devtools file watchers hit EMFILE in ~/.cursor/worktrees on macOS
   devtools: {
-    enabled: true
+    enabled: false
   },
 
   css: ['~/assets/css/main.css'],
@@ -81,7 +82,7 @@ export default defineNuxtConfig({
         title: 'Getting Started',
         contentCollection: 'docs_en',
         contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/getting-started' }
+          { field: 'path', operator: 'LIKE', value: '/essentials' }
         ]
       },
       {

@@ -31,7 +31,7 @@ features:
   - title: Turkey
     description: Where East meets West, a bridge between continents and a hub of dynamic growth.
     icon: i-circle-flags:lang-tr
-    to: /docs/getting-started
+    to: /docs/common
   - title: Kazakhstan
     description: The land of the Great Steppe, a nation of vast resources and ambitious vision.
     icon: i-circle-flags:kz
@@ -98,37 +98,37 @@ details:
       img: /miniatures/index/Taqi_al_din.jpg
   cities:
     - title: Kazan
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/kazan.png
     - title: Almaty
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/almaty.png
     - title: Istanbul
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/istanbul.png
     - title: Mazar-e-Sharif
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/mazar-e-sharif.png
     - title: Tashkent
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/tashkent.png
-    - title: Baky
-      to: /docs/getting-started
+    - title: Baku
+      to: /docs/common
       img: /cities/baku.png
     - title: Astana
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/astana.png
     - title: Ashgabat
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/ashgabat.png
     - title: Ankara
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/ankara.png
     - title: Urumqi
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/urumqi.png
     - title: Astana
-      to: /docs/getting-started
+      to: /docs/common
       img: /cities/astana.png
 
 users:
@@ -138,7 +138,7 @@ users:
         description: Founder & CTO
         icon: i-fa-solid:user-tie
         img: /users/founder.jpg
-        to: /docs/getting-started
+        to: /docs/common
         quote: This project started as a personal dream to connect the Turkic world. Seeing it grow into a collaborative, community-driven knowledge hub is incredible. Every contribution, big or small, helps us build a lasting legacy for future generations.
       - title: For Investors
         quote: Diversify your portfolio by investing in the next bestseller and sharing in its financial success.
@@ -156,7 +156,7 @@ wars:
   title: Wars, Battles & Armed Conflicts
   features:
     - title: Battle of Talas (751 CE)
-      description: Abbasid Caliphate (with Karluk Turks) vs. Tang Dynasty China. A pivotal engagement in Central Asia that halted eastward Chinese expansion and allowed for the westward spread of Islam among Turkic peoples. It is also famous for the transfer of papermaking technology from China to the Muslim world.
+      description: Abbasid Caliphate (with Karluk Turks) vs. Tang Dynasty China. A pivotal engagement in Central Asia that halted westward Chinese expansion and allowed for the westward spread of Islam among Turkic peoples. It is also famous for the transfer of papermaking technology from China to the Muslim world.
       to: /docs/common/turkic-peoples
       img: /wars/Battle of Talas.png
     - title: Seljuk-Byzantine Wars (1048–1308)
@@ -213,47 +213,38 @@ gallery:
       to: /docs/
       img: /turkestan-series/vereshagin-war-apopheos.jpg
     - title: They are Triumphant, 1872, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/torzhestvo.jpg
     - title: They Attack Unaware, 1871, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/Wassilij_Wassiljewitsch_Wereschtschagin_002.jpg
     - title: Envoys. "Surrender!" — "Go to hell!", 1873, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/envoys.jpg
     - title: At the Fortress Walls. Let them Enter, 1871, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/bitva.jpg
     - title: Kyrgyz tent on the Chu River, 1869—1870, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/kirgizya.jpg
     - title: They are spying on the enemy, 1873, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/looking-around.jpg
     - title: Mullah Rahim and Mullah Kerim on his way to the bazaar are quarreling, 1873, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/mulla.jpg
     - title: Shir Dor madrasah in Registan Square in Samarkand, 1869 - 1870, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/Sherdor.jpg
     - title: Mausoleum of Shah-i-Zinda in Samarkand, 1869 - 1870, Oil on canvas
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/shah-i-zinda.jpg
@@ -262,27 +253,27 @@ countries:
   title: Wars, Battles & Armed Conflicts
   features:
     - title: 'Uzbekistan'
-      to: '/flags#uzbekistan'
+      to: '/flags'
       img: '/flags/uz.svg'
 
     - title: 'Kazakhstan'
-      to: '/flags#kazakhstan'
+      to: '/flags'
       img: '/flags/kz.svg'
 
     - title: 'Azerbaijan'
-      to: '/flags#azerbaijan'
+      to: '/flags'
       img: '/flags/az.svg'
 
     - title: 'Kyrgyzstan'
-      to: '/flags#kyrgyzstan'
+      to: '/flags'
       img: '/flags/kg.svg'
 
     - title: 'Turkmenistan'
-      to: '/flags#turkmenistan'
+      to: '/flags'
       img: '/flags/tm.svg'
 
     - title: 'Turkey'
-      to: '/flags#turkey'
+      to: '/flags'
       img: '/flags/tr.svg'
 
 
@@ -290,39 +281,39 @@ historyCountries:
   title: Wars, Battles & Armed Conflicts
   features:
     - title: 'Emirate of Bukhara'
-      to: '/flags#emirate-of-bukhara'
+      to: '/flags'
       img: '/history-flags/bukhara.svg'
 
     - title: 'Bayat'
-      to: '/flags#bayat'
+      to: '/flags'
       img: '/history-flags/bayat.svg'
 
     - title: 'Young turks'
-      to: '/flags#young-turk'
+      to: '/flags'
       img: '/history-flags/young_turk.svg'
 
     - title: 'Gagauz'
-      to: '/flags#gagauz'
+      to: '/flags'
       img: '/history-flags/gagauz.svg'
 
     - title: 'Gokturk'
-      to: '/flags#gokturk'
+      to: '/flags'
       img: '/history-flags/gokturk.svg'
 
     - title: 'Nogai'
-      to: '/flags#nogai'
+      to: '/flags'
       img: '/history-flags/nogai.svg'
 
     - title: 'Uyghur'
-      to: '/flags#uyghur'
+      to: '/flags'
       img: '/history-flags/uyghur.svg'
 
     - title: 'Khalaj'
-      to: '/flags#Khalaj'
+      to: '/flags'
       img: '/history-flags/khalaj.svg'
 
     - title: 'Zangezur'
-      to: '/flags#zangezur'
+      to: '/flags'
       img: '/history-flags/zangezur.svg'
 
 community:
@@ -337,5 +328,5 @@ community:
     - label: Meet the team
       color: neutral
       variant: outline
-      to: /team
+      to: /people
       trailingIcon: i-lucide-arrow-right
