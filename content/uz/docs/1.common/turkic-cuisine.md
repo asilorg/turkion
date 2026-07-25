@@ -28,4 +28,4 @@ Markaziy Osiyo va Ozarbayjonda koʻpincha qora choy, koʻpincha quyuq va shirin,
 ## Ensiklopediyada boshqa oʻqish
 
 - [Navruz](/uz/docs/common/navruz) — mavsumiy bayram taomlari.
-- [Oʻzbekiston oshxonasi](/uz/docs/7.uzbekistan/gastronomy) — mamlakat boʻyicha batafsil misol.
+- [Oʻzbekiston oshxonasi](/uz/docs/uzbekistan/gastronomy) — mamlakat boʻyicha batafsil misol.

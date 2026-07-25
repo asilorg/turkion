@@ -7,6 +7,6 @@ description: Oʻzbekiston boʻyicha ensiklopediya maqolalari — jamiyat, madani
 
 ## Ushbu boʻlimda
 
-- [Oʻzbekiston oshxonasi](/uz/docs/7.uzbekistan/gastronomy)
+- [Oʻzbekiston oshxonasi](/uz/docs/uzbekistan/gastronomy)
 
 Tarix, shaharlar va zamonaviy Oʻzbekiston boʻyicha qoʻshimcha maqolalar keyinroq qoʻshiladi.

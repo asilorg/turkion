@@ -25,7 +25,7 @@ hero:
       description: "Sibir chuqurlaridan O'rta dengiz sohillarigacha — turk dunyosini shakllantirgan xalqlar va madaniyatlarni kashf eting. Sizni boy va o'zaro bog'langan merosga olib boradigan har tomonlama qo'llanma kuting."
 features:
   - title: Turkmaniston
-    description: Bitaraf millat, chuqur tarix va noyof an'analar mamlakati.
+    description: Bitaraf millat, chuqur tarix va noyob an'analar mamlakati.
     icon: i-circle-flags:tm
     to: /docs/common/turkic-peoples
   - title: Turkiya
@@ -41,7 +41,7 @@ features:
     icon: i-circle-flags:lang-uz
     to: /docs/common/turkic-peoples
   - title: Ozarbayjon
-    description: Qadimgi Buyuk Ipak yo‘li sivilizatsiyasining beshigi, Samarqand va Buxoro kabi afsonaviy shaharlar vatani.
+    description: Olovlar diyori — qadimiy zardushtiylik merosi zamonaviy energetika salohiyati bilan uyg‘unlashgan yurt.
     icon: i-circle-flags:lang-az
     to: /docs/common/turkic-peoples
   - title: Qirg'iziston
@@ -103,7 +103,7 @@ details:
     - title: Olmaota
       to: /docs/common/turkic-peoples
       img: /cities/almaty.png
-    - title: Istambul
+    - title: Istanbul
       to: /docs/common/turkic-peoples
       img: /cities/istanbul.png
     - title: Mazori Sharif
@@ -156,7 +156,7 @@ wars:
   title: Urushlar, Janglar va Qurolli Mojarolar
   features:
   - title: Talas jangi (751 milodiy)
-    description: Abbosiylar xalifaligi (Qarluqlar bilan) va Tan sulolasi (Xitoy) o'rtasidagi jang. Bu Markaziy Osiyodagi hal qiluvchi to'qnashuv bo'lib, Xitoyning sharqqa kengayishini to'xtatdi va turkiy xalqlar orasida Islom dinining g'arbga tarqalishiga imkon berdi. Shuningdek, bu jang qog'oz ishlab chiqarish texnologiyasining Xitoydan musulmon olamiga o'tishi bilan mashhur.
+    description: Abbosiylar xalifaligi (Qarluqlar bilan) va Tan sulolasi (Xitoy) o'rtasidagi jang. Bu Markaziy Osiyodagi hal qiluvchi to'qnashuv bo'lib, Xitoyning g‘arbga kengayishini to'xtatdi va turkiy xalqlar orasida Islom dinining g'arbga tarqalishiga imkon berdi. Shuningdek, bu jang qog'oz ishlab chiqarish texnologiyasining Xitoydan musulmon olamiga o'tishi bilan mashhur.
     to: /docs/common/turkic-peoples
     img: /wars/Battle of Talas.png
   - title: Saljuqiylar-Bizans urushlari (1048–1308)
@@ -208,51 +208,43 @@ gallery:
       description: |
         Apoteozda taqir yerga o'rnatilgan inson bosh suyaklari to'plami, jang yoki qamal oqibatlari tasvirlangan. Ko'rinib turibdiki, o'lik qushlar to'dasi qoziqni terish bilan band; ba'zi qushlar allaqachon qo'ngan, boshqalari esa yaqin atrofdagi daraxtlarga uchib ketishadi yoki o'tirishadi. Ularning ostidagi zamin qisman oqartirilgan bosh suyagining iflos fil suyagi rangini to'ldiruvchi o't bilan qoplangan so'qmoq, tuproqli sariqdir. Tepalikdan tushgan soya, bo'sh jag'lar va ko'z teshiklari tomonidan yaratilgan ko'plab qora teshiklar bilan birgalikda rasmga chuqurlik hissi qo'shib, o'lim qozig'ining ko'lamini yanada kuchaytiradi.
 
-        Tog‘lar qatori rasm uchun ajratuvchi chiziq bo‘lib xizmat qiladi, cho‘llarning bepoyonini osmon bo‘shlig‘idan ajratib turadi, rasmning o‘ng tomonida esa Samarqand shahri ko‘rinadi. Shahar devorlari yaqqol buzilib ketgan, bu 1868 yil yozida rus garnizoni buxoriylar hujumini qaytargan Samarqand qamaliga ishora. Asar ramkasida Vereshchagin rasmni "barcha buyuk bosqinchilarga, o'tmishdagi, hozirgi va kelajakka" bag'ishlaganligini yozgan.      icon: i-streamline-plump-color:painting-board-flat
+        Tog‘lar qatori rasm uchun ajratuvchi chiziq bo‘lib xizmat qiladi, cho‘llarning bepoyonini osmon bo‘shlig‘idan ajratib turadi, rasmning o‘ng tomonida esa Samarqand shahri ko‘rinadi. Shahar devorlari yaqqol buzilib ketgan, bu 1868 yil yozida rus garnizoni buxoriylar hujumini qaytargan Samarqand qamaliga ishora. Asar ramkasida Vereshchagin rasmni "barcha buyuk bosqinchilarga, o'tmishdagi, hozirgi va kelajakka" bag'ishlaganligini yozgan.
+      icon: i-streamline-plump-color:painting-board-flat
       to: /docs/
       img: /turkestan-series/vereshagin-war-apopheos.jpg
     - title: Ular "Zafar", 1872 yil, "Tuvalga moy"
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/torzhestvo.jpg
     - title: “Ular bexabar hujum”, 1871, Tuvalga moy
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/Wassilij_Wassiljewitsch_Wereschtschagin_002.jpg
     - title: Elchilar. "Taslim bo'l!" - "Do'zaxga bor!", 1873, Tuvalga moy
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/envoys.jpg
     - title: Qal'a devorlarida. Ularga kirishga ruxsat bering, 1871, Tuvalga moy.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/bitva.jpg
     - title: Chu daryosidagi qirgʻiz chodiri, 1869—1870, Tuvalga moyli.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/kirgizya.jpg
     - title: Ular dushmanga josuslik qilmoqdalar, 1873 yil, Tuvalga moy.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/looking-around.jpg
     - title: Mulla Rahim va Mulla Kerim bozorga ketayotib janjallashmoqda, 1873, Tuvalga moyli.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/mulla.jpg
     - title: Samarqanddagi Registon maydonidagi Shir Dor madrasasi, 1869 - 1870, Tuvalga moyli.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/Sherdor.jpg
     - title: Samarqanddagi Shoh-i-Zinda maqbarasi, 1869 - 1870, Tuvalga moyli.
-      description: qwe
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/shah-i-zinda.jpg
@@ -262,66 +254,66 @@ countries:
   title:
   features:
     - title: O'zbekiston
-      to: '/flags#uzbekistan'
+      to: '/flags'
       img: '/flags/uz.svg'
 
     - title: Qozog'iston
-      to: '/flags#kazakhstan'
+      to: '/flags'
       img: '/flags/kz.svg'
 
     - title: Ozarbayjon
-      to: '/flags#azerbaijan'
+      to: '/flags'
       img: '/flags/az.svg'
 
     - title: Qirg'iziston
-      to: '/flags#kyrgyzstan'
+      to: '/flags'
       img: '/flags/kg.svg'
 
     - title: Turkmaniston
-      to: '/flags#turkmenistan'
+      to: '/flags'
       img: '/flags/tm.svg'
 
     - title: Turkiya
-      to: '/flags#turkey'
+      to: '/flags'
       img: '/flags/tr.svg'
 
 historyCountries:
   title:
   features:
     - title: 'Buxoro amirligi'
-      to: '/flags#emirate-of-bukhara'
+      to: '/flags'
       img: '/history-flags/bukhara.svg'
 
     - title: 'Bayat'
-      to: '/flags#bayat'
+      to: '/flags'
       img: '/history-flags/bayat.svg'
 
     - title: 'Yosh turklar'
-      to: '/flags#young-turk'
+      to: '/flags'
       img: '/history-flags/young_turk.svg'
 
     - title: 'Gagauz'
-      to: '/flags#gagauz'
+      to: '/flags'
       img: '/history-flags/gagauz.svg'
 
     - title: 'Göktürk'
-      to: '/flags#gokturk'
+      to: '/flags'
       img: '/history-flags/gokturk.svg'
 
     - title: 'Nogʻay'
-      to: '/flags#nogai'
+      to: '/flags'
       img: '/history-flags/nogai.svg'
 
     - title: 'Uygʻur'
-      to: '/flags#uyghur'
+      to: '/flags'
       img: '/history-flags/uyghur.svg'
 
     - title: 'Xalaj'
-      to: '/flags#Khalaj'
+      to: '/flags'
       img: '/history-flags/khalaj.svg'
 
     - title: 'Zangezur'
-      to: '/flags#zangezur'
+      to: '/flags'
       img: '/history-flags/zangezur.svg'
 
 community:
@@ -336,5 +328,5 @@ community:
     - label: Meet the team
       color: neutral
       variant: outline
-      to: /team
+      to: /people
       trailingIcon: i-lucide-arrow-right

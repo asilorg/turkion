@@ -31,4 +31,4 @@ Rasmiy Ramka farq qiladi: baʼzi hukumatlar dunyavi madaniy meros va turizmni ta
 ## Bogʻliq mavzular
 
 - [Turkiy xalqlar oshxonasi](/uz/docs/common/turkic-cuisine) — bayram dasturxonlarida koʻpincha festiv taomlar boʻladi.
-- [Oʻzbekiston oshxonasi](/uz/docs/7.uzbekistan/gastronomy) — Markaziy Osiyo bayram taomlariga misollar.
+- [Oʻzbekiston oshxonasi](/uz/docs/uzbekistan/gastronomy) — Markaziy Osiyo bayram taomlariga misollar.
