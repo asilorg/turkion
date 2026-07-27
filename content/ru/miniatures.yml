@@ -31,21 +31,7 @@ timur_miniatures:
       - img: /miniatures/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg
         url:
         name: Войска Тимура атакуют Ургенч
-      - img: /miniatures/abd-al-razzak/Muhammad_and_the_Angel_Gabriel_by_Abd_al-Razzak.jpg1
-        url:
-        name: Мухаммад и ангел Джабраил
-      - img: /miniatures/timurid/Bahram_Ghur_in_the_corridor_of_the_seven_images,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Бахрам Гур в коридоре семи образов
-      - img: /miniatures/timurid/Before_and_after_rescue_from_water_damage._Frontispiece_of_the_Anthology_of_Sultan_Iskandar_(MCG,_LA161).jpg
-        name: Фронтиспис антологии султана Искандара
-        url:
-      - img: /miniatures/timurid/Iskandar_observing_bathing_sirens._1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Искандар наблюдает за купающимися сиренами
-      - img: /miniatures/timurid/Iskander_Anthology_-_Iskander_imprison_Darab.png
-        name: Искандар заключает Дараба в темницу
-      - img: /miniatures/timurid/Prisoners_brought_before_Khosrow,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Пленники перед Хосровом
-      - img: /miniatures/timurid/The_Poet_at_the_Judge's_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg
+      - img: /miniatures/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg
         url:
         name: Поэт в суде кади
       - img: /miniatures/timurid/Terken_Khatun-1.1.jpg

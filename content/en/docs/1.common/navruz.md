@@ -31,4 +31,4 @@ Official frameworks differ: some governments emphasize secular cultural heritage
 ## Related topics
 
 - [Turkic cuisine](/en/docs/common/turkic-cuisine) — festive dishes often appear on Navruz tables.
-- [Uzbek cuisine](/en/docs/7.uzbekistan/gastronomy) — examples of Central Asian holiday foods.
+- [Uzbek cuisine](/en/docs/uzbekistan/gastronomy) — examples of Central Asian holiday foods.

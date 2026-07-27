@@ -7,6 +7,6 @@ The Republic of **Uzbekistan** is a landlocked state in Central Asia with a majo
 
 ## In this section
 
-- [Uzbek cuisine](/en/docs/7.uzbekistan/gastronomy)
+- [Uzbek cuisine](/en/docs/uzbekistan/gastronomy)
 
 Further entries on history, cities, and contemporary Uzbekistan will be added over time.

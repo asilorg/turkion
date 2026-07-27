@@ -31,20 +31,6 @@ timur_miniatures:
       - img: /miniatures/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg
         url:
         name: Timur's army attacks Urgench
-      - img: /miniatures/abd-al-razzak/Muhammad_and_the_Angel_Gabriel_by_Abd_al-Razzak.jpg
-        url:
-        name: Muhammad and the Angel Gabriel
-      - img: /miniatures/anthology-of-sultan-iskandar/Bahram_Ghur_in_the_corridor_of_the_seven_images,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Bahram Gur in the Seven Images Corridor
-      - img: /miniatures/anthology-of-sultan-iskandar/Before_and_after_rescue_from_water_damage._Frontispiece_of_the_Anthology_of_Sultan_Iskandar_(MCG,_LA161).jpg
-        name: Anthology of Sultan Iskandar Frontispiece
-        url:
-      - img: /miniatures/anthology-of-sultan-iskandar/Iskandar_observing_bathing_sirens._1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Iskandar observing bathing sirens
-      - img: /miniatures/anthology-of-sultan-iskandar/Iskander_Anthology_-_Iskander_imprison_Darab.png
-        name: Iskandar Imprisoning Darab
-      - img: /miniatures/anthology-of-sultan-iskandar/Prisoners_brought_before_Khosrow,_1410,_Shiraz_(CGM_LA_161)_(1961_photograph).jpg
-        name: Prisoners before Khosrow
       - img: /miniatures/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg
         url:
         name: The Poet at the Judge’s Court
