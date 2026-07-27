@@ -139,7 +139,7 @@ users:
         icon: i-fa-solid:user-tie
         img: /users/founder.jpg
         to: /docs/common
-        quote: This project started as a personal dream to connect the Turkic world. Seeing it grow into a collaborative, community-driven knowledge hub is incredible. Every contribution, big or small, helps us build a lasting legacy for future generations.
+        quote: Too many minority peoples remain unknown — or are quietly disappearing. This project documents and preserves their languages, stories, and heritage before they are lost. Every contribution, big or small, helps keep that knowledge alive for future generations.
       - title: For Investors
         quote: Diversify your portfolio by investing in the next bestseller and sharing in its financial success.
         description: Investor
