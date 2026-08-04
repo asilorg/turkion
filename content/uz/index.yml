@@ -1,9 +1,9 @@
 title: Turk Dunyosi Raqamli Ensiklopediyasi
-description: Oʻrta dengiz sohillaridan Sibir chuqurigacha boʻlgan keng landshaftlarni qamrab olgan turk dunyosi, umumiy tarixiy ildizlar, til aloqalari va madaniy yaqinliklar bilan birlashgan xalqlar va jamoalarning jonli yulduzlar turkumidir. Ushbu ensiklopediya – bu faol va rang-barang olamni o‘rganish uchun sizning har tomonlama raqamli eshigingizdir
+description: Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan.
 
 hero:
   title: Turk Dunyosi Ensiklopediyasi
-  description: Oʻrta dengiz sohillaridan Sibir chuqurigacha boʻlgan keng landshaftlarni qamrab olgan turk dunyosi, umumiy tarixiy ildizlar, til aloqalari va madaniy yaqinliklar bilan birlashgan xalqlar va jamoalarning jonli yulduzlar turkumidir. Ushbu ensiklopediya – bu faol va rang-barang olamni o‘rganish uchun sizning har tomonlama raqamli eshigingizdir
+  description: Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan.
   links:
     - label: Boshlang
       to: /docs/common/turkic-peoples
