@@ -42,5 +42,5 @@ description: Описание строительства кыргызских ю
 ## См. также
 
 - [Материальная культура](/ru/docs/kyrgyzstan/material-culture)
-- [Текстиль из фетра](/ru/docs/kyrgyzstan/felt-textiles)
+- [Войлочный текстиль](/ru/docs/kyrgyzstan/felt-textiles)
 - [Гостеприимство](/ru/docs/kyrgyzstan/hospitality)

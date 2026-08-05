@@ -41,6 +41,6 @@ description: Обзор инструментальной музыки, песе�
 
 ## См. также
 
-- [Манас Эпос](/ru/docs/kyrgyzstan/manas-epic)
+- [Эпос «Манас»](/ru/docs/kyrgyzstan/manas-epic)
 - [Фестивали](/ru/docs/kyrgyzstan/festivals)
-- [Народное убеждение](/ru/docs/kyrgyzstan/vernacular-belief)
+- [Народные верования](/ru/docs/kyrgyzstan/vernacular-belief)

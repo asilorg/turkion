@@ -1,9 +1,9 @@
 title: Turk Dunyosi Raqamli Ensiklopediyasi
-description: Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan.
+description: "Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan."
 
 hero:
   title: Turk Dunyosi Ensiklopediyasi
-  description: Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan.
+  description: "Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan."
   links:
     - label: Boshlang
       to: /docs/common/turkic-peoples

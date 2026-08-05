@@ -1,5 +1,5 @@
 ---
-title: Манас Эпос
+title: Эпос «Манас»
 description: Рассказ об эпосе «Манас» как кыргызской устной литературно-исполнительской практике.
 ---
 
@@ -42,5 +42,5 @@ description: Рассказ об эпосе «Манас» как кыргызс
 ## См. также
 
 - [Музыка и танцы](/ru/docs/kyrgyzstan/music-dance)
-- [Народное убеждение](/ru/docs/kyrgyzstan/vernacular-belief)
+- [Народные верования](/ru/docs/kyrgyzstan/vernacular-belief)
 - [Фестивали](/ru/docs/kyrgyzstan/festivals)

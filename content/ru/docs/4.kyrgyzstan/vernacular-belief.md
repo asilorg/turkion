@@ -1,5 +1,5 @@
 ---
-title: Народная вера
+title: Народные верования
 description: Обзор традиционных методов лечения, защитных практик и религиозно окрашенных повседневных верований в Кыргызстане.
 ---
 
@@ -42,5 +42,5 @@ description: Обзор традиционных методов лечения, 
 ## См. также
 
 - [Фестивали](/ru/docs/kyrgyzstan/festivals)
-- [Манас Эпос](/ru/docs/kyrgyzstan/manas-epic)
+- [Эпос «Манас»](/ru/docs/kyrgyzstan/manas-epic)
 - [Гостеприимство](/ru/docs/kyrgyzstan/hospitality)

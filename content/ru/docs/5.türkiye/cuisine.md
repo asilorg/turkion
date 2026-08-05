@@ -42,6 +42,6 @@ description: Обзор региональных продуктов питани
 ## См. также
 
 - [Тюркская кухня](/ru/docs/common/turkic-cuisine)
-- [Хлеб и мезе по-тюркски](/ru/docs/turkiye/bread-meze)
+- [Хлеб и мезе в Турции](/ru/docs/turkiye/bread-meze)
 - [Гостеприимство в Турции](/ru/docs/turkiye/hospitality)
 - [Материальная культура в Турции](/ru/docs/turkiye/material-culture)

@@ -44,4 +44,4 @@ description: Отчет о религиозных праздниках, сезо
 - [Навруз](/ru/docs/common/navruz)
 - [Гостеприимство в Турции](/ru/docs/turkiye/hospitality)
 - [Музыка и танцы на тюркском языке](/ru/docs/turkiye/music-dance)
-- [Народная вера в Тюркие](/ru/docs/turkiye/vernacular-belief)
+- [Народная вера в Турции](/ru/docs/turkiye/vernacular-belief)

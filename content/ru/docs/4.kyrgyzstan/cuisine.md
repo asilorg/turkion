@@ -40,6 +40,6 @@ description: Обзор кыргызских кулинарных традици
 ## См. также
 
 - [Тюркская кухня](/ru/docs/common/turkic-cuisine)
-- [Консервирование продуктов питания](/ru/docs/kyrgyzstan/food-preservation)
+- [Сохранение продуктов](/ru/docs/kyrgyzstan/food-preservation)
 - [Гостеприимство](/ru/docs/kyrgyzstan/hospitality)
 - [Материальная культура](/ru/docs/kyrgyzstan/material-culture)

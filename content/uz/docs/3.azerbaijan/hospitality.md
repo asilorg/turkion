@@ -29,8 +29,6 @@ Toʻy, xotira taomi va bayram tashriflari odatiy mezbonlikni kengaytiradi. Oʻti
 
 Qishloqda mehmonlar hovli yoki mehmon xonasida kutib olinadi, kvartirada esa tashrif qisqaroq va rejalashtirilganroq boʻlishi mumkin. Mahalliy baliq, sut, meva va goʻsht mehmon taomlariga kiradi.
 
-
-
 Bu mavzuni batafsil tushuntirishda anʼana haqidagi meʼyoriy tasvir bilan amalda kuzatiladigan holatni farqlash kerak. Janr, buyum yoki amal nomlari tasnif uchun qulay, biroq ularni oilalar, yosh guruhlari, hududlar va ustalar turlicha ishlatishi mumkin. Shu sababli suhbat, muzey tavsifi, nota, retsept, surat yoki savdo katalogidagi maʼlumotlar bir-biriga avtomatik tenglashtirilmaydi. Ularning har biri amaliyotning boshqa bir payti va boshqa nuqtayi nazarni qayd etadi.
 
 Kundalik muhitda bilim odatda yagona matn orqali emas, takrorlash, birga ishlash, kuzatish va tuzatish orqali uzatiladi. Oʻrganish material hamda asbob tanlashni, ishlar ketma-ketligini, atamalarni, oʻrinlilik qoidalarini va vaziyatga moslashishni qamraydi. Ishlab chiqarish miqyosi, xomashyo mavjudligi, shahar hayoti, taʼlim, yozuv va raqamli aloqa oʻzgarsa ham, bu mahalliy bilimning ahamiyati yoʻqolganini anglatmaydi. Baʼzi unsurlar ataylab saqlanadi, boshqalari qulayroq vosita bilan almashtiriladi, yana ayrimlari esa yangi tinglovchi yoki foydalanuvchiga ega boʻladi.
@@ -38,12 +36,6 @@ Kundalik muhitda bilim odatda yagona matn orqali emas, takrorlash, birga ishlash
 Ilmiy tavsif uchun aniq namunaga oid kelib chiqish, qayd etilgan sana va joy, yozuv muallifi hamda ijro yoki foydalanish muhiti muhimdir. Buyum, kuy, taom yoki marosim oilaviy odat, kasbiy ish, sovgʻa, bozor mahsuloti yoki sahna taqdimoti boʻlishi mumkin; bu holatlar bir xil emas. «Milliy» uslub haqidagi umumlashmalar hududiy farqlar va alohida ijrochining tanlovi bilan tekshirilishi lozim. Ogʻzaki xotiralarni moddiy izlar va nashr qilingan manbalar bilan qiyoslash anʼananing davomiyligini uni oʻzgarmas deb tasavvur qilmasdan yoritishga yordam beradi.
 
 Bugungi murojaat uy sharoitidagi foydalanish bilan bir qatorda taʼlim, ustaxona, konsert va koʻrgazma, ovqatlanish joylari hamda sayyohlik talabi bilan bogʻliq. Bu muhitlar yangi ko‘rinish va daromad imkonini yaratadi, biroq mualliflik, sifat, qisqartirilgan shakl va kontekst masalasini ham qoʻyadi. Shuning uchun mavzuni yolgʻiz ramz sifatida emas, balki bilim ishlatiladigan va muhokama qilinadigan koʻnikmalar, munosabatlar, buyumlar hamda vaziyatlar majmui sifatida koʻrish foydalidir.
-
-
-
-Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga olish zarur. Bitta hikoya, buyum yoki yozuv butun hudud aholisini avtomatik ifodalamaydi va boshqa manbalarni qiyoslash oʻrnini bosa olmaydi. Atamalar, sanalar va kuzatish sharoitini aniqlashtirish tavsifni tekshiriladigan qiladi hamda oʻquvchiga tasdiqlangan maʼlumotni keyingi talqindan ajratishga yordam beradi. Bu farq, ayniqsa, amaliyot uni davom ettirayotgan kishilar bilan birga oʻzgaradigan joylarda muhimdir.
-
-
 
 Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga olish zarur. Bitta hikoya, buyum yoki yozuv butun hudud aholisini avtomatik ifodalamaydi va boshqa manbalarni qiyoslash oʻrnini bosa olmaydi. Atamalar, sanalar va kuzatish sharoitini aniqlashtirish tavsifni tekshiriladigan qiladi hamda oʻquvchiga tasdiqlangan maʼlumotni keyingi talqindan ajratishga yordam beradi. Bu farq, ayniqsa, amaliyot uni davom ettirayotgan kishilar bilan birga oʻzgaradigan joylarda muhimdir.
 

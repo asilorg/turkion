@@ -9,13 +9,13 @@ Turkiya oshxonasi uy ovqatlari, bozor ta'minoti, mavsumiy konservatsiya va ommav
 
 Kichik Osiyoning Qora dengiz, Egey, O'rta er dengizi, Kavkaz va Mesopotamiya mintaqalari o'rtasidagi pozitsiyasi ekinlar, texnikalar va ovqatlanish shakllarining harakatlanishini rag'batlantirdi. G‘alla yetishtirish, qo‘y va echki boqish, baliqchilik, zaytun yetishtirish va bog‘dorchilik alohida mintaqaviy oziq-ovqat bazalarini ta’minlaydi. Usmonli davridagi shahar oshxonalari, savdo yo'llari va keyinchalik ichki migratsiya mahalliy farqlarni yo'qotmasdan retseptlarni yanada tarqatdi.
 
-## Shtapellar, yog'lar va mavsumiylik
+## Asosiy mahsulotlar, yog'lar va mavsumiylik
 
 Non, bulg'or, guruch, dukkaklilar, yogurt va sabzavotlar kundalik ovqatlanishning takroriy komponentlarini tashkil qiladi. Bug'doy non, yassi non, noodle, xamir ovqatlar va yorilgan don sifatida tayyorlanadi; makkajo'xori Qora dengiz mintaqasida alohida ahamiyatga ega. Ko'pgina g'arbiy va janubiy sabzavotli taomlarda zaytun moyi ustunlik qiladi, sariyog ', tiniq sariyog' va hayvonlarning yog'lari sovuqroq ichki yoki yaylov sharoitida ko'proq paydo bo'ladi.
 
 Mavsumiylik ham ingredientlarni, ham mehnatni boshqaradi. Yozgi sabzavotlar quritiladi, tuzlanadi, shishaga solinadi yoki qishda ishlatish uchun pastalarga aylanadi. Oilalar konsentrlangan pomidor yoki qalampir pastasi bo'lgan *salça* tayyorlaydi va mevalarni murabbo, sirop yoki quritilgan do'kon sifatida saqlaydi. Bu usullar uy xo'jaligi amaliyoti bo'lib qolmoqda, lekin bozorlar va kichik ishlab chiqaruvchilar orqali ham tijoratlashtiriladi.
 
-## Sho'rvalar, sabzavotlar va umumiy idishlar
+## Sho'rvalar, sabzavotlar va umumiy taomlar
 
 Sho'rva odatda ovqatdan boshlanadi va yasmiq, yogurt, don, sabzavot yoki sakatat bilan tayyorlanishi mumkin. Sabzavotli idishlarga braislar, to'ldirilgan barglar va sabzavotlar, shuningdek, dukkakli preparatlar kiradi. *dolma* atamasi toʻldirilgan narsalarni bildiradi, *sarma* esa odatda plomba atrofida oʻralgan barglarni bildiradi; haqiqiy foydalanish hududga qarab farq qiladi. Yog 'asosidagi idishlarda sabzavotlar xona haroratida xizmat qilishi mumkin, go'sht yoki donga asoslangan versiyalar odatda issiq bo'ladi.
 
