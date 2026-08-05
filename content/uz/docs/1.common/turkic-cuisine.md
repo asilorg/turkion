@@ -1,31 +1,47 @@
 ---
-title: Turkiy xalqlar oshxonasi
-description: Turkiy tilli mintaqalar boʻylab taomlar makoni — don, sut mahsuloti, goʻsht, non va choy — kuchli mahalliy oʻzgarishlar bilan.
+title: Turkiy oshxona
+description: Turkiy tilli mintaqalardagi taomlanish an’analarining umumiy jihatlari — don, sut mahsulotlari, go‘sht, non va choy — kuchli mahalliy farqlar bilan.
 ---
 
-**Turkiy xalqlar oshxonasi** bitta retseptlar toʻplami emas, balki choʻmlikdan boshqa Osiyo va Kavkazgacha bogʻlovchi chorvachilik, voha dehqonchligi, savdo yoʻllari va imperiyalar shakllantirgan oʻzaro bogʻlangan taomlar oilasidir. Ingredientlar va taomlar fors, moʻgʻul, slavyan, xitoy va Oʻrta yer dengizi qoʻshnilari bilan kesishadi.
+**Turkiy oshxona** yagona retseptlar to‘plami emas, balki dashtdan Anatoliya va Kavkazgacha chorvachilik, voha dehqonchiligi, savdo yo‘llari va imperiyalar ta’sirida shakllangan o‘zaro bog‘liq taomlanish an’analari oilasidir. Masalliqlar va taomlar eroniy, mo‘g‘ul, slavyan, xitoy va O‘rta yer dengizi bo‘yidagi qo‘shnilar oshxonasi bilan kesishadi.
 
 ## Umumiy xususiyatlar
 
-- **Don**: bugʻdoy va guruch asosiy; lagʻmon va toʻldirilgan qoʻgʻnonlar keng tarqalgan.
-- **Goʻsht**: koʻp mintaqalarda qoʻzi va mol goʻshti; Markaziy Osiyoning ayrim qismlarida ot goʻshti madaniy jihatdan muhim.
-- **Sut mahsulotlari**: yogurt, *ayran* / *katyk*, suzilgan yogʻ, quritilgan pishloq (*qurt*) va fermentlangan chimdan sut (*qimiz*) choʻmlik zonalarida.
-- **Non**: *tandir* / *tandir*da pishirilgan yassi nonlar Markaziy Osiyodan Anatoliyagacha mahalliy nomlar ostida uchraydi.
-- **Mehmondoʻstlik**: toʻgʻanoq porisyonlari va takroriy choy takliflari qoʻni-qoʻshni yoʻnalishini bildiradi.
+- **Don mahsulotlari**: bug‘doy va guruch asosiy oziq-ovqat mahsulotlaridir; ugra va ichli xamir taomlari keng tarqalgan.
+- **Go‘sht**: ko‘plab mintaqalarda qo‘y va mol go‘shti ustun; Markaziy Osiyoning ayrim hududlarida ot go‘shti madaniy jihatdan muhim.
+- **Sut mahsulotlari**: yogurt, *ayran*/*qatiq*, eritilgan sariyog‘, quritilgan suzma (*qurt*) va chorvachilik hududlarida bijg‘itilgan biya suti (*qimiz* / kumis).
+- **Non**: *tandir* / *tandır*da pishiriladigan yassi nonlar Markaziy Osiyodan Anatoliyagacha turli mahalliy nomlar bilan uchraydi.
+- **Mehmondo‘stlik**: mo‘l tortilgan taom va choyni qayta-qayta taklif etish mehmonni xush kelibsiz deb kutib olish belgisidir.
 
 ## Mintaqaviy klasterlar
 
-- **Markaziy Osiyo vohasi va choʻmligi**: guruch palovlari, taʼmli qoʻgʻnonlar (*samsa* / *somsa*), lagʻmon shoʻrvalari, koʻkatli salatlar, konservalangan sut mahsulotlari.
-- **Janubiy Kavkaz (Ozarbayjon)**: koʻkat va quritilgan mevali palovlar, dolma, kaboblar, nordon shoʻrvlar.
-- **Anatoliya (Turkiyai)**: Usmoniy va mintaqaviy turk taomlari — kaboblar, pyörek, pilav, zaytun yogʻida pishirilgan sabzavot taomlari — Oʻrta yer dengizi va Bolqon oshxonalari bilan taʼsirlashadi.
+- **Markaziy Osiyo vohalari va dashtlari**: guruchli palov, to‘yimli xamir taomlari (*samsa* / *somsa*), ugra sho‘rvalari (*lag‘mon*), ko‘katli salatlar va uzoq saqlanadigan sut mahsulotlari.
+- **Janubiy Kavkaz (Ozarbayjon)**: ko‘katlar va quritilgan mevali palovlar, dolma, grilda pishirilgan go‘sht hamda nordon sho‘rvalar.
+- **Anatoliya (Turkiya)**: Usmoniy va mintaqaviy turk taomlari — kabob, börek, palov, zaytun yog‘ida tayyorlangan sabzavotli taomlar — O‘rta yer dengizi va Bolqon oshxonalari bilan o‘zaro ta’sirda rivojlangan.
 
-Zamonaviy shahar ratsionlari anʼanaviy taomlarni global tezkor taom va qahvaxona madaniyati bilan aralashtiradi.
+Zamonaviy shahar ratsionlari hamma joyda an’anaviy taomlarni global tez tayyor taomlar va kafe madaniyati bilan birlashtiradi.
 
 ## Choy madaniyati
 
-Markaziy Osiyo va Ozarbayjonda koʻpincha qora choy, koʻpincha quyuq va shirin, kundalik ijtimoiy hayotning asosidir. Turkiyada kichik istakonda qaynatilgan qora choy afzal. Choy berish tartibi va unga qoʻshiladigan shirinliklar mahalliy boʻyicha farq qiladi.
+Markaziy Osiyo va Ozarbayjonda ko‘pincha quyuq va shirin ichiladigan qora choy kundalik ijtimoiy hayotning tayanchidir. Turkiyada kichik stakanlarda damlangan qora choy afzal ko‘riladi. Choy berish tartibi va unga qo‘shiladigan shirinliklar mahalliy odatlarga qarab farqlanadi.
 
-## Ensiklopediyada boshqa oʻqish
+## Ensiklopediyadagi qo‘shimcha o‘qishlar
 
 - [Navruz](/uz/docs/common/navruz) — mavsumiy bayram taomlari.
-- [Oʻzbekiston oshxonasi](/uz/docs/uzbekistan/gastronomy) — mamlakat boʻyicha batafsil misol.
+
+Mamlakatlar oshxonasi:
+
+- [Turkman oshxonasi](/uz/docs/turkmenistan/cuisine)
+- [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine)
+- [Qirg‘iz oshxonasi](/uz/docs/kyrgyzstan/cuisine)
+- [Turkiya oshxonasi](/uz/docs/turkiye/cuisine)
+- [Qozoq oshxonasi](/uz/docs/kazakhstan/cuisine)
+- [O‘zbek oshxonasi](/uz/docs/uzbekistan/gastronomy)
+
+Bog‘liq mamlakat materiallari:
+
+- [Pazandachilikdagi hududiylik (Ozarbayjon)](/uz/docs/azerbaijan/culinary-regionality)
+- [Non va meze (Turkiya)](/uz/docs/turkiye/bread-meze)
+- [Sut mahsulotlari oshxonasi (Qozog‘iston)](/uz/docs/kazakhstan/dairy-cuisine)
+- [Oziq-ovqatni saqlash (Qirg‘iziston)](/uz/docs/kyrgyzstan/food-preservation)
+- [Choy va non etiketi (Turkmaniston)](/uz/docs/turkmenistan/tea-bread-etiquette)

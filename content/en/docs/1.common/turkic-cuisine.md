@@ -28,4 +28,20 @@ Black tea, often strong and sweet in Central Asia and Azerbaijan, anchors daily 
 ## Further reading in this encyclopedia
 
 - [Navruz](/en/docs/common/navruz) — seasonal festival foods.
-- [Uzbek cuisine](/en/docs/uzbekistan/gastronomy) — detailed country example.
+
+Country foodways:
+
+- [Turkmen cuisine](/en/docs/turkmenistan/cuisine)
+- [Azerbaijani cuisine](/en/docs/azerbaijan/cuisine)
+- [Kyrgyz cuisine](/en/docs/kyrgyzstan/cuisine)
+- [Cuisine in Türkiye](/en/docs/turkiye/cuisine)
+- [Kazakh cuisine](/en/docs/kazakhstan/cuisine)
+- [Uzbek cuisine](/en/docs/uzbekistan/gastronomy)
+
+Related country deep dives:
+
+- [Culinary regionality (Azerbaijan)](/en/docs/azerbaijan/culinary-regionality)
+- [Bread and meze (Türkiye)](/en/docs/turkiye/bread-meze)
+- [Dairy cuisine (Kazakhstan)](/en/docs/kazakhstan/dairy-cuisine)
+- [Food preservation (Kyrgyzstan)](/en/docs/kyrgyzstan/food-preservation)
+- [Tea and bread etiquette (Turkmenistan)](/en/docs/turkmenistan/tea-bread-etiquette)

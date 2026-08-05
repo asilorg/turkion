@@ -1,14 +1,21 @@
 ---
 title: Umumiy
-description: Bir nechta turkiy mintaqa yoki xalqni qoʻgʻdasidan qoʻgʻgʻlovchi ensiklopediya maqolalari.
+description: Bir necha turkiy mintaqa yoki xalqni qamrab oluvchi ensiklopediya maqolalari.
 ---
 
-Bu boʻlimda **bir nechta turkiy mintaqa yoki xalq** bilan bogʻliq mavzular — bayramlar, taqqoslash madaniyati, til va umumlashtiruvchi maqolalar — joylashgan; ular bitta zamonaviy davlat bilan cheklanmaydi. Mamlakatga yoʻnaltirilgan maqolalar uchun yon paneldagi raqamli papkalarni oching (masalan, Oʻzbekiston).
+Bu bo‘limda bitta zamonaviy davlat bilan bog‘lanmagan **umumiy** mavzular — bayramlar, qiyosiy madaniyat, til va umumlashtiruvchi maqolalar — jamlangan. Muayyan mamlakatlarga bag‘ishlangan materiallar uchun yon paneldagi mamlakat bo‘limlariga murojaat qiling.
 
 ## Maqolalar
 
 - [Turkiy xalqlar](/uz/docs/common/turkic-peoples)
 - [Navruz](/uz/docs/common/navruz)
-- [Turkiy xalqlar oshxonasi](/uz/docs/common/turkic-cuisine)
+- [Turkiy oshxona](/uz/docs/common/turkic-cuisine)
 
-Mualliflar uchun yoʻriqnoma repozitoriydagi `content/EDITORIAL-RUBRIC.md` faylida.
+## Mamlakatlar bo‘limlari
+
+- [Turkmaniston](/uz/docs/turkmenistan)
+- [Ozarbayjon](/uz/docs/azerbaijan)
+- [Qirg‘iziston](/uz/docs/kyrgyzstan)
+- [Turkiya](/uz/docs/turkiye)
+- [Qozog‘iston](/uz/docs/kazakhstan)
+- [O‘zbekiston](/uz/docs/uzbekistan)
