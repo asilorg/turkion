@@ -1,8 +1,19 @@
 ---
 title: Турция
-description:
-navigation:
-  icon: i-openmoji:flag-turkey
+description: Энциклопедические статьи о кухне, общении, исполнительских традициях, ритуале и материальной культуре Турции.
 ---
 
-## Скоро
+Этот раздел рассматривает культурные практики в Турции через домашнюю кухню, гостеприимство, исполнительские традиции, публичное общение, ритуал и материальную жизнь. Статьи учитывают региональные, исторические и общинные различия; о межрегиональных темах см. [Общие материалы](/ru/docs/common).
+
+## В этом разделе
+
+- [Кухня в Турции](/ru/docs/turkiye/cuisine)
+- [Праздники и сезонные обычаи в Турции](/ru/docs/turkiye/festivals)
+- [Гостеприимство в Турции](/ru/docs/turkiye/hospitality)
+- [Музыка и танец в Турции](/ru/docs/turkiye/music-dance)
+- [Материальная культура в Турции](/ru/docs/turkiye/material-culture)
+- [Народные верования в Турции](/ru/docs/turkiye/vernacular-belief)
+- [Кофейни и чайные сады в Турции](/ru/docs/turkiye/coffeehouse-tea-garden)
+- [Музыка мевлеви в Турции](/ru/docs/turkiye/mevlevi-music)
+- [Хлеб и мезе в Турции](/ru/docs/turkiye/bread-meze)
+- [Хаммам в Турции](/ru/docs/turkiye/hammam)

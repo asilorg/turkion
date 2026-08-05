@@ -1,9 +1,9 @@
 title: Digital Encyclopedia of the Turkic World
-description: Spanning vast landscapes from the shores of the Mediterranean to the heart of Siberia, the Turkic world is a vibrant constellation of nations and communities, united by shared historical roots, linguistic bonds, and cultural affinities. This encyclopedia is your comprehensive digital gateway to exploring this dynamic and diverse realm
+description: Much of history is told through great states and familiar names. Less often remembered are the smaller peoples — those whose languages still live in mountain valleys, steppe villages, and distant towns. Their historical places lie scattered across wide lands, from quiet riverbanks to highland passes and forgotten roads. This encyclopedia gathers what can still be known of their histories and ways of life.
 
 hero:
-  title: The Intuitive Vue UI Library
-  description: Create beautiful, responsive & accessible web apps quickly with Vue or Nuxt. Nuxt UI is an open-source UI library of 100+ customizable components built with Tailwind CSS and Reka UI.
+  title: Encyclopedia of the Turkic World
+  description: Much of history is told through great states and familiar names. Less often remembered are the smaller peoples — those whose languages still live in mountain valleys, steppe villages, and distant towns. Their historical places lie scattered across wide lands, from quiet riverbanks to highland passes and forgotten roads. This encyclopedia gathers what can still be known of their histories and ways of life.
   links:
     - label: Get started
       to: /docs/common/turkic-peoples

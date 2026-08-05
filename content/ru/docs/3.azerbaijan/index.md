@@ -1,8 +1,19 @@
 ---
 title: Азербайджан
-description:
-navigation:
-  icon: i-openmoji:flag-azerbaijan
+description: Энциклопедические статьи об Азербайджане, посвящённые кухне, праздникам, гостеприимству, исполнительским традициям, материальной культуре и связанным с ними практикам.
 ---
 
-## Скоро
+Этот раздел рассматривает культурные практики Азербайджана через пищевые традиции, гостевание, исполнительское искусство, ремёсла, сезонные обряды и повседневные верования. Статьи описывают различия, связанные с местностью, домашней средой, поколением и доступом к ресурсам. О межрегиональных темах см. [Общее](/ru/docs/common).
+
+## В этом разделе
+
+- [Азербайджанская кухня](/ru/docs/azerbaijan/cuisine)
+- [Праздники и календарные обычаи](/ru/docs/azerbaijan/festivals)
+- [Гостеприимство](/ru/docs/azerbaijan/hospitality)
+- [Музыка и танец](/ru/docs/azerbaijan/music-dance)
+- [Материальная культура](/ru/docs/azerbaijan/material-culture)
+- [Народные верования](/ru/docs/azerbaijan/vernacular-belief)
+- [Мугам и ашуг](/ru/docs/azerbaijan/mugham-ashug)
+- [Ковры и текстиль](/ru/docs/azerbaijan/carpet-textiles)
+- [Кулинарная региональность](/ru/docs/azerbaijan/culinary-regionality)
+- [Домашние практики Новруза](/ru/docs/azerbaijan/novruz-household)

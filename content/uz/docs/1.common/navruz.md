@@ -1,34 +1,44 @@
 ---
 title: Navruz
-description: Bahor yangi yili va mart tekisligi atrofidagi bayram — Markaziy Osiyo, Kavkaz, Eron va qoʻshni hududlarda qoʻllaniladi; turkiy jamiyat hayotida chuqur ildizlangan.
+description: Markaziy Osiyo, Kavkaz, Eron va qo‘shni hududlarda nishonlanadigan, forsiy va turkiy ijtimoiy hayotda chuqur ildiz otgan bahorgi Yangi yil bayrami.
 ---
 
-**Navruz** (shuningdek Nowruz, Noruz; forscha «yangi kun») bahorning boshlanishi va mart tekisligi yaqinidagi astronomik yangi yilni belgilaydi. koʻplab turkiy jamiyatlar uni fors, kurd va boshqa xalqlar bilan birga nishonlaydi va islomgacha boʻlgan mavsumiy marosimlarni mahalliy islom taqvimlari va zamonaviy fuqarolik festivallari bilan aralashtiradi.
+**Navruz** (shuningdek, Nowruz, Noruz; forscha «yangi kun») bahorning boshlanishi hamda martdagi tengkunlik yaqinidagi astronomik yangi yilni belgilaydi. Ko‘plab turkiy jamiyatlar uni fors, kurd va boshqa jamoalar bilan birga nishonlaydi; bunda islomdan avvalgi mavsumiy marosimlar mahalliy islomiy taqvimlar va zamonaviy fuqarolik bayramlari bilan uyg‘unlashadi.
 
 ## Kelib chiqishi va vaqti
 
-Navruz quyosh yili va tabiatning yangilanishi bilan bogʻliq. Zamonaviy davlatlarda u odatda **21-mart**ga toʻgʻri keladi (yoki taqvim siyosatiga qarab qoʻshni kunlarda). Bayram bir necha kun davom etishi mumkin — koʻcha yarmarkalari, konsertlar va oilaviy toʻplashlar bilan.
+Navruz quyosh yili va tabiatning yangilanishi bilan bog‘liq. Zamonaviy davlatlarda u odatda **21-mart**ga (yoki taqvim amaliyotiga qarab unga yaqin kunlarga) to‘g‘ri keladi. Bayramlar bir necha kun davom etib, ko‘cha yarmarkalari, konsertlar va oilaviy uchrashuvlarni qamrab olishi mumkin.
 
-## UNESCO va xalqaro tan olinishi
+## UNESCO va xalqaro e’tirof
 
-Birlashgan Millatlar Tashkiloti **21-martni** **Navruz xalqaro kuni** deb tan oladi. UNESCO Navruz bilan bogʻliq koʻp davlatlik nominatsiyalarni insoniyatning nomoddiy madaniy merosining namoyish roʻyxatiga kiritgan — ishtirok etuvchi mamlakatlarda tayyorgarlik marosimlari, hikoyalar, musiqa va bayram taomlari boʻyicha umumiylikni taʼkidlab.
+Birlashgan Millatlar Tashkiloti **21-mart**ni **Xalqaro Navruz kuni** deb e’tirof etadi. UNESCO Navruzga oid qo‘shma ko‘p millatli nominatsiyalarni Insoniyat nomoddiy madaniy merosining reprezentativ ro‘yxatiga kiritib, ishtirokchi mamlakatlardagi umumiy tayyorgarlik marosimlari, hikoya aytish, musiqa va bayram taomlarini ta’kidlaydi.
 
-## Turkiy va Markaziy Osiyoda nishonlash
+## Turkiy va Markaziy Osiyodagi nishonlanishi
 
-**Qozogʻiston**, **Qirgʻiziston**, **Oʻzbekiston**, **Turkmaniston** va **Ozarbayjon**da Navruzda koʻpincha quyidagilar boʻladi:
+**Qozog‘iston**, **Qirg‘iziston**, **O‘zbekiston**, **Turkmaniston** va **Ozarbayjon**da Navruz ko‘pincha quyidagilarni o‘z ichiga oladi:
 
-- Hosildan darak beruvchi oʻsimliklar (*semeni*, *sabzi*) eksish.
-- Uy-tozalash va saxovat.
-- sport, musiqa va sheʼriyat bilan ochiq havodagi jamoat tadbirlari.
-- tuxum, shirinliklar va mavsumiy taomlardan iborat dastarxonlar; aniq taomlar mintaqaga qarab farq qiladi.
+- Mo‘l-ko‘llik ramzi sifatida don yoki bug‘doy maysasini (*semeni*, *sabzi*) undirib o‘stirish.
+- Uyni puxta tozalash va xayriya qilish.
+- Sport, musiqa va she’riyat ishtirokidagi ochiq havodagi jamoaviy tadbirlar.
+- Tuxum, shirinliklar va mavsumiy taomlar qo‘yilgan dasturxonlar; taomlarning aniq tarkibi mintaqaga qarab farq qiladi.
 
-Rasmiy Ramka farq qiladi: baʼzi hukumatlar dunyavi madaniy meros va turizmni taʼkidlaydi; diniy autoritetlar va oilalar mahalliy odoblarga muvofiq duo yoki masjidga borishni qoʻshishi mumkin.
+Rasmiy yondashuvlar farq qiladi: ayrim hukumatlar dunyoviy madaniy meros va turizmni ta’kidlaydi; diniy ulamolar va oilalar mahalliy me’yorlarga ko‘ra duo qilish yoki masjidga borishni bayramga qo‘shishlari mumkin.
 
 ## Ozarbayjon va Turkiya
 
-**Ozarbayjon** Navruzni katta davlat madaniy bayrami sifatida oʻtkazadi — oʻchoqlar, *pakhlava* kabi shirinliklar va xalq cholgʻʻulari bilan. **Turkiyada** Nevruz bahorgi uchrashuvlar va mintaqaviy urf-odatlar bilan belgilanadi; fuqarolik, alevi va kurd jamoatlari kontekstidagi omma narrativlari tarixan oʻzgarib borgan, shuning uchun tavsiflar tarixiy jihatdan aniql va betaraf boʻlishi kerak.
+**Ozarbayjon** Navruzni gulxanlar, *pakhlava* kabi shirinliklar va folklor tomoshalari bilan yirik ommaviy madaniy bayram sifatida nishonlaydi. **Turkiya**da Nevruz bahorgi yig‘inlar va mintaqaviy an’analar bilan belgilanadi; uning ommaviy talqinlari vaqt o‘tishi bilan fuqarolik, aleviylar va kurd jamoalari amaliyotlari o‘rtasida o‘zgarib borgan. Shu bois tavsiflar tarixiy jihatdan aniq va xolis bo‘lishi lozim.
 
-## Bogʻliq mavzular
+## Shuningdek qarang
 
-- [Turkiy xalqlar oshxonasi](/uz/docs/common/turkic-cuisine) — bayram dasturxonlarida koʻpincha festiv taomlar boʻladi.
-- [Oʻzbekiston oshxonasi](/uz/docs/uzbekistan/gastronomy) — Markaziy Osiyo bayram taomlariga misollar.
+- [Turkiy oshxona](/uz/docs/common/turkic-cuisine) — bayram taomlari Navruz dasturxonida ko‘p uchraydi.
+
+Mamlakatlardagi bayram an’analari va bayram taqvimlari:
+
+- [Turkmanistondagi bayramlar](/uz/docs/turkmenistan/festivals)
+- [Ozarbayjondagi bayramlar](/uz/docs/azerbaijan/festivals)
+- [Novruzning uy-ro‘zg‘or amaliyotlari (Ozarbayjon)](/uz/docs/azerbaijan/novruz-household)
+- [Qirg‘izistondagi bayramlar](/uz/docs/kyrgyzstan/festivals)
+- [Turkiyadagi bayramlar](/uz/docs/turkiye/festivals)
+- [Qozog‘istondagi bayramlar](/uz/docs/kazakhstan/festivals)
+- [Nauryz odatlari (Qozog‘iston)](/uz/docs/kazakhstan/nauryz-customs)
+- [O‘zbekistondagi bayramlar](/uz/docs/uzbekistan/festivals)
