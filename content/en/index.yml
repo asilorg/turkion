@@ -135,11 +135,11 @@ users:
     title: What our users say
     features:
       - title: Asilbek Madiev
-        description: Founder & CTO
+        description: Founder
         icon: i-fa-solid:user-tie
-        img: /users/founder.jpg
+        img: /users/founder.svg
         to: /docs/common
-        quote: Too many minority peoples remain unknown — or are quietly disappearing. This project documents and preserves their languages, stories, and heritage before they are lost. Every contribution, big or small, helps keep that knowledge alive for future generations.
+        quote: A number of smaller peoples remain poorly documented, and some risk being lost to the historical record. This project documents their languages and narratives in order to keep them accessible. Contributions of any scale are welcome.
       - title: For Investors
         quote: Diversify your portfolio by investing in the next bestseller and sharing in its financial success.
         description: Investor

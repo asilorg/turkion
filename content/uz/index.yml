@@ -135,11 +135,11 @@ users:
   title: Foydalanuvchilarimiz nima deydi
   features:
     - title: Asilbek Madiyev
-      description: Asoschi va Bosh texnik direktor
+      description: Asoschi
       icon: i-fa-solid:user-tie
-      img: /users/founder.jpg
+      img: /users/founder.svg
       to: /docs/common/turkic-peoples
-      quote: Juda ko‘p kichik xalqlar hali ham noma’lum — yoki sekin yo‘qolib bormoqda. Bu loyiha ularning tillari, hikoyalari va merosini yo‘qolib ketishidan oldin hujjatlashtiradi va saqlab qoladi. Har bir hissa, kichik yoki katta, bu bilimlarni kelajak avlodlar uchun saqlab qolishga yordam beradi.
+      quote: Bir qator kichik xalqlar hali ham kam o‘rganilgan, ba’zilari esa tarixiy xotiradan yo‘qolib ketish xavfida. Ushbu loyiha ularning tillari va rivoyatlarini hujjatlashtirib, ularga kirish imkoniyatini saqlab qolishga intiladi. Har qanday miqyosdagi hissa mamnuniyat bilan qabul qilinadi.
     - title: Investorlar uchun
       quote: Portfelingizni rang-baranglashtiring — navbatdagi bestsellerga sarmoya kiriting va uning moliyaviy muvaffaqiyatida ishtirok eting.
       description: Investor
