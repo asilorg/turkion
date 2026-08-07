@@ -16,6 +16,6 @@ This section holds **cross-cutting** topics—holidays, comparative culture, lan
 - [Turkmenistan](/en/docs/turkmenistan)
 - [Azerbaijan](/en/docs/azerbaijan)
 - [Kyrgyzstan](/en/docs/kyrgyzstan)
-- [Türkiye](/en/docs/turkiye)
+- [Turkey](/en/docs/turkey)
 - [Kazakhstan](/en/docs/kazakhstan)
 - [Uzbekistan](/en/docs/uzbekistan)

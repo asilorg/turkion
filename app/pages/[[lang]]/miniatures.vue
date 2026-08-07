@@ -81,7 +81,12 @@ defineOgImageComponent('Docs')
             </NuxtLink>
             <NuxtImg
               width="200"
-              :zoom="true"
+              height="200"
+              sizes="200px"
+              format="webp"
+              :quality="70"
+              loading="lazy"
+              decoding="async"
               :src="item.img"
               :alt="`Screenshot of ${item.name}`"
               class="group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"

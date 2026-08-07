@@ -73,7 +73,7 @@ defineOgImageComponent('Docs')
           }"
         >
           <UChangelogVersion
-            v-for="version in page.timeline"
+            v-for="(version, index) in page.timeline"
             :key="version.title"
             v-bind="version"
             :ui="{
@@ -86,9 +86,10 @@ defineOgImageComponent('Docs')
             }"
           >
             <template #body>
-              <MDC
+              <DeferredMarkdown
                 v-if="version.markdown"
                 :value="version.markdown"
+                :eager="index < 2"
               />
             </template>
           </UChangelogVersion>

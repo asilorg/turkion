@@ -751,7 +751,7 @@ The kokpar began with the nomadic Turkic peoples who have come from farther nort
 287. "Press Release of the Sixth Summit of the Turkic Council". Turkic Council. Retrieved 4 September 2018.
 288. "Turkic Council reforms into Organization of Turkic States". TRT World. 13 November 2021.
 289. "Turkish Cyprus gains Organization of Turkic States observer status". Daily Sabah. 11 November 2022. Retrieved 11 November 2022.
-290. "Organization of Turkic States pledges observer status for Turkish Cyprus – Türkiye News". Hürriyet Daily News. 11 November 2022. Retrieved 11 November 2022.
+290. "Organization of Turkic States pledges observer status for Turkish Cyprus – Turkiye News". Hürriyet Daily News. 11 November 2022. Retrieved 11 November 2022.
 291. Substantial numbers (possibly several millions) of maghrebis of the former Ottoman colonies in North Africa are of Ottoman Turkish descent. Finnish Tatars
 292. The Karakalpak Gene Pool (Spencer Wells, 2001); and discussion and conclusions at www.karakalpak.com/genetics.html
 293. ""Şeyxülislam qeyd edib ki, Azərbaycanda 35 faiz sünni, 65 faiz isə şiə məzhəbinə mənsub…"".

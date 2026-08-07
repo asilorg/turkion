@@ -34,14 +34,14 @@ Mamlakatlar oshxonasi:
 - [Turkman oshxonasi](/uz/docs/turkmenistan/cuisine)
 - [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine)
 - [Qirg‘iz oshxonasi](/uz/docs/kyrgyzstan/cuisine)
-- [Turkiya oshxonasi](/uz/docs/turkiye/cuisine)
+- [Turkiya oshxonasi](/uz/docs/turkey/cuisine)
 - [Qozoq oshxonasi](/uz/docs/kazakhstan/cuisine)
 - [O‘zbek oshxonasi](/uz/docs/uzbekistan/gastronomy)
 
 Bog‘liq mamlakat materiallari:
 
 - [Pazandachilikdagi hududiylik (Ozarbayjon)](/uz/docs/azerbaijan/culinary-regionality)
-- [Non va meze (Turkiya)](/uz/docs/turkiye/bread-meze)
+- [Non va meze (Turkiya)](/uz/docs/turkey/bread-meze)
 - [Sut mahsulotlari oshxonasi (Qozog‘iston)](/uz/docs/kazakhstan/dairy-cuisine)
 - [Oziq-ovqatni saqlash (Qirg‘iziston)](/uz/docs/kyrgyzstan/food-preservation)
 - [Choy va non etiketi (Turkmaniston)](/uz/docs/turkmenistan/tea-bread-etiquette)

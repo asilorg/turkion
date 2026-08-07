@@ -66,7 +66,10 @@ export default defineNuxtConfig({
   },
 
   image: {
-    provider: process.env.NODE_ENV === 'production' ? 'vercel' : 'ipx'
+    provider: process.env.NODE_ENV === 'production' ? 'vercel' : 'ipx',
+    // Avoid 2x IPX variants for gallery-heavy pages; pages can override.
+    densities: [1],
+    quality: 75
   },
 
   llms: {
