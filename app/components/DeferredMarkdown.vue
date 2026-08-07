@@ -1,7 +1,8 @@
 <script setup lang="ts">
 /**
  * Defers MDC parsing/render until near the viewport on the client.
- * SSR and eager entries render immediately to avoid blank critical content.
+ * Initial state must match SSR to avoid hydration mismatches: non-eager
+ * entries start as placeholders on both server and client, then mount when visible.
  */
 const props = withDefaults(defineProps<{
   value: string
@@ -11,7 +12,7 @@ const props = withDefaults(defineProps<{
 })
 
 const root = ref<HTMLElement | null>(null)
-const visible = ref(props.eager || import.meta.server)
+const visible = ref(props.eager)
 
 onMounted(() => {
   if (visible.value) {

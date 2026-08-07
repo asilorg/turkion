@@ -20,7 +20,7 @@ orientation: horizontal
 #links
   :::u-button
   ---
-  to: /docs/common/turkic-peoples
+  to: /ru/docs/common/turkic-peoples
   size: xl
   trailing-icon: i-lucide-arrow-right
   ---
