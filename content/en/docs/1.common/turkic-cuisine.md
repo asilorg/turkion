@@ -17,13 +17,13 @@ description: Shared patterns in foodways across Turkic-speaking regions — grai
 
 - **Central Asian oasis and steppe**: rice pilafs, savory pastries (*samsa* / *somsa*), noodle soups (*lagman*), herb-heavy salads, preserved dairy.
 - **South Caucasus (Azerbaijan)**: pilafs with herbs and dried fruits, dolma, grilled meats, tart soups.
-- **Anatolia (Türkiye)**: Ottoman and regional Turkish repertoires — kebabs, börek, pilav, olive-oil vegetable dishes — interacting with Mediterranean and Balkan kitchens.
+- **Anatolia (Turkey)**: Ottoman and regional Turkish repertoires — kebabs, börek, pilav, olive-oil vegetable dishes — interacting with Mediterranean and Balkan kitchens.
 
 Modern urban diets everywhere combine traditional dishes with global fast food and café culture.
 
 ## Tea culture
 
-Black tea, often strong and sweet in Central Asia and Azerbaijan, anchors daily social life. Türkiye favors brewed black tea in small glasses. Serving order and sweets paired with tea vary locally.
+Black tea, often strong and sweet in Central Asia and Azerbaijan, anchors daily social life. Turkey favors brewed black tea in small glasses. Serving order and sweets paired with tea vary locally.
 
 ## Further reading in this encyclopedia
 
@@ -34,14 +34,14 @@ Country foodways:
 - [Turkmen cuisine](/en/docs/turkmenistan/cuisine)
 - [Azerbaijani cuisine](/en/docs/azerbaijan/cuisine)
 - [Kyrgyz cuisine](/en/docs/kyrgyzstan/cuisine)
-- [Cuisine in Türkiye](/en/docs/turkiye/cuisine)
+- [Cuisine in Turkey](/en/docs/turkey/cuisine)
 - [Kazakh cuisine](/en/docs/kazakhstan/cuisine)
 - [Uzbek cuisine](/en/docs/uzbekistan/gastronomy)
 
 Related country deep dives:
 
 - [Culinary regionality (Azerbaijan)](/en/docs/azerbaijan/culinary-regionality)
-- [Bread and meze (Türkiye)](/en/docs/turkiye/bread-meze)
+- [Bread and meze (Turkey)](/en/docs/turkey/bread-meze)
 - [Dairy cuisine (Kazakhstan)](/en/docs/kazakhstan/dairy-cuisine)
 - [Food preservation (Kyrgyzstan)](/en/docs/kyrgyzstan/food-preservation)
 - [Tea and bread etiquette (Turkmenistan)](/en/docs/turkmenistan/tea-bread-etiquette)

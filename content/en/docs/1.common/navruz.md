@@ -24,9 +24,9 @@ Across **Kazakhstan**, **Kyrgyzstan**, **Uzbekistan**, **Turkmenistan**, and **A
 
 Official frameworks differ: some governments emphasize secular cultural heritage and tourism; religious authorities and families may integrate prayers or mosque visits according to local norms.
 
-## Azerbaijan and Türkiye
+## Azerbaijan and Turkey
 
-**Azerbaijan** maintains Navruz as a major public cultural holiday with bonfires, sweets such as *pakhlava*, and folk performances. In **Türkiye**, Nevruz has been marked by spring gatherings and regional traditions; public narratives have shifted over time among civic, Alevi-associated, and Kurdish community observances, so descriptions should stay historically precise and neutral.
+**Azerbaijan** maintains Navruz as a major public cultural holiday with bonfires, sweets such as *pakhlava*, and folk performances. In **Turkey**, Nevruz has been marked by spring gatherings and regional traditions; public narratives have shifted over time among civic, Alevi-associated, and Kurdish community observances, so descriptions should stay historically precise and neutral.
 
 ## Related topics
 
@@ -38,7 +38,7 @@ Country observances and festival calendars:
 - [Festivals in Azerbaijan](/en/docs/azerbaijan/festivals)
 - [Novruz household practices (Azerbaijan)](/en/docs/azerbaijan/novruz-household)
 - [Festivals in Kyrgyzstan](/en/docs/kyrgyzstan/festivals)
-- [Festivals in Türkiye](/en/docs/turkiye/festivals)
+- [Festivals in Turkey](/en/docs/turkey/festivals)
 - [Festivals in Kazakhstan](/en/docs/kazakhstan/festivals)
 - [Nauryz customs (Kazakhstan)](/en/docs/kazakhstan/nauryz-customs)
 - [Festivals in Uzbekistan](/en/docs/uzbekistan/festivals)

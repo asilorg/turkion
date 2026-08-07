@@ -34,14 +34,14 @@ description: Общие черты кулинарных традиций в тю
 - [Туркменская кухня](/ru/docs/turkmenistan/cuisine)
 - [Азербайджанская кухня](/ru/docs/azerbaijan/cuisine)
 - [Кыргызская кухня](/ru/docs/kyrgyzstan/cuisine)
-- [Кухня Турции](/ru/docs/turkiye/cuisine)
+- [Кухня Турции](/ru/docs/turkey/cuisine)
 - [Казахская кухня](/ru/docs/kazakhstan/cuisine)
 - [Узбекская кухня](/ru/docs/uzbekistan/gastronomy)
 
 Связанные страновые материалы:
 
 - [Кулинарная региональность (Азербайджан)](/ru/docs/azerbaijan/culinary-regionality)
-- [Хлеб и мезе (Турция)](/ru/docs/turkiye/bread-meze)
+- [Хлеб и мезе (Турция)](/ru/docs/turkey/bread-meze)
 - [Молочная кухня (Казахстан)](/ru/docs/kazakhstan/dairy-cuisine)
 - [Сохранение продуктов (Кыргызстан)](/ru/docs/kyrgyzstan/food-preservation)
 - [Этикет чая и хлеба (Туркменистан)](/ru/docs/turkmenistan/tea-bread-etiquette)

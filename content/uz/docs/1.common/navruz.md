@@ -38,7 +38,7 @@ Mamlakatlardagi bayram an’analari va bayram taqvimlari:
 - [Ozarbayjondagi bayramlar](/uz/docs/azerbaijan/festivals)
 - [Novruzning uy-ro‘zg‘or amaliyotlari (Ozarbayjon)](/uz/docs/azerbaijan/novruz-household)
 - [Qirg‘izistondagi bayramlar](/uz/docs/kyrgyzstan/festivals)
-- [Turkiyadagi bayramlar](/uz/docs/turkiye/festivals)
+- [Turkiyadagi bayramlar](/uz/docs/turkey/festivals)
 - [Qozog‘istondagi bayramlar](/uz/docs/kazakhstan/festivals)
 - [Nauryz odatlari (Qozog‘iston)](/uz/docs/kazakhstan/nauryz-customs)
 - [O‘zbekistondagi bayramlar](/uz/docs/uzbekistan/festivals)

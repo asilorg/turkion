@@ -19,20 +19,42 @@ useSeoMeta({
 
 const { locale } = useI18n()
 
-const { data: navigation } = await useAsyncData('navigation', () => queryCollectionNavigation(`docs_${locale.value}`), {
-  transform: (data: ContentNavigationItem[]) => {
-    const rootResult = data.find(item => item.path === '/docs')?.children || data || []
+const { data: navigation } = await useAsyncData(
+  () => `navigation-${locale.value}`,
+  () => queryCollectionNavigation(`docs_${locale.value}`),
+  {
+    transform: (data: ContentNavigationItem[]) => {
+      const rootResult = data.find(item => item.path === '/docs')?.children || data || []
 
-    return rootResult
-      .find(item => item.path === `/${locale.value}`)?.children
-      ?.find(item => item.path === `/${locale.value}/docs`)?.children || rootResult
-  },
-  watch: [locale]
-})
-const { data: files } = useLazyAsyncData('search', () => queryCollectionSearchSections(`docs_${locale.value}`), {
-  server: false,
-  watch: [locale]
-})
+      const children = rootResult
+        .find(item => item.path === `/${locale.value}`)?.children
+        ?.find(item => item.path === `/${locale.value}/docs`)?.children || rootResult
+
+      const sanitize = (items: ContentNavigationItem[] = []): ContentNavigationItem[] =>
+        items.map((item) => {
+          const next = { ...item } as ContentNavigationItem & { icon?: unknown }
+          if (typeof next.icon !== 'string') {
+            delete next.icon
+          }
+          if (next.children?.length) {
+            next.children = sanitize(next.children)
+          }
+          return next
+        })
+
+      return sanitize(children)
+    },
+    watch: [locale]
+  }
+)
+const { data: files } = useLazyAsyncData(
+  () => `search-${locale.value}`,
+  () => queryCollectionSearchSections(`docs_${locale.value}`),
+  {
+    server: false,
+    watch: [locale]
+  }
+)
 
 provide('navigation', navigation)
 </script>

@@ -11,20 +11,26 @@ const { toc } = useAppConfig()
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
 const { locale } = useI18n()
 
-const { data: page } = await useAsyncData(route.path, () => queryCollection(`docs_${locale.value}`).path(route.path).first(), { watch: [locale] })
+const { data: page } = await useAsyncData(
+  () => `docs-${locale.value}-${route.path}`,
+  () => queryCollection(`docs_${locale.value}`).path(route.path).first(),
+  { watch: [locale, () => route.path] }
+)
 
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
-const { data: surround } = await useAsyncData(`${route.path}-surround`, () => {
-  return queryCollectionItemSurroundings(`docs_${locale.value}`, route.path, {
+const { data: surround } = await useAsyncData(
+  () => `docs-surround-${locale.value}-${route.path}`,
+  () => queryCollectionItemSurroundings(`docs_${locale.value}`, route.path, {
     fields: ['description']
-  })
-}, { watch: [locale] })
+  }),
+  { watch: [locale, () => route.path] }
+)
 
-const title = page.value.seo?.title || page.value.title
-const description = page.value.seo?.description || page.value.description
+const title = computed(() => page.value?.seo?.title || page.value?.title)
+const description = computed(() => page.value?.seo?.description || page.value?.description)
 
 useSeoMeta({
   title,
@@ -41,11 +47,14 @@ defineOgImageComponent('Docs', {
 
 const links = computed(() => {
   const links = []
-  if (toc?.bottom?.edit) {
+  if (toc?.bottom?.edit && page.value?.stem) {
+    const stem = String(page.value.stem).replace(/^\//, '')
+    const extension = page.value.extension || 'md'
+    const base = toc.bottom.edit.replace(/\/?$/, '/')
     links.push({
       icon: 'i-lucide-external-link',
       label: 'Edit this page',
-      to: `${toc.bottom.edit}/${page?.value?.stem}.${page?.value?.extension}`,
+      to: `${base}${stem}.${extension}`,
       target: '_blank'
     })
   }

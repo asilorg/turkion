@@ -38,7 +38,7 @@ description: Весенний праздник Нового года у весе
 - [Праздники Азербайджана](/ru/docs/azerbaijan/festivals)
 - [Домашние новрузские практики (Азербайджан)](/ru/docs/azerbaijan/novruz-household)
 - [Праздники Кыргызстана](/ru/docs/kyrgyzstan/festivals)
-- [Праздники Турции](/ru/docs/turkiye/festivals)
+- [Праздники Турции](/ru/docs/turkey/festivals)
 - [Праздники Казахстана](/ru/docs/kazakhstan/festivals)
 - [Обычаи Наурыза (Казахстан)](/ru/docs/kazakhstan/nauryz-customs)
 - [Праздники Узбекистана](/ru/docs/uzbekistan/festivals)

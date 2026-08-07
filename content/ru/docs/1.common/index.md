@@ -16,6 +16,6 @@ description: Энциклопедические статьи, охватываю
 - [Туркменистан](/ru/docs/turkmenistan)
 - [Азербайджан](/ru/docs/azerbaijan)
 - [Кыргызстан](/ru/docs/kyrgyzstan)
-- [Турция](/ru/docs/turkiye)
+- [Турция](/ru/docs/turkey)
 - [Казахстан](/ru/docs/kazakhstan)
 - [Узбекистан](/ru/docs/uzbekistan)

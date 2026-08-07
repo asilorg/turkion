@@ -16,6 +16,6 @@ Bu bo‘limda bitta zamonaviy davlat bilan bog‘lanmagan **umumiy** mavzular �
 - [Turkmaniston](/uz/docs/turkmenistan)
 - [Ozarbayjon](/uz/docs/azerbaijan)
 - [Qirg‘iziston](/uz/docs/kyrgyzstan)
-- [Turkiya](/uz/docs/turkiye)
+- [Turkiya](/uz/docs/turkey)
 - [Qozog‘iston](/uz/docs/kazakhstan)
 - [O‘zbekiston](/uz/docs/uzbekistan)

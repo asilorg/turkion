@@ -73,6 +73,11 @@ defineOgImageComponent('Docs')
               :alt="`Screenshot of ${item.name}`"
               width="327"
               height="184"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+              format="webp"
+              :quality="70"
+              loading="lazy"
+              decoding="async"
               class="aspect-[16/9] size-full group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"
             />
 
