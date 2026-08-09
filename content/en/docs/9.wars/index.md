@@ -1,13 +1,13 @@
 ---
 title: Wars, Battles & Armed Conflicts
-description: Academic surveys of major wars and campaigns that shaped Turkic polities from the early medieval period to the twentieth century.
+description: Longer essays on campaigns and battles that reshaped Turkic polities—from Talas and Manzikert to Kazan, Panipat, and the Turkish War of Independence.
 ---
 
-This section gathers encyclopedia articles on wars, battles, and armed conflicts closely connected to Turkic history. Each entry situates a conflict in its geopolitical setting, identifies the principal parties, outlines the course of operations, and assesses longer-term consequences for Turkic societies and successor states.
+Wars leave maps and myths. The essays gathered here follow armies, alliances, and aftermaths that mattered for Turkic societies: Karluk choices on the Talas, Seljuk pressure into Anatolia, Mongol uluses that became Turkic-speaking, Ottoman and Timurid campaigns, the fall of Kazan, Babur at Panipat, and the Anatolian struggle of 1919–1923.
 
-The selection follows the conflicts featured on the Turkion homepage. It is not an exhaustive military history of the Turkic world; rather, it highlights turning points that redirected settlement, religion, state formation, and imperial frontiers.
+Each article is written as a self-contained encyclopedia entry—more narrative than a timeline blurb, with room for disagreement among sources and for what a single battle did *not* settle. The selection matches the conflicts featured on the Turkion homepage; it is not a complete military history of the Turkic world.
 
-## Articles in this section
+## Articles
 
 - [Battle of Talas (751 CE)](/en/docs/wars/battle-of-talas)
 - [Seljuk-Byzantine Wars (1048–1308)](/en/docs/wars/seljuk-byzantine-wars)

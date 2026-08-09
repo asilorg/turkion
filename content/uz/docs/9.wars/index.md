@@ -1,19 +1,19 @@
 ---
 title: Urushlar, Janglar va Qurolli Mojarolar
-description: Erta oʻrta asrlardan XX asrgacha turkiy davlatlar tarixini shakllantirgan asosiy urush va yurishlarning akademik sharhlari.
+description: Turkiy davlatlar tarixini oʻzgartirgan yurish va janglar haqidagi kengroq insholar — Talas va Manzikertdan Qozon, Panipat va Turkiya mustaqillik urushigacha.
 ---
 
-Ushbu boʻlim turkiy tarix bilan chambarchas bogʻliq urushlar, janglar va qurolli mojarolar haqidagi ensiklopedik maqolalarni jamlaydi. Har bir yozuv mojaroni geosiyosiy kontekstga joylashtiradi, asosiy ishtirokchilarni aniqlaydi, harbiy jarayonning borishini bayon qiladi va turkiy jamiyatlar hamda voris davlatlar uchun uzoq muddatli oqibatlarni baholaydi.
+Urushlar xarita va afsona qoldiradi. Ushbu boʻlimdagi maqolalar turkiy jamiyatlar uchun muhim boʻlgan qoʻshinlar, ittifoqlar va oqibatlarni kuzatadi: Talasdagi qarluq tanlovi, Anadoluga saljuqiy bosim, turkiy tillashgan moʻgʻul uluslari, usmonli va temuriylar yurishlari, Qozonning qulashi, Panipatdagi Bobur va 1919–1923-yillardagi Anadolu kurashi.
 
-Tanlov Turkion bosh sahifasidagi mojarolarga asoslangan. Bu turkiy dunyoning toʻliq harbiy tarixi emas; aksincha, joylashuv, din, davlat qurilishi va imperiya chegaralarini oʻzgartirgan burilish nuqtalariga e’tibor qaratadi.
+Har bir yozuv mustaqil ensiklopedik maqola sifatida yozilgan — qisqa timeline izohidan koʻra hikoya va tahlilga yaqinroq; manbalar oʻrtasidagi ixtiloflar va bitta jang *nimani* hal qilmagani uchun joy qoldirilgan. Tanlov Turkion bosh sahifasidagi mojarolarga mos keladi; bu turkiy dunyoning toʻliq harbiy tarixi emas.
 
-## Ushbu boʻlimdagi maqolalar
+## Maqolalar
 
 - [Talas jangi (751 milodiy)](/uz/docs/wars/battle-of-talas)
 - [Saljuqiylar-Bizans urushlari (1048–1308)](/uz/docs/wars/seljuk-byzantine-wars)
 - [Moʻgʻullar yurishlari (1206–1368)](/uz/docs/wars/mongol-conquests)
 - [Usmonlilar kengayish urushlari (XIV–XVI asrlar)](/uz/docs/wars/ottoman-wars-of-expansion)
-- [Amir Temurning harbiy yurishlari (1370–1405)](/uz/docs/wars/timurs-military-campaigns)
+- [Temurning harbiy yurishlari (1370–1405)](/uz/docs/wars/timurs-military-campaigns)
 - [Usmonlilar-Gabsburglar urushlari (1526–1791)](/uz/docs/wars/ottoman-habsburg-wars)
 - [Rossiya-Qozon urushlari (1439–1552)](/uz/docs/wars/russo-kazan-wars)
 - [Usmonlilar-Safaviylar urushlari (1514–1639)](/uz/docs/wars/ottoman-safavid-wars)
