@@ -157,43 +157,43 @@ wars:
   features:
     - title: Battle of Talas (751 CE)
       description: Abbasid Caliphate (with Karluk Turks) vs. Tang Dynasty China. A pivotal engagement in Central Asia that halted westward Chinese expansion and allowed for the westward spread of Islam among Turkic peoples. It is also famous for the transfer of papermaking technology from China to the Muslim world.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/battle-of-talas
       img: /wars/Battle of Talas.png
     - title: Seljuk-Byzantine Wars (1048–1308)
       description: Seljuk Empire vs. Byzantine Empire. The decisive Seljuk victory at Manzikert opened Anatolia (modern Turkey) to Turkic settlement, leading to its eventual Turkification and Islamization. This is the foundational event for the creation of modern Turkey.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/seljuk-byzantine-wars
       img: /wars/Seljuk-Byzantine Wars.png
     - title: Mongol Conquests (1206–1368)
       description: Mongol Empire (incorporating many Turkic tribes) vs. various states across Eurasia. While led by the Mongols, these campaigns incorporated and reshaped vast Turkic populations. The conquests led to the creation of Turkic-Mongol successor states (like the Golden Horde and Chagatai Khanate) that became crucibles for later Turkic empires (e.g., Timurids, Ottomans, Uzbeks).
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/mongol-conquests
       img: /wars/Mongol Conquests.png
     - title: Ottoman Wars of Expansion (14th–16th)
       description: Ottoman Empire vs. Byzantine Empire, Balkan states, Safavid Persia, Mamluk Sultanate. These wars established the Ottoman Empire as a world power, destroyed the Byzantine Empire, and secured Ottoman dominance in the Balkans, Anatolia, and the Middle East for centuries.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/ottoman-wars-of-expansion
       img: /wars/Ottoman Wars of Expansion.png
     - title: Timur's Military Campaigns (1370–1405)
       description: Timurid Empire vs. Golden Horde, Delhi Sultanate, Ottoman Empire, Mamluk Sultanate. Led by the Turco-Mongol conqueror Timur (Tamerlane), these brutal campaigns from Central India to Anatolia briefly created a vast empire. Although short-lived, they reshaped political landscapes, crippled rival powers like the Golden Horde, and fostered a cultural renaissance in his capitals.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/timurs-military-campaigns
       img: /wars/Timur's Military Campaigns.png
     - title: Ottoman-Habsburg Wars (1526–1791)
       description: Ottoman Empire vs. Habsburg Empire (Austria/Spain) and allies. This centuries-long struggle defined the frontier between Islam and Christianity in Central Europe. The failed second Siege of Vienna (1683) marked the beginning of the Ottoman Empire's prolonged retreat from Europe.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/ottoman-habsburg-wars
       img: /wars/Ottoman-Habsburg Wars.png
     - title: Russo-Kazan Wars (1439–1552)
       description: Tsardom of Russia vs. Khanate of Kazan. The conquest of Kazan by Ivan the Terrible ended the rule of the last major successor state of the Golden Horde on the Volga River. It was a catastrophic turning point, leading to the gradual Russian conquest and absorption of most other Turkic khanates in the region (Astrakhan, Sibir).
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/russo-kazan-wars
       img: /wars/Russo-Kazan Wars.png
     - title: Ottoman-Safavid Wars (1514–1639)
       description: Ottoman Empire vs. Safavid Empire (Persia). A sectarian and geopolitical struggle between the Sunni Ottoman and Shia Safavid empires. It solidified the split of the West Asian world along Ottoman-Persian lines and established a lasting border, heavily influencing the identities of modern Turkey, Iran, and Iraq.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/ottoman-safavid-wars
       img: /wars/Ottoman-Safavid Wars.png
     - title: Foundation of the Mughal Empire (1526)
       description: Forces of Babur (a Timurid prince of Turco-Mongol heritage) vs. Delhi Sultanate. Using Ottoman-style gunpowder tactics, Babur defeated a much larger Indian army. This victory laid the foundation for the Mughal Empire in India, which became one of the world's greatest powers and left an indelible cultural legacy on the subcontinent.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/foundation-of-the-mughal-empire
       img: /wars/Mughal Empire.png
     - title: The Turkish War of Independence (1919–1923)
       description: Turkish National Movement (Ankara Government) vs. Allied Powers (Greece, France, Armenia, UK/Italy) & the Ottoman Sultanate. Led by Mustafa Kemal Atatürk, this conflict followed WWI and prevented the partition of Anatolia by Allied powers. It resulted in the abolition of the Ottoman Sultanate and the establishment of the Republic of Turkey as a modern, secular nation-state.
-      to: /docs/common/turkic-peoples
+      to: /docs/wars/turkish-war-of-independence
       img: /wars/The Turkish War of Independence.png
 
 gallery:
