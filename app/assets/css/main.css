@@ -24,3 +24,26 @@
 :root {
   --ui-container: var(--container-8xl);
 }
+
+/* Docs prose: readable figures and captions under images */
+.prose :where(img):not(:where(.not-prose, .not-prose *)) {
+  margin-top: 1.75rem;
+  margin-bottom: 0.35rem;
+  border-radius: 0.5rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.prose :where(img + p):has(> em:only-child),
+.prose :where(img + p):has(> i:only-child) {
+  margin-top: 0;
+  margin-bottom: 1.75rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--ui-text-muted, color-mix(in oklab, var(--ui-text) 65%, transparent));
+}
+
+.prose :where(blockquote) {
+  font-size: 0.925rem;
+  color: var(--ui-text-muted, color-mix(in oklab, var(--ui-text) 70%, transparent));
+}
