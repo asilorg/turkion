@@ -1,0 +1,15 @@
+{
+  "name": "wars-gif",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "clean": "python3 clean_logos.py --inplace",
+    "capture": "node capture.mjs",
+    "encode": "bash encode.sh",
+    "gif": "npm run clean && npm run capture && npm run encode"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.34.0"
+  }
+}

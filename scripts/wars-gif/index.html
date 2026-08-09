@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>War Scene Loop</title>
+  <style>
+    html, body {
+      margin: 0;
+      width: 1024px;
+      height: 1024px;
+      overflow: hidden;
+      background: #9eb8c8;
+    }
+    #stage {
+      position: relative;
+      width: 1024px;
+      height: 1024px;
+      overflow: hidden;
+      background: #9eb8c8;
+    }
+    #world {
+      position: absolute;
+      inset: 0;
+      transform-origin: 50% 48%;
+      will-change: transform;
+    }
+    #base {
+      position: absolute;
+      inset: 0;
+      width: 1024px;
+      height: 1024px;
+      display: block;
+    }
+    #fx {
+      position: absolute;
+      inset: 0;
+      width: 1024px;
+      height: 1024px;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <div id="world">
+      <img id="base" alt="War miniature" />
+      <canvas id="fx" width="1024" height="1024"></canvas>
+    </div>
+  </div>
+  <script>
+    const SIZE = 1024
+    const LOOP_MS = 7000
+    const params = new URLSearchParams(location.search)
+    const src = params.get('src')
+    if (!src) throw new Error('Missing ?src=')
+
+    const canvas = document.getElementById('fx')
+    const ctx = canvas.getContext('2d')
+    const world = document.getElementById('world')
+    const base = document.getElementById('base')
+    base.src = src
+
+    // Soft smoke / haze drifts (warmer than winter clouds)
+    const drifts = [
+      { x: 160, y: 90, rx: 140, ry: 50, speed: 14, alpha: 0.22, tint: [210, 190, 160] },
+      { x: 520, y: 70, rx: 170, ry: 55, speed: 10, alpha: 0.18, tint: [200, 185, 165] },
+      { x: 860, y: 110, rx: 120, ry: 42, speed: 12, alpha: 0.2, tint: [215, 195, 170] },
+      { x: 380, y: 50, rx: 100, ry: 34, speed: 8, alpha: 0.15, tint: [190, 180, 170] }
+    ]
+
+    // Dust / ember-like particles
+    const flakes = Array.from({ length: 120 }, (_, i) => {
+      const seed = (i + 1) * 9973
+      const rand = (n) => {
+        const x = Math.sin(seed * 12.9898 + n * 78.233) * 43758.5453
+        return x - Math.floor(x)
+      }
+      const warm = rand(9) > 0.7
+      return {
+        x0: rand(1) * SIZE,
+        y0: rand(2) * SIZE,
+        r: 0.9 + rand(3) * 2.4,
+        fallCycle: 3.2 + rand(4) * 4.5,
+        drift: (-14 + rand(5) * 28),
+        wobbleAmp: 5 + rand(6) * 12,
+        wobbleSpeed: 0.6 + rand(7) * 1.6,
+        alpha: 0.22 + rand(8) * 0.45,
+        color: warm
+          ? [235, 170, 90]
+          : [235, 230, 220]
+      }
+    })
+
+    function drawDrift(c, tLoop) {
+      const period = SIZE + c.rx * 4
+      const travel = ((c.speed * tLoop) / 1000) % period
+      const x = ((c.x + travel) % period + period) % period - c.rx * 2
+      ctx.save()
+      ctx.globalAlpha = c.alpha
+      const [r, g, b] = c.tint
+      const grad = ctx.createRadialGradient(x, c.y, 4, x, c.y, c.rx)
+      grad.addColorStop(0, `rgba(${r},${g},${b},0.9)`)
+      grad.addColorStop(1, `rgba(${r},${g},${b},0)`)
+      ctx.fillStyle = grad
+      ctx.beginPath()
+      ctx.ellipse(x, c.y, c.rx, c.ry, 0, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.beginPath()
+      ctx.ellipse(x - c.rx * 0.4, c.y + 6, c.rx * 0.55, c.ry * 0.75, 0, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.beginPath()
+      ctx.ellipse(x + c.rx * 0.35, c.y + 4, c.rx * 0.5, c.ry * 0.7, 0, 0, Math.PI * 2)
+      ctx.fill()
+      ctx.restore()
+    }
+
+    function drawFrame(t) {
+      const tLoop = ((t % LOOP_MS) + LOOP_MS) % LOOP_MS
+      const phase = tLoop / LOOP_MS
+      const angle = phase * Math.PI * 2
+      const sec = tLoop / 1000
+
+      const scale = 1.02 + 0.028 * Math.sin(angle)
+      const panX = 6 * Math.sin(angle)
+      const panY = 4 * Math.cos(angle) + 2 * Math.sin(angle * 2)
+      world.style.transform = `translate(${panX}px, ${panY}px) scale(${scale})`
+
+      ctx.clearRect(0, 0, SIZE, SIZE)
+      for (const d of drifts) drawDrift(d, tLoop)
+
+      for (const f of flakes) {
+        const y = ((f.y0 + (sec / f.fallCycle) * (SIZE + 20)) % (SIZE + 20)) - 10
+        const x = (f.x0 + sec * f.drift + Math.sin(sec * f.wobbleSpeed + f.x0) * f.wobbleAmp + SIZE * 4) % SIZE
+        const [r, g, b] = f.color
+        ctx.beginPath()
+        ctx.fillStyle = `rgba(${r},${g},${b},${f.alpha})`
+        ctx.arc(x, y, f.r, 0, Math.PI * 2)
+        ctx.fill()
+      }
+    }
+
+    window.__sceneRender = (tMs) => drawFrame(tMs)
+    window.__sceneReady = false
+    base.onload = () => {
+      window.__sceneReady = true
+      drawFrame(0)
+    }
+    if (base.complete && base.naturalWidth) {
+      window.__sceneReady = true
+      drawFrame(0)
+    }
+
+    let start = performance.now()
+    function preview(now) {
+      if (!window.__CAPTURE__) {
+        drawFrame(now - start)
+        requestAnimationFrame(preview)
+      }
+    }
+    requestAnimationFrame(preview)
+  </script>
+</body>
+</html>
