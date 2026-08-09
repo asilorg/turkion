@@ -5,8 +5,9 @@
   "type": "module",
   "main": "capture.mjs",
   "scripts": {
+    "clean": "python3 remove_gemini_logo.py",
     "capture": "node capture.mjs",
-    "gif": "node capture.mjs && bash encode.sh"
+    "gif": "npm run clean && node capture.mjs && bash encode.sh"
   },
   "keywords": [],
   "author": "",

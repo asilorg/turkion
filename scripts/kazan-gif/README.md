@@ -14,8 +14,12 @@ Generates a looping animated GIF from `public/cities/kazan.png`.
 ```bash
 cd scripts/kazan-gif
 npm install
+pip install pillow numpy   # for watermark removal
 npm run gif
 ```
+
+`npm run gif` first removes the Gemini sparkle watermark from the source
+(`remove_gemini_logo.py` → `kazan-clean.png`), then captures frames and encodes.
 
 Outputs:
 
