@@ -158,43 +158,43 @@ wars:
   - title: Talas jangi (751 milodiy)
     description: Abbosiylar xalifaligi (Qarluqlar bilan) va Tan sulolasi (Xitoy) o'rtasidagi jang. Bu Markaziy Osiyodagi hal qiluvchi to'qnashuv bo'lib, Xitoyning g‘arbga kengayishini to'xtatdi va turkiy xalqlar orasida Islom dinining g'arbga tarqalishiga imkon berdi. Shuningdek, bu jang qog'oz ishlab chiqarish texnologiyasining Xitoydan musulmon olamiga o'tishi bilan mashhur.
     to: /docs/wars/battle-of-talas
-    img: /wars/Battle of Talas.png
+    img: /wars/battle-of-talas.jpg
   - title: Saljuqiylar-Bizans urushlari (1048–1308)
     description: Saljuqiylar imperiyasi va Vizantiya imperiyasi o'rtasidagi urushlar. Manzikertdagi hal qiluvchi Saljuqiylar g'alabasi Anadoluni (zamonaviy Turkiya) turkiy aholi joylashishi uchun ochdi, bu esa oxir-oqibat uning turklashtirilishi va islomlashtirilishiga olib keldi. Bu zamonaviy Turkiyaning yaratilishi uchun asosiy voqeadir.
     to: /docs/wars/seljuk-byzantine-wars
-    img: /wars/Seljuk-Byzantine Wars.png
+    img: /wars/seljuk-byzantine-wars.jpg
   - title: Mo'g'ullar yurishlari (1206–1368)
     description: Mo'g'ul imperiyasi (ko'plab turkiy qabilalarni o'z ichiga olgan) va Yevroosiyodagi turli davlatlar o'rtasidagi urushlar. Mo'g'ullar boshchiligida amalga oshirilgan bo'lsa-da, bu yurishlar keng turkiy aholini o'z ichiga olgan va qayta shakllantirgan. Yurishlar turkiy-mo'g'ul voris davlatlarining (masalan, Oltin O'rda va Chig'atoy ulusi) yaratilishiga olib keldi, ular keyinchalik turkiy imperiyalar (Temuriylar, Usmonlilar, O'zbeklar) uchun asos bo'ldi.
     to: /docs/wars/mongol-conquests
-    img: /wars/Mongol Conquests.png
+    img: /wars/mongol-conquests.jpg
   - title: Usmonlilar kengayish urushlari (14–16-asrlar)
     description: Usmonli imperiyasi va Vizantiya imperiyasi, Bolqon davlatlari, Safaviylar Eroni, Mamluklar saltanati o'rtasidagi urushlar. Bu urushlar Usmonli imperiyasini jahon kuchi sifatida o'rnatdi, Vizantiya imperiyasini tugatdi va asrlar davomida Bolqon, Anadolu va Yaqin Sharqda Usmonli ustunligini ta'minladi.
     to: /docs/wars/ottoman-wars-of-expansion
-    img: /wars/Ottoman Wars of Expansion.png
+    img: /wars/ottoman-wars-of-expansion.jpg
   - title: Amir Temurning harbiy yurishlari (1370–1405)
     description: Temuriylar imperiyasi va Oltin O'rda, Dehli saltanati, Usmonli imperiyasi, Mamluklar saltanati o'rtasidagi urushlar. Turkiy-mo'g'ul bosqinchisi Temur (Tamerlan) boshchiligidagi bu shafqatsiz yurishlar Markaziy Hindistondan Anadolugacha bo'lgan keng hududni qamrab oldi va qisqa muddatli ulkan imperiya yaratdi. Qisqa muddatli bo'lsa-da, ular siyosiy landshaftni qayta shakllantirdi, Oltin O'rda kabi raqobatchi kuchlarni zaiflashtirdi va uning poytaxtlarida madaniy uyg'onishni rag'batlantirdi.
     to: /docs/wars/timurs-military-campaigns
-    img: /wars/Timur's Military Campaigns.png
+    img: /wars/timurs-military-campaigns.jpg
   - title: Usmonlilar-Gabsburglar urushlari (1526–1791)
     description: Usmonli imperiyasi va Gabsburglar imperiyasi (Avstriya/Ispaniya) va ularning ittifoqchilari o'rtasidagi urushlar. Bu asrlar davom etgan kurash Markaziy Yevropada Islom va Xristianlik chegarasini belgilab berdi. Vena ikkinchi marta muvaffaqiyatsiz qamal qilinishi (1683) Usmonli imperiyasining Yevropadan uzoq muddatli chekinish boshlanishini belgiladi.
     to: /docs/wars/ottoman-habsburg-wars
-    img: /wars/Ottoman-Habsburg Wars.png
+    img: /wars/ottoman-habsburg-wars.jpg
   - title: Rossiya-Qozon urushlari (1439–1552)
     description: Rossiya podsholigi va Qozon xonligi o'rtasidagi urushlar. Qozonning Ivan Grozniy tomonidan bosib olinishi Volga bo'yidagi Oltin O'rdaning so'nggi yirik voris davlati hukmronligiga chek qo'ydi. Bu falokatli burilish nuqtasi bo'lib, mintaqadagi boshqa ko'plab turkiy xonliklarni (Astroxon, Sibir) bosib olish va ularni o'zlashtirishga olib keldi.
     to: /docs/wars/russo-kazan-wars
-    img: /wars/Russo-Kazan Wars.png
+    img: /wars/russo-kazan-wars.jpg
   - title: Usmonlilar-Safaviylar urushlari (1514–1639)
     description: Usmonli imperiyasi va Safaviylar imperiyasi (Eron) o'rtasidagi urushlar. Sunniy Usmonli va shia Safaviylar imperiyalari o'rtasidagi mazhabiy va geopolitik kurash edi. Bu G'arbiy Osiyo dunyosining Usmonli-Eron chizig'i bo'yicha bo'linishini mustahkamladi va barqaror chegara o'rnatdi, bu esa zamonaviy Turkiya, Eron va Iroqning o'ziga xosligiga kuchli ta'sir ko'rsatdi.
     to: /docs/wars/ottoman-safavid-wars
-    img: /wars/Ottoman-Safavid Wars.png
+    img: /wars/ottoman-safavid-wars.jpg
   - title: Boburiylar imperiyasining asos solinishi (1526)
     description: Bobur (temuriy shahzoda, turkiy-mo'g'ul merosiga ega) qo'shinlari va Dehli saltanati o'rtasidagi jang. Usmonli uslubidagi portlovchi moddalar taktikasidan foydalangan holda, Bobur ancha katta hind qo'shinini mag'lub etdi. Bu g'alaba Hindistonda Boburiylar imperiyasining asosini qo'ydi, u dunyoning eng buyuk kuchlaridan biriga aylandi va subqit'aga o'chmas madaniy meros qoldirdi.
     to: /docs/wars/foundation-of-the-mughal-empire
-    img: /wars/Mughal Empire.png
+    img: /wars/mughal-empire.jpg
   - title: Turkiya mustaqillik urushi (1919–1923)
     description: Turkiya Milliy Harakati (Anqara hukumati) va Ittifoqchi davlatlar (Gretsiya, Frantsiya, Armaniston, Buyuk Britaniya/Italiya) va Usmonli sultonligi o'rtasidagi urush. Mustafo Kamol Otaturk boshchiligidagi bu mojaro Birinchi Jahon Urushidan keyin sodir bo'ldi va Anadoluning Ittifoqchi davlatlar tomonidan bo'linib ketishining oldini oldi. Bu Usmonli sultonligining tugatilishi va zamonaviy, dunyoviy milliy davlat sifatida Turkiya Respublikasining tashkil etilishiga olib keldi.
     to: /docs/wars/turkish-war-of-independence
-    img: /wars/The Turkish War of Independence.png
+    img: /wars/turkish-war-of-independence.jpg
 
 gallery:
   title: Turkiston turkum rasmlari
