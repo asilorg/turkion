@@ -1,0 +1,17 @@
+{
+  "name": "kazan-gif",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "capture.mjs",
+  "scripts": {
+    "capture": "node capture.mjs",
+    "gif": "node capture.mjs && bash encode.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^25.5.0"
+  }
+}
