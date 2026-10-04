@@ -1,6 +1,11 @@
 ---
 title: Material culture in Turkey
 description: Homes, textiles, vessels, tools, and domestic objects in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/material-culture
+sources:
+- title: 'Metropolitan Museum of Art: Ottoman hammam shoes, object 81722'
+  url: https://www.metmuseum.org/art/collection/search/81722
 ---
 
 Material culture in Turkey includes the objects through which households cook, furnish rooms, dress bodies, store food, and mark ceremonies. Things gain meaning through use, repair, inheritance, display, and exchange rather than through age alone. Museum collections and tourist markets preserve only part of the everyday material record.
@@ -42,3 +47,9 @@ Coastal humidity, mountain pastoralism, urban apartment living, and rural agricu
 - [Bread and meze in Turkey](/en/docs/turkey/bread-meze)
 - [Hammam in Turkey](/en/docs/turkey/hammam)
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
+
+## Documented example
+
+The Metropolitan Museum preserves Ottoman wooden bath shoes with mother-of-pearl inlay, documenting footwear made specifically for the bathhouse. [Metropolitan Museum of Art: Ottoman hammam shoes, object 81722](https://www.metmuseum.org/art/collection/search/81722).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

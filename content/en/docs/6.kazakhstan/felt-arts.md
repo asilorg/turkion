@@ -1,6 +1,11 @@
 ---
 title: Felt Arts in Kazakhstan
 description: An examination of Kazakh felt making, ornament, household use, and the adaptation of wool crafts in contemporary practice.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/felt-arts
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 Felt arts in Kazakhstan encompass the cleaning, matting, dyeing, cutting, stitching, and decorating of wool textiles. Felt has been used for coverings, floor textiles, furnishings, and clothing because it is warm, resilient, and can be produced from sheep’s wool. Its techniques join practical household production with visual design.
@@ -42,3 +47,9 @@ Wool quality, color choices, motifs, and methods differ by region, household tra
 - [Material Culture](/en/docs/kazakhstan/material-culture)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Festivals](/en/docs/kazakhstan/festivals)
+
+## Documented example
+
+The yurt-making record identifies felting alongside spinning, braiding, embroidery and sewing in the production of coverings and decoration. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

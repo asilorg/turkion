@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda moddiy madaniyat
 description: O‘zbekistonning kundalik hayotidagi kiyim-kechak, uy-ro‘zg‘or buyumlari, maishiy to‘qimachilik va fazoviy odatlar.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/material-culture
+sources:
+- title: 'Uzbekistan intangible heritage inventory: Kulolchilik'
+  url: https://www.ich.uz/en/ich-of-uzbekistan/national-list/domain-5/440-kulolchilik
 ---
 
 Oʻzbekistonda moddiy madaniyat uy xoʻjaliklarining kundalik hayotini amalga oshiradigan kiyim-kechak, toʻqimachilik, mebel, idish-tovoq va makonni oʻz ichiga oladi. Ushbu ob'ektlar mahalliy sharoitda ishlab chiqariladi, bozorlarda sotib olinadi, meros qilib olinadi, ta'mirlanadi yoki yangi uy-joylarga moslashtiriladi. Ulardan foydalanish mintaqaga, daromadga, yoshga, shahar yoki qishloq sharoitiga qarab farq qiladi. Moddiy madaniyatning tavsifi shuning uchun ham alohida ob'ektlarning vizual koʻrinishi kabi foydalanish odatlariga ham tegishli.
@@ -42,3 +47,9 @@ Buxoro va Samarqand oʻziga xos kashtachilik va shahar maishiy an'analari bilan 
 - [Oʻzbekistonda ipak va toʻqimachilik anʼanalari](/uz/docs/uzbekistan/silk-textiles) — tolalar, toʻquvchilik va naqshli matolar.
 - [Oʻzbekistonda arxitektura hunarmandchiligi](/uz/docs/uzbekistan/architectural-craft) — qurilgan yuzalar va hunarmandchilik ishlari.
 - [Oʻzbekistonda mehmondoʻstlik va hayot sikli odatlari](/uz/docs/uzbekistan/hospitality) — ovqatlanish va uyni qabul qilish.
+
+## Hujjatlashtirilgan misol
+
+Milliy kulolchilik ro‘yxati sirlangan va sirlanmagan buyumlarni farqlab, Rishton, G‘ijduvon va Toshkentni hunar markazlari qatorida ko‘rsatadi. [Uzbekistan intangible heritage inventory: Kulolchilik](https://www.ich.uz/en/ich-of-uzbekistan/national-list/domain-5/440-kulolchilik).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

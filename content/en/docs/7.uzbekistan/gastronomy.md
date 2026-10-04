@@ -1,6 +1,11 @@
 ---
 title: Uzbek cuisine
 description: Foodways in Uzbekistan, including rice cookery, bread, market foods, dairy products, and tea service.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/gastronomy
+sources:
+- title: 'UNESCO: Palov culture and tradition, decision 11.COM 10.b.35'
+  url: https://ich.unesco.org/en/Decisions/11.COM/10.b.35
 ---
 
 Uzbek cuisine comprises food practices shaped by irrigated agriculture, livestock keeping, urban markets, and household cooking across Central Asia. Rice, wheat flour, vegetables, fruit, and meat are combined through techniques that vary by season, locality, and occasion. Meals commonly place shared dishes at the centre of the table, while bread and tea organize the ordinary sequence of receiving guests and eating together.
@@ -13,7 +18,7 @@ Uzbekistan’s oases and river valleys support grain, vegetable, fruit, and live
 
 The best-known rice dish is *palov*, also called *osh*, prepared by cooking rice with a base of fat, onions, carrots, and meat, usually lamb or beef. This base, known as *zirvak*, is seasoned and simmered before rice is added. Cooks may include chickpeas, garlic, quince, raisins, or eggs according to a household recipe and the season. Its preparation depends on control of heat and moisture in a large cauldron, the *qozon*, rather than on a fixed ingredient list.
 
-Regional descriptions of *palov* identify differences in carrot cutting, rice texture, use of oil, and the order in which ingredients are layered. In the Fergana Valley, varieties often use yellow carrots and a relatively separate grain; Samarkand preparations may keep components more visibly layered. Such labels are useful culinary shorthand, but recipes also differ between neighbourhoods and families. *Palov* may be cooked for weekday meals, collective work, weddings, memorial meals, and other gatherings, with the scale of the *qozon* adjusted to the number of diners.
+Regional descriptions of *palov* identify differences in carrot cutting, rice texture, use of oil, and the order in which ingredients are layered. Ingredients and preparation vary within the Fergana Valley as well as between regions. Such labels are useful culinary shorthand, but recipes also differ between neighbourhoods and families. *Palov* may be cooked for weekday meals, collective work, weddings, memorial meals, and other gatherings, with the scale of the *qozon* adjusted to the number of diners.
 
 ## Bread and the household oven
 
@@ -46,3 +51,9 @@ Uzbek foodways cannot be reduced to a single standard menu. City restaurants, vi
 - [Turkic cuisine](/en/docs/common/turkic-cuisine) — comparative foodways across Turkic-speaking regions.
 - [Navruz](/en/docs/common/navruz) — spring observances and festive foods.
 - [Hospitality and life-cycle customs in Uzbekistan](/en/docs/uzbekistan/hospitality) — tea service and guest etiquette.
+
+## Documented example
+
+UNESCO’s palov dossier identifies rice, meat, vegetables and spices and distinguishes daily meals from wedding, charitable and commemorative uses. [UNESCO: Palov culture and tradition, decision 11.COM 10.b.35](https://ich.unesco.org/en/Decisions/11.COM/10.b.35).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

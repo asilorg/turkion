@@ -1,6 +1,11 @@
 ---
 title: Hospitality
 description: An examination of guest reception, tea service, meals, visiting, and household etiquette in Azerbaijan.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/hospitality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Hospitality in Azerbaijan refers to practices for receiving visitors, sharing food and tea, arranging seating, and maintaining relations among kin, neighbors, and acquaintances. These practices are not a single fixed protocol. They depend on the occasion, the visitor’s relationship to the household, the size of the home, available time, and the resources that a family can devote to a visit.
@@ -42,3 +47,9 @@ In rural settings, guests may be received in courtyards or rooms designed for vi
 - [Azerbaijani Cuisine](/en/docs/azerbaijan/cuisine)
 - [Festivals and Calendar Observances](/en/docs/azerbaijan/festivals)
 - [Novruz Household Practices](/en/docs/azerbaijan/novruz-household)
+
+## Documented example
+
+The joint Azerbaijani–Turkish tea record describes hot tea served in pear-shaped vessels with accompaniments such as jam or dried fruit. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

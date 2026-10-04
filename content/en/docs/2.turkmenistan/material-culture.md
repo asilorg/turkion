@@ -1,6 +1,11 @@
 ---
 title: Material Culture in Turkmenistan
 description: An overview of domestic objects, portable dwellings, dress, tools, and craft work in Turkmenistan.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/material-culture
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Material culture in Turkmenistan includes the objects through which people make homes, store food, wear clothing, care for animals, and arrange social space. These objects are made, inherited, bought, repaired, and repurposed in everyday life. Their meanings arise from use and relationships as much as from their visual appearance.
@@ -44,3 +49,9 @@ Objects differ between city apartments, village houses, pastoral camps, and hous
 - [Carpet Weaving](/en/docs/turkmenistan/carpet-weaving)
 - [Horse Culture](/en/docs/turkmenistan/horse-culture)
 - [Hospitality](/en/docs/turkmenistan/hospitality)
+
+## Documented example
+
+Carpets furnish floors and walls; the UNESCO record also identifies textiles made for births, prayer, weddings and mourning. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

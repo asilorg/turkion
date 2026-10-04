@@ -1,6 +1,11 @@
 ---
 title: Yurt
 description: A description of Kyrgyz yurt construction, interior organization, and contemporary uses.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/yurt
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 A Kyrgyz *boz üi*, often called a *yurt* in English, is a portable circular dwelling with a wooden lattice wall, roof poles, felt coverings, and a crown opening. It is associated with seasonal herding and summer pasture, but it also appears at family events, cultural programs, and commercial sites. Its form is adapted to local materials, weather, labor, and patterns of use rather than existing as a single unchanging structure.
@@ -44,3 +49,9 @@ Yurts used on high pastures generally require substantial insulation and durable
 - [Material Culture](/en/docs/kyrgyzstan/material-culture)
 - [Felt Textiles](/en/docs/kyrgyzstan/felt-textiles)
 - [Hospitality](/en/docs/kyrgyzstan/hospitality)
+
+## Documented example
+
+A yurt combines a folding circular wooden frame, felt coverings and ropes; its portability depends on these separate components. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

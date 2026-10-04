@@ -1,6 +1,11 @@
 ---
 title: Yurt
 description: Qirgʻiz uyining qurilishi, ichki tuzilishi va zamonaviy foydalanish tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/yurt
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 Qirgʻizcha *boz üi*, koʻpincha ingliz tilida *yurt* deb ataladi, devori yogʻoch panjarali, tom ustunlari, namat qoplamalari va toj teshigi boʻlgan koʻchma dumaloq uydir. Bu mavsumiy chorvachilik va yozgi yaylov bilan bogʻliq, lekin u oilaviy tadbirlarda, madaniy dasturlarda va savdo maydonchalarida ham paydo boʻladi. Uning shakli yagona oʻzgarmas tuzilma sifatida mavjud emas, balki mahalliy materiallar, ob-havo, mehnat va foydalanish naqshlariga moslashtirilgan.
@@ -44,3 +49,9 @@ Baland yaylovlarda ishlatiladigan uylar, odatda, katta izolyatsiya va mustahkam 
 - [Moddiy madaniyat](/uz/docs/kyrgyzstan/material-culture)
 - [Felt Textile](/uz/docs/kyrgyzstan/felt-textiles)
 - [Mehmondoʻstlik](/uz/docs/kyrgyzstan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+O‘tov yig‘iladigan aylana yog‘och sinch, kigiz qoplama va arqonlardan tuziladi; alohida qismlar uni ko‘chirish imkonini beradi. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

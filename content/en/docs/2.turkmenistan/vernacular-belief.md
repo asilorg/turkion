@@ -1,6 +1,11 @@
 ---
 title: Vernacular Belief in Turkmenistan
 description: A description of everyday religious practice, healing, protective customs, and local interpretations in Turkmenistan.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/vernacular-belief
+sources:
+- title: 'J. Allaberdieva, Institute of History and Archaeology: History of the Turkmen tamdyr (2021)'
+  url: https://www.turkmenistan.gov.tm/en/post/55715/history-turkmen-tamdyr-traditional-round-shaped-clay-oven
 ---
 
 Vernacular belief in Turkmenistan refers to everyday ways people interpret health, misfortune, protection, blessing, and the presence of the sacred. These practices may draw on Islamic teaching, family custom, local healing knowledge, and ideas shared across Central Asia. They vary greatly and should not be treated as a uniform system or as separate from ordinary social life.
@@ -44,3 +49,9 @@ Practice differs between urban and rural households, generations, ethnic communi
 - [Festivals](/en/docs/turkmenistan/festivals)
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
 - [Hospitality](/en/docs/turkmenistan/hospitality)
+
+## Documented example
+
+Researcher Jennet Allaberdieva describes the gochak ornament on tamdyr ovens as protection against the evil eye in local belief. [J. Allaberdieva, Institute of History and Archaeology: History of the Turkmen tamdyr (2021)](https://www.turkmenistan.gov.tm/en/post/55715/history-turkmen-tamdyr-traditional-round-shaped-clay-oven).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

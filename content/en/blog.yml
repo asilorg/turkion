@@ -1,6 +1,11 @@
-title: Blog
-description: Coming Soon
+title: About the project and editorial work
+description: Turkion is a developing multilingual reference. Articles marked draft have not received specialist review. References identify the evidence used; they do not imply endorsement. Start with the overview, compare local practices, and use the contributor guide when preparing corrections. No editorial board or guest-scholar programme is claimed.
 navigation: false
 hero:
-  title: Coming Soon
-  description: Welcome to the official blog of the Turkic Encyclopedia. Here, our editorial board and guest scholars publish in-depth articles, explore historical nuances, and provide updates on the latest academic research related to Turkic history, languages, cultures, and peoples across Eurasia.
+  title: About the project and editorial work
+  description: Turkion is a developing multilingual reference. Articles marked draft have not received specialist review. References identify the evidence used; they do not imply endorsement. Start with the overview, compare local practices, and use the contributor guide when preparing corrections. No editorial board or guest-scholar programme is claimed.
+  links:
+  - label: Overview
+    to: /docs/common/turkic-peoples
+  - label: Contributor guide
+    to: /docs/essentials/markdown-syntax

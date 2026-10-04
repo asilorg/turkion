@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda musiqa va raqs
 description: Oʻzbekistondagi xalq va klassik ijro kontekstlari, cholgʻu asboblari, repertuarlar va ijtimoiy muhit.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/music-dance
+sources:
+- title: 'Uzbekistan intangible heritage inventory: Shashmaqom'
+  url: https://ich.uz/en/ich-of-uzbekistan/national-list/domain-2/262-shashmaqom
 ---
 
 O‘zbekistonda musiqa va raqsga mahalliy yig‘inlar, mahalla tadbirlari, teatrlar, to‘ylar, ixtisoslashgan to‘garaklarda ijro etilgan repertuarlar kiradi. Ularga vokal janrlari, instrumental asarlar, hikoya qoʻshiqlari va ma'lum mintaqalar bilan bogʻliq raqslar kiradi. Klassik *maqom* bu sohada muhim o‘rin tutadi, lekin u faqat bitta repertuar; kundalik va bayram ijrosi, shuningdek, ishi mahalliy tomoshabinlar va tadbirlar atrofida tashkil etilgan musiqachilarga bogʻliq.
@@ -9,7 +14,7 @@ O‘zbekistonda musiqa va raqsga mahalliy yig‘inlar, mahalla tadbirlari, teatr
 
 Ijrochilik anʼanalari voha shaharlari, daryo vodiylari va qoʻshni Oʻrta Osiyo jamoalari oʻrtasida sozandalar va repertuarlar almashinuvi natijasida rivojlangan. Ushbu mintaqaviy aloqalar oʻziga xos mahalliy uslublar va tillarni saqlab qolgan holda umumiy vositalar va shakllarni hisobga oladi.
 
-## Ishlash sozlamalari
+## Ijro muhiti
 
 Toʻylar, oilaviy bayramlar va mavsumiy yigʻilishlar musiqa uchun muntazam kontekstlarni taqdim etadi. Musiqachilar mehmonlarga raqsga tushish, ovqatlanish va salomlashish imkonini beruvchi yozib olingan va jonli repertuarlarni ijro etuvchi *toʻy*ga hamrohlik qilish uchun yollanishi mumkin. Dastur mehmonlarning yoshi va mezbon oilaning resurslariga qarab mashhur qoʻshiqlarni eski xalq ohanglari bilan birlashtirishi mumkin. Ovoz tizimlari va professional tadbirlar oʻtkaziladigan joylar koʻplab bayramlar koʻlamini oʻzgartirdi, kichikroq uy yigʻilishlari esa norasmiy qoʻshiq va zarbalarni qoʻllab-quvvatlashda davom etmoqda.
 
@@ -40,5 +45,11 @@ O‘zbekistonning ijrochilik an’analari ko‘p tilli shaharlar, mintaqaviy mig
 ## Shuningdek qarang
 
 - [O‘zbekistonda maqom](/uz/docs/uzbekistan/maqom) — klassik syuita repertuarlari va translyatsiyasi.
-- [O‘zbekistonda bayramlar va mavsumiy marosimlar](/uz/docs/uzbekistan/festivals) — ommaviy chiqishlar sozlamalari.
+- [O‘zbekistonda bayramlar va mavsumiy marosimlar](/uz/docs/uzbekistan/festivals) — ommaviy ijro muhiti.
 - [Oʻzbekistonda mehmondoʻstlik va hayot odatlari](/uz/docs/uzbekistan/hospitality) — oilaviy yigʻilishlarda musiqa.
+
+## Hujjatlashtirilgan misol
+
+Yunus Rajabiyning olti jildli «Shashmaqom» nashri 1966–1975-yillarda chiqqan; bu nota yozuvi va og‘zaki ta’lim yonma-yon mavjudligining misolidir. [Uzbekistan intangible heritage inventory: Shashmaqom](https://ich.uz/en/ich-of-uzbekistan/national-list/domain-2/262-shashmaqom).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

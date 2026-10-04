@@ -1,6 +1,11 @@
 ---
 title: Wedding Rituals in Turkmenistan
 description: A description of Turkmen wedding preparations, ceremony sequences, exchange, and local variation.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/wedding-rituals
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Wedding rituals in Turkmenistan comprise a sequence of family negotiations, preparations, visits, meals, music, and the establishment of a new household. The sequence is not identical everywhere, and its scale depends on family resources, residence patterns, religious practice, and the wishes of the couple and their relatives. Hospitality is important to a wedding, but wedding ritual has a more specific social and ceremonial structure.
@@ -44,3 +49,9 @@ Village weddings may rely heavily on courtyard cooking and neighborhood labor, w
 - [Hospitality](/en/docs/turkmenistan/hospitality)
 - [Music and Dance](/en/docs/turkmenistan/music-dance)
 - [Carpet Weaving](/en/docs/turkmenistan/carpet-weaving)
+
+## Documented example
+
+Special carpets made for weddings connect textile production with family ceremonies. This documents one practice, not a universal wedding sequence. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

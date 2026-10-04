@@ -1,13 +1,12 @@
 title: Цифровая энциклопедия тюркского мира
 description: "Большую историю чаще рассказывают через крупные государства и известные имена. Реже вспоминают малые народы — тех, чей язык ещё звучит в горных долинах, степных селениях и далёких городах. Их исторические места разбросаны по обширным землям: у тихих речных берегов, на горных перевалах и вдоль забытых дорог. Здесь собрано то, что ещё можно узнать об их истории и укладе жизни."
-
 hero:
   title: Энциклопедия тюркского мира
   description: "Большую историю чаще рассказывают через крупные государства и известные имена. Реже вспоминают малые народы — тех, чей язык ещё звучит в горных долинах, степных селениях и далёких городах. Их исторические места разбросаны по обширным землям: у тихих речных берегов, на горных перевалах и вдоль забытых дорог. Здесь собрано то, что ещё можно узнать об их истории и укладе жизни."
   links:
     - label: Начать изучение
       to: /docs/common/turkic-peoples
-      class: 'nuxt-only'
+      class: nuxt-only
     - label: Перейти к хронологии
       to: /timeline
       variant: outline
@@ -18,8 +17,8 @@ hero:
       title: "Тюркский мир: ваш цифровой портал"
       description: Откройте общие корни, языки и яркую, многообразную культуру.
     - icon: i-streamline-color:islam-flat
-      title: "Один язык, много народов: исследуйте тюркский мир"
-      description: Путешествие по континентам в созвездие культур, объединённых историей и языком. Это ваш цифровой портал в сердце динамичного тюркского мира.
+      title: Родственные языки, разные народы
+      description: Познакомьтесь с языковой семьёй и различными историями её носителей в Евразии.
     - icon: i-streamline-plump-color:world-flat
       title: Откройте новый мир
       description: От сибирских просторов до берегов Средиземноморья — откройте для себя народы и культуры, формирующие тюркский мир. Ваш исчерпывающий путеводитель по богатому и взаимосвязанному наследию.
@@ -27,182 +26,170 @@ features:
   - title: Туркменистан
     description: Страна нейтралитета, богатой истории и самобытных традиций.
     icon: i-circle-flags:tm
-    to: /docs/common/turkic-peoples
+    to: /docs/turkmenistan
   - title: Турция
     description: Там, где Восток встречает Запад — мост между континентами и центр динамичного развития.
     icon: i-circle-flags:lang-tr
-    to: /docs/common/turkic-peoples
+    to: /docs/turkey
   - title: Казахстан
     description: Земля Великой степи — страна с огромными ресурсами и амбициозными устремлениями.
     icon: i-circle-flags:kz
-    to: /docs/common/turkic-peoples
+    to: /docs/kazakhstan
   - title: Узбекистан
     description: Колыбель древней цивилизации Великого шёлкового пути, родина легендарных городов Самарканд и Бухара.
     icon: i-circle-flags:lang-uz
-    to: /docs/common/turkic-peoples
+    to: /docs/uzbekistan
   - title: Азербайджан
     description: Страна огня, где древнее зороастрийское наследие сочетается с современной энергетической мощью.
     icon: i-circle-flags:lang-az
-    to: /docs/common/turkic-peoples
+    to: /docs/azerbaijan
   - title: Кыргызстан
     description: Страна небесных гор, хранящая богатую кочевую культуру и захватывающие природные красоты.
     icon: i-circle-flags:kg
-    to: /docs/common/turkic-peoples
+    to: /docs/kyrgyzstan
 details:
   title: Тюркский мир в деталях и современные города
   miniatures:
     - title: Сцена тимуридско-египетского посольства, Бехзад
       to: /miniatures
-      img: /miniatures/index/Behzad_timur_egyptian.jpg
+      img: /miniatures-web/index/Behzad_timur_egyptian.jpg.webp
     - title: Портрет Мухаммада Шейбани, хана узбеков
       to: /miniatures
-      img: /miniatures/index/Muhammad_Shaybani.jpg
+      img: /miniatures-web/index/Muhammad_Shaybani.jpg.webp
     - title: Завоевание Багдада Тимуром, из «Зафарнаме» (Книги побед)
       to: /miniatures
-      img: /miniatures/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg
+      img: /miniatures-web/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg.webp
     - title: Битва при Мохаче
       to: /miniatures
-      img: /miniatures/index/Battle_of_Mohács.jpg
+      img: /miniatures-web/index/Battle_of_Mohács.jpg.webp
     - title: Похороны султана Мурада II
       to: /miniatures
-      img: /miniatures/index/Funeral_of_Murat_II.png
+      img: /miniatures-web/index/Funeral_of_Murat_II.png.webp
     - title: Охота императора Джахангира на льва, около 1615 года
       to: /miniatures
-      img: /miniatures/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg
+      img: /miniatures-web/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg.webp
     - title: Строительство крепости Харнак, Камал ад-дин Бихзад
       to: /miniatures
-      img: /miniatures/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg
+      img: /miniatures-web/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg.webp
     - title: Войска Моголов преследуют армии Дауда
       to: /miniatures
-      img: /miniatures/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg
+      img: /miniatures-web/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg.webp
     - title: Страница из альбома Джахангира с каллиграфией Мир Али, около 1600 года
       to: /miniatures
-      img: /miniatures/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg
+      img: /miniatures-web/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg.webp
     - title: Император Шах Джахан верхом на коне, из Альбома Шах Джахана, около 1630 года
       to: /miniatures
-      img: /miniatures/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg
+      img: /miniatures-web/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg.webp
     - title: Живописная родословная потомков императора Джахангира, около 1623–27 годов
       to: /miniatures
-      img: /miniatures/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg
+      img: /miniatures-web/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg.webp
     - title: Восшествие на престол султана Селима II (часть A)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_A.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_A.jpg.webp
     - title: Восшествие на престол султана Селима II (часть B)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_B.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_B.jpg.webp
     - title: Осада Нахичевани, из «Сулейман-наме»
       to: /miniatures
-      img: /miniatures/index/Sueleymanname_nahcevan.jpg
+      img: /miniatures-web/index/Sueleymanname_nahcevan.jpg.webp
     - title: Портрет учёного Таки ад-Дина
       to: /miniatures
-      img: /miniatures/index/Taqi_al_din.jpg
+      img: /miniatures-web/index/Taqi_al_din.jpg.webp
   cities:
     - title: Казань
-      to: /docs/common
       img: /cities/kazan.png
     - title: Алматы
-      to: /docs/common
+      to: /docs/kazakhstan
       img: /cities/almaty.png
     - title: Стамбул
-      to: /docs/common
+      to: /docs/turkey
       img: /cities/istanbul.png
     - title: Мазари-Шариф
-      to: /docs/common
       img: /cities/mazar-e-sharif.png
     - title: Ташкент
-      to: /docs/common
+      to: /docs/uzbekistan
       img: /cities/tashkent.png
     - title: Баку
-      to: /docs/common
+      to: /docs/azerbaijan
       img: /cities/baku.png
     - title: Астана
-      to: /docs/common
+      to: /docs/kazakhstan
       img: /cities/astana.png
     - title: Ашхабад
-      to: /docs/common
+      to: /docs/turkmenistan
       img: /cities/ashgabat.png
     - title: Анкара
-      to: /docs/common
+      to: /docs/turkey
       img: /cities/ankara.png
     - title: Урумчи
-      to: /docs/common
       img: /cities/urumqi.png
-    - title: Астана
-      to: /docs/common
-      img: /cities/astana.png
-
 users:
-  title: Что говорят наши пользователи
+  title: Участвовать в проекте
   features:
     - title: Асилбек Мадиев
       description: Основатель
       icon: i-fa-solid:user-tie
-      img: /users/founder.svg
       to: /docs/common/turkic-peoples
-      quote: Ряд малых народов остаётся малоизученным, а некоторые рискуют быть утраченными для исторической памяти. Данный проект документирует их языки и предания, чтобы сохранить к ним доступ. Вклад любого масштаба приветствуется.
-    - title: Для инвесторов
-      quote: Диверсифицируйте свой портфель, инвестируя в следующий бестселлер и участвуя в его финансовом успехе.
-      description: Инвестор
-      icon: i-solar:wallet-money-bold
-      to: /docs/common/turkic-peoples
-      img: /users/investor.svg
-    - title: Для авторов
-      quote: У вас есть захватывающая рукопись, у нас — ресурсы и аудитория. Узнайте, как наша платформа связывает вас с серьёзными инвесторами для финансирования вашего издательского пути, сохранения творческих прав и получения роялти.
-      description: Автор
-      icon: i-ph:student-duotone
-      to: /docs/common/turkic-peoples
-      img: /users/author.svg
+      body: Ряд малых народов остаётся малоизученным. Turkion сохраняет доступ к материалам об их языках и истории и показывает источники, чтобы сведения можно было проверять и дополнять.
+    - title: Исследователям
+      description: Проверка материалов
+      icon: i-lucide:book-open-check
+      to: /docs/essentials/markdown-syntax
+      body: Проверяйте даты и утверждения по первичным и научным источникам. Предлагайте точные исправления и ссылки для черновых статей.
+    - title: Авторам
+      description: Статьи и переводы
+      icon: i-lucide:pen-line
+      to: /docs/essentials/markdown-syntax
+      body: Используйте руководство для авторов, чтобы готовить статьи и переводы с источниками. До экспертной проверки материалы отмечены как черновики.
 wars:
   title: Войны, битвы и вооружённые конфликты
   features:
-    - title: Битва при Таласе (751 г. н.э.)
+    - title: Таласская битва
       description: Аббасидский халифат (с карлуками) против династии Тан (Китай). Ключевое сражение в Центральной Азии, остановившее китайскую экспансию на запад и открывшее путь распространению ислама среди тюркских народов. Известна также переносом технологии изготовления бумаги из Китая в мусульманский мир.
       to: /docs/wars/battle-of-talas
       img: /wars/Battle of Talas.png
-    - title: Сельджукско-византийские войны (1048–1308)
+    - title: Византийско-сельджукские войны
       description: Сельджукская империя против Византийской империи. Решающая победа сельджуков при Манцикерте открыла Анатолию для тюркского заселения, что привело к её тюркизации и исламизации. Это основополагающее событие для создания современной Турции.
       to: /docs/wars/seljuk-byzantine-wars
       img: /wars/Seljuk-Byzantine Wars.png
-    - title: Монгольские завоевания (1206–1368)
+    - title: Монгольские завоевания
       description: Монгольская империя (включавшая многие тюркские племена) против различных государств Евразии. Хотя завоевания велись монголами, они включили и преобразовали обширные тюркские народы. Итогом стало создание тюрко-монгольских государств-преемников (Золотая Орда, Чагатайское ханство), ставших колыбелью последующих тюркских империй (Тимуридов, Османов, Узбеков).
       to: /docs/wars/mongol-conquests
       img: /wars/Mongol Conquests.png
-    - title: Османские войны экспансии (XIV–XVI вв.)
+    - title: Возвышение Османской империи
       description: Османская империя против Византийской империи, балканских государств, Сефевидской Персии, Мамлюкского султаната. Эти войны утвердили Османскую империю как мировую державу, уничтожили Византийскую империю и обеспечили османское господство на Балканах, в Анатолии и на Ближнем Востоке на несколько столетий.
       to: /docs/wars/ottoman-wars-of-expansion
       img: /wars/Ottoman Wars of Expansion.png
-    - title: Военные походы Тимура (1370–1405)
+    - title: Тимур
       description: Империя Тимуридов против Золотой Орды, Делийского султаната, Османской империи, Мамлюкского султаната. Под руководством тюрко-монгольского завоевателя Тимура (Тамерлана) жестокие походы от Центральной Индии до Анатолии ненадолго создали огромную империю. Хотя недолговечные, они преобразили политический ландшафт, ослабили Золотую Орду и вызвали культурный ренессанс в столицах.
       to: /docs/wars/timurs-military-campaigns
       img: /wars/Timur's Military Campaigns.png
-    - title: Османо-Габсбургские войны (1526–1791)
+    - title: Османо-габсбургские войны
       description: Османская империя против империи Габсбургов (Австрия/Испания) и союзников. Этот многовековой конфликт определил границу между исламом и христианством в Центральной Европе. Провал второй осады Вены (1683) ознаменовал начало длительного отступления Османской империи из Европы.
       to: /docs/wars/ottoman-habsburg-wars
       img: /wars/Ottoman-Habsburg Wars.png
-    - title: Русско-казанские войны (1439–1552)
+    - title: Русско-казанские войны
       description: Царство Русское против Казанского ханства. Взятие Казани Иваном Грозным положило конец последнему крупному государству-преемнику Золотой Орды на Волге. Это стало катастрофическим переломным моментом, приведшим к постепенному завоеванию и присоединению большинства других тюркских ханств региона.
       to: /docs/wars/russo-kazan-wars
       img: /wars/Russo-Kazan Wars.png
-    - title: Османо-сефевидские войны (1514–1639)
+    - title: Османо-персидские войны
       description: Османская империя против Сефевидской империи (Персия). Религиозно-геополитическая борьба между суннитскими османами и шиитскими Сефевидами. Закрепила раздел западноазиатского мира по османо-персидской линии, установив устойчивую границу, оказавшую глубокое влияние на идентичность современных Турции, Ирана и Ирака.
       to: /docs/wars/ottoman-safavid-wars
       img: /wars/Ottoman-Safavid Wars.png
-    - title: Основание империи Великих Моголов (1526)
+    - title: Первая битва при Панипате
       description: Войска Бабура (тимуридский принц тюрко-монгольского происхождения) против Делийского султаната. Используя османскую пороховую тактику, Бабур разгромил значительно большую индийскую армию. Эта победа заложила основу империи Моголов в Индии, ставшей одной из величайших мировых держав и оставившей неизгладимый культурный след на субконтиненте.
       to: /docs/wars/foundation-of-the-mughal-empire
       img: /wars/Mughal Empire.png
-    - title: Турецкая война за независимость (1919–1923)
+    - title: Турецкая война за независимость
       description: Турецкое национальное движение (Анкарское правительство) против союзных держав (Греция, Франция, Армения, Великобритания/Италия) и Османского султаната. Под руководством Мустафы Кемаля Ататюрка этот конфликт предотвратил раздел Анатолии союзниками. В итоге был упразднён Османский султанат и основана Турецкая Республика как современное светское национальное государство.
       to: /docs/wars/turkish-war-of-independence
       img: /wars/The Turkish War of Independence.png
-
 gallery:
   title: Туркестанская серия
   description: |
     Туркестанская серия картин была создана в ходе двух экспедиций в Среднюю Азию в 1867–1868 и 1869–1870 годах, а также в Париже зимой 1868–1869 годов и в Мюнхене с 1871 по 1873 год.
 
     Летом 1867 года В. В. Верещагин узнал, что генерал Константин Петрович Кауфман, только что назначенный генерал-губернатором Туркестана, ищет художника в своё окружение. Через знакомых Верещагин договорился о встрече с генерал-губернатором и представил свои кавказские эскизы. Кауфман был заинтригован молодым человеком и зачислил его на службу в чине прапорщика. Примечательно, что Верещагин выговорил право не носить военную форму и получил гарантию, что не будет рассматриваться для дальнейших продвижений по службе.
-
   features:
     - title: Апофеоз войны, 1872, холст, масло
       description: |
@@ -220,7 +207,7 @@ gallery:
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/Wassilij_Wassiljewitsch_Wereschtschagin_002.jpg
-    - title: "Парламентёры. «Сдавайтесь!» — «Убирайтесь к чёрту!», 1873, холст, масло"
+    - title: Парламентёры. «Сдавайтесь!» — «Убирайтесь к чёрту!», 1873, холст, масло
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/envoys.jpg
@@ -248,60 +235,57 @@ gallery:
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/shah-i-zinda.jpg
-
 countries:
-  title: Войны, битвы и вооружённые конфликты
+  title: Страны и культурные практики
   features:
-    - title: 'Узбекистан'
-      to: '/flags'
-      img: '/flags/uz.svg'
-    - title: 'Казахстан'
-      to: '/flags'
-      img: '/flags/kz.svg'
-    - title: 'Азербайджан'
-      to: '/flags'
-      img: '/flags/az.svg'
-    - title: 'Кыргызстан'
-      to: '/flags'
-      img: '/flags/kg.svg'
-    - title: 'Туркменистан'
-      to: '/flags'
-      img: '/flags/tm.svg'
-    - title: 'Турция'
-      to: '/flags'
-      img: '/flags/tr.svg'
-
+    - title: Узбекистан
+      to: /docs/uzbekistan
+      img: /flags/uz.svg
+    - title: Казахстан
+      to: /docs/kazakhstan
+      img: /flags/kz.svg
+    - title: Азербайджан
+      to: /docs/azerbaijan
+      img: /flags/az.svg
+    - title: Кыргызстан
+      to: /docs/kyrgyzstan
+      img: /flags/kg.svg
+    - title: Туркменистан
+      to: /docs/turkmenistan
+      img: /flags/tm.svg
+    - title: Турция
+      to: /docs/turkey
+      img: /flags/tr.svg
 historyCountries:
   title: Войны, битвы и вооружённые конфликты
   features:
-    - title: 'Бухарский эмират'
-      to: '/flags'
-      img: '/history-flags/bukhara.svg'
-    - title: 'Байят'
-      to: '/flags'
-      img: '/history-flags/bayat.svg'
-    - title: 'Младотурки'
-      to: '/flags'
-      img: '/history-flags/young_turk.svg'
-    - title: 'Гагаузы'
-      to: '/flags'
-      img: '/history-flags/gagauz.svg'
-    - title: 'Göktürk'
-      to: '/flags'
-      img: '/history-flags/gokturk.svg'
-    - title: 'Ногайцы'
-      to: '/flags'
-      img: '/history-flags/nogai.svg'
-    - title: 'Уйгуры'
-      to: '/flags'
-      img: '/history-flags/uyghur.svg'
-    - title: 'Халадж'
-      to: '/flags'
-      img: '/history-flags/khalaj.svg'
-    - title: 'Зангезур'
-      to: '/flags'
-      img: '/history-flags/zangezur.svg'
-
+    - title: Бухарский эмират
+      to: /flags
+      img: /history-flags/bukhara.svg
+    - title: Байят
+      to: /flags
+      img: /history-flags/bayat.svg
+    - title: Младотурки
+      to: /flags
+      img: /history-flags/young_turk.svg
+    - title: Гагаузы
+      to: /flags
+      img: /history-flags/gagauz.svg
+    - title: Göktürk
+      to: /flags
+      img: /history-flags/gokturk.svg
+    - title: Ногайцы
+      to: /flags
+      img: /history-flags/nogai.svg
+    - title: Уйгуры
+      to: /flags
+      img: /history-flags/uyghur.svg
+    - title: Халадж
+      to: /flags
+      img: /history-flags/khalaj.svg
+    - title: Зангезур
+      to: /flags
+      img: /history-flags/zangezur.svg
 community:
   title: Присоединяйтесь к нашему совместному путешествию
   description: История тюркского мира постоянно развивается. Мы приглашаем учёных, энтузиастов и всех, кто обладает знаниями, внести вклад в этот живой ресурс, помогая нам создать наиболее точный и полный портрет нашего общего наследия.

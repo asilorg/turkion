@@ -1,6 +1,11 @@
 ---
 title: Qozoq oshxonasi
 description: Go'sht pishirish, non, choy xizmati va umumiy ovqatlanishni tashkil etishga e'tibor qaratgan qozoq taomlari haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/cuisine
+sources:
+- title: 'Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences'
+  url: https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9
 ---
 
 Qozoq oshxonasi choʻponlarning harakatchanligi, uy xoʻjaliklarining mavsumiyligi va keyinchalik choʻl va oʻtroq hududlar boʻylab bozor almashinuvi bilan shakllangan ovqatlanish amaliyotini anglatadi. Ovqatlar odatda goʻsht, unli ovqatlar, bulyon va choyni umumiy xizmat atrofida tashkil qiladi, sut mahsulotlarini saqlash esa tegishli, ammo koʻproq ixtisoslashgan repertuarni tashkil qiladi.
@@ -41,3 +46,9 @@ Oziq-ovqat amaliyoti mavsumga, poda tarkibiga, gʻalladan foydalanish imkoniyati
 - [Sut oshxonasi](/uz/docs/kazakhstan/dairy-cuisine)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Navroʻz urf-odatlari](/uz/docs/kazakhstan/nauryz-customs)
+
+## Hujjatlashtirilgan misol
+
+Qozog‘istonda kurt deb ataladigan quritilgan qatiq mahsuloti sutni qayta ishlash va oziq saqlashni bog‘laydi; u suyuq qimizdan farqlanadi. [Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences](https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

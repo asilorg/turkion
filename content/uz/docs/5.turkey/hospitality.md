@@ -1,6 +1,11 @@
 ---
 title: Turkiyadagi mehmondo'stlik
 description: Turkiyada kutib olish, ovqatlantirish, ziyorat qilish va o'zaro majburiyatning kundalik amaliyotlari.
+editorialStatus: draft
+translationOf: /en/docs/turkey/hospitality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Turkiyadagi mehmondo'stlik tashrif buyuruvchilarni qabul qilish, oziq-ovqat va ichimliklar taklif qilish va uy xo'jaliklari o'rtasidagi munosabatlarni saqlash kabi amaliy ishlarga tegishli. Bu rasmiy tashriflar, e'lon qilinmagan qo'ng'iroqlar, hayot tsiklidagi voqealar va sayohatchilar bilan uchrashuvlarda ifodalanadi, lekin uning shakllari vositalar, vaqt va mahalliy konventsiya bilan shakllanadi. Mehmonning muomalasi o'zgarmas milliy xususiyatning dalili emas, balki ijtimoiy amaliyotdir.
@@ -44,3 +49,9 @@ Mehmon kutish uy ichidagi mehnat taqsimoti bilan ham bogʻliq: kim ovqat pishira
 - [Turkiya oshxonasi](/uz/docs/turkey/cuisine)
 - [Qahvaxonalar va choy bog'lari](/uz/docs/turkey/coffeehouse-tea-garden)
 - [Turkiyadagi hamam](/uz/docs/turkey/hammam)
+
+## Hujjatlashtirilgan misol
+
+Qo‘shma choy nominatsiyasi Turkiya va Ozarbayjonni qamrab oladi; choy tortish munosabatlarni saqlash, choy yetishtirish va idishsozlik bilan bog‘langan. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

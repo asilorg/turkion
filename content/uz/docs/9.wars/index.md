@@ -9,13 +9,13 @@ Har bir yozuv mustaqil ensiklopedik maqola sifatida yozilgan — qisqa timeline 
 
 ## Maqolalar
 
-- [Talas jangi (751 milodiy)](/uz/docs/wars/battle-of-talas)
-- [Saljuqiylar-Bizans urushlari (1048–1308)](/uz/docs/wars/seljuk-byzantine-wars)
-- [Moʻgʻullar yurishlari (1206–1368)](/uz/docs/wars/mongol-conquests)
-- [Usmonlilar kengayish urushlari (XIV–XVI asrlar)](/uz/docs/wars/ottoman-wars-of-expansion)
-- [Temurning harbiy yurishlari (1370–1405)](/uz/docs/wars/timurs-military-campaigns)
-- [Usmonlilar-Gabsburglar urushlari (1526–1791)](/uz/docs/wars/ottoman-habsburg-wars)
-- [Rossiya-Qozon urushlari (1439–1552)](/uz/docs/wars/russo-kazan-wars)
-- [Usmonlilar-Safaviylar urushlari (1514–1639)](/uz/docs/wars/ottoman-safavid-wars)
-- [Boburiylar imperiyasining asos solinishi (1526)](/uz/docs/wars/foundation-of-the-mughal-empire)
-- [Turkiya mustaqillik urushi (1919–1923)](/uz/docs/wars/turkish-war-of-independence)
+- [Talas jangi](/uz/docs/wars/battle-of-talas)
+- [Bizans–Saljuqiylar urushlari](/uz/docs/wars/seljuk-byzantine-wars)
+- [Moʻgʻul istilolari](/uz/docs/wars/mongol-conquests)
+- [Usmonlilar imperiyasining yuksalishi](/uz/docs/wars/ottoman-wars-of-expansion)
+- [Temur](/uz/docs/wars/timurs-military-campaigns)
+- [Usmonlilar–Gabsburglar urushlari](/uz/docs/wars/ottoman-habsburg-wars)
+- [Rus–Qozon urushlari](/uz/docs/wars/russo-kazan-wars)
+- [Usmonli–fors urushlari](/uz/docs/wars/ottoman-safavid-wars)
+- [Birinchi Panipat jangi](/uz/docs/wars/foundation-of-the-mughal-empire)
+- [Turkiya mustaqillik urushi](/uz/docs/wars/turkish-war-of-independence)

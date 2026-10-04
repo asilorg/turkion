@@ -1,6 +1,11 @@
 ---
 title: Taomlarning hududiyligi
 description: Ozarbayjonda landshaft, yetishtirish, bozor va uy amaliyoti oziq-ovqatdagi hududiy farqlarni qanday shakllantirishi haqida maqola.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/culinary-regionality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Ozarbayjondagi taomlarning hududiyligi mahsulotlar, zaxiralash, pishirish usullari va ovqatlanish tartibining mahalliy muhitlarga ko‘ra farqlanishini bildiradi. Bu qatʼiy chegaralangan alohida oshxonalar roʻyxati emas: oilalar koʻchadi, savdo qiladi, turmush quradi va retseptlarni hududlar osha oʻrganadi. Umumiy taomlar [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine) maqolasida yoritilgan.
@@ -49,3 +54,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine)
 - [Novruzning uy amaliyotlari](/uz/docs/azerbaijan/novruz-household)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+UNESCO ayrim ozarbayjon jamoalarida choyga tog‘jambil, dolchin yoki zanjabil qo‘shilishini qayd etadi; bu mahalliy farqlarning aniq misolidir. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

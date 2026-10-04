@@ -1,6 +1,11 @@
 ---
 title: Food Preservation
 description: A description of drying, fermenting, curing, and storing food in Kyrgyz pastoral and household practice.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/food-preservation
+sources:
+- title: 'FAO Mountain Partnership: Kyrgyz mountain women train in milk processing'
+  url: https://www.fao.org/mountain-partnership/news/newsroom/news-detail/Kyrgyz-mountain-women-train-in-milk-processing/en
 ---
 
 Food preservation in Kyrgyzstan includes methods for extending the use of milk, meat, grain, fruit, and vegetables beyond their short seasonal availability. Drying, fermenting, salting, curing, and cool storage have practical importance where livestock production and garden harvests fluctuate through the year. These techniques overlap with cuisine but focus on storage, processing, and the management of household supplies rather than prepared meals.
@@ -51,3 +56,9 @@ Highland herding communities emphasize dairy processing, meat storage, and porta
 - [Cuisine](/en/docs/kyrgyzstan/cuisine)
 - [Material Culture](/en/docs/kyrgyzstan/material-culture)
 - [Hospitality](/en/docs/kyrgyzstan/hospitality)
+
+## Documented example
+
+FAO reported dairy-preservation training in three Issyk-Kul mountain villages, where difficult winter transport made selling fresh milk challenging. [FAO Mountain Partnership: Kyrgyz mountain women train in milk processing](https://www.fao.org/mountain-partnership/news/newsroom/news-detail/Kyrgyz-mountain-women-train-in-milk-processing/en).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

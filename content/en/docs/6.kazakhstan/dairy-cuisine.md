@@ -1,6 +1,11 @@
 ---
 title: Dairy Cuisine in Kazakhstan
 description: An overview of fermented, dried, and preserved milk foods in Kazakh pastoral foodways and contemporary household cooking.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/dairy-cuisine
+sources:
+- title: 'UNESCO: Spring festive rites of Kazakh horse breeders'
+  url: https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402
 ---
 
 Dairy cuisine in Kazakhstan includes fresh milk, fermented drinks, curds, butter, and dried foods prepared from the milk of mares, cows, sheep, goats, and camels. These foods address seasonality and preservation as well as taste. They form a specialized field of food practice distinct from the broader organization of meat, bread, broth, and tea meals.
@@ -43,3 +48,9 @@ Milk source, climate, and local herd composition produce substantial regional va
 - [Cuisine](/en/docs/kazakhstan/cuisine)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Nauryz Customs](/en/docs/kazakhstan/nauryz-customs)
+
+## Documented example
+
+Kymyz muryndyk marks the first sharing of the season’s fermented mare’s milk in the documented Terisakkan horse-breeding cycle. [UNESCO: Spring festive rites of Kazakh horse breeders](https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

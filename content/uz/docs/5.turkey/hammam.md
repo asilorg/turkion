@@ -1,6 +1,11 @@
 ---
 title: Turkiyadagi hamam
 description: Turkiyadagi hamamlarda cho'milish me'morchiligi, tana parvarishi, mehnat va muloqot.
+editorialStatus: draft
+translationOf: /en/docs/turkey/hammam
+sources:
+- title: 'Metropolitan Museum of Art: Ottoman hammam shoes, object 81722'
+  url: https://www.metmuseum.org/art/collection/search/81722
 ---
 
 *Xammom* - bu yuvinish, issiqlik, massaj va ijtimoiy muloqot atrofida tashkil etilgan hammom. Turkiyadagi hamamlar tarixiy shahar binolari, mahalla hammomlari, mehmonxona inshootlari va zamonaviy sog'lomlashtirish korxonalarini o'z ichiga oladi. Ularning amaliyoti gender tartiblari, sinf, tozalik haqidagi diniy g'oyalar, tijorat mehnati va maishiy sanitariya-tesisatning o'zgaruvchan naqshlari bilan shakllanadi.
@@ -46,3 +51,9 @@ Hammomga borish amallar ketma-ketligini bilishni ham talab qiladi: qachon kiyim 
 - [Turkiyada moddiy madaniyat](/uz/docs/turkey/material-culture)
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Qahvaxonalar va choy bog'lari](/uz/docs/turkey/coffeehouse-tea-garden)
+
+## Hujjatlashtirilgan misol
+
+Metropoliten muzeyida sadaf bilan bezatilgan usmonli yog‘och hammom poyabzali saqlanadi; u aynan hammom uchun yaratilgan buyum namunasidir. [Metropolitan Museum of Art: Ottoman hammam shoes, object 81722](https://www.metmuseum.org/art/collection/search/81722).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

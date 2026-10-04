@@ -1,6 +1,11 @@
 ---
 title: Turkman oshxonasi
 description: Turkman taomlari, jumladan, donli taomlar, go'shtli pishiriqlar, sutli ovqatlar va ovqatlanishni tashkil qilish haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/cuisine
+sources:
+- title: 'Turkmenistan State News Agency: Traditions of national cuisine (2015)'
+  url: https://turkmenistan.gov.tm/en/post/4563/traditions-of-national-cuisine
 ---
 Turkman oshxonasi chorvachilik, sug'orma dehqonchilik va Markaziy Osiyoning qo'shni mintaqalari bilan almashish natijasida shakllangan uy-ro'zg'or taomlarini tasvirlaydi. Ovqatlar odatda bug'doy mahsulotlari, guruch, go'sht, sut mahsulotlari, sabzavotlar va choyni birlashtiradi. Retseptlar va xizmat ko'rsatish amaliyoti uy xo'jaliklarida o'rganiladi va mavsumga, daromadga, bozorlarga kirishga va oilaviy imtiyozlarga qarab o'zgaradi.
 
@@ -16,7 +21,7 @@ Sovutgich, qadoqlangan oziq-ovqat va shahar ish haqi xarid qilish va saqlashni o
 
 Bug'doy xamiri noodle, to'ldirilgan pishiriqlar va qovurilgan nonlarda ham paydo bo'ladi. *Pishme* - bu choyga qo'shilishi yoki yig'ilish uchun tayyorlanishi mumkin bo'lgan qovurilgan xamirning kichik bo'lagi. Xamirni tayyorlash ko'pincha qarindoshlar o'rtasida mehnat taqsimoti bilan shug'ullanadi, bir kishi aralashtirib, dumalab, boshqasi shakllantiradi, yana biri pech yoki tovani parvarish qiladi. Kvartiralarda va shaharlarda, sotib olingan non rasmiy ovqatlanishdagi ahamiyatini to'xtatmasdan, hafta davomida uyda pishirishni almashtirishi mumkin.
 
-## Go'sht, bulyon va guruchli idishlar
+## Go'sht, bulyon va guruchli taomlar
 
 Qo'y go'shti ko'plab taomlarda mashhur, ammo mol go'shti, parranda go'shti, tuya go'shti va boshqa go'shtlar mavjudlik va afzalliklarga ko'ra ishlatilishi mumkin. Go'shtni bulon uchun qaynatish, sabzavot bilan pishirish yoki plomba sifatida ishlatish mumkin. *Sorba* deb nomlangan sho'rva go'shtni sabzavot yoki don bilan birlashtiradi va ayniqsa sovuq havoda muhim taom sifatida xizmat qiladi.
 
@@ -44,3 +49,9 @@ Oziq-ovqat yo'llari vohadagi aholi punktlari, yaylovlar va shaharlar, shuningdek
 - [Mehmondo'stlik](/uz/docs/turkmenistan/hospitality)
 - [Choy va non odobi](/uz/docs/turkmenistan/tea-bread-etiquette)
 - [To'y marosimlari](/uz/docs/turkmenistan/wedding-rituals)
+
+## Hujjatlashtirilgan misol
+
+2015-yilda Toshovuzdagi pazandachilik tanlovida dograma — non bo‘laklari, go‘sht va piyoz solingan sho‘rva — namoyish etilgan. [Turkmenistan State News Agency: Traditions of national cuisine (2015)](https://turkmenistan.gov.tm/en/post/4563/traditions-of-national-cuisine).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

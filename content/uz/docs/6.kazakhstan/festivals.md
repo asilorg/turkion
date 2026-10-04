@@ -1,6 +1,11 @@
 ---
 title: Qozog'istondagi festivallar
 description: Mavsumiy, oilaviy, kasbiy va jamoat holatlarining umumiy ko'rinishi oziq-ovqat, tomosha, tashrif va odatiy almashinuv orqali kuzatiladi.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/festivals
+sources:
+- title: 'UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21'
+  url: https://ich.unesco.org/en/decisions/13.COM/10.B.21
 ---
 
 Qozogʻistondagi festivallar mavsumiy marosimlar, oilaviy yigʻilishlar, esdalik ovqatlari, ish va mahalla hayoti bilan bogʻliq tadbirlarni oʻz ichiga oladi. Ular ovqat tayyorlash, tashrif buyurish, musiqa, sovgʻalar almashinuvi va jamoat yoki uy oʻyinlarini birlashtiradi. Ularning sanalari quyosh yiliga, qamariy islom taqvimiga yoki chorvachilik va dehqonchilikning oʻzgaruvchan talablariga mos kelishi mumkin.
@@ -51,3 +56,9 @@ Shahar festivallari maktablarda, bogʻlarda, restoranlarda yoki madaniy joylarda
 - [Navroʻz urf-odatlari](/uz/docs/kazakhstan/nauryz-customs)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Musiqa va raqs](/uz/docs/kazakhstan/music-dance)
+
+## Hujjatlashtirilgan misol
+
+Terisakkan marosimlari qishdan chiqish va yangi yilqichilik mavsumini nishonlaydi; UNESCO qarorida birgalikdagi tayyorgarlik va qo‘shnichilik yordami ta’kidlangan. [UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21](https://ich.unesco.org/en/decisions/13.COM/10.B.21).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

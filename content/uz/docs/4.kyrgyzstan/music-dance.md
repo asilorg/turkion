@@ -1,6 +1,11 @@
 ---
 title: Musiqa va raqs
 description: Qirgʻizistonda cholgʻu musiqasi, qoʻshiq, raqs va ularning ijro parametrlari haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/music-dance
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 Qirgʻizistondagi musiqa va raqsga yakka cholgʻu ijrosi, kuylangan sheʼrlar, ansambl repertuarlari, ijtimoiy raqslar va sahnalashtirilgan xoreografiya kiradi. Ular mahalliy yigʻilishlarda, festivallarda, maktablarda, teatrlarda va ommaviy axborot vositalarida sodir boʻladi va ular oilaviy aloqa va rasmiy koʻrsatmalar orqali oʻrganiladi. Kategoriyalar bir-biriga mos keladi, lekin musiqa va raqs oʻziga xos ijro qoidalariga ega boʻlgan *Manas* dostonini aytishga kamaymaydi.
@@ -23,13 +28,13 @@ Pastoral ovoz manzaralari va kamera ijrosi bilan bogʻliq boʻlgan cholgʻular q
 
 Vokal musiqasiga lirik qoʻshiqlar, toʻy qoʻshiqlari, marsiyalar, bolalar repertuarlari, improvizatsiya yoki yarim improvizatsiya qilingan sheʼriy ijro kiradi. *oqin* - bu ijroda she'rlar yozishi yoki almashishi mumkin boʻlgan shoir-qoʻshiqchi. Koʻpincha *aytish* deb ataladigan raqobatbardosh she'riy muloqot tilni, ohangni, mavzuga oid ma'lumotni va tomoshabinlarning javobini talab qiladi. Uning mavzusi hazildan tortib oilaviy hayot va tarixiy xotiragacha boʻlishi mumkin.
 
-## Raqs va xoreografik sozlamalar
+## Raqs va sahnalashtirilgan xoreografiya
 
 Ijtimoiy raqslar toʻylarda, bayramlarda va restoran tadbirlarida, koʻpincha yozilgan mashhur musiqalar va jonli ijrochilar uchun sodir boʻladi. Sahnadagi qirgʻiz raqsi 20-asr ansambllari orqali rivojlandi, ular imo-ishoralar, liboslar elementlari va musiqiy naqshlarni sahna koʻrinishida namoyish qilish uchun moslashtirdi. Bu xoreografiyalar oddiy ish emas, balki tomoshabinlar uchun moʻljallangan boʻlsa-da, guruh shakllari, qoʻl harakatlari va choʻponlik mehnati yoki uchrashishga havolalardan foydalanishi mumkin.
 
 Raqs repertuarlari ham jamoalar boʻylab taqsimlanadi. Oʻzbek, rus, dungan, uygʻur va boshqa mahalliy urf-odatlar oila va jamoat joylarida, ayniqsa koʻp millatli shaharlarda va janubda namoyon boʻladi. Zamonaviy pop, hip-hop va bal zali shakllari yosh raqqosalar uchun qoʻshimcha harakat lugʻatlarini qoʻshdi.
 
-## Institutlar va uzatish
+## Muassasalar va an’anani o‘rgatish
 
 Musiqa norasmiy ravishda qarindoshlar, hurmatli mahalliy musiqachilar va tengdosh guruhlar tomonidan oʻrgatiladi. Rasmiy yoʻnalishlarga bolalar musiqa maktablari, kollejlar, konservatoriyalar, madaniyat markazlari va folklor ansambllari kiradi. Musobaqa va festivallar uslublarni solishtirish imkoniyatini beradi, yozuvlar esa oʻquvchilarga ular bevosita uchrashmagan ijrochilarni oʻrganishga imkon beradi.
 
@@ -44,3 +49,9 @@ Janubiy va shimoliy ijro jamoalari turli qoʻshiq uslublari, repertuarlari va ch
 - [Manas dostoni](/uz/docs/kyrgyzstan/manas-epic)
 - [Festivallar](/uz/docs/kyrgyzstan/festivals)
 - [Umumiy e'tiqod](/uz/docs/kyrgyzstan/vernacular-belief)
+
+## Hujjatlashtirilgan misol
+
+Doston aytish mustaqil ijro an’anasidir: «Manas» merosi tavsifida turli yoshdagi erkak va ayol baxshilar qayd etiladi. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

@@ -1,6 +1,11 @@
 ---
 title: Music and Dance
 description: An overview of Azerbaijani musical settings, instruments, dance forms, transmission, and local variation.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/music-dance
+sources:
+- title: 'UNESCO: Art of Azerbaijani Ashiq'
+  url: https://ich.unesco.org/en/RL/art-of-azerbaijani-ashiq-00253
 ---
 
 Music and dance in Azerbaijan encompass repertories performed at family events, gatherings, concert venues, schools, and informal social occasions. They include vocal and instrumental genres, accompanied and unaccompanied dancing, and music learned through family, teacher, or ensemble practice. The specialized traditions of *mugham* and *ashug* performance are addressed separately in [Mugham and Ashug](/en/docs/azerbaijan/mugham-ashug).
@@ -42,3 +47,9 @@ Mountain and lowland areas retain different song texts, dance names, instrument 
 - [Mugham and Ashug](/en/docs/azerbaijan/mugham-ashug)
 - [Festivals and Calendar Observances](/en/docs/azerbaijan/festivals)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
+
+## Documented example
+
+Ashiq performance combines sung poetry and storytelling with the saz; performers also appear at weddings and on concert stages. [UNESCO: Art of Azerbaijani Ashiq](https://ich.unesco.org/en/RL/art-of-azerbaijani-ashiq-00253).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

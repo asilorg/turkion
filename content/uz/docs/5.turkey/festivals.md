@@ -1,6 +1,11 @@
 ---
 title: Turkiyadagi bayramlar va mavsumiy marosimlar
 description: Diniy bayramlar, mavsumiy yig'inlar va mahalliy yarmarkalar Turkiyadagi madaniy amaliyotlar hisobi.
+editorialStatus: draft
+translationOf: /en/docs/turkey/festivals
+sources:
+- title: 'UNESCO: Spring celebration Hıdrellez'
+  url: https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284
 ---
 
 Turkiyadagi festivallar diniy taqvimlar, qishloq xoʻjaligi mavsumlari, shahar tadbirlari va oilaviy majburiyatlarni birlashtiradi. Ular yagona milliy repertuar emas: mahalliy, uy xo'jaligi, avlod va diniy mansublik bo'yicha o'zgarishlar. Tashrif, ovqat tayyorlash, ommaviy o'yin-kulgi va bozor faoliyati odatda rasmiy bayramlarni oddiy ijtimoiy hayot bilan bog'laydi.
@@ -45,3 +50,9 @@ Bayramga tayyorgarlik ko‘pincha oldindan boshlanadi: uy yigʻishtiriladi, safa
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Turkiyada musiqa va raqs](/uz/docs/turkey/music-dance)
 - [Turkiyadagi xalq e'tiqodi](/uz/docs/turkey/vernacular-belief)
+
+## Hujjatlashtirilgan misol
+
+Xidirlez Turkiya va Shimoliy Makedoniyaning qo‘shma nominatsiyasida hujjatlashtirilgan; mavsumiy an’ana zamonaviy davlat chegaralari bilan cheklanmaydi. [UNESCO: Spring celebration Hıdrellez](https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

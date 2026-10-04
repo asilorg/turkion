@@ -2,17 +2,18 @@
 import { WEBSITE_NAME } from '~/constants/common'
 
 const { locale } = useI18n()
-const { data: page } = await useAsyncData('people', () => queryCollection(`people_${locale.value}`).first(), { watch: [locale] })
+const localePath = useLocalePath()
+const { data: page } = await useAsyncData(() => `people-${locale.value}`, () => queryCollection(`people_${locale.value}`).first(), { watch: [locale] })
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
 useSeoMeta({
   titleTemplate: `%s - ${WEBSITE_NAME}`,
-  title: page.value.title,
-  description: page.value.description,
-  ogTitle: `${page.value.title} - ${WEBSITE_NAME}`,
-  ogDescription: page.value.description
+  title: () => page.value?.title,
+  description: () => page.value?.description,
+  ogTitle: () => `${page.value?.title} - ${WEBSITE_NAME}`,
+  ogDescription: () => page.value?.description
 })
 
 defineOgImageComponent('Docs')
@@ -39,5 +40,25 @@ defineOgImageComponent('Docs')
         class="hidden lg:block absolute z-[-1] border-x border-default inset-0 mx-4 sm:mx-6 lg:mx-8"
       />
     </UPageHero>
+
+    <UPageSection
+      v-if="page.items?.length"
+      :title="page.title"
+    >
+      <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <li
+          v-for="item in page.items"
+          :key="item.to"
+        >
+          <UPageCard
+            :title="item.name"
+            :description="item.description"
+            :to="localePath(item.to)"
+            variant="subtle"
+            class="h-full"
+          />
+        </li>
+      </ul>
+    </UPageSection>
   </div>
 </template>

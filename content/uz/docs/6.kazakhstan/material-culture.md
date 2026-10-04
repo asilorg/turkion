@@ -1,6 +1,11 @@
 ---
 title: Qozog'istonda moddiy madaniyat
 description: Qozoq liboslari, uy jihozlari, bezaklari va uy-ro'zg'or buyumlari va joylaridan foydalanishning o'zgarishi haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/material-culture
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 Qozogʻistonda moddiy madaniyat kiyim-kechak, uy jihozlari, idishlar, toʻqimachilik va uy xoʻjaliklarining kundalik hayotini tashkil etadigan fazoviy tartibga solishni oʻz ichiga oladi. Ushbu ob'ektlar amaliy vositalar va yosh, imkoniyat, oilaviy xotira va hunarmandchilik bilimlarining koʻrinadigan belgilaridir. Kigiz bu sohada muhim ahamiyatga ega, ammo ixtisoslashtirilgan material amaliyoti sifatida alohida koʻrib chiqiladi.
@@ -13,7 +18,7 @@ Tarixiy jihatdan birlashtirilgan qatlamli kiyimlarni bosh kiyimlar, etiklar, kam
 
 Ayollar libosida kashta tikilgan kiyimlar, bosh kiyimlar va kumush taqinchoqlar mavjud boʻlsa, erkaklar kiyimida koʻpincha ob-havo va ish sharoitlariga moslashtirilgan kamar, etik va shlyapalarga urgʻu beriladi. Kelinning uzun boʻyli va chiroyli bosh kiyimi * saukele * muayyan toʻy kontekstlari bilan bogʻliq. Bunday narsalar bugungi kunda koʻpchilik uchun kundalik kiyim emas, lekin ular oilaviy kollektsiyalarda, muzeylarda, spektakllarda va tantanali kiyimlarda mavjud boʻlib qoladi.
 
-## Uy jihozlari va jihozlari
+## Uy anjomlari va jihozlari
 *kiyiz ui*, soʻzma-soʻz "kigiz uy" qozoqcha atamasi boʻlib, ingliz tilida keng tarqalgan boʻlib yurt sifatida tanilgan koʻchma dumaloq uy. Uning yogʻoch ramkasi, kigiz qoplamasi va ichki toʻqimachilik harakati uchun yigʻish, jihozlash va qismlarga ajratish mumkin boʻlgan joy yaratadi. Eshik, oʻchoq maydoni, yotoqxonalar va faxriy oʻrindiqlar amaliy faoliyatni ham, mehmonlarni qabul qilishni ham tashkil qiladi.
 
 Koʻpgina zamonaviy uylar doimiy uylar yoki kvartiralardir, ammo koʻchma turar joy shakllari yozgi yigʻilishlarda, koʻrgazmalarda va oilaviy tadbirlarda mazmunli boʻlib qoladi. Pastki stollar, pol qoplamalari, yostiqlar, sandiqlar va devor bezaklari ham zamonaviy interyerlarda, ba'zan yumshoq mebellar va ishlab chiqarilgan dekoratsiyalar bilan bir qatorda davom etishi mumkin.
@@ -40,3 +45,9 @@ Kiyim-kechak, jihozlar va bezaklar iqlim, mahalliy materiallar, uyning daromadi 
 - [Kizim san'ati](/uz/docs/kazakhstan/felt-arts)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Musiqa va raqs](/uz/docs/kazakhstan/music-dance)
+
+## Hujjatlashtirilgan misol
+
+O‘tov tayyorlash yog‘och sinchni to‘qilgan, kigiz va kashtali qoplamalar bilan birlashtiradi; bir uy uchun bir necha hunar kerak bo‘ladi. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

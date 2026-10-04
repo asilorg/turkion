@@ -1,6 +1,11 @@
 ---
 title: Qozog'istonda sut mahsulotlari
 description: Qozoqlarning chorvachilik taomlari va zamonaviy maishiy pazandachilikdagi fermentlangan, quritilgan va konservalangan sutli ovqatlar haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/dairy-cuisine
+sources:
+- title: 'UNESCO: Spring festive rites of Kazakh horse breeders'
+  url: https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402
 ---
 
 Qozogʻistonning sut mahsulotlari oshxonasiga yangi sut, fermentlangan ichimliklar, tvorog, sariyogʻ, toychoq, sigir, qoʻy, echki va tuya sutidan tayyorlangan quritilgan ovqatlar kiradi. Bu ovqatlar mavsumiylik va saqlanish hamda ta'mga qaratilgan. Ular goʻsht, non, bulyon va choy ovqatlarini kengroq tashkil etishdan farqli ravishda oziq-ovqat amaliyotining ixtisoslashgan sohasini tashkil qiladi.
@@ -18,7 +23,7 @@ Nordon sutni qizdirish va suzish natijasida mayda boʻlaklarga boʻlingan quriti
 
 Boshqa mahsulotlarga *irimshik*, yangi yoki quritilgan tvorog, turli shakldagi sariyogʻ va qaymoq kiradi. Retseptlar sutning yogʻsiz, qaynatilgan, nordon yoki boshqa sut mahsuloti bilan aralashtirilganligiga bogʻliq. Maishiy lugʻat mahsulotlarni pishloq yoki yogurt kabi keng inglizcha atamalarga qaraganda yaxshiroq ajrata oladi.
 
-## Kemalar, mehnat va maishiy bilim
+## Idishlar, mehnat va uy-ro‘zg‘or tajribasi
 Sut mahsulotlarini qayta ishlash qayta-qayta e'tiborni talab qiladi: sogʻish, isitish, sovutish, aralashtirish, suzish va oziq-ovqat mahsulotlarini ifloslanishdan himoya qilish. An'anaga koʻra, teri sumkalari, yogʻoch choʻtkalar, matolar va keramika yoki metall idishlar bu vazifalarni qoʻllab-quvvatlagan. Ularning materiallari lazzat va fermentatsiyaga ta'sir qilishi mumkin, shu bilan birga ularni tozalash ishning bir qismidir.
 
 Bilim koʻpincha kuzatish orqali oʻtadi. Oʻquvchi qalinlik, nordonlik yoki tayyorlikni faqat yozma retsept emas, balki koʻrish, hid va teginish orqali baholaydi. Qayta ishlash boshqa uy mehnati bilan muvofiqlashtirilishi mumkin, ayniqsa hayvonlar koʻproq sut beradigan davrlarda.
@@ -41,3 +46,9 @@ Sut manbai, iqlimi va mahalliy poda tarkibi sezilarli mintaqaviy oʻzgarishlarni
 - [Oshxona](/uz/docs/kazakhstan/cuisine)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Navroʻz urf-odatlari](/uz/docs/kazakhstan/nauryz-customs)
+
+## Hujjatlashtirilgan misol
+
+Terisakkan qishlog‘ida hujjatlashtirilgan yilgi yilqichilik davrida qimiz-murindiq yangi mavsum qimizini ilk bor ulashish marosimidir. [UNESCO: Spring festive rites of Kazakh horse breeders](https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

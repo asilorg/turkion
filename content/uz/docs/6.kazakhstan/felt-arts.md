@@ -1,6 +1,11 @@
 ---
 title: Qozog'istonda kigiz san'ati
 description: Qozoq kigiz yasash, bezatish, maishiy foydalanish va jun hunarmandchilikning zamonaviy amaliyotga moslashuvini tekshirish.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/felt-arts
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 Qozogʻistondagi kigiz sanʼati jun matolarni tozalash, boʻylash, boʻyash, kesish, tikish va bezashni oʻz ichiga oladi. Kigiz qoplamalar, pol toʻqimachilik, mebel va kiyim-kechak uchun ishlatilgan, chunki u issiq, bardoshli va qoʻy junidan ishlab chiqarilishi mumkin. Uning texnikasi amaliy maishiy ishlab chiqarishni vizual dizayn bilan birlashtiradi.
@@ -42,3 +47,9 @@ Jun sifati, rang tanlash, naqsh va usullar mintaqaga, maishiy ta'limga va moʻlj
 - [Moddiy madaniyat](/uz/docs/kazakhstan/material-culture)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Festivallar](/uz/docs/kazakhstan/festivals)
+
+## Hujjatlashtirilgan misol
+
+O‘tovchilik hujjatida qoplama va bezak tayyorlashda kigiz bosish bilan birga yigirish, eshish, kashta va tikuv ko‘rsatilgan. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

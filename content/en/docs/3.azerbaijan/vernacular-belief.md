@@ -1,6 +1,11 @@
 ---
 title: Vernacular Belief
 description: An overview of everyday religious practice, protective customs, healing, and household belief in Azerbaijan.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/vernacular-belief
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Vernacular belief in Azerbaijan refers to everyday interpretations and practices concerning protection, health, misfortune, life-cycle events, and sacred time. It includes practices shaped by Islam as well as customs whose meanings are conveyed through family memory, neighborhood advice, and local habit. Participation is diverse: people may observe some actions as religious, customary, symbolic, or simply familiar.
@@ -42,3 +47,9 @@ Shrine visiting and protective customs may be more visible in some rural localit
 - [Novruz Household Practices](/en/docs/azerbaijan/novruz-household)
 - [Festivals and Calendar Observances](/en/docs/azerbaijan/festivals)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
+
+## Documented example
+
+The multinational flatbread dossier records bread placed on a bride’s shoulders or crumbled over her head as a wish for prosperity in Azerbaijan. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

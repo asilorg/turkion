@@ -1,23 +1,27 @@
 <script setup lang="ts">
 import type { NuxtError } from '#app'
 import type { ContentNavigationItem } from '@nuxt/content'
+import * as nuxtUiLocales from '@nuxt/ui/locale'
 
 defineProps<{
   error: NuxtError
 }>()
 
+const { locale, t } = useI18n()
+const nuxtUiLocale = computed(() => nuxtUiLocales[locale.value as keyof typeof nuxtUiLocales] || nuxtUiLocales.en)
+
 useHead({
   htmlAttrs: {
-    lang: 'en'
+    lang: locale
   }
 })
 
 useSeoMeta({
-  title: 'Page not found',
-  description: 'We are sorry but this page could not be found.'
+  title: () => t('common.error.title'),
+  description: () => t('common.error.description')
 })
 
-const { locale } = useI18n()
+const { open: searchOpen } = useContentSearch()
 
 const { data: navigation } = await useAsyncData(
   () => `navigation-${locale.value}`,
@@ -47,20 +51,26 @@ const { data: navigation } = await useAsyncData(
     watch: [locale]
   }
 )
-const { data: files } = useLazyAsyncData(
+const { data: files, execute: executeSearch } = useLazyAsyncData(
   () => `search-${locale.value}`,
   () => queryCollectionSearchSections(`docs_${locale.value}`),
   {
     server: false,
-    watch: [locale]
+    immediate: false
   }
 )
+
+watch([searchOpen, locale], async ([isOpen]) => {
+  if (isOpen) {
+    await executeSearch()
+  }
+})
 
 provide('navigation', navigation)
 </script>
 
 <template>
-  <UApp>
+  <UApp :locale="nuxtUiLocale">
     <AppBanner />
     <AppHeader />
 
@@ -70,6 +80,8 @@ provide('navigation', navigation)
 
     <ClientOnly>
       <LazyUContentSearch
+        :title="t('search.title')"
+        :description="t('search.description')"
         :files="files"
         :navigation="navigation"
       />

@@ -1,6 +1,11 @@
 ---
 title: Festivals
 description: An account of seasonal observances, family celebrations, and public festival practices in Kyrgyzstan.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/festivals
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Festivals in Kyrgyzstan include seasonal observances, religious calendar dates, family ceremonies, and public events that combine food, performance, games, and visiting. Their forms depend on locality, household affiliation, and access to public space. A festival may be a large organized program, a neighborhood gathering, or a sequence of domestic acts conducted around a date or life-cycle event.
@@ -43,3 +48,9 @@ Southern settlements may combine Nooruz and family festivities with market-cente
 - [Hospitality](/en/docs/kyrgyzstan/hospitality)
 - [Music and Dance](/en/docs/kyrgyzstan/music-dance)
 - [Cuisine](/en/docs/kyrgyzstan/cuisine)
+
+## Documented example
+
+The multinational Nowruz overview includes Kyrgyzstan; the spring observance combines food, games and performance without prescribing one household programme. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

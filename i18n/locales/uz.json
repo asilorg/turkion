@@ -1,5 +1,5 @@
 {
-  "banner": "Biz olimlarni, talabalarni, kelajakni ko'ruvchilarni va investorlarni taklif qilmoqdamiz. Keling, merosni birgalikda shakllantiramiz.",
+  "banner": "Tadqiqotchilar, talabalar, mualliflar va tarjimonlarni Turkionni rivojlantirishga taklif qilamiz. Materiallarni birga saqlab, tekshiraylik.",
   "contact": "Muallif bilan aloqa",
   "navigation": {
     "explore": "Tadqiq qilish",
@@ -7,7 +7,7 @@
     "flags": "Bayroqlar",
     "miniatures": "Miniaturalar",
     "blog": "Blog",
-    "people": "Odamlar"
+    "people": "Xalqlar"
   },
   "common": {
     "or": "yoki",
@@ -27,6 +27,40 @@
     "links": "Jamiyat",
     "toc": "Ushbu sahifada",
     "report": "Muammoni bildirish",
-    "edit": "Ushbu sahifani tahrirlash"
+    "edit": "Ushbu sahifani tahrirlash",
+    "star": "GitHub’da yulduzcha qo‘ying"
+  },
+  "gallery": {
+    "viewImage": "Rasmni ochish",
+    "source": "Manba",
+    "sourceUnknown": "Manba nomaʼlum",
+    "credit": "Muallif",
+    "license": "Litsenziya",
+    "symbolType": {
+      "state": "Davlat, hudud yoki tashkilot",
+      "people": "Xalq yoki jamoa",
+      "movement": "Harakat",
+      "reconstruction": "Qayta tiklangan yoki noaniq nisbat berilgan bayroq"
+    }
+  },
+  "article": {
+    "references": "Manbalar",
+    "editorialStatus": "Tahrir holati",
+    "draft": "Qoralama",
+    "reviewed": "Tekshirilgan",
+    "updatedAt": "Yangilangan"
+  },
+  "miniatures": {
+    "timurid": "Temuriylar miniatyuralari",
+    "ottoman": "Usmonlilar miniatyuralari",
+    "mughal": "Boburiylar miniatyuralari"
+  },
+  "search": {
+    "title": "Turkion bo‘ylab qidirish",
+    "description": "Ensiklopediya maqolalari va bo‘limlarini qidiring."
+  },
+  "header": {
+    "menuTitle": "Sayt bo‘ylab harakatlanish",
+    "menuDescription": "Turkion bo‘limlari va maqolalarini ko‘ring."
   }
 }

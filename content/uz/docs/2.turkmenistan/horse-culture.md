@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda ot madaniyati va chorvadorlik koʻnikmalari
 description: Ot parvarishi, minish, naslchilik bilimi va chorvadorlik amaliyotlari sharhi.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/horse-culture
+sources:
+- title: 'UNESCO: Akhal-Teke horse breeding, nomination photographs'
+  url: https://ich.unesco.org/en/8b-representative-list-01325?call=slideshow&id=01978&include=slideshow_inc.php&mode=scroll&width=620
 ---
 
 Turkmanistondagi ot madaniyati chorvachilikning keng ko'nikmalari bilan bir qatorda otlarni ko'paytirish, oziqlantirish, o'rgatish, minish va ijtimoiy baholashni o'z ichiga oladi. Otlar sayohat, ish, musobaqa va namoyish uchun ishlatilgan, ularni boshqarish hayvonlar, em-xashak, ob-havo va jihozlar haqida batafsil ma'lumotni talab qiladi. Zamonaviy ot sporti amaliyoti professional ob'ektlardan tortib, uy xo'jaliklari darajasidagi mulkchilik va dam olish uchun ot minishgacha.
@@ -27,9 +32,9 @@ Turli xil vazifalar har xil tayyorgarlikni talab qiladi. Uzoq yurish uchun tayyo
 
 Ot poygalari, chavandozlar va norasmiy musobaqalar mavsumiy yig'ilishlar yoki oilaviy tadbirlar paytida o'tkazilishi mumkin. Ular tomoshabinlar, ba'zi kontekstlarda pul tikish va otlarning holati va tezligini taqqoslash uchun imkoniyat yaratadi. Qoidalar, masofalar va sovrinlar tartibi tashkilotchilar orasida farq qiladi va bir tadbirdan umumlashtirilmasligi kerak.
 
-O'rnatilgan o'yinlar va namoyishlar, shuningdek, xavfsizlik qoidalari, xoreografik harakatlar va tomoshabinlarning kutishlari norasmiy minishdan farq qiladigan sahnalashtirilgan sozlamalar orqali ham tarqaladi. Ishtirokchilar raqobatni, chorvachilikni, ijtimoiy aloqani yoki otchilikdan olingan daromadni turli nisbatlarda ta'kidlashlari mumkin.
+O'rnatilgan o'yinlar va namoyishlar, shuningdek, xavfsizlik qoidalari, xoreografik harakatlar va tomoshabinlarning kutishlari norasmiy minishdan farq qiladigan sahnalashtirilgan tomoshalar orqali ham tarqaladi. Ishtirokchilar raqobatni, chorvachilikni, ijtimoiy aloqani yoki otchilikdan olingan daromadni turli nisbatlarda ta'kidlashlari mumkin.
 
-## Otlardan tashqari pastoral bilim
+## Yilqichilikdan tashqari chorvachilik bilimlari
 
 Otlarni parvarish qilish texnikasini kengroq chorvachilik amaliyoti bilan baham ko'radi: yaylov sifatini aniqlash, suvga kirishni rejalashtirish, hayvonlarni ob-havodan himoya qilish va tug'ilish, kesish yoki harakat paytida mehnatni muvofiqlashtirish. Qo'ylar va tuyalar ko'plab oziq-ovqat va tolali tizimlar uchun ayniqsa muhim bo'lib qolmoqda. Podani boshqarish statik qoidalar to'plamiga emas, balki mavsumlar davomida to'plangan kuzatishga tayanadi.
 
@@ -44,3 +49,9 @@ Ot boqish shahar otxonalari, qishloq xo'jaliklari va o'tlash imkoniyatiga ega bo
 - [Moddiy madaniyat](/uz/docs/turkmenistan/material-culture)
 - [Bayramlar](/uz/docs/turkmenistan/festivals)
 - [Turkman oshxonasi](/uz/docs/turkmenistan/cuisine)
+
+## Hujjatlashtirilgan misol
+
+UNESCO nominatsiyasi fotosuratlarida axalteke otlarini ko‘paytirish hamda ot anjomlarini bezash o‘zaro bog‘liq parvarish va hunar ko‘nikmalari sifatida ko‘rsatilgan. [UNESCO: Akhal-Teke horse breeding, nomination photographs](https://ich.unesco.org/en/8b-representative-list-01325?call=slideshow&id=01978&include=slideshow_inc.php&mode=scroll&width=620).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

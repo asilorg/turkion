@@ -1,51 +1,49 @@
 # Turkion
 
-- [Live demo](https://www.turkion.org/)
-- [Documentation](https://www.turkion.org/en/docs/essentials/documentation)
+A digital encyclopedia of the Turkic world in English, Russian and Uzbek, built with Nuxt 4 and Nuxt Content.
 
-<a href="https://www.turkion.org/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="public/preview.png">
-    <source media="(prefers-color-scheme: light)" srcset="public/preview.png">
-    <img alt="Nuxt Docs Template" src="public/preview.png">
-  </picture>
-</a>
+- [Website](https://www.turkion.org/)
+- [Encyclopedia](https://www.turkion.org/en/docs/common/turkic-peoples)
+- [Contributor guide](https://www.turkion.org/en/docs/essentials/markdown-syntax)
 
-## Quick Start
-
+![Turkion preview](public/preview.png)
 
 ## Setup
 
-Make sure to install the dependencies:
+Use Node.js 22.18+ (CI uses Node 24) and pnpm 10.29.2, as declared in `package.json`.
 
 ```bash
-pnpm install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
+pnpm install --frozen-lockfile
+cp .env.example .env
 pnpm dev
 ```
 
-## Production
+The development server defaults to http://localhost:3000. Set `NUXT_PUBLIC_SITE_URL` before building for a different domain; it controls canonical URLs, language alternates, sitemap and social metadata.
 
-Build the application for production:
+## Checks and production
 
 ```bash
+pnpm content:check
+pnpm media:check
+pnpm test
+pnpm lint
+pnpm typecheck
 pnpm build
+pnpm smoke
 ```
 
-Locally preview production build:
+`pnpm smoke` starts and stops its own Node production server on port 3198. Set `SMOKE_PORT` to use another port, or `SMOKE_URL` to check an existing server. `pnpm preview` starts an interactive production preview.
 
-```bash
-pnpm preview
-```
+The build prerenders linked localized pages; Nuxt SSR handles other routes. Nuxt Image selects the deployment provider automatically (IPX for the Node server). Vercel Analytics is enabled when built on Vercel; `NUXT_PUBLIC_ANALYTICS_ENABLED` can override the runtime flag.
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+CI runs content validation, regression tests, lint, type checking, production build and smoke checks on pushes and pull requests.
 
-## Renovate integration
+## Content and media
 
-Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+- `content/{en,ru,uz}` contains localized YAML and Markdown. Preserve matching article paths across locales.
+- Country subject articles require relevant `sources` entries with a title and HTTP(S) URL. `editorialStatus: draft` is explicit: references are not a claim of expert review.
+- Timeline sections share stable IDs across languages. Check translations whenever an event changes.
+- `content/media.yml` records image originals and verified or unverified attribution. Do not infer creators or licenses from filenames.
+- Archival miniature originals live under `media/originals`; the public site uses smaller WebP derivatives. Run `pnpm media:prepare` to regenerate them with the checked-in processing script. Preserve the originals and mapping when changing image references.
+
+Use `pnpm content:check` after edits to detect missing local assets, invalid routes, missing citations and locale mismatches. Historical claims and translations still require editorial review; automated checks validate structure, not historical truth.

@@ -1,4 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+const siteUrl = (process.env.NUXT_PUBLIC_SITE_URL || 'https://www.turkion.org').replace(/\/$/, '')
 export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
@@ -8,7 +8,6 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'nuxt-llms',
     'motion-v/nuxt',
-    'nuxt-component-meta',
     '@nuxtjs/i18n'
   ],
 
@@ -18,6 +17,8 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
+
+  site: { url: siteUrl },
 
   content: {
     build: {
@@ -30,15 +31,26 @@ export default defineNuxtConfig({
     experimental: { sqliteConnector: 'native' }
   },
 
+  runtimeConfig: {
+    public: { siteUrl, analyticsEnabled: Boolean(process.env.VERCEL) }
+  },
+
+  routeRules: {
+    '/': { redirect: { to: '/en', statusCode: 301 } }
+  },
+
   compatibilityDate: '2024-07-11',
 
   nitro: {
     prerender: {
       routes: [
-        '/'
+        '/en', '/ru', '/uz', '/sitemap.xml', '/robots.txt'
       ],
       crawlLinks: true,
-      autoSubfolderIndex: false
+      autoSubfolderIndex: false,
+      failOnError: true,
+      // External image and OG services are generated on demand.
+      ignore: ['/_ipx/', '/__og-image__/']
     }
   },
 
@@ -52,6 +64,7 @@ export default defineNuxtConfig({
   },
 
   i18n: {
+    baseUrl: siteUrl,
     locales: [
       { code: 'en', name: 'English', language: 'en', file: 'en.json' },
       { code: 'uz', name: 'Oʻzbek', language: 'uz', file: 'uz.json' },
@@ -66,42 +79,26 @@ export default defineNuxtConfig({
   },
 
   image: {
-    provider: process.env.NODE_ENV === 'production' ? 'vercel' : 'ipx',
+    // Nuxt Image detects Vercel/Netlify; Node deployments use its IPX default.
     // Avoid 2x IPX variants for gallery-heavy pages; pages can override.
     densities: [1],
     quality: 75
   },
 
   llms: {
-    domain: 'https://turkion.org/',
+    // Use our raw Markdown route so references and editorial status are preserved.
+    contentRawMarkdown: false,
+    domain: siteUrl,
     title: 'Turkion',
     description: 'Open-source digital encyclopedia of the Turkic world.',
     full: {
-      title: 'Turkion - Full Documentation',
-      description: 'Full documentation for Turkion — the open-source digital encyclopedia of the Turkic world.'
+      title: 'Turkion — Encyclopedia',
+      description: 'Encyclopedia articles in English, Russian and Uzbek.'
     },
     sections: [
-      {
-        title: 'Getting Started',
-        contentCollection: 'docs_en',
-        contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/essentials' }
-        ]
-      },
-      {
-        title: 'Explore',
-        contentCollection: 'docs_en',
-        contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/common' }
-        ]
-      },
-      {
-        title: 'Исследовать',
-        contentCollection: 'docs_ru',
-        contentFilters: [
-          { field: 'path', operator: 'LIKE', value: '/common' }
-        ]
-      }
+      { title: 'English', contentCollection: 'docs_en', contentFilters: [{ field: 'path', operator: 'LIKE', value: '/en/docs/%' }] },
+      { title: 'Русский', contentCollection: 'docs_ru', contentFilters: [{ field: 'path', operator: 'LIKE', value: '/ru/docs/%' }] },
+      { title: 'Oʻzbek', contentCollection: 'docs_uz', contentFilters: [{ field: 'path', operator: 'LIKE', value: '/uz/docs/%' }] }
     ]
   }
 })

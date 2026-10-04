@@ -1,6 +1,11 @@
 ---
 title: Festivals and Calendar Observances in Turkmenistan
 description: An account of named seasonal and religious observances in Turkmenistan and their local variation.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/festivals
+sources:
+- title: 'Turkmenistan State News Agency: State Museum Nowruz exhibition (2021)'
+  url: https://turkmenistan.gov.tm/en/post/52851/exhibition-state-museum-gives-insights-history-and-nowruz-traditions
 ---
 
 Festivals in Turkmenistan include seasonal and religious observances whose public and household forms overlap without following one uniform program. Locality, religious practice, household resources, and the availability of relatives shape their character. Named festivals bring recurring occasions for food, visiting, greetings, and marking changes in season or ritual time.
@@ -47,3 +52,9 @@ Urban observances may use restaurants, event halls, or scheduled public programs
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
 - [Cuisine](/en/docs/turkmenistan/cuisine)
 - [Music and Dance](/en/docs/turkmenistan/music-dance)
+
+## Documented example
+
+A 2021 State Museum display documented Nowruz semeni made from sprouted wheat and flour, alongside fried dough pieces called pishme. [Turkmenistan State News Agency: State Museum Nowruz exhibition (2021)](https://turkmenistan.gov.tm/en/post/52851/exhibition-state-museum-gives-insights-history-and-nowruz-traditions).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

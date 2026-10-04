@@ -1,6 +1,11 @@
 ---
 title: Vernacular Belief
 description: An overview of customary healing, protective practices, and religiously inflected everyday belief in Kyrgyzstan.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/vernacular-belief
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 Vernacular belief in Kyrgyzstan refers to everyday ideas and practices concerning wellbeing, misfortune, protection, healing, and relations with places or ancestors. These practices may draw on Islamic learning, family custom, healing knowledge, and pre-Islamic symbolic forms. They are not a separate, fixed belief system, and their meanings differ among practitioners, religious teachers, and households.
@@ -45,3 +50,8 @@ Practice differs between regions, religious communities, generations, and indivi
 - [Manas Epic](/en/docs/kyrgyzstan/manas-epic)
 - [Hospitality](/en/docs/kyrgyzstan/hospitality)
 
+## Documented example
+
+UNESCO records prophetic dreams as a calling described by some epic narrators. This is a belief reported by practitioners, not a historical verification of the dream. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

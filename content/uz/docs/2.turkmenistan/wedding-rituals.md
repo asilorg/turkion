@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda toʻy marosimlari
 description: Turkman toʻyining tayyorgarligi, marosim ketma-ketligi, almashinuvlari va mahalliy farqlari tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/wedding-rituals
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Turkmanistonda to'y marosimlari oilaviy muzokaralar, tayyorgarliklar, tashriflar, ovqatlanish, musiqa va yangi uy qurish ketma-ketligini o'z ichiga oladi. Bu ketma-ketlik hamma joyda bir xil emas va uning ko'lami oilaviy resurslarga, yashash joylariga, diniy amaliyotga, er-xotin va ularning qarindoshlarining xohishlariga bog'liq. To'y uchun mehmondo'stlik muhim ahamiyatga ega, ammo to'y marosimi yanada o'ziga xos ijtimoiy va tantanali tuzilishga ega.
@@ -44,3 +49,9 @@ Qishloq to'ylari asosan hovlidagi pazandalikka va mahalla mehnatiga tayanishi mu
 - [Mehmondoʻstlik](/uz/docs/turkmenistan/hospitality)
 - [Musiqa va raqs](/uz/docs/turkmenistan/music-dance)
 - [Gilam toʻqish](/uz/docs/turkmenistan/carpet-weaving)
+
+## Hujjatlashtirilgan misol
+
+To‘y uchun maxsus gilam tayyorlash to‘qimachilikni oilaviy marosimlar bilan bog‘laydi. Bu barcha to‘ylar uchun yagona tartib emas, alohida odatdir. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

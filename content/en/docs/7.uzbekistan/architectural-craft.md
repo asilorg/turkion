@@ -1,6 +1,11 @@
 ---
 title: Architectural craft in Uzbekistan
 description: Tilework, carved wood, plaster decoration, and the continuing practice of building crafts in Uzbekistan.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/architectural-craft
+sources:
+- title: 'UNESCO World Heritage Centre: Samarkand – Crossroad of Cultures'
+  url: https://whc.unesco.org/en/list/603/
 ---
 
 Architectural craft in Uzbekistan includes the making and repair of decorated surfaces, structural woodwork, and interior fittings in mosques, madrasas, houses, and public buildings. Tile, carved wood, baked brick, and ornamental plaster are among its principal materials. The best-known historical monuments provide important examples, but these crafts also persist in restoration workshops, contemporary buildings, and the production of smaller decorative objects.
@@ -42,3 +47,9 @@ Samarkand, Bukhara, Khiva, and the Fergana Valley are associated with different 
 - [Bazaars and craft quarters in Uzbekistan](/en/docs/uzbekistan/bazaar-crafts) — artisan production and markets.
 - [Material culture in Uzbekistan](/en/docs/uzbekistan/material-culture) — domestic objects and spaces.
 - [Silk and textile traditions in Uzbekistan](/en/docs/uzbekistan/silk-textiles) — another field of workshop-based craft.
+
+## Documented example
+
+Samarkand’s World Heritage record identifies the Registan, Shah-i Zinda and Gur-i Amir as major ensembles with different building histories. [UNESCO World Heritage Centre: Samarkand – Crossroad of Cultures](https://whc.unesco.org/en/list/603/).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

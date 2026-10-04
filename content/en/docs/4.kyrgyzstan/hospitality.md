@@ -1,6 +1,11 @@
 ---
 title: Hospitality
 description: A description of guest reception, shared meals, and household etiquette in Kyrgyz social practice.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/hospitality
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Hospitality in Kyrgyzstan consists of practices for receiving visitors, sharing food, arranging seating, and maintaining relationships between households. These practices are expressed at brief tea visits, overnight stays, life-cycle gatherings, and formal meals. They should not be treated as a single rulebook: household resources, generation, residence, and the relationship between hosts and guests all shape what is expected.
@@ -44,3 +49,9 @@ In highland pasture settings, hosting may emphasize portable foods, dairy, and t
 - [Cuisine](/en/docs/kyrgyzstan/cuisine)
 - [Festivals](/en/docs/kyrgyzstan/festivals)
 - [Yurt](/en/docs/kyrgyzstan/yurt)
+
+## Documented example
+
+The flatbread nomination includes Kyrgyz jupka and describes communal preparation and sharing at family occasions as practices of hospitality. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

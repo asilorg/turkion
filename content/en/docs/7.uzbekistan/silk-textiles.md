@@ -1,6 +1,11 @@
 ---
 title: Silk and textile traditions in Uzbekistan
 description: Sericulture, weaving, dyeing, patterned cloth, embroidery, and textile exchange in Uzbekistan.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/silk-textiles
+sources:
+- title: 'UNESCO: The Crafts Development Center in Margilan'
+  url: https://www.unesco.org/en/articles/crafts-development-center-margilan
 ---
 
 Silk and textiles in Uzbekistan connect agricultural production, household labour, specialist workshops, and market exchange. Silk has been cultivated and woven in several Central Asian regions for centuries, while cotton, wool, and imported synthetic fibres have also shaped local dress and furnishing. The best-known patterned fabrics, including *atlas* and *adras*, are part of a wider textile field that includes plain cloth, ikat dyeing, embroidery, and quilt making.
@@ -48,3 +53,9 @@ Fibre mixes, dye palettes, pattern names, and workshop methods vary between regi
 - [Material culture in Uzbekistan](/en/docs/uzbekistan/material-culture) — dress, furnishings, and household use.
 - [Bazaars and craft quarters in Uzbekistan](/en/docs/uzbekistan/bazaar-crafts) — workshops and textile exchange.
 - [Architectural craft in Uzbekistan](/en/docs/uzbekistan/architectural-craft) — related practices of design and apprenticeship.
+
+## Documented example
+
+The Margilan Crafts Development Center was established in 2007 at the Said Ahmad Khoja madrasah to support atlas and adras traditions. [UNESCO: The Crafts Development Center in Margilan](https://www.unesco.org/en/articles/crafts-development-center-margilan).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

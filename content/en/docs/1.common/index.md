@@ -19,3 +19,6 @@ This section holds **cross-cutting** topics—holidays, comparative culture, lan
 - [Turkey](/en/docs/turkey)
 - [Kazakhstan](/en/docs/kazakhstan)
 - [Uzbekistan](/en/docs/uzbekistan)
+
+- [About the project and editorial work](/en/blog)
+- [Peoples directory](/en/people)

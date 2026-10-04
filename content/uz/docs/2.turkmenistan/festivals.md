@@ -1,6 +1,11 @@
 ---
 title: Turkmanistondagi festivallar va kalendar marosimlari
 description: Turkmanistondagi mavsumiy va diniy marosimlar va ularning mahalliy oʻzgarishi haqida maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/festivals
+sources:
+- title: 'Turkmenistan State News Agency: State Museum Nowruz exhibition (2021)'
+  url: https://turkmenistan.gov.tm/en/post/52851/exhibition-state-museum-gives-insights-history-and-nowruz-traditions
 ---
 Turkmanistondagi festivallar mavsumiy va diniy marosimlarni o'z ichiga oladi, ularning jamoat va maishiy shakllari bir-biriga mos keladigan yagona dasturga rioya qilmasdan. Mahalliylik, diniy amaliyot, uy resurslari va qarindoshlarning mavjudligi ularning xarakterini shakllantiradi. Nomlangan festivallar ovqatlanish, tashrif buyurish, salomlashish va mavsum yoki marosim vaqtidagi o'zgarishlarni belgilash uchun takrorlanadigan holatlarni keltirib chiqaradi.
 
@@ -28,7 +33,7 @@ Bahor yig'inlari musiqa, kurash, ot bilan bog'liq namoyishlar, o'yinlar, bozorla
 
 *Qurban bayrami*, Qurbon hayiti namoz, uni qilishga qodir va xohlovchi xonadonlar uchun qurbonlik qilish va go'shtni baham ko'rishga qaratilgan. Tayyorgarlik hayvonlarni tartibga solish, uy-ro'zg'orni tozalash va ovqatni qanday pishirish yoki tarqatishni rejalashtirishni o'z ichiga olishi mumkin. Go'sht qarindoshlar, qo'shnilar va muhtojlarga yuborilishi mumkin, shuningdek, tashrif buyurganlarga ovqat beriladi.
 
-Bu marosim diniy niyat bilan amaliy hamkorlikni birlashtiradi. So'yish, so'yish, pishirish va porsiyalarni etkazib berish bir nechta qarindoshlar yoki qo'shnilarni jalb qilishi mumkin va mehmonlar soni uy xo'jaligining imkoniyatlariga bog'liq. Ba'zi oilalar salomlashish, ziyorat qilish yoki ibodatlarda qatnashish bilan birga, ozgina marosim o'tkazadilar yoki qurbonlik qilmaydilar. Oraza bayramida bo'lgani kabi, uning oy sanasi sayohat, oziq-ovqat saqlash va ochiq havoda faoliyat bilan bog'liq mavsumiy sharoitlar yildan yilga farq qilishini anglatadi.
+Bu marosim diniy niyat bilan amaliy hamkorlikni birlashtiradi. So‘yish, nimtalash, pishirish va porsiyalarni etkazib berish bir nechta qarindoshlar yoki qo'shnilarni jalb qilishi mumkin va mehmonlar soni uy xo'jaligining imkoniyatlariga bog'liq. Ba'zi oilalar salomlashish, ziyorat qilish yoki ibodatlarda qatnashish bilan birga, ozgina marosim o'tkazadilar yoki qurbonlik qilmaydilar. Oraza bayramida bo'lgani kabi, uning oy sanasi sayohat, oziq-ovqat saqlash va ochiq havoda faoliyat bilan bog'liq mavsumiy sharoitlar yildan yilga farq qilishini anglatadi.
 
 ## Boshqa mavsumiy marosimlar
 
@@ -46,3 +51,9 @@ Shahardagi marosimlar restoranlar, tadbirlar zallari yoki rejalashtirilgan jamoa
 - [To'y marosimlari](/uz/docs/turkmenistan/wedding-rituals)
 - [Oshxona](/uz/docs/turkmenistan/cuisine)
 - [Musiqa va raqs](/uz/docs/turkmenistan/music-dance)
+
+## Hujjatlashtirilgan misol
+
+Davlat muzeyining 2021-yilgi ko‘rgazmasida Navro‘z uchun undirilgan bug‘doy va undan semeni, shuningdek, qovurilgan xamir — pishme tayyorlash tasvirlangan. [Turkmenistan State News Agency: State Museum Nowruz exhibition (2021)](https://turkmenistan.gov.tm/en/post/52851/exhibition-state-museum-gives-insights-history-and-nowruz-traditions).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

@@ -1,6 +1,11 @@
 ---
 title: Bayramlar va taqvimiy odatlar
 description: Ozarbayjon jamoalaridagi mavsumiy, diniy, oilaviy va mahalliy taqvimiy odatlar haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/festivals
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Bayramlar va taqvimiy odatlar mavsumiy mehnat, oilaviy tashrif, taom tayyorlash, xayriya va jamoat yigʻinlarini tashkil etadi. Ularning shakli uy diniyligi, hudud, shahar hayoti va qarindoshlik tarmoqlariga bogʻliq.
@@ -44,3 +49,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Novruzning uy amaliyotlari](/uz/docs/azerbaijan/novruz-household)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
 - [Navroʻz](/uz/docs/common/navruz)
+
+## Hujjatlashtirilgan misol
+
+UNESCOning 2021-yilgi Navro‘z sharhida Ozarbayjon bayram nishonlanadigan mamlakatlar qatorida keltirilib, birgalikdagi taomlar, o‘yinlar va ijrolar tasvirlangan. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

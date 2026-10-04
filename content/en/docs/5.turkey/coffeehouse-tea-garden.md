@@ -1,6 +1,11 @@
 ---
 title: Coffeehouses and tea gardens in Turkey
 description: Public sociability, conversation, games, and drinks in coffeehouses and tea gardens in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/coffeehouse-tea-garden
+sources:
+- title: 'UNESCO: Turkish coffee culture, decision 8.COM 8.28'
+  url: https://ich.unesco.org/en/decisions/8.COM/8.28
 ---
 
 Coffeehouses and tea gardens are everyday venues for conversation, leisure, and informal exchange in Turkey. They range from small neighborhood rooms to landscaped outdoor businesses and contemporary cafés. Their social composition, prices, and accepted behavior vary widely, so neither venue type has a single stable meaning.
@@ -42,3 +47,9 @@ An Istanbul café, a village *kahvehane*, a Black Sea tea house, and a seaside t
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Cuisine in Turkey](/en/docs/turkey/cuisine)
 - [Hammam in Turkey](/en/docs/turkey/hammam)
+
+## Documented example
+
+The coffee heritage dossier identifies coffeehouses as spaces for conversation, exchanging news and reading, alongside the techniques of brewing. [UNESCO: Turkish coffee culture, decision 8.COM 8.28](https://ich.unesco.org/en/decisions/8.COM/8.28).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

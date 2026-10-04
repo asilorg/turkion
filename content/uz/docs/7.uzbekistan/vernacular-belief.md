@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda xalq e'tiqodi va kundalik marosimi
 description: O‘zbekistonda kundalik marosimlar, ziyoratgohlar, himoya urf-odatlari va oilaviy marosimlar.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/vernacular-belief
+sources:
+- title: 'UNESCO ICHCAP: Cultural space of Boysun'
+  url: https://archive.unesco-ichcap.org/eng/ek/sub2017_7/pdf_down/1.%20ELEMENTS%20INSCRIBED%20IN%20THE%20REPRESENTATIVE%20LIST/1.%20Cultural%20space%20of%20boysun.pdf
 ---
 
 Oʻzbekistonda xalq e'tiqodi odamlarning kundalik hayotda kasallik, noaniqlik, xotira, himoya va barakaga murojaat qiladigan amaliyotlarini anglatadi. Bu amaliyotlar rasmiy diniy marosimlar bilan bir qatorda sodir boʻladi, lekin ular bilan kamaytirilmaydi. Ular oila oqsoqoli, mahalla tabibi, ziyoratgoh qoʻriqchisi yoki oddiy uy ishorasini oʻz ichiga olishi mumkin. Ularning ma'nolari mintaqa, avlod, til jamoasi va individual e'tiqodga qarab farqlanadi.
@@ -42,3 +47,9 @@ Odatiy amaliyot oilaviy suhbat, uy xoʻjaliklari oʻrtasida harakatlanish va yoz
 - [O‘zbekistonda bayramlar va mavsumiy marosimlar](/uz/docs/uzbekistan/festivals) — kalendar amaliyotlari va oilaviy yig‘inlar.
 - [Oʻzbekistonda mehmondoʻstlik va hayot odatlari](/uz/docs/uzbekistan/hospitality) — marosimlar va oʻzaro yordam.
 - [Navroʻz](/uz/docs/common/navruz) — viloyatlararo bahor bayrami.
+
+## Hujjatlashtirilgan misol
+
+Boysun merosi hujjatida o‘zbek va tojik jamoalari, mahalliy marosimlar, taqvim va marosim musiqasi yoritilgan. Bu barcha o‘zbek oilalarining tavsifi emas. [UNESCO ICHCAP: Cultural space of Boysun](https://archive.unesco-ichcap.org/eng/ek/sub2017_7/pdf_down/1.%20ELEMENTS%20INSCRIBED%20IN%20THE%20REPRESENTATIVE%20LIST/1.%20Cultural%20space%20of%20boysun.pdf).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

@@ -1,13 +1,12 @@
 title: Turk Dunyosi Raqamli Ensiklopediyasi
 description: "Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan."
-
 hero:
   title: Turk Dunyosi Ensiklopediyasi
   description: "Katta tarix ko‘pincha yirik davlatlar va tanish nomlar orqali aytiladi. Kamroq esga olinadiganlari — kichik xalqlar: tillari tog‘ vodiylarida, dasht qishloqlarida va uzoq shaharlarda saqlanib kelayotgan jamoalar. Ularning tarixiy joylari keng yerlarga sochilgan — sokin daryo sohillarida, tog‘ dovonlarida va unutilgan yo‘llar bo‘yida. Bu yerda ularning tarixi va turmush tarzi haqida hali bilish mumkin bo‘lgan narsalar jamlangan."
   links:
     - label: Boshlang
       to: /docs/common/turkic-peoples
-      class: 'nuxt-only'
+      class: nuxt-only
     - label: Vaqt jadvalini o'rganing
       to: /timeline
       variant: outline
@@ -18,191 +17,179 @@ hero:
       title: "Turk Olami: Sizning Raqamli Darvozangiz."
       description: Umumiy ildizlar, tillar va jonli, rang-barang madaniyatni kashf eting.
     - icon: i-streamline-color:islam-flat
-      title: "Bir Til, Koʻp Millatlar: Turk Dunyosini kashf eting."
-      description: "Qit’alar bo‘ylab, tarix va til bilan birlashgan madaniyatlar yulduz turkumiga sayohat qiling. Bu — jo‘shqin turkiy olam qalbiga eltuvchi raqamli darvozangiz."
+      title: Qardosh tillar, xilma-xil xalqlar
+      description: Yevroosiyodagi bir til oilasi va uning sohiblariga xos turli tarixlarni o‘rganing.
     - icon: i-streamline-plump-color:world-flat
       title: Yangi Dunyoni Oching.
-      description: "Sibir chuqurlaridan O'rta dengiz sohillarigacha — turk dunyosini shakllantirgan xalqlar va madaniyatlarni kashf eting. Sizni boy va o'zaro bog'langan merosga olib boradigan har tomonlama qo'llanma kuting."
+      description: Sibir chuqurlaridan O'rta dengiz sohillarigacha — turk dunyosini shakllantirgan xalqlar va madaniyatlarni kashf eting. Sizni boy va o'zaro bog'langan merosga olib boradigan har tomonlama qo'llanma kuting.
 features:
   - title: Turkmaniston
     description: Bitaraf millat, chuqur tarix va noyob an'analar mamlakati.
     icon: i-circle-flags:tm
-    to: /docs/common/turkic-peoples
+    to: /docs/turkmenistan
   - title: Turkiya
     description: Sharq G‘arb bilan uchrashadigan joy, qit‘alar orasidagi ko‘prik va jadal o‘sish markazi.
     icon: i-circle-flags:lang-tr
-    to: /docs/common/turkic-peoples
+    to: /docs/turkey
   - title: Qozog'iston
     description: Ulkan dashtlar mamlakati, keng resurslarga ega bo'lgan va ulkan istiqbolga intilayotgan millat.
     icon: i-circle-flags:kz
-    to: /docs/common/turkic-peoples
+    to: /docs/kazakhstan
   - title: O'zbekiston
     description: Qadimgi Buyuk Ipak yo‘li sivilizatsiyasining beshigi, Samarqand va Buxoro kabi afsonaviy shaharlarning vatani.
     icon: i-circle-flags:lang-uz
-    to: /docs/common/turkic-peoples
+    to: /docs/uzbekistan
   - title: Ozarbayjon
     description: Olovlar diyori — qadimiy zardushtiylik merosi zamonaviy energetika salohiyati bilan uyg‘unlashgan yurt.
     icon: i-circle-flags:lang-az
-    to: /docs/common/turkic-peoples
+    to: /docs/azerbaijan
   - title: Qirg'iziston
     description: Osmon tog‘lari mamlakati, boy ko‘chmanchi madaniyatni saqlab kelgan va ajoyib tabiat go‘zalligiga ega.
     icon: i-circle-flags:kg
-    to: /docs/common/turkic-peoples
+    to: /docs/kyrgyzstan
 details:
   title: Batafsil Turk Dunyosi va Zamonaviy Shaharlar
   miniatures:
     - title: Behzad tasvirlagan Temuriylar-Misr elchisi sahni
       to: /miniatures
-      img: /miniatures/index/Behzad_timur_egyptian.jpg
+      img: /miniatures-web/index/Behzad_timur_egyptian.jpg.webp
     - title: Muhammad Shayboniy, Oʻzbek xoni portreti
       to: /miniatures
-      img: /miniatures/index/Muhammad_Shaybani.jpg
+      img: /miniatures-web/index/Muhammad_Shaybani.jpg.webp
     - title: Temurning Bagʻdodni zabt etilishi, "Zafarnoma" dan (Gʻalabalar kitobi)
       to: /miniatures
-      img: /miniatures/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg
+      img: /miniatures-web/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg.webp
     - title: Mohach jangi
       to: /miniatures
-      img: /miniatures/index/Battle_of_Mohács.jpg
+      img: /miniatures-web/index/Battle_of_Mohács.jpg.webp
     - title: Sulton Murod II ning dafn marosimi
       to: /miniatures
-      img: /miniatures/index/Funeral_of_Murat_II.png
+      img: /miniatures-web/index/Funeral_of_Murat_II.png.webp
     - title: Podshoh Jahongirning sher ov sahni, taxminan 1615
       to: /miniatures
-      img: /miniatures/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg
+      img: /miniatures-web/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg.webp
     - title: Xarnaq qal'asining qurilishi, Kamoliddin Behzad
       to: /miniatures
-      img: /miniatures/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg
+      img: /miniatures-web/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg.webp
     - title: Mugʻul qoʻshinlari Doud armiyasini ta'qib qilishda
       to: /miniatures
-      img: /miniatures/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg
+      img: /miniatures-web/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg.webp
     - title: Mir Ali xattotligidagi "Jahongir albomi" varag'i, taxminan 1600
       to: /miniatures
-      img: /miniatures/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg
+      img: /miniatures-web/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg.webp
     - title: Ot ustidagi Podshoh Shoh Jahon, "Shoh Jahon albomi" dan, taxminan 1630
       to: /miniatures
-      img: /miniatures/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg
+      img: /miniatures-web/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg.webp
     - title: Podshoh Jahongir avlodlarining tasviriy shajarasi, taxminan 1623-27
       to: /miniatures
-      img: /miniatures/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg
+      img: /miniatures-web/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg.webp
     - title: Sulton Salim II ning taxtga o'tirishi (A qism)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_A.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_A.jpg.webp
     - title: Sulton Salim II ning taxtga o'tirishi (B qism)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_B.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_B.jpg.webp
     - title: Naxchivon qamali, "Sulaymonnoma" dan
       to: /miniatures
-      img: /miniatures/index/Sueleymanname_nahcevan.jpg
+      img: /miniatures-web/index/Sueleymanname_nahcevan.jpg.webp
     - title: Olim Taqiyddin portreti
       to: /miniatures
-      img: /miniatures/index/Taqi_al_din.jpg
+      img: /miniatures-web/index/Taqi_al_din.jpg.webp
   cities:
     - title: Qozon
-      to: /docs/common/turkic-peoples
       img: /cities/kazan.png
     - title: Olmaota
-      to: /docs/common/turkic-peoples
+      to: /docs/kazakhstan
       img: /cities/almaty.png
     - title: Istanbul
-      to: /docs/common/turkic-peoples
+      to: /docs/turkey
       img: /cities/istanbul.png
     - title: Mazori Sharif
-      to: /docs/common/turkic-peoples
       img: /cities/mazar-e-sharif.png
     - title: Toshkent
-      to: /docs/common/turkic-peoples
+      to: /docs/uzbekistan
       img: /cities/tashkent.png
     - title: Boku
-      to: /docs/common/turkic-peoples
+      to: /docs/azerbaijan
       img: /cities/baku.png
     - title: Ostona
-      to: /docs/common/turkic-peoples
+      to: /docs/kazakhstan
       img: /cities/astana.png
     - title: Ashxobod
-      to: /docs/common/turkic-peoples
+      to: /docs/turkmenistan
       img: /cities/ashgabat.png
     - title: Anqara
-      to: /docs/common/turkic-peoples
+      to: /docs/turkey
       img: /cities/ankara.png
     - title: Urumchi
-      to: /docs/common/turkic-peoples
       img: /cities/urumqi.png
-    - title: Ostona
-      to: /docs/common/turkic-peoples
-      img: /cities/astana.png
-
 users:
-  title: Foydalanuvchilarimiz nima deydi
+  title: Loyihaga hissa qo‘shish
   features:
     - title: Asilbek Madiyev
       description: Asoschi
       icon: i-fa-solid:user-tie
-      img: /users/founder.svg
       to: /docs/common/turkic-peoples
-      quote: Bir qator kichik xalqlar hali ham kam o‘rganilgan, ba’zilari esa tarixiy xotiradan yo‘qolib ketish xavfida. Ushbu loyiha ularning tillari va rivoyatlarini hujjatlashtirib, ularga kirish imkoniyatini saqlab qolishga intiladi. Har qanday miqyosdagi hissa mamnuniyat bilan qabul qilinadi.
-    - title: Investorlar uchun
-      quote: Portfelingizni rang-baranglashtiring — navbatdagi bestsellerga sarmoya kiriting va uning moliyaviy muvaffaqiyatida ishtirok eting.
-      description: Investor
-      icon: i-solar:wallet-money-bold
-      to: /docs/common/turkic-peoples
-      img: /users/investor.svg
+      body: Ayrim kichik xalqlar hali ham kam o‘rganilgan. Turkion ularning tillari va tarixi haqidagi materiallarni ochiq saqlaydi hamda maʼlumotlarni tekshirish va to‘ldirish uchun manbalarni ko‘rsatadi.
+    - title: Tadqiqotchilar uchun
+      description: Maʼlumotlarni tekshirish
+      icon: i-lucide:book-open-check
+      to: /docs/essentials/markdown-syntax
+      body: Sana va tarixiy daʼvolarni birlamchi yoki ilmiy manbalar bilan tekshiring. Qoralama maqolalar uchun aniq tuzatish va havolalarni taklif eting.
     - title: Mualliflar uchun
-      quote: Sizda jozibali qo‘lyozma bor; bizda esa resurslar va auditoriya mavjud. Bizning platformamiz qanday qilib sizni jiddiy investorlar bilan bog‘lab, nashr yo‘lingizni moliyalashtirish, ijodiy huquqlaringizni saqlab qolish va royalti olish imkoniyatini taqdim etishini bilib oling.
-      description: Muallif
-      icon: i-ph:student-duotone
-      to: /docs/common/turkic-peoples
-      img: /users/author.svg
+      description: Maqola va tarjimalar
+      icon: i-lucide:pen-line
+      to: /docs/essentials/markdown-syntax
+      body: Manbali maqola va tarjimalar tayyorlash uchun mualliflar qo‘llanmasidan foydalaning. Mutaxassis ko‘rigigacha materiallar qoralama deb belgilanadi.
 wars:
   title: Urushlar, Janglar va Qurolli Mojarolar
   features:
-  - title: Talas jangi (751 milodiy)
-    description: Abbosiylar xalifaligi (Qarluqlar bilan) va Tan sulolasi (Xitoy) o'rtasidagi jang. Bu Markaziy Osiyodagi hal qiluvchi to'qnashuv bo'lib, Xitoyning g‘arbga kengayishini to'xtatdi va turkiy xalqlar orasida Islom dinining g'arbga tarqalishiga imkon berdi. Shuningdek, bu jang qog'oz ishlab chiqarish texnologiyasining Xitoydan musulmon olamiga o'tishi bilan mashhur.
-    to: /docs/wars/battle-of-talas
-    img: /wars/Battle of Talas.png
-  - title: Saljuqiylar-Bizans urushlari (1048–1308)
-    description: Saljuqiylar imperiyasi va Vizantiya imperiyasi o'rtasidagi urushlar. Manzikertdagi hal qiluvchi Saljuqiylar g'alabasi Anadoluni (zamonaviy Turkiya) turkiy aholi joylashishi uchun ochdi, bu esa oxir-oqibat uning turklashtirilishi va islomlashtirilishiga olib keldi. Bu zamonaviy Turkiyaning yaratilishi uchun asosiy voqeadir.
-    to: /docs/wars/seljuk-byzantine-wars
-    img: /wars/Seljuk-Byzantine Wars.png
-  - title: Mo'g'ullar yurishlari (1206–1368)
-    description: Mo'g'ul imperiyasi (ko'plab turkiy qabilalarni o'z ichiga olgan) va Yevroosiyodagi turli davlatlar o'rtasidagi urushlar. Mo'g'ullar boshchiligida amalga oshirilgan bo'lsa-da, bu yurishlar keng turkiy aholini o'z ichiga olgan va qayta shakllantirgan. Yurishlar turkiy-mo'g'ul voris davlatlarining (masalan, Oltin O'rda va Chig'atoy ulusi) yaratilishiga olib keldi, ular keyinchalik turkiy imperiyalar (Temuriylar, Usmonlilar, O'zbeklar) uchun asos bo'ldi.
-    to: /docs/wars/mongol-conquests
-    img: /wars/Mongol Conquests.png
-  - title: Usmonlilar kengayish urushlari (14–16-asrlar)
-    description: Usmonli imperiyasi va Vizantiya imperiyasi, Bolqon davlatlari, Safaviylar Eroni, Mamluklar saltanati o'rtasidagi urushlar. Bu urushlar Usmonli imperiyasini jahon kuchi sifatida o'rnatdi, Vizantiya imperiyasini tugatdi va asrlar davomida Bolqon, Anadolu va Yaqin Sharqda Usmonli ustunligini ta'minladi.
-    to: /docs/wars/ottoman-wars-of-expansion
-    img: /wars/Ottoman Wars of Expansion.png
-  - title: Amir Temurning harbiy yurishlari (1370–1405)
-    description: Temuriylar imperiyasi va Oltin O'rda, Dehli saltanati, Usmonli imperiyasi, Mamluklar saltanati o'rtasidagi urushlar. Turkiy-mo'g'ul bosqinchisi Temur (Tamerlan) boshchiligidagi bu shafqatsiz yurishlar Markaziy Hindistondan Anadolugacha bo'lgan keng hududni qamrab oldi va qisqa muddatli ulkan imperiya yaratdi. Qisqa muddatli bo'lsa-da, ular siyosiy landshaftni qayta shakllantirdi, Oltin O'rda kabi raqobatchi kuchlarni zaiflashtirdi va uning poytaxtlarida madaniy uyg'onishni rag'batlantirdi.
-    to: /docs/wars/timurs-military-campaigns
-    img: /wars/Timur's Military Campaigns.png
-  - title: Usmonlilar-Gabsburglar urushlari (1526–1791)
-    description: Usmonli imperiyasi va Gabsburglar imperiyasi (Avstriya/Ispaniya) va ularning ittifoqchilari o'rtasidagi urushlar. Bu asrlar davom etgan kurash Markaziy Yevropada Islom va Xristianlik chegarasini belgilab berdi. Vena ikkinchi marta muvaffaqiyatsiz qamal qilinishi (1683) Usmonli imperiyasining Yevropadan uzoq muddatli chekinish boshlanishini belgiladi.
-    to: /docs/wars/ottoman-habsburg-wars
-    img: /wars/Ottoman-Habsburg Wars.png
-  - title: Rossiya-Qozon urushlari (1439–1552)
-    description: Rossiya podsholigi va Qozon xonligi o'rtasidagi urushlar. Qozonning Ivan Grozniy tomonidan bosib olinishi Volga bo'yidagi Oltin O'rdaning so'nggi yirik voris davlati hukmronligiga chek qo'ydi. Bu falokatli burilish nuqtasi bo'lib, mintaqadagi boshqa ko'plab turkiy xonliklarni (Astroxon, Sibir) bosib olish va ularni o'zlashtirishga olib keldi.
-    to: /docs/wars/russo-kazan-wars
-    img: /wars/Russo-Kazan Wars.png
-  - title: Usmonlilar-Safaviylar urushlari (1514–1639)
-    description: Usmonli imperiyasi va Safaviylar imperiyasi (Eron) o'rtasidagi urushlar. Sunniy Usmonli va shia Safaviylar imperiyalari o'rtasidagi mazhabiy va geopolitik kurash edi. Bu G'arbiy Osiyo dunyosining Usmonli-Eron chizig'i bo'yicha bo'linishini mustahkamladi va barqaror chegara o'rnatdi, bu esa zamonaviy Turkiya, Eron va Iroqning o'ziga xosligiga kuchli ta'sir ko'rsatdi.
-    to: /docs/wars/ottoman-safavid-wars
-    img: /wars/Ottoman-Safavid Wars.png
-  - title: Boburiylar imperiyasining asos solinishi (1526)
-    description: Bobur (temuriy shahzoda, turkiy-mo'g'ul merosiga ega) qo'shinlari va Dehli saltanati o'rtasidagi jang. Usmonli uslubidagi portlovchi moddalar taktikasidan foydalangan holda, Bobur ancha katta hind qo'shinini mag'lub etdi. Bu g'alaba Hindistonda Boburiylar imperiyasining asosini qo'ydi, u dunyoning eng buyuk kuchlaridan biriga aylandi va subqit'aga o'chmas madaniy meros qoldirdi.
-    to: /docs/wars/foundation-of-the-mughal-empire
-    img: /wars/Mughal Empire.png
-  - title: Turkiya mustaqillik urushi (1919–1923)
-    description: Turkiya Milliy Harakati (Anqara hukumati) va Ittifoqchi davlatlar (Gretsiya, Frantsiya, Armaniston, Buyuk Britaniya/Italiya) va Usmonli sultonligi o'rtasidagi urush. Mustafo Kamol Otaturk boshchiligidagi bu mojaro Birinchi Jahon Urushidan keyin sodir bo'ldi va Anadoluning Ittifoqchi davlatlar tomonidan bo'linib ketishining oldini oldi. Bu Usmonli sultonligining tugatilishi va zamonaviy, dunyoviy milliy davlat sifatida Turkiya Respublikasining tashkil etilishiga olib keldi.
-    to: /docs/wars/turkish-war-of-independence
-    img: /wars/The Turkish War of Independence.png
-
+    - title: Talas jangi
+      description: Abbosiylar xalifaligi (Qarluqlar bilan) va Tan sulolasi (Xitoy) o'rtasidagi jang. Bu Markaziy Osiyodagi hal qiluvchi to'qnashuv bo'lib, Xitoyning g‘arbga kengayishini to'xtatdi va turkiy xalqlar orasida Islom dinining g'arbga tarqalishiga imkon berdi. Shuningdek, bu jang qog'oz ishlab chiqarish texnologiyasining Xitoydan musulmon olamiga o'tishi bilan mashhur.
+      to: /docs/wars/battle-of-talas
+      img: /wars/Battle of Talas.png
+    - title: Bizans–Saljuqiylar urushlari
+      description: Saljuqiylar imperiyasi va Vizantiya imperiyasi o'rtasidagi urushlar. Manzikertdagi hal qiluvchi Saljuqiylar g'alabasi Anadoluni (zamonaviy Turkiya) turkiy aholi joylashishi uchun ochdi, bu esa oxir-oqibat uning turklashtirilishi va islomlashtirilishiga olib keldi. Bu zamonaviy Turkiyaning yaratilishi uchun asosiy voqeadir.
+      to: /docs/wars/seljuk-byzantine-wars
+      img: /wars/Seljuk-Byzantine Wars.png
+    - title: Moʻgʻul istilolari
+      description: Mo'g'ul imperiyasi (ko'plab turkiy qabilalarni o'z ichiga olgan) va Yevroosiyodagi turli davlatlar o'rtasidagi urushlar. Mo'g'ullar boshchiligida amalga oshirilgan bo'lsa-da, bu yurishlar keng turkiy aholini o'z ichiga olgan va qayta shakllantirgan. Yurishlar turkiy-mo'g'ul voris davlatlarining (masalan, Oltin O'rda va Chig'atoy ulusi) yaratilishiga olib keldi, ular keyinchalik turkiy imperiyalar (Temuriylar, Usmonlilar, O'zbeklar) uchun asos bo'ldi.
+      to: /docs/wars/mongol-conquests
+      img: /wars/Mongol Conquests.png
+    - title: Usmonlilar imperiyasining yuksalishi
+      description: Usmonli imperiyasi va Vizantiya imperiyasi, Bolqon davlatlari, Safaviylar Eroni, Mamluklar saltanati o'rtasidagi urushlar. Bu urushlar Usmonli imperiyasini jahon kuchi sifatida o'rnatdi, Vizantiya imperiyasini tugatdi va asrlar davomida Bolqon, Anadolu va Yaqin Sharqda Usmonli ustunligini ta'minladi.
+      to: /docs/wars/ottoman-wars-of-expansion
+      img: /wars/Ottoman Wars of Expansion.png
+    - title: Temur
+      description: Temuriylar imperiyasi va Oltin O'rda, Dehli saltanati, Usmonli imperiyasi, Mamluklar saltanati o'rtasidagi urushlar. Turkiy-mo'g'ul bosqinchisi Temur (Tamerlan) boshchiligidagi bu shafqatsiz yurishlar Markaziy Hindistondan Anadolugacha bo'lgan keng hududni qamrab oldi va qisqa muddatli ulkan imperiya yaratdi. Qisqa muddatli bo'lsa-da, ular siyosiy landshaftni qayta shakllantirdi, Oltin O'rda kabi raqobatchi kuchlarni zaiflashtirdi va uning poytaxtlarida madaniy uyg'onishni rag'batlantirdi.
+      to: /docs/wars/timurs-military-campaigns
+      img: /wars/Timur's Military Campaigns.png
+    - title: Usmonlilar–Gabsburglar urushlari
+      description: Usmonli imperiyasi va Gabsburglar imperiyasi (Avstriya/Ispaniya) va ularning ittifoqchilari o'rtasidagi urushlar. Bu asrlar davom etgan kurash Markaziy Yevropada Islom va Xristianlik chegarasini belgilab berdi. Vena ikkinchi marta muvaffaqiyatsiz qamal qilinishi (1683) Usmonli imperiyasining Yevropadan uzoq muddatli chekinish boshlanishini belgiladi.
+      to: /docs/wars/ottoman-habsburg-wars
+      img: /wars/Ottoman-Habsburg Wars.png
+    - title: Rus–Qozon urushlari
+      description: Rossiya podsholigi va Qozon xonligi o'rtasidagi urushlar. Qozonning Ivan Grozniy tomonidan bosib olinishi Volga bo'yidagi Oltin O'rdaning so'nggi yirik voris davlati hukmronligiga chek qo'ydi. Bu falokatli burilish nuqtasi bo'lib, mintaqadagi boshqa ko'plab turkiy xonliklarni (Astroxon, Sibir) bosib olish va ularni o'zlashtirishga olib keldi.
+      to: /docs/wars/russo-kazan-wars
+      img: /wars/Russo-Kazan Wars.png
+    - title: Usmonli–fors urushlari
+      description: Usmonli imperiyasi va Safaviylar imperiyasi (Eron) o'rtasidagi urushlar. Sunniy Usmonli va shia Safaviylar imperiyalari o'rtasidagi mazhabiy va geopolitik kurash edi. Bu G'arbiy Osiyo dunyosining Usmonli-Eron chizig'i bo'yicha bo'linishini mustahkamladi va barqaror chegara o'rnatdi, bu esa zamonaviy Turkiya, Eron va Iroqning o'ziga xosligiga kuchli ta'sir ko'rsatdi.
+      to: /docs/wars/ottoman-safavid-wars
+      img: /wars/Ottoman-Safavid Wars.png
+    - title: Birinchi Panipat jangi
+      description: Bobur (temuriy shahzoda, turkiy-mo'g'ul merosiga ega) qo'shinlari va Dehli saltanati o'rtasidagi jang. Usmonli uslubidagi portlovchi moddalar taktikasidan foydalangan holda, Bobur ancha katta hind qo'shinini mag'lub etdi. Bu g'alaba Hindistonda Boburiylar imperiyasining asosini qo'ydi, u dunyoning eng buyuk kuchlaridan biriga aylandi va subqit'aga o'chmas madaniy meros qoldirdi.
+      to: /docs/wars/foundation-of-the-mughal-empire
+      img: /wars/Mughal Empire.png
+    - title: Turkiya mustaqillik urushi
+      description: Turkiya Milliy Harakati (Anqara hukumati) va Ittifoqchi davlatlar (Gretsiya, Frantsiya, Armaniston, Buyuk Britaniya/Italiya) va Usmonli sultonligi o'rtasidagi urush. Mustafo Kamol Otaturk boshchiligidagi bu mojaro Birinchi Jahon Urushidan keyin sodir bo'ldi va Anadoluning Ittifoqchi davlatlar tomonidan bo'linib ketishining oldini oldi. Bu Usmonli sultonligining tugatilishi va zamonaviy, dunyoviy milliy davlat sifatida Turkiya Respublikasining tashkil etilishiga olib keldi.
+      to: /docs/wars/turkish-war-of-independence
+      img: /wars/The Turkish War of Independence.png
 gallery:
   title: Turkiston turkum rasmlari
   description: |
     Turkiston rasmlari turkumi 1867-1868 va 1869-1870 yillarda Oʻrta Osiyoga, shuningdek, 1868-1869-yillar qishida Parijda va 1871-1873-yillarda Myunxenda oʻtkazilgan ikki ekspeditsiya davomida yaratilgan.
 
     1867 yilning yozida V. V. Vereshchagin Turkiston general-gubernatori va Turkiston harbiy okrugi qo‘mondoni etib yangi tayinlangan general Konstantin Petrovich Kaufman o‘z atrofidagilar qatoriga qo‘shilish uchun rassom qidirayotganidan xabar topdi. Vereshchagin do'stlari orqali general-gubernator bilan uchrashishni ta'minladi va Kavkaz eskizlarini taqdim etdi. Kaufman yigitga qiziqib qoldi va uni praporshchik (praporshchik) unvoni bilan xizmatga topshirdi. Shunisi e'tiborga loyiqki, Vereshchagin harbiy kiyim kiyishdan voz kechish huquqini muhokama qilgan va u keyingi lavozimlarda ko'rib chiqilmasligi haqida kafolat olgan.
-
   features:
     - title: Urush apotheozi, 1872, tuvalga moyli bo'yoq
       description: |
@@ -248,74 +235,57 @@ gallery:
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/shah-i-zinda.jpg
-
-
 countries:
-  title:
+  title: Mamlakatlar va madaniy an’analar
   features:
     - title: O'zbekiston
-      to: '/flags'
-      img: '/flags/uz.svg'
-
+      to: /docs/uzbekistan
+      img: /flags/uz.svg
     - title: Qozog'iston
-      to: '/flags'
-      img: '/flags/kz.svg'
-
+      to: /docs/kazakhstan
+      img: /flags/kz.svg
     - title: Ozarbayjon
-      to: '/flags'
-      img: '/flags/az.svg'
-
+      to: /docs/azerbaijan
+      img: /flags/az.svg
     - title: Qirg'iziston
-      to: '/flags'
-      img: '/flags/kg.svg'
-
+      to: /docs/kyrgyzstan
+      img: /flags/kg.svg
     - title: Turkmaniston
-      to: '/flags'
-      img: '/flags/tm.svg'
-
+      to: /docs/turkmenistan
+      img: /flags/tm.svg
     - title: Turkiya
-      to: '/flags'
-      img: '/flags/tr.svg'
-
+      to: /docs/turkey
+      img: /flags/tr.svg
 historyCountries:
-  title:
+  title: null
   features:
-    - title: 'Buxoro amirligi'
-      to: '/flags'
-      img: '/history-flags/bukhara.svg'
-
-    - title: 'Bayat'
-      to: '/flags'
-      img: '/history-flags/bayat.svg'
-
-    - title: 'Yosh turklar'
-      to: '/flags'
-      img: '/history-flags/young_turk.svg'
-
-    - title: 'Gagauz'
-      to: '/flags'
-      img: '/history-flags/gagauz.svg'
-
-    - title: 'Göktürk'
-      to: '/flags'
-      img: '/history-flags/gokturk.svg'
-
-    - title: 'Nogʻay'
-      to: '/flags'
-      img: '/history-flags/nogai.svg'
-
-    - title: 'Uygʻur'
-      to: '/flags'
-      img: '/history-flags/uyghur.svg'
-
-    - title: 'Xalaj'
-      to: '/flags'
-      img: '/history-flags/khalaj.svg'
-
-    - title: 'Zangezur'
-      to: '/flags'
-      img: '/history-flags/zangezur.svg'
-
+    - title: Buxoro amirligi
+      to: /flags
+      img: /history-flags/bukhara.svg
+    - title: Bayat
+      to: /flags
+      img: /history-flags/bayat.svg
+    - title: Yosh turklar
+      to: /flags
+      img: /history-flags/young_turk.svg
+    - title: Gagauz
+      to: /flags
+      img: /history-flags/gagauz.svg
+    - title: Göktürk
+      to: /flags
+      img: /history-flags/gokturk.svg
+    - title: Nogʻay
+      to: /flags
+      img: /history-flags/nogai.svg
+    - title: Uygʻur
+      to: /flags
+      img: /history-flags/uyghur.svg
+    - title: Xalaj
+      to: /flags
+      img: /history-flags/khalaj.svg
+    - title: Zangezur
+      to: /flags
+      img: /history-flags/zangezur.svg
 community:
   title: Join us in a collaborative journey
   description: The story of the Turkic world is ever-evolving. We invite scholars, enthusiasts, and all who hold knowledge to contribute to this living resource, helping us build the most accurate and comprehensive portrait of our shared heritage.

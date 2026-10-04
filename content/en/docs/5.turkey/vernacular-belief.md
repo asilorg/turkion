@@ -1,6 +1,11 @@
 ---
 title: Vernacular belief in Turkey
 description: Everyday protective practices, vows, sacred places, and ritual knowledge in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/vernacular-belief
+sources:
+- title: 'UNESCO: Spring celebration Hıdrellez'
+  url: https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284
 ---
 
 Vernacular belief in Turkey refers to practical knowledge and ritual actions used to interpret uncertainty, protect persons and homes, and maintain relationships with places and ancestors. These practices are not a separate, fixed system outside formal religion. They coexist with Islamic observance, family custom, local healing knowledge, and secular habits in ways that differ between communities.
@@ -42,3 +47,9 @@ Vernacular belief differs by region, language, religious affiliation, age, and m
 - [Festivals in Turkey](/en/docs/turkey/festivals)
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Material culture in Turkey](/en/docs/turkey/material-culture)
+
+## Documented example
+
+Hıdrellez is documented through a joint Türkiye–North Macedonia heritage inscription, showing that a seasonal tradition can cross modern borders. [UNESCO: Spring celebration Hıdrellez](https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

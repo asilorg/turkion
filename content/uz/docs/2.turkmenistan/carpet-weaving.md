@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda gilam toʻqish
 description: Turkman gilamlarining materiali, toʻqish jarayoni, naqsh tili va ishlatilishi haqidagi maqola.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/carpet-weaving
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Turkmanistonda gilam toʻqish jun tayyorlash, yigirish, boʻyash, toʻquvchilik dastgohlarida ishlash va naqshli yuzalarni tashkil qilish bilan bogʻliq ixtisoslashgan toʻqimachilik amaliyotidir. Gilamlar pol qoplamasi, chodir jihozlari, to'qimachilik buyumlari, sovg'alar va sotiladigan tovarlar sifatida xizmat qilgan. Ularning ishlab chiqarishi uy mehnatini mutaxassislar bilimi va mintaqaviy savdo bilan bog'laydi.
@@ -44,3 +49,9 @@ To'quvlar tugun zichligi, palitrasi, nisbati va dala va chegara o'rtasidagi muno
 - [Moddiy madaniyat](/uz/docs/turkmenistan/material-culture)
 - [Toʻy marosimlari](/uz/docs/turkmenistan/wedding-rituals)
 - [Ot madaniyati](/uz/docs/turkmenistan/horse-culture)
+
+## Hujjatlashtirilgan misol
+
+UNESCO tavsifida turkman gilamlari bo‘yalgan jun ipidan gorizontal va vertikal dastgohlarda to‘qilishi qayd etilgan. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

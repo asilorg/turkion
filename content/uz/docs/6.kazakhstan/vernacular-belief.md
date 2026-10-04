@@ -1,6 +1,11 @@
 ---
 title: Qozog'istonda xalq e'tiqodi
 description: Qozoqlarning uy va jamiyat hayotidagi kundalik himoya, esdalik va talqin qilish amaliyotlariga umumiy nuqtai.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/vernacular-belief
+sources:
+- title: 'UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21'
+  url: https://ich.unesco.org/en/decisions/13.COM/10.B.21
 ---
 
 Qozogʻistondagi xalq e'tiqodi odamlarning farovonlik, baxtsizlik, hayotning oʻtishlari, joy va qarindoshlar bilan munosabatlarini talqin qiladigan odatiy amaliyotlarni anglatadi. Bu amaliyotlar yagona ta'limot emas. Ular rasmiy diniy amaliyot, dunyoviy odatlar, oila xotirasi va amaliy bilimlar bilan bir qatorda kuzatilishi mumkin va ularning ahamiyati odamlar orasida farq qiladi.
@@ -8,17 +13,17 @@ Qozogʻistondagi xalq e'tiqodi odamlarning farovonlik, baxtsizlik, hayotning oʻ
 ## Tarixiy va geografik kontekst
 Kundalik marosim chorvachilik, uy ishlab chiqarish, uzoq masofalarga sayohat va turli diniy va madaniy an'analar oʻrtasidagi aloqa bilan bogʻliq boʻlgan jamoalarda rivojlangan. Ogʻzaki uzatish avlodlar oʻrtasida soʻzlar, taqiqlar, davolash usullari va himoya harakatlariga imkon berdi. Ba'zi amaliyotlar olimlar tomonidan qadimgi urf-odatlar sifatida qayd etilgan, boshqalari esa asosan oilaviy foydalanish orqali ma'lum boʻlib qolmoqda.
 
-## Barakalar va aytilgan formulalar
+## Duo va ezgu tilaklar
 Ogʻzaki fotiha, *bata*, ovqatlanishdan oldin, ketishda, toʻyda yoki kichik kishi oqsoqoldan yaxshi tilak soʻraganda aytilishi mumkin. Ma'ruzachi ma'lum bir vaziyat uchun belgilangan iboralarni ishlatishi yoki til yaratishi mumkin. Ushbu hujjat sogʻliq, farovonlik, xavfsiz sayohat yoki uy-roʻzgʻor uygʻunligi umidlariga ommaviy shakl beradi.
 
 Boshqa ogʻzaki amaliyotlar tegishli vaqt, nutq va xatti-harakatlar haqida maslahatlarni oʻz ichiga oladi. Ularning kuchi koʻpincha ijtimoiy va ma'naviydir: ogohlantirish bolalarga ovqat, olov, hayvonlar yoki oqsoqollar yonida oʻzini qanday tutishni oʻrgatishi mumkin. Tinglovchilar bu soʻzlarni jiddiy, hazil yoki irsiy odob sifatida qabul qilishlari mumkin.
 
-## Himoya va yomon ko'z
+## Himoya va ko‘z tegishi
 Koʻpincha yomon koʻz deb tarjima qilingan *köz tïyu* gʻoyasi hasad yoki haddan tashqari e'tibor bilan bogʻliq zararga tegishli. Oilalar ibodatlar, ogʻzaki himoya yoki istalmagan xabarni chalgʻitadigan narsalar orqali javob berishlari mumkin. Kichik tumorlar va koʻk rangli boncuklar ba'zi uy xoʻjaliklarida ishlatiladigan materiallar qatoriga kiradi, ammo ularning shakllari va ma'nolari bir xil emas.
 
 Himoya choralari, ayniqsa, chaqaloqlar, nikohlar, yangi mulklar va chorva mollari atrofida koʻrinishi mumkin, barcha vaziyatlar e'tibor yoki oʻzgarishlarga zaif hisoblanadi. Ular har bir xonadon vakili deb oʻylamaslik kerak. Koʻp odamlar uchun ular muntazam e'tiqod tizimi emas, balki vaqti-vaqti bilan oilaviy odatlardir.
 
-## Ostonalar, yong'in va uy tartibi
+## Ostona, olov va uy tartibi
 Eshiklar tashqi va ichki makon oʻrtasidagi oʻtishni belgilaydi va hurmatli xatti-harakatlar qoidalari bilan oʻralgan boʻlishi mumkin. Yongʻin, oziq-ovqat va suv ham odatiy yoʻriqnomada ehtiyotkorlik bilan muomala qilinadi. Isrofgarchilikka yoʻl qoʻymaslik, ovqatni bosib oʻtmaslik va oʻchoq yonida ehtiyotkorlik bilan harakat qilish hurmat va uy farovonligi sifatida namoyon boʻlishi mumkin.
 
 Bu amaliyotlar amaliy jihatlarga ega: ular tanqis mahsulotlarni himoya qiladi, xavfni kamaytiradi va umumiy mas'uliyatni oʻrgatadi. Ularning ritual tili oddiy harakatlarga qat'iy diniy tushuntirishni talab qilmasdan yanada kengroq axloqiy va hissiy ahamiyatga ega.
@@ -42,3 +47,9 @@ Xalq amaliyotlari mintaqa, yosh, oila kelib chiqishi va shaxsiy e'tiqodiga qarab
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Festivallar](/uz/docs/kazakhstan/festivals)
 - [Navroʻz urf-odatlari](/uz/docs/kazakhstan/nauryz-customs)
+
+## Hujjatlashtirilgan misol
+
+Yilqichilik hujjatida tabiatga minnatdorlik va sut mo‘l bo‘lishini tilash marosimlari tasvirlangan; ular muayyan mahalliy an’anaga tegishli. [UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21](https://ich.unesco.org/en/decisions/13.COM/10.B.21).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

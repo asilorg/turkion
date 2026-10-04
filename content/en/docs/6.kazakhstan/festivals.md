@@ -1,6 +1,11 @@
 ---
 title: Festivals in Kazakhstan
 description: An overview of seasonal, family, occupational, and community occasions observed through food, performance, visiting, and customary exchange.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/festivals
+sources:
+- title: 'UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21'
+  url: https://ich.unesco.org/en/decisions/13.COM/10.B.21
 ---
 
 Festivals in Kazakhstan include seasonal observances, family gatherings, commemorative meals, and occasions connected with work and neighborhood life. They bring together food preparation, visiting, music, gift exchange, and public or household games. Their dates may follow the solar year, the lunar Islamic calendar, or the changing demands of herding and cultivation.
@@ -53,3 +58,9 @@ Urban festivals may take place in schools, parks, restaurants, or cultural venue
 - [Nauryz Customs](/en/docs/kazakhstan/nauryz-customs)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Music and Dance](/en/docs/kazakhstan/music-dance)
+
+## Documented example
+
+The Terisakkan rites celebrate survival through winter and the new breeding season; UNESCO’s decision emphasizes collective preparation and neighbourly cooperation. [UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21](https://ich.unesco.org/en/decisions/13.COM/10.B.21).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

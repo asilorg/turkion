@@ -1,6 +1,11 @@
 ---
 title: Festivallar
 description: Qirgʻizistondagi mavsumiy marosimlar, oilaviy bayramlar va ommaviy bayram amaliyotlari haqida ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/festivals
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Qirg‘izistondagi festivallar mavsumiy marosimlar, diniy taqvim sanalari, oilaviy marosimlar va taomlar, tomoshalar, o‘yinlar va tashriflarni birlashtirgan ommaviy tadbirlarni o‘z ichiga oladi. Ularning shakllari yashash joyiga, uy xoʻjaligiga mansubligiga va jamoat joylariga kirishga bogʻliq. Festival katta tashkillashtirilgan dastur, mahalla yigʻilishi yoki sana yoki hayot tsikli voqeasi atrofida oʻtkaziladigan uy tadbirlari ketma-ketligi boʻlishi mumkin.
@@ -13,7 +18,7 @@ Mavsumiy amaliyot uzoq vaqtdan beri podalar harakati, qishloq xoʻjaligi tsikli,
 
 [*Nooruz*](/uz/docs/common/navruz), mart oyining tengkunligi atrofida kuzatilgan, bahor boshlanishi sifatida keng tarqalgan. Uyda tozalash, qarindoshlar va qoʻshnilarni ziyorat qilish, umumiy ovqat tayyorlash va mehmonlarni kutib olish kiradi. Ommaviy dasturlarda musiqa, raqs, hunarmandchilik namoyishlari, kurash, ot oʻyinlari va oziq-ovqat doʻkonlari boʻlishi mumkin. Qishloq xoʻjaligi vodiylarida ham, yaylov hududlarida ham vaqt mazmunli, ammo bahorning amaliy belgilari balandlik bilan farq qiladi.
 
-Navro‘z bayramiga tayyorlanayotgan taomlar qat’iy emas. Uy xoʻjaliklari mahalliy mavjudlik va oilaviy odatlarga koʻra shoʻrvalar, nonlar, qovurilgan xamirlar, guruchli idishlar yoki sutli ovqatlar tayyorlashlari mumkin. Ba'zi sharoitlarda voqea yangilanish, yarashuv yoki ijtimoiy tashrifni qayta boshlash orqali amalga oshiriladi; boshqalarida esa, asosan, ommaviy dam olish kunidir. Bunday foydalanish shaharlar, qishloqlar va yozgi yaylovlarda bir xil boʻlishi shart emas.
+Navro‘z bayramiga tayyorlanayotgan taomlar qat’iy emas. Uy xoʻjaliklari mahalliy mavjudlik va oilaviy odatlarga koʻra shoʻrvalar, nonlar, qovurilgan xamirlar, guruchli taomlar yoki sutli ovqatlar tayyorlashlari mumkin. Ba'zi sharoitlarda voqea yangilanish, yarashuv yoki ijtimoiy tashrifni qayta boshlash orqali amalga oshiriladi; boshqalarida esa, asosan, ommaviy dam olish kunidir. Bunday foydalanish shaharlar, qishloqlar va yozgi yaylovlarda bir xil boʻlishi shart emas.
 
 ## Diniy kalendar marosimlari
 
@@ -43,3 +48,9 @@ Janubiy aholi punktlari Navroʻz va oilaviy tantanalarni bozorga yoʻnaltirilgan
 - [Mehmondoʻstlik](/uz/docs/kyrgyzstan/hospitality)
 - [Musiqa va raqs](/uz/docs/kyrgyzstan/music-dance)
 - [Oshxona](/uz/docs/kyrgyzstan/cuisine)
+
+## Hujjatlashtirilgan misol
+
+Ko‘p mamlakatli Navro‘z sharhi Qirg‘izistonni ham qamrab oladi; bahor bayramida taom, o‘yin va ijro birlashadi, biroq oilalar uchun yagona dastur belgilanmaydi. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

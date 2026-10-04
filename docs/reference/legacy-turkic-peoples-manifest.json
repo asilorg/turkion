@@ -1,0 +1,17 @@
+{
+  "en": {
+    "bytes": 154788,
+    "sha256": "11574272af84454f3de7a2c238bd578e4115b78a0f099210b04503536a2f38a6",
+    "bodySameAsEnglish": true
+  },
+  "ru": {
+    "bytes": 154772,
+    "sha256": "670b2cd21e6ff938a3b06d300bc9d743744fe5c816ab126b9a1c346de7797435",
+    "bodySameAsEnglish": false
+  },
+  "uz": {
+    "bytes": 154758,
+    "sha256": "565e2f098c6d942de55d0a9a3aa85a2f19cb411d2292c34c00aeef6ef569a3f5",
+    "bodySameAsEnglish": false
+  }
+}

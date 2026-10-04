@@ -1,6 +1,11 @@
 ---
 title: Turkiyada Mavleviy musiqa
 description: Turkiyadagi Mavleviy namozxonlik ijrosining musiqiy va marosim tuzilishi.
+editorialStatus: draft
+translationOf: /en/docs/turkey/mevlevi-music
+sources:
+- title: 'UNESCO: Mevlevi Sema ceremony'
+  url: https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100
 ---
 
 Mavleviy musiqasi Mavleviy so'fiylik tariqati va *mukabele* yoki *sema* deb nomlanuvchi marosim bilan bog'liq bo'lgan bag'ishlov ijrosi an'anasidir. U bastalangan vokal va cholg'u musiqasi, she'riyat, harakat va marosim ketma-ketligini birlashtiradi. Ommaviy taqdimotlar uning ko'rinadigan elementlarini olishi mumkin, ammo marosim shakli o'ziga xos diniy va institutsional tarixga ega.
@@ -27,7 +32,7 @@ Jaloliddin Rumiy va undan keyingi Mavleviy yozuvchilari bilan bog'liq she'rlar m
 
 Ommaviy kontsertlar tomoshabinlarni repertuar bilan tanishtirishi mumkin, ammo kontsert anjumanlari vaqtni, tomoshabinlarning xatti-harakatlarini va diniy muhitni o'zgartiradi. Olimlar tarixiy loja amaliyotini, zamonaviy jamoa marosimini, konservatoriya repertuarini va tijorat tomoshasini ajratib turadilar.
 
-## Institutlar va uzatish
+## Muassasalar va an’anani o‘rgatish
 
 Ta'lim diniy jamoalar, oilaviy aloqalar, konservatoriyalar, arxivlar, ansambllar va yozuvlar orqali amalga oshiriladi. Haqiqiylik bo'yicha bahslar avtorizatsiya, musiqiy qobiliyat, marosim niyati va jamoat vakili va sadoqat o'rtasidagi bog'liqlik bilan bog'liq. Ularni faqat kostyum yoki repertuar bilan hal qilib bo'lmaydi. O'qituvchilarga kirish, arxiv ballari va ishlash imkoniyatlari har qanday ansamblda qaysi kompozitsiyalarning faol bo'lishini ham shakllantiradi.
 
@@ -46,3 +51,9 @@ Ijrochilar uchun tayyorgarlik ham muhim: cholg‘ularni sozlash, surʼatni kelis
 - [Turkiyada musiqa va raqs](/uz/docs/turkey/music-dance)
 - [Turkiyada bayramlar](/uz/docs/turkey/festivals)
 - [Turkiyadagi xalq e'tiqodi](/uz/docs/turkey/vernacular-belief)
+
+## Hujjatlashtirilgan misol
+
+Mavlaviy ayini vokal va cholg‘u qismlarini birlashtiradi; UNESCO samo marosimiga jo‘r bo‘luvchi to‘rt qismli musiqiy tuzilmani tavsiflaydi. [UNESCO: Mevlevi Sema ceremony](https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

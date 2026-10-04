@@ -1,6 +1,11 @@
 ---
 title: Gilamlar va toʻqimachilik
 description: Ozarbayjon gilamdoʻzligi, toʻqimachilik usullari, bezaklari, qoʻllanilishi va hududiy farqlari haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/carpet-textiles
+sources:
+- title: 'UNESCO: Traditional art of Azerbaijani carpet weaving'
+  url: https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867
 ---
 
 Ozarbayjondagi gilam va toʻqimachilik amaliyotlari jun hamda ipakni tayyorlash, yigirish, boʻyash, toʻqish, kashta tikish va toʻqilgan buyumlarni uy-roʻzgʻor yoki marosimlarda ishlatishni qamraydi. Gilam pol yoki devor qoplamasi boʻlishi bilan birga mehnat, almashinuv, oilaviy xotira va bozor talabi bilan bogʻlangan buyumdir. Toʻqimachilikni faqat naqshlariga emas, materiallari va vazifalariga qarab ham tushunish lozim.
@@ -44,3 +49,9 @@ Bugungi murojaat uy sharoitidagi foydalanish bilan bir qatorda taʼlim, ustaxona
 - [Moddiy madaniyat](/uz/docs/azerbaijan/material-culture)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
 - [Xalq eʼtiqodlari](/uz/docs/azerbaijan/vernacular-belief)
+
+## Hujjatlashtirilgan misol
+
+UNESCO hujjatida tukli va tuksiz gilamlar farqlanib, jun, paxta va ipak iplari tilga olinadi. [UNESCO: Traditional art of Azerbaijani carpet weaving](https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

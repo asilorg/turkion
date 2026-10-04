@@ -1,6 +1,11 @@
 ---
 title: Music and dance in Uzbekistan
 description: Folk and classical performance contexts, instruments, repertories, and social settings in Uzbekistan.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/music-dance
+sources:
+- title: 'Uzbekistan intangible heritage inventory: Shashmaqom'
+  url: https://ich.uz/en/ich-of-uzbekistan/national-list/domain-2/262-shashmaqom
 ---
 
 Music and dance in Uzbekistan encompass repertories performed in domestic gatherings, neighbourhood events, theatres, weddings, and specialist circles. They include vocal genres, instrumental pieces, narrative songs, and dances associated with particular regions. Classical *maqom* occupies an important place in this field, but it is only one repertoire; everyday and festive performance also depends on musicians whose work is organized around local audiences and occasions.
@@ -42,3 +47,9 @@ Uzbekistan’s performance traditions are shaped by multilingual cities, regiona
 - [Maqom in Uzbekistan](/en/docs/uzbekistan/maqom) — classical suite repertories and transmission.
 - [Festivals and seasonal observances in Uzbekistan](/en/docs/uzbekistan/festivals) — public performance settings.
 - [Hospitality and life-cycle customs in Uzbekistan](/en/docs/uzbekistan/hospitality) — music at family gatherings.
+
+## Documented example
+
+Yunus Rajabiy’s six-volume Shashmaqom edition appeared in 1966–1975, an example of notation working alongside oral teaching. [Uzbekistan intangible heritage inventory: Shashmaqom](https://ich.uz/en/ich-of-uzbekistan/national-list/domain-2/262-shashmaqom).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

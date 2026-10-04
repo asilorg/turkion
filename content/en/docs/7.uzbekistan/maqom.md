@@ -1,6 +1,11 @@
 ---
 title: Maqom in Uzbekistan
 description: Shashmaqom and related classical repertories as learned, performed, and transmitted musical practices.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/maqom
+sources:
+- title: 'Uzbekistan intangible heritage inventory: Maqom art'
+  url: https://ich.uz/ru/ich-of-uzbekistan/national-list/domain-2/291-maqom-art
 ---
 
 *Maqom* in Uzbekistan refers to bodies of classical vocal and instrumental repertory organized through melodic modes, rhythmic cycles, poetry, and performance sequence. The term has a broad history across Central Asia and the wider Persianate musical world. In Uzbek contexts, *Shashmaqom*, literally “six maqoms,” is especially associated with Bukhara and Samarkand, while Khorezm and Fergana-Tashkent traditions have related but distinct classical repertories.
@@ -42,3 +47,9 @@ Maqom carries cultural meaning through its combination of poetry, disciplined li
 - [Music and dance in Uzbekistan](/en/docs/uzbekistan/music-dance) — folk, social, and staged performance contexts.
 - [Bazaars and craft quarters in Uzbekistan](/en/docs/uzbekistan/bazaar-crafts) — workshop and apprenticeship networks.
 - [Festivals and seasonal observances in Uzbekistan](/en/docs/uzbekistan/festivals) — public performance occasions.
+
+## Documented example
+
+Uzbekistan’s heritage inventory distinguishes Shashmaqom, Khorezm maqoms and Fergana–Tashkent repertories rather than treating them as a single school. [Uzbekistan intangible heritage inventory: Maqom art](https://ich.uz/ru/ich-of-uzbekistan/national-list/domain-2/291-maqom-art).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

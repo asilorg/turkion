@@ -1,6 +1,11 @@
 ---
 title: Oziq-ovqatlarni saqlash
 description: Qirg‘iz chorvachilik va uy xo‘jaligi amaliyotida oziq-ovqatlarni quritish, achitish, quritish va saqlash tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/food-preservation
+sources:
+- title: 'FAO Mountain Partnership: Kyrgyz mountain women train in milk processing'
+  url: https://www.fao.org/mountain-partnership/news/newsroom/news-detail/Kyrgyz-mountain-women-train-in-milk-processing/en
 ---
 
 Qirgʻizistonda oziq-ovqat mahsulotlarini saqlash sut, goʻsht, don, meva va sabzavotlardan foydalanishni mavsumiy qisqa vaqtdan tashqari kengaytirish usullarini oʻz ichiga oladi. Quritish, fermentatsiya qilish, tuzlash, quritish va salqin saqlash chorvachilik mahsulotlari va bog 'hosillari yil davomida oʻzgarib turadigan amaliy ahamiyatga ega. Ushbu uslublar oshxona bilan bir-biriga mos keladi, lekin tayyor ovqatdan koʻra saqlash, qayta ishlash va uy-roʻzgʻor buyumlarini boshqarishga qaratilgan.
@@ -17,13 +22,13 @@ Sut sogʻishdan keyin tezda qayta ishlanadi, chunki u tez buziladi. Qaynatish, c
 
 *Qurut* nordon sut yoki tvorogni quritib, mayda bo‘laklarga bo‘lib, havoda yoki quyoshda quritib tayyorlanadi. Uning past namligi transport va saqlashni osonlashtiradi. Uni gazak sifatida iste'mol qilish, ichimlikda eritish yoki shoʻrva tayyorlash uchun ishlatish mumkin. Tuzlanish darajasi, nordonligi va hajmi uy xoʻjaliklari va tijorat ishlab chiqaruvchilari orasida farq qiladi.
 
-## Goʻshtni quritish va quritish
+## Go‘shtni tuzlash va quritish
 
 Goʻshtni saqlash koʻpincha chorva mollarini mavsumiy soʻyish bilan boshlanadi. Kesish qishki ob-havoda sovutilishi, tuzlanishi, quritilishi yoki kolbasa tayyorlanishi mumkin. *Chuchuk* - an'anaviy ravishda yogʻ va ziravorlar bilan korpusda tayyorlanadigan ot goʻshtidan tayyorlangan kolbasa; uni qaynatish, quritish yoki kattaroq goʻshtli taomning bir qismi sifatida xizmat qilish mumkin. Boshqa kesmalar qishning uzunligiga va sovuq joyga kirishga qarab saqlanadi.
 
 Quritish toza havo, hasharotlardan himoya va mos haroratga bogʻliq. Pastoral sharoitda quritilgan yoki quritilgan goʻshtning portativ ta'minoti darhol soʻyishga bogʻliqlikni kamaytiradi. Zamonaviy uylarda muzlatgichlar elektr toki ishonchli boʻlgan joylarda keng tarqalgan, ammo quritilgan mahsulotlar alohida ovqatlanish va sayohat uchun qadrlanadi.
 
-## Don, non va oshxona anjomlari
+## Don, non va oziq zaxiralari
 
 Un, guruch, noodle va donlar namlik va zararkunandalardan himoyalangan qoplarda, qutilarda yoki idishlarda saqlanadi. Bugʻdoy uni yil davomida non, köfte va noodlelarni qoʻllab-quvvatlaydi, guruch esa janubiy pishirishda ayniqsa muhimdir. Maydalash, maydalash va bozorlardan sotib olish uy xoʻjaliklarining mehnatini oʻzgartirdi, ammo ommaviy xarid qilish tejamkor boʻlganda saqlash muhim boʻlib qolmoqda.
 
@@ -51,3 +56,9 @@ Togʻli chorvachilik jamoalari sut mahsulotlarini qayta ishlash, goʻshtni saqla
 - [Oshxona](/uz/docs/kyrgyzstan/cuisine)
 - [Moddiy madaniyat](/uz/docs/kyrgyzstan/material-culture)
 - [Mehmondoʻstlik](/uz/docs/kyrgyzstan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+FAO Issiqko‘l viloyatidagi uch tog‘ qishlog‘ida sutni saqlashga tayyorlash bo‘yicha mashg‘ulotlarni yoritgan; qishki yo‘l sharoiti yangi sut sotishni qiyinlashtirgan. [FAO Mountain Partnership: Kyrgyz mountain women train in milk processing](https://www.fao.org/mountain-partnership/news/newsroom/news-detail/Kyrgyz-mountain-women-train-in-milk-processing/en).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

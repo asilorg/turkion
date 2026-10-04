@@ -1,6 +1,11 @@
 ---
 title: Kazakh Cuisine
 description: An overview of Kazakh foodways, with attention to meat cookery, breads, tea service, and the organization of shared meals.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/cuisine
+sources:
+- title: 'Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences'
+  url: https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9
 ---
 
 Kazakh cuisine refers to food practices shaped by pastoral mobility, household seasonality, and later market exchange across the steppe and settled regions. Meals commonly organize meat, flour foods, broth, and tea around shared serving, while dairy preservation forms a related but more specialized repertoire.
@@ -43,3 +48,9 @@ Food practices differ by season, herd composition, access to grain, and urban or
 - [Dairy Cuisine](/en/docs/kazakhstan/dairy-cuisine)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Nauryz Customs](/en/docs/kazakhstan/nauryz-customs)
+
+## Documented example
+
+Dried fermented dairy known as kurt in Kazakhstan connects pastoral milk processing with food storage; it is distinct from liquid koumiss. [Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences](https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

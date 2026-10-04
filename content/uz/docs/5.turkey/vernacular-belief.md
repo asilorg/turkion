@@ -1,6 +1,11 @@
 ---
 title: Turkiyadagi xalq e'tiqodi
 description: Turkiyadagi har kungi himoya amaliyotlari, qasamlar, muqaddas joylar va marosim bilimlari.
+editorialStatus: draft
+translationOf: /en/docs/turkey/vernacular-belief
+sources:
+- title: 'UNESCO: Spring celebration Hıdrellez'
+  url: https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284
 ---
 
 Turkiyadagi xalq e'tiqodi noaniqlikni izohlash, odamlar va uylarni himoya qilish, joylar va ajdodlar bilan munosabatlarni saqlab qolish uchun ishlatiladigan amaliy bilim va marosim harakatlariga ishora qiladi. Bu amaliyotlar rasmiy dindan tashqari alohida, qat'iy tizim emas. Ular islomiy marosimlar, oilaviy odatlar, mahalliy shifo bilimlari va dunyoviy odatlar bilan jamoalar o'rtasida farq qiladigan tarzda birga yashaydilar.
@@ -9,7 +14,7 @@ Turkiyadagi xalq e'tiqodi noaniqlikni izohlash, odamlar va uylarni himoya qilish
 
 Anadolu uzoq vaqtdan beri diniy muassasalar, ziyorat yoʻllari, chorvachilik harakati va shahar bozorlari uchun uchrashuv maydoni boʻlgan. Buloqlar, daraxtlar, avliyolar, yomon ko'z, tushlar va xayrli vaqtlar haqidagi e'tiqodlar og'zaki uzatish va moddiy narsalar orqali tarqaladi. Zamonaviy maktab, migratsiya, ommaviy axborot vositalari va tibbiy xizmatlar bunday bilimlarni yo'q qilmasdan qanday baholashni o'zgartirdi.
 
-## Himoya va yomon ko'z
+## Himoya va ko‘z tegishi
 
 *nazar* haqida tashvishlanish, hasad yoki hayrat bilan qarashning zarari keng tarqalgan. *nazar boncuğu* deb nomlangan ko'k rangli shisha boncuklar bolalar kiyimlari, transport vositalari, uylar, hayvonlar yoki yangi narsalarga yopishtirilishi mumkin. Ob'ekt ba'zi tushunchalarda himoya qurilmasi va boshqalarda tanish dekorativ belgidir.
 
@@ -48,3 +53,9 @@ Tug‘ilish, nikoh, motam va bayram kunlarida odatiy amallar ko‘proq seziladi,
 - [Turkiyadagi bayramlar](/uz/docs/turkey/festivals)
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Turkiyada moddiy madaniyat](/uz/docs/turkey/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Xidirlez Turkiya va Shimoliy Makedoniyaning qo‘shma nominatsiyasida hujjatlashtirilgan; mavsumiy an’ana zamonaviy davlat chegaralari bilan cheklanmaydi. [UNESCO: Spring celebration Hıdrellez](https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

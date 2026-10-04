@@ -1,6 +1,11 @@
 ---
 title: Azerbaijani Cuisine
 description: An overview of Azerbaijani foodways, household cooking, ingredients, and patterns of regional variation.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/cuisine
+sources:
+- title: 'UNESCO: Dolma preparation and sharing tradition'
+  url: https://ich.unesco.org/fr/RL/la-tradition-de-la-preparation-et-du-partage-du-dolma-marqueur-d-identite-culturelle-01188
 ---
 
 Azerbaijani cuisine comprises household and public food practices based on grains, vegetables, herbs, dairy products, meat, fruit, and fish. Meals are shaped by season, local cultivation, market access, and the requirements of family occasions. Dish names can be shared with neighboring culinary traditions while referring to preparations that differ in proportion, technique, or service.
@@ -43,3 +48,9 @@ Rice dishes and herb-rich preparations are prominent in many lowland and urban k
 - [Culinary Regionality](/en/docs/azerbaijan/culinary-regionality)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
 - [Novruz Household Practices](/en/docs/azerbaijan/novruz-household)
+
+## Documented example
+
+Dolma may wrap a filling in leaves or use it to stuff vegetables; the term does not denote one fixed recipe. [UNESCO: Dolma preparation and sharing tradition](https://ich.unesco.org/fr/RL/la-tradition-de-la-preparation-et-du-partage-du-dolma-marqueur-d-identite-culturelle-01188).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

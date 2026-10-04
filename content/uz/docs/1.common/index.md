@@ -19,3 +19,6 @@ Bu bo‘limda bitta zamonaviy davlat bilan bog‘lanmagan **umumiy** mavzular �
 - [Turkiya](/uz/docs/turkey)
 - [Qozog‘iston](/uz/docs/kazakhstan)
 - [O‘zbekiston](/uz/docs/uzbekistan)
+
+- [Loyiha va tahrir ishlari haqida](/uz/blog)
+- [Xalqlar katalogi](/uz/people)

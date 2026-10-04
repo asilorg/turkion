@@ -1,6 +1,11 @@
 ---
 title: Novruzning uy amaliyotlari
 description: Ozarbayjonda Novruz davridagi uy tayyorgarligi, taom, tashrif, ramzlar va mahalliy farqlar haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/novruz-household
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Ozarbayjondagi Novruz uy amaliyotlari bahorgi tengkunlik yaqinlashishini tozalash, taom tayyorlash, tashrif va ramziy bezaklar orqali belgilaydi. Oilalar odatlarni turlicha tanlaydilar: ayrimlar toʻliq mavsumiy dasturxon yozadi, boshqalari bir necha tanish odatni saqlaydi.
@@ -44,3 +49,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Bayramlar va taqvimiy odatlar](/uz/docs/azerbaijan/festivals)
 - [Xalq eʼtiqodlari](/uz/docs/azerbaijan/vernacular-belief)
 - [Navroʻz](/uz/docs/common/navruz)
+
+## Hujjatlashtirilgan misol
+
+UNESCOning 2021-yilgi Navro‘z sharhida Ozarbayjon bayram nishonlanadigan mamlakatlar qatorida keltirilib, birgalikdagi taomlar, o‘yinlar va ijrolar tasvirlangan. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

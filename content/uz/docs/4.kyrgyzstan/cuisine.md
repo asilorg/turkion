@@ -1,6 +1,11 @@
 ---
 title: Oshxona
 description: Qirgʻizlarning oziq-ovqat yoʻllari, ularning chorvachilik sharoiti, uy xoʻjaligini tayyorlash va mintaqaviy oʻzgarishlarga umumiy nuqtai.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/cuisine
+sources:
+- title: 'Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences'
+  url: https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9
 ---
 
 Qirgʻiz oshxonasi chorvachilik, mavsumiy harakatchanlik, sugʻoriladigan dehqonchilik va qoʻshni jamoalar bilan almashish natijasida shakllangan oziq-ovqat amaliyotini anglatadi. Ovqatlar odatda goʻsht, sut mahsulotlari, don va xamirdan tayyorlangan idishlarni birlashtiradi, ammo nisbatlar va usullar uy xoʻjaligi, mavsum va hududga qarab farq qiladi. Oziq-ovqat, shuningdek, qat'iy milliy menyudan koʻra, tayyorlash, saqlash va xizmat koʻrsatishning amaliy talablari asosida tashkil etilgan.
@@ -43,3 +48,9 @@ Sugʻoriladigan dehqonchilik va zich bozor tarmoqlari tufayli janubiy oshxona ko
 - [Oziq-ovqat mahsulotlarini saqlash](/uz/docs/kyrgyzstan/food-preservation)
 - [Mehmondoʻstlik](/uz/docs/kyrgyzstan/hospitality)
 - [Moddiy madaniyat](/uz/docs/kyrgyzstan/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Qurut achitilgan sut mahsulotini suzib, quritish orqali olinadi. 2022-yilgi tadqiqotda Qirg‘izistondagi kurut va Qozog‘istondagi kurt nomlari qayd etilgan. [Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences](https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

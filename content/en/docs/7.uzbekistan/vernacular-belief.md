@@ -1,6 +1,11 @@
 ---
 title: Vernacular belief and everyday ritual in Uzbekistan
 description: Everyday ritual practices, shrine visits, protective customs, and family observances in Uzbekistan.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/vernacular-belief
+sources:
+- title: 'UNESCO ICHCAP: Cultural space of Boysun'
+  url: https://archive.unesco-ichcap.org/eng/ek/sub2017_7/pdf_down/1.%20ELEMENTS%20INSCRIBED%20IN%20THE%20REPRESENTATIVE%20LIST/1.%20Cultural%20space%20of%20boysun.pdf
 ---
 
 Vernacular belief in Uzbekistan refers to practices through which people address illness, uncertainty, memory, protection, and blessing in everyday life. These practices occur alongside formal religious observance but are not reducible to it. They may involve a family elder, a neighbourhood healer, a shrine custodian, or an ordinary household gesture. Their meanings differ by region, generation, language community, and individual conviction.
@@ -42,3 +47,9 @@ Customary practice changes through family conversation, movement between househo
 - [Festivals and seasonal observances in Uzbekistan](/en/docs/uzbekistan/festivals) — calendar practices and family gatherings.
 - [Hospitality and life-cycle customs in Uzbekistan](/en/docs/uzbekistan/hospitality) — ceremonies and reciprocal support.
 - [Navruz](/en/docs/common/navruz) — a cross-regional spring observance.
+
+## Documented example
+
+The Boysun heritage inventory records Uzbek and Tajik communities and studies of local ritual, calendar and ceremonial music. It does not represent every Uzbek household. [UNESCO ICHCAP: Cultural space of Boysun](https://archive.unesco-ichcap.org/eng/ek/sub2017_7/pdf_down/1.%20ELEMENTS%20INSCRIBED%20IN%20THE%20REPRESENTATIVE%20LIST/1.%20Cultural%20space%20of%20boysun.pdf).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

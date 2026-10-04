@@ -1,6 +1,11 @@
 ---
 title: Turkiyada non va meze
 description: Turkiyada mintaqaviy nonlar, kichik idishlar va umumiy ovqatlanish amaliyotlari.
+editorialStatus: draft
+translationOf: /en/docs/turkey/bread-meze
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Non va *meze* Turkiyadagi oziq-ovqat yo'llarida turli, ammo bir-biriga bog'langan o'rinlarni egallaydi. Non - kundalik oziq-ovqat, ovqatlanish uchun idish va uy-ro'zg'or ta'minoti belgisi; meze - bu ichimliklar bilan yoki kattaroq taomlardan oldin va yonma-yon beriladigan kichik idishlar. Ikkala toifada ham ko'plab mahalliy shakllar mavjud va ularni bitta standartlashtirilgan menyu bilan ifodalash mumkin emas.
@@ -45,3 +50,9 @@ Amalda non va kichik taomlar tanlovi kun vaqti hamda dasturxon atrofidagi kishil
 - [Turkiya oshxonasi](/uz/docs/turkey/cuisine)
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Turkiyada moddiy madaniyat](/uz/docs/turkey/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Yufqa ko‘p mamlakatli yupqa non nominatsiyasiga kiradi; unda metall sathda va tandirda pishirish usullari farqlanadi. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

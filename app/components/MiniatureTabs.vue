@@ -3,14 +3,9 @@ import { useMiniatures } from '~/composables/useMiniatures'
 
 const { miniature, miniatures } = useMiniatures()
 
-const value = ref<string | undefined>(undefined)
-
-onMounted(() => {
-  value.value = miniature.value
-})
-
-watch(miniature, () => {
-  value.value = miniature.value
+const value = computed({
+  get: () => miniature.value,
+  set: next => miniature.value = next
 })
 </script>
 
@@ -25,6 +20,5 @@ watch(miniature, () => {
       trigger: 'px-1 data-[state=active]:text-highlighted w-full'
     }"
     size="sm"
-    @update:model-value="(miniature = $event as MiniatureType)"
   />
 </template>

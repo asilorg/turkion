@@ -1,6 +1,11 @@
 ---
 title: Turkiyada moddiy madaniyat
 description: Turkiyadagi uylar, to'qimachilik, idishlar, asboblar va uy-ro'zg'or buyumlari.
+editorialStatus: draft
+translationOf: /en/docs/turkey/material-culture
+sources:
+- title: 'Metropolitan Museum of Art: Ottoman hammam shoes, object 81722'
+  url: https://www.metmuseum.org/art/collection/search/81722
 ---
 
 Turkiyada moddiy madaniyat uy xo'jaliklari ovqat pishirish, xonalarni jihozlash, tana kiyinish, oziq-ovqat saqlash va marosimlarni nishonlash kabi ob'ektlarni o'z ichiga oladi. Narsalar faqat yoshga qarab emas, balki foydalanish, ta'mirlash, meros qilib olish, namoyish qilish va almashish orqali ma'noga ega bo'ladi. Muzey kollektsiyalari va turistik bozorlar kundalik moddiy yozuvning faqat bir qismini saqlaydi.
@@ -44,3 +49,9 @@ Buyumlar ko‘pincha taʼmirlash, ko‘chish va egasining almashishi izlarini sa
 - [Turkiyada non va meze](/uz/docs/turkey/bread-meze)
 - [Turkiyadagi hamam](/uz/docs/turkey/hammam)
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Metropoliten muzeyida sadaf bilan bezatilgan usmonli yog‘och hammom poyabzali saqlanadi; u aynan hammom uchun yaratilgan buyum namunasidir. [Metropolitan Museum of Art: Ottoman hammam shoes, object 81722](https://www.metmuseum.org/art/collection/search/81722).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

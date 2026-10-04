@@ -1,6 +1,11 @@
 ---
 title: Festivals and Calendar Observances
 description: An overview of seasonal, religious, family, and local calendar observances in Azerbaijani communities.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/festivals
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Festivals and calendar observances in Azerbaijan organize seasonal work, family visits, food preparation, charitable giving, and public gathering. Their form is shaped by household religion, locality, urban life, and kin networks. Some events follow a lunar calendar, while others mark the arrival of spring or remain tied to family dates and locally maintained customs.
@@ -42,3 +47,9 @@ Spring customs are visible in many regions but differ between apartment househol
 - [Novruz Household Practices](/en/docs/azerbaijan/novruz-household)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
 - [Navruz](/en/docs/common/navruz)
+
+## Documented example
+
+UNESCO’s 2021 Nowruz overview includes Azerbaijan among participating countries and describes shared meals, games and performances around the spring celebration. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

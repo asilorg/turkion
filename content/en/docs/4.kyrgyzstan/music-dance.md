@@ -1,6 +1,11 @@
 ---
 title: Music and Dance
 description: An overview of instrumental music, song, dance, and their settings of performance in Kyrgyzstan.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/music-dance
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 Music and dance in Kyrgyzstan include solo instrumental performance, sung poetry, ensemble repertories, social dance, and staged choreography. They occur in domestic gatherings, festivals, schools, theatres, and media, and they are learned through both family contact and formal instruction. The categories overlap, but music and dance are not reducible to the recitation of the *Manas* epic, which has its own performance conventions.
@@ -44,3 +49,9 @@ Southern and northern performance communities may favor different song styles, r
 - [Manas Epic](/en/docs/kyrgyzstan/manas-epic)
 - [Festivals](/en/docs/kyrgyzstan/festivals)
 - [Vernacular Belief](/en/docs/kyrgyzstan/vernacular-belief)
+
+## Documented example
+
+Epic narration is itself a performance tradition: the Manas heritage record includes narrators of different ages and both women and men. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,6 +1,11 @@
 ---
 title: Xalq eʼtiqodlari
 description: Ozarbayjondagi kundalik diniy amaliyot, himoya odatlari, davolash va uy eʼtiqodlari haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/vernacular-belief
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Xalq eʼtiqodlari himoya, salomatlik, baxtsizlik, hayot davrlari va muqaddas vaqtga oid kundalik talqin hamda amaliyotlarni anglatadi. U islom taʼsiridagi amaliyotlar bilan oilaviy xotira, qoʻshni maslahati va mahalliy odat orqali beriladigan tasavvurlarni qamraydi.
@@ -48,3 +53,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Novruzning uy amaliyotlari](/uz/docs/azerbaijan/novruz-household)
 - [Bayramlar va taqvimiy odatlar](/uz/docs/azerbaijan/festivals)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Ko‘p mamlakatli non an’anasi hujjatida Ozarbayjonda farovonlik tilab kelinning yelkasiga non qo‘yish yoki boshi ustida ushatish odati qayd etilgan. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

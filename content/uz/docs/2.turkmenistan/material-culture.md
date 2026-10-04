@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonning moddiy madaniyati
 description: Uy buyumlari, ko‘chma turar joy, kiyim, asbob va hunarmandchilikka oid sharh.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/material-culture
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Turkmaniston moddiy madaniyati uy qurish, oziq saqlash, kiyinish, hayvon parvarishi va ijtimoiy makonni tartibga solishda ishlatiladigan buyumlarni qamraydi. Ular yasaladi, meros qilinadi, sotib olinadi, taʼmirlanadi va qayta ishlatiladi. Ularning maʼnosi tashqi koʻrinishidan tashqari foydalanish hamda odamlar oʻrtasidagi munosabatlardan tugʻiladi. Oddiy sandiq, idish yoki yostiq ham oila tarixi, kundalik mehnat va mehmon kutish tartibi bilan bogʻliq boʻlishi mumkin. Shu sababli buyumlarni faqat bezak namunasi sifatida emas, balki ularning ishlatilishi va almashinuvi orqali ham tushunish zarur.
@@ -44,3 +49,9 @@ Shahar kvartirasi, qishloq uyi, chorvador qoʻnimi va mavsumiy aralash hayotda b
 - [Gilam toʻqish](/uz/docs/turkmenistan/carpet-weaving)
 - [Ot madaniyati](/uz/docs/turkmenistan/horse-culture)
 - [Mehmondoʻstlik](/uz/docs/turkmenistan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Gilamlar pol va devorlarni bezaydi; UNESCO tug‘ilish, ibodat, to‘y va motam uchun tayyorlanadigan buyumlarni ham qayd etadi. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

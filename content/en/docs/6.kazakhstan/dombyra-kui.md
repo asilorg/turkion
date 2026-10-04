@@ -1,6 +1,11 @@
 ---
 title: Dombyra and Kui
 description: An examination of the dombyra and the instrumental kui repertory, including performance practice, transmission, and regional variation.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/dombyra-kui
+sources:
+- title: 'UNESCO: Kazakh traditional art of Dombra Kuy'
+  url: https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996
 ---
 
 The *dombyra* is a long-necked, two-stringed lute central to many Kazakh instrumental practices. Its solo repertory includes *kui*, instrumental compositions or pieces whose titles, techniques, and associated narratives guide listening. Although dombyra music appears in festivals and concert halls, it is also learned and performed in domestic settings.
@@ -44,3 +49,9 @@ Instrument shape, tuning, repertory, and teaching method differ by region and pe
 - [Music and Dance](/en/docs/kazakhstan/music-dance)
 - [Festivals](/en/docs/kazakhstan/festivals)
 - [Material Culture](/en/docs/kazakhstan/material-culture)
+
+## Documented example
+
+UNESCO describes kuy as a short solo composition played on the two-stringed dombra, often introduced through a story or legend. [UNESCO: Kazakh traditional art of Dombra Kuy](https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,6 +1,11 @@
 ---
 title: Bread and meze in Turkey
 description: Regional breads, small dishes, and shared eating practices in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/bread-meze
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Bread and *meze* occupy different but connected positions in foodways in Turkey. Bread is a daily staple, a utensil for eating, and a marker of household provision; meze are small dishes served with drinks or before and alongside larger meals. Both categories contain numerous local forms and cannot be represented by a single standardized menu.
@@ -43,3 +48,9 @@ Bread type changes with grain, fuel, altitude, and access to bakeries; meze chan
 - [Cuisine in Turkey](/en/docs/turkey/cuisine)
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Material culture in Turkey](/en/docs/turkey/material-culture)
+
+## Documented example
+
+Yufka is one of the breads named in the multinational flatbread inscription, which distinguishes baking on a metal plate from oven methods. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

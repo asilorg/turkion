@@ -1,6 +1,11 @@
 ---
 title: Festivals and seasonal observances in Uzbekistan
 description: Calendar customs in Uzbekistan, with attention to Navruz, household preparation, seasonal foods, and family gatherings.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/festivals
+sources:
+- title: 'UNESCO: International Day of Nowruz'
+  url: https://www.unesco.org/en/days/nowruz?hub=68184
 ---
 
 Festivals in Uzbekistan combine a seasonal calendar with family occasions, neighbourhood cooperation, and religious observances. Their forms differ between cities, villages, and the country’s diverse regional communities. Rather than functioning as a single uniform system, public holidays and household practices overlap: some activities take place in homes or *mahalla* neighbourhoods, while others are organized in schools, markets, or public parks.
@@ -40,3 +45,9 @@ The Fergana Valley, Samarkand and Bukhara, Khorezm, and Karakalpakstan each have
 - [Navruz](/en/docs/common/navruz) — a cross-regional overview of the spring festival.
 - [Uzbek cuisine](/en/docs/uzbekistan/gastronomy) — seasonal foods and communal cooking.
 - [Hospitality and life-cycle customs in Uzbekistan](/en/docs/uzbekistan/hospitality) — gatherings around family events.
+
+## Documented example
+
+Navruz is part of a multinational spring observance. Family visits, gifts and shared meals connect public celebrations with domestic practice. [UNESCO: International Day of Nowruz](https://www.unesco.org/en/days/nowruz?hub=68184).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,6 +1,11 @@
 ---
 title: Carpet and Textiles
 description: An overview of Azerbaijani carpet making, textile techniques, motifs, use, and regional distinctions.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/carpet-textiles
+sources:
+- title: 'UNESCO: Traditional art of Azerbaijani carpet weaving'
+  url: https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867
 ---
 
 Carpet and textile practices in Azerbaijan include the preparation of wool and silk, spinning, dyeing, weaving, embroidery, and the use of woven goods in domestic and ceremonial settings. A carpet is both a floor or wall covering and an object shaped by labor, exchange, family memory, and market demand. Textile categories should be understood through their materials and uses rather than only through decorative motifs.
@@ -42,3 +47,9 @@ Design groups associated with Quba, Shirvan, Karabakh, Ganja, Gazakh, Tabriz, an
 - [Material Culture](/en/docs/azerbaijan/material-culture)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
 - [Vernacular Belief](/en/docs/azerbaijan/vernacular-belief)
+
+## Documented example
+
+The UNESCO dossier distinguishes pile and pile-less carpets and records wool, cotton and silk yarns. [UNESCO: Traditional art of Azerbaijani carpet weaving](https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import type { ContentNavigationItem } from '@nuxt/content'
-import { useNavigation } from '~/composables/useNavigation'
 
 const navigation = inject<Ref<ContentNavigationItem[]>>('navigation')
-const { navigationByCategory } = useNavigation(navigation!)
 
 const { desktopLinks } = useHeader()
+const { t } = useI18n()
+const localePath = useLocalePath()
 const config = useRuntimeConfig().public
 const locales = config.i18n.locales
 
@@ -15,7 +15,8 @@ const { header } = useAppConfig()
 <template>
   <UHeader
     :ui="{ center: 'flex-1' }"
-    :to="header?.to || '/'"
+    :to="localePath(header?.to || '/')"
+    :menu="{ title: t('header.menuTitle'), description: t('header.menuDescription') }"
   >
     <UNavigationMenu
       :items="desktopLinks"
@@ -43,7 +44,7 @@ const { header } = useAppConfig()
       v-else
       #left
     >
-      <NuxtLink :to="header?.to || '/'">
+      <NuxtLink :to="localePath(header?.to || '/')">
         <AppLogo class="w-auto h-6 shrink-0" />
       </NuxtLink>
 
@@ -91,7 +92,7 @@ const { header } = useAppConfig()
       />
 
       <UContentNavigation
-        :navigation="navigationByCategory"
+        :navigation="navigation"
         highlight
         :ui="{ linkTrailingBadge: 'font-semibold uppercase' }"
       />

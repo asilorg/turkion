@@ -1,6 +1,11 @@
 ---
 title: Musiqa va raqs
 description: Ozarbayjon musiqiy muhitlari, cholgʻulari, raqs shakllari, anʼanani uzatish va mahalliy farqlar haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/music-dance
+sources:
+- title: 'UNESCO: Art of Azerbaijani Ashiq'
+  url: https://ich.unesco.org/en/RL/art-of-azerbaijani-ashiq-00253
 ---
 
 Ozarbayjon musiqasi va raqsi oilaviy tadbirlar, yigʻinlar, konsertlar, maktablar va norasmiy uchrashuvlarda yangraydigan repertuarlarni qamraydi. Mugʻom va oshiqning maxsus anʼanalari [Mugʻom va oshiq](/uz/docs/azerbaijan/mugham-ashug) maqolasida berilgan.
@@ -44,3 +49,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Mugʻom va oshiq](/uz/docs/azerbaijan/mugham-ashug)
 - [Bayramlar va taqvimiy odatlar](/uz/docs/azerbaijan/festivals)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Oshiq ijrochiligi she’riy qo‘shiq va hikoyani soz jo‘rligi bilan birlashtiradi; ijrochilar to‘ylarda ham, konsert sahnasida ham qatnashadi. [UNESCO: Art of Azerbaijani Ashiq](https://ich.unesco.org/en/RL/art-of-azerbaijani-ashiq-00253).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

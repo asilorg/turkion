@@ -1,6 +1,11 @@
 ---
 title: Mugham and Ashug
 description: An introduction to Azerbaijani mugham and ashug performance, repertory, instruments, and transmission.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/mugham-ashug
+sources:
+- title: 'UNESCO: Azerbaijani Mugham'
+  url: https://ich.unesco.org/en/RL/azerbaijani-mugham-00039
 ---
 
 *Mugham* and *ashug* performance are distinct but interconnected musical traditions in Azerbaijan. Mugham centers on modal development, vocal interpretation, and instrumental dialogue, while ashug performance brings sung poetry, storytelling, and lute accompaniment together. Both are learned through listening and instruction, performed in changing social settings, and understood differently by specialists, audiences, and local communities.
@@ -42,3 +47,9 @@ Mugham schools are associated with different cities and performers, producing di
 - [Music and Dance](/en/docs/azerbaijan/music-dance)
 - [Festivals and Calendar Observances](/en/docs/azerbaijan/festivals)
 - [Material Culture](/en/docs/azerbaijan/material-culture)
+
+## Documented example
+
+A mugham ensemble may accompany a singer with tar, kamancha and daf. Interpretation allows substantial improvisation within the modal tradition. [UNESCO: Azerbaijani Mugham](https://ich.unesco.org/en/RL/azerbaijani-mugham-00039).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

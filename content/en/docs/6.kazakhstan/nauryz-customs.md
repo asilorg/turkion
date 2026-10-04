@@ -1,6 +1,11 @@
 ---
 title: Nauryz Customs in Kazakhstan
 description: An examination of spring Nauryz household practices, including cleaning, visiting, shared foods, and seasonal renewal.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/nauryz-customs
+sources:
+- title: 'UNESCO: International Day of Nowruz'
+  url: https://www.unesco.org/en/days/nowruz?hub=68184
 ---
 
 Nauryz is a spring equinoctial observance marked in Kazakhstan through household preparation, visiting, food, and public gathering. Its customs emphasize the transition into a new seasonal cycle, but their forms differ between families and localities. This article focuses on domestic and culinary practices rather than the wider annual festival calendar.
@@ -45,3 +50,9 @@ Nauryz köje ingredients, visiting patterns, and public activities vary by regio
 - [Cuisine](/en/docs/kazakhstan/cuisine)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Navruz](/en/docs/common/navruz)
+
+## Documented example
+
+Nauryz belongs to the wider Nowruz spring celebration. UNESCO describes visiting relatives and exchanging gifts, especially with children, among its practices. [UNESCO: International Day of Nowruz](https://www.unesco.org/en/days/nowruz?hub=68184).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

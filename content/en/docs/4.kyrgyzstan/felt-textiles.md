@@ -1,6 +1,11 @@
 ---
 title: Felt Textiles
 description: An overview of felt-making, woven textiles, embroidery, and domestic decoration in Kyrgyzstan.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/felt-textiles
+sources:
+- title: 'UNESCO: Ala-kiyiz and Shyrdak'
+  url: https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693
 ---
 
 Felt and textiles in Kyrgyzstan are made for insulation, floor covering, storage, clothing, and interior decoration. Their production involves wool preparation, felting, weaving, dyeing, embroidery, and assembly, often distributed among family members and specialized makers. These practices are connected to household material culture but deserve separate attention because their techniques, patterns, and circulation have distinct histories.
@@ -44,3 +49,9 @@ Regional workshops favor different palettes, border treatments, and proportions,
 - [Yurt](/en/docs/kyrgyzstan/yurt)
 - [Material Culture](/en/docs/kyrgyzstan/material-culture)
 - [Festivals](/en/docs/kyrgyzstan/festivals)
+
+## Documented example
+
+Ala-kiyiz and shyrdak are distinct Kyrgyz felt-carpet traditions. UNESCO placed their shared safeguarding dossier on its urgent list in 2012. [UNESCO: Ala-kiyiz and Shyrdak](https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.
