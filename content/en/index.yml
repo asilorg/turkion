@@ -129,16 +129,19 @@ users:
     - title: Asilbek Madiev
       description: Founder
       icon: i-fa-solid:user-tie
+      img: /users/founder.svg
       to: /docs/common/turkic-peoples
       body: A number of smaller peoples remain poorly documented. Turkion keeps their languages and histories accessible and makes sources visible so the material can be checked and improved.
     - title: For researchers
       description: Research review
       icon: i-lucide:book-open-check
+      img: /users/investor.svg
       to: /docs/essentials/markdown-syntax
       body: Check dates and historical claims against primary or academic sources. Suggest precise corrections and references for draft articles.
     - title: For contributors
       description: Writing and translation
       icon: i-lucide:pen-line
+      img: /users/author.svg
       to: /docs/essentials/markdown-syntax
       body: Use the contributor guide to prepare sourced articles and translations. Drafts are marked until they receive specialist review.
 wars:

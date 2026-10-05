@@ -129,16 +129,19 @@ users:
     - title: Асилбек Мадиев
       description: Основатель
       icon: i-fa-solid:user-tie
+      img: /users/founder.svg
       to: /docs/common/turkic-peoples
       body: Ряд малых народов остаётся малоизученным. Turkion сохраняет доступ к материалам об их языках и истории и показывает источники, чтобы сведения можно было проверять и дополнять.
     - title: Исследователям
       description: Проверка материалов
       icon: i-lucide:book-open-check
+      img: /users/investor.svg
       to: /docs/essentials/markdown-syntax
       body: Проверяйте даты и утверждения по первичным и научным источникам. Предлагайте точные исправления и ссылки для черновых статей.
     - title: Авторам
       description: Статьи и переводы
       icon: i-lucide:pen-line
+      img: /users/author.svg
       to: /docs/essentials/markdown-syntax
       body: Используйте руководство для авторов, чтобы готовить статьи и переводы с источниками. До экспертной проверки материалы отмечены как черновики.
 wars:

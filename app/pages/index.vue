@@ -346,11 +346,11 @@ useSeoMeta({
           }"
         >
           <template #header>
-            <UIcon
-              :name="user.icon || 'i-lucide:book-open'"
-              class="size-12 text-primary mb-4"
-              aria-hidden="true"
-            />
+            <img
+              :src="user.img"
+              :alt="user.title"
+              class="w-[200px] rounded-full mb-2"
+            >
             <UUser
               :name="user.title"
               :description="user.description"

@@ -129,16 +129,19 @@ users:
     - title: Asilbek Madiyev
       description: Asoschi
       icon: i-fa-solid:user-tie
+      img: /users/founder.svg
       to: /docs/common/turkic-peoples
       body: Ayrim kichik xalqlar hali ham kam o‘rganilgan. Turkion ularning tillari va tarixi haqidagi materiallarni ochiq saqlaydi hamda maʼlumotlarni tekshirish va to‘ldirish uchun manbalarni ko‘rsatadi.
     - title: Tadqiqotchilar uchun
       description: Maʼlumotlarni tekshirish
       icon: i-lucide:book-open-check
+      img: /users/investor.svg
       to: /docs/essentials/markdown-syntax
       body: Sana va tarixiy daʼvolarni birlamchi yoki ilmiy manbalar bilan tekshiring. Qoralama maqolalar uchun aniq tuzatish va havolalarni taklif eting.
     - title: Mualliflar uchun
       description: Maqola va tarjimalar
       icon: i-lucide:pen-line
+      img: /users/author.svg
       to: /docs/essentials/markdown-syntax
       body: Manbali maqola va tarjimalar tayyorlash uchun mualliflar qo‘llanmasidan foydalaning. Mutaxassis ko‘rigigacha materiallar qoralama deb belgilanadi.
 wars:

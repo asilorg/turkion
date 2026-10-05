@@ -62,7 +62,7 @@ for (const code of ['en', 'ru', 'uz']) {
         cities: z.array(ImageFeature.extend({ quote: z.string().optional() })),
         miniatures: z.array(ImageFeature)
       }),
-      users: Section.extend({ features: z.array(Feature.extend({ body: z.string() })) }),
+      users: Section.extend({ features: z.array(ImageFeature.extend({ body: z.string() })) }),
       gallery: Section.extend({ features: z.array(ImageFeature) }),
       wars: Section.extend({ features: z.array(ImageFeature) })
     })
