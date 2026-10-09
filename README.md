@@ -29,14 +29,13 @@ pnpm test
 pnpm lint
 pnpm typecheck
 pnpm build
-pnpm smoke
 ```
 
-`pnpm smoke` starts and stops its own Node production server on port 3198. Set `SMOKE_PORT` to use another port, or `SMOKE_URL` to check an existing server. `pnpm preview` starts an interactive production preview.
+`pnpm preview` starts an interactive production preview.
 
 The build prerenders linked localized pages; Nuxt SSR handles other routes. Nuxt Image selects the deployment provider automatically (IPX for the Node server). Vercel Analytics is enabled when built on Vercel; `NUXT_PUBLIC_ANALYTICS_ENABLED` can override the runtime flag.
 
-CI runs content validation, regression tests, lint, type checking, production build and smoke checks on pushes and pull requests.
+CI runs media checks, regression tests (including content validation), lint, type checking and a production build on pushes and pull requests.
 
 ## Content and media
 

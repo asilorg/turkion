@@ -301,6 +301,7 @@ useSeoMeta({
           <ULink
             v-for="city of page.details.cities"
             :key="city.img"
+            :as="city.to ? 'a' : 'div'"
             class="relative group/link 2xl:p-2"
             :to="city.to ? localePath(city.to) : undefined"
           >

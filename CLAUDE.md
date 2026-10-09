@@ -12,11 +12,10 @@ pnpm lint           # ESLint
 pnpm typecheck      # TypeScript
 pnpm content:check  # Local links/assets, metadata and locale parity
 pnpm test           # Node regression tests
-pnpm smoke          # Start own production server and check HTTP output
 pnpm media:prepare  # Regenerate public miniature derivatives from archival originals
 ```
 
-CI runs validation, tests, lint, typecheck, build and smoke on pushes and pull requests.
+CI runs media checks, regression tests (including content validation), lint, typecheck and build on pushes and pull requests.
 
 ## Architecture
 

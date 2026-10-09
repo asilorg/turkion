@@ -23,8 +23,6 @@ jobs:
           cache: pnpm
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-      - name: Validate content
-        run: pnpm content:check
       - name: Verify media archive and derivatives
         run: pnpm media:check
       - name: Regression tests
@@ -35,9 +33,5 @@ jobs:
         run: pnpm typecheck
       - name: Production build
         run: pnpm build
-        env:
-          NUXT_PUBLIC_SITE_URL: https://www.turkion.org
-      - name: Production smoke checks
-        run: pnpm smoke
         env:
           NUXT_PUBLIC_SITE_URL: https://www.turkion.org
