@@ -4,10 +4,13 @@ import * as nuxtUiLocales from '@nuxt/ui/locale'
 import { Analytics } from '@vercel/analytics/nuxt'
 
 const { seo } = useAppConfig()
-const { locale } = useI18n()
+const analyticsEnabled = useRuntimeConfig().public.analyticsEnabled
+const { locale, t } = useI18n()
 const nuxtUiLocale = computed(() => nuxtUiLocales[locale.value as keyof typeof nuxtUiLocales] || nuxtUiLocales.en)
 const lang = computed(() => nuxtUiLocale.value.code)
 const dir = computed(() => nuxtUiLocale.value.dir)
+const localeHead = useLocaleHead({ seo: true })
+const { open: searchOpen } = useContentSearch()
 
 const { data: navigation } = await useAsyncData(
   () => `navigation-${locale.value}`,
@@ -39,14 +42,22 @@ const { data: navigation } = await useAsyncData(
   }
 )
 
-const { data: files } = useLazyAsyncData(
+const { data: files, execute: executeSearch } = useLazyAsyncData(
   () => `search-${locale.value}`,
   () => queryCollectionSearchSections(`docs_${locale.value}`),
   {
     server: false,
-    watch: [locale]
+    immediate: false
   }
 )
+
+watch([searchOpen, locale], async ([isOpen]) => {
+  if (isOpen) {
+    await executeSearch()
+  }
+})
+
+useHead(() => localeHead.value)
 
 useHead({
   meta: [
@@ -71,8 +82,8 @@ provide('navigation', navigation)
 </script>
 
 <template>
-  <Analytics />
-  <UApp>
+  <Analytics v-if="analyticsEnabled" />
+  <UApp :locale="nuxtUiLocale">
     <NuxtLoadingIndicator color="var(--ui-primary)" />
     <AppBanner />
     <AppHeader />
@@ -87,6 +98,8 @@ provide('navigation', navigation)
 
     <ClientOnly>
       <LazyUContentSearch
+        :title="t('search.title')"
+        :description="t('search.description')"
         :files="files"
         :navigation="navigation"
       />

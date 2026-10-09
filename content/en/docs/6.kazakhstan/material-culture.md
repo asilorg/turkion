@@ -1,6 +1,11 @@
 ---
 title: Material Culture in Kazakhstan
 description: An overview of Kazakh dress, domestic furnishings, ornament, and the changing use of household objects and spaces.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/material-culture
+sources:
+- title: 'UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge'
+  url: https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284
 ---
 
 Material culture in Kazakhstan includes clothing, domestic furnishings, containers, textiles, and the spatial arrangements through which households organize daily life. These objects are practical tools and visible markers of age, occasion, family memory, and craft knowledge. Felt is important within this field but is considered separately as a specialized material practice.
@@ -42,3 +47,9 @@ Dress, furnishings, and ornament differ by climate, local materials, household i
 - [Felt Arts](/en/docs/kazakhstan/felt-arts)
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Music and Dance](/en/docs/kazakhstan/music-dance)
+
+## Documented example
+
+Yurt production combines wooden frames with woven, felted and embroidered coverings, bringing several craft specialisms into one dwelling. [UNESCO: Kyrgyz, Kazakh and Karakalpak yurt-making knowledge](https://ich.unesco.org/en/RL/traditional-knowledge-and-skills-in-making-kyrgyz-kazakh-and-karakalpak-yurts-turkic-nomadic-dwellings-02284).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

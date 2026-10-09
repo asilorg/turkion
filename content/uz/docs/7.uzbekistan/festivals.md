@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda bayramlar va mavsumiy marosimlar
 description: Oʻzbekistonda Navroʻz bayramiga eʼtibor qaratgan taqvim urf-odatlari, uy-roʻzgʻor tayyorgarligi, mavsumiy taomlar, oilaviy yigʻinlar.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/festivals
+sources:
+- title: 'UNESCO: International Day of Nowruz'
+  url: https://www.unesco.org/en/days/nowruz?hub=68184
 ---
 
 O‘zbekistondagi festivallar mavsumiy taqvimni oilaviy tadbirlar, mahalla hamkorligi va diniy marosimlar bilan birlashtiradi. Ularning shakllari shaharlar, qishloqlar va mamlakatning turli mintaqaviy jamoalari oʻrtasida farq qiladi. Yagona yagona tizim sifatida faoliyat yuritishdan koʻra, bayramlar va maishiy amaliyotlar bir-biriga mos keladi: ba'zi tadbirlar uylarda yoki *mahalla* mahallalarida, boshqalari esa maktablarda, bozorlarda yoki jamoat bogʻlarida tashkil etiladi.
@@ -15,7 +20,7 @@ Mart oyining tengkunligi yaqinida nishonlanadigan *Navroʻz* koʻplab oʻzbek ja
 
 Navro‘zning ko‘zga ko‘ringan taomlaridan biri * sumalak* bo‘lib, unib chiqqan bug‘doyni sekin-asta pishirish orqali tayyorlanadi. Koʻpincha bir guruh ayollar, qarindoshlar yoki qoʻshnilar tomonidan bir necha soat davomida katta qozonda tayyorlanadi. Ovqat pishirishga qoʻshiq aytish, suhbat va umumiy ish hamroh boʻlishi mumkin. Taqsimlanganda, oziq-ovqat yaqin atrofdagi uy xoʻjaliklariga yuborilishi mumkin, shuningdek uni tayyorlaganlar tomonidan eyish mumkin. Boshqa bahor taomlari, masalan, *halim*, pishiriqlar, yangi oʻtlar va mevalar mahalliy mavjudligi va oilaning afzalliklariga bogʻliq.
 
-## Jamoat va mahalla sozlamalari
+## Jamoat joylari va mahalladagi bayramlar
 
 Navro‘zni jamoat joylarida kontsertlar, qo‘l san’atlari namoyishlari, o‘yinlar va sport tadbirlari orqali nishonlash mumkin. Mahallalarda jamoaviy tozalash va ovqat tayyorlash hamkorlik uchun amaliy imkoniyatlar yaratadi. Bu faoliyatni uzoq oʻtmishdagi barqaror omon qolish deb tushunmaslik kerak: oilalar qaysi urf-odatlarni saqlashni tanlaydilar, ish jadvalini moslashtiradilar va sotib olingan va uy qurilishi ovqatlaridan foydalanadilar. Shahar bayramlari sahnalashtirilgan spektakllarni oʻz ichiga olishi mumkin, qishloq marosimlarida esa uy xoʻjaliklari va qarindoshlar tarmogʻiga koʻproq e'tibor berilishi mumkin.
 
@@ -40,3 +45,9 @@ Farg‘ona vodiysi, Samarqand va Buxoro, Xorazm va Qoraqalpog‘istonning har bi
 - [Navroʻz](/uz/docs/common/navruz) — bahor bayramining mintaqalararo sharhi.
 - [Oʻzbek oshxonasi](/uz/docs/uzbekistan/gastronomy) — mavsumiy taomlar va umumiy ovqat pishirish.
 - [Oʻzbekistonda mehmondoʻstlik va hayot odatlari](/uz/docs/uzbekistan/hospitality) — oilaviy tadbirlar atrofida yigʻilishlar.
+
+## Hujjatlashtirilgan misol
+
+Navro‘z ko‘p xalqlarga xos bahor bayramidir. Oilaviy tashriflar, sovg‘alar va birga ovqatlanish ommaviy tantanalarni uy an’analari bilan bog‘laydi. [UNESCO: International Day of Nowruz](https://www.unesco.org/en/days/nowruz?hub=68184).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

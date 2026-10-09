@@ -2,17 +2,18 @@
 import { WEBSITE_NAME } from '~/constants/common'
 
 const { locale } = useI18n()
-const { data: page } = await useAsyncData('blog', () => queryCollection(`blog_${locale.value}`).first(), { watch: [locale] })
+const localePath = useLocalePath()
+const { data: page } = await useAsyncData(() => `blog-${locale.value}`, () => queryCollection(`blog_${locale.value}`).first(), { watch: [locale] })
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
 useSeoMeta({
   titleTemplate: `%s - ${WEBSITE_NAME}`,
-  title: page.value.title,
-  description: page.value.description,
-  ogTitle: `${page.value.title} - ${WEBSITE_NAME}`,
-  ogDescription: page.value.description
+  title: () => page.value?.title,
+  description: () => page.value?.description,
+  ogTitle: () => `${page.value?.title} - ${WEBSITE_NAME}`,
+  ogDescription: () => page.value?.description
 })
 
 defineOgImageComponent('Docs')
@@ -23,7 +24,7 @@ defineOgImageComponent('Docs')
     <UPageHero
       :title="page.hero.title"
       :description="page.hero.description"
-      :links="page.hero.links"
+      :links="page.hero.links?.map(link => ({ ...link, to: localePath(link.to) }))"
       :ui="{
         container: 'relative lg:py-32 min-h-[calc(100vh-var(--ui-header-height)-1px)]'
       }"

@@ -3,26 +3,28 @@ import { MiniatureType, useMiniatures } from '~/composables/useMiniatures'
 import { WEBSITE_NAME } from '~/constants/common'
 
 const { miniature } = useMiniatures()
-const localePath = useLocalePath()
 const { locale } = useI18n()
 
-const { data: page } = await useAsyncData('miniatures', () => queryCollection(`miniatures_${locale.value}`).first(), { watch: [locale] })
+const { data: page } = await useAsyncData(() => `miniatures-${locale.value}`, () => queryCollection(`miniatures_${locale.value}`).first(), { watch: [locale] })
+const { data: mediaCatalog } = await useAsyncData('media-catalog', () => queryCollection('media').first())
+const mediaByImage = computed(() => new Map(mediaCatalog.value?.items?.map(item => [item.img, item]) || []))
+
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
-const MINIATURE = {
-  [MiniatureType.TIMURID]: page.value.timur_miniatures,
-  [MiniatureType.OTTOMAN]: page.value.ottoman_miniatures,
-  [MiniatureType.MUGHAL]: page.value.mughal_miniatures
-}
+const galleries = computed(() => ({
+  [MiniatureType.TIMURID]: page.value?.timur_miniatures || [],
+  [MiniatureType.OTTOMAN]: page.value?.ottoman_miniatures || [],
+  [MiniatureType.MUGHAL]: page.value?.mughal_miniatures || []
+}))
 
 useSeoMeta({
   titleTemplate: `%s - ${WEBSITE_NAME}`,
-  title: page.value.title,
-  description: page.value.description,
-  ogTitle: `${page.value.title} - ${WEBSITE_NAME}`,
-  ogDescription: page.value.description
+  title: () => page.value?.title,
+  description: () => page.value?.description,
+  ogTitle: () => `${page.value?.title} - ${WEBSITE_NAME}`,
+  ogDescription: () => page.value?.description
 })
 
 defineOgImageComponent('Docs')
@@ -57,53 +59,23 @@ defineOgImageComponent('Docs')
       />
       <MiniatureTabs class="w-full" />
 
-      <div
-        v-for="flag in MINIATURE[miniature]"
-        :key="flag.title"
-        class="border-l border-t  border-default"
+      <section
+        v-for="group in galleries[miniature]"
+        :key="group.title"
+        class="border-l border-t border-default"
       >
-        <UHeader
-          :title="flag.title"
-          class="grid justify-center border-r"
-        />
-        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-start justify-center divide-y divide-x divide-default">
-          <li
-            v-for="item in flag.items"
-            :key="item.name"
-            class="group relative flex items-center justify-center flex-1 size-full p-2 last:border-r last:border-b border-default overflow-hidden"
-          >
-            <NuxtLink
-              class="inset-0 absolute"
-              :to="localePath(item.url)"
-              target="_blank"
-            >
-              <span class="sr-only">Go to {{ item.name }}</span>
-            </NuxtLink>
-            <NuxtImg
-              width="200"
-              height="200"
-              sizes="200px"
-              format="webp"
-              :quality="70"
-              loading="lazy"
-              decoding="async"
-              :src="item.img"
-              :alt="`Screenshot of ${item.name}`"
-              class="group-hover:scale-110 duration-200 transition-[scale,opacity] pointer-events-none"
-            />
-
-            <div class="absolute flex items-center px-2.5 py-0.75 gap-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none bg-black/90 rounded-full">
-              <span class="text-sm text-white font-medium">
-                {{ item.name }}
-              </span>
-              <UIcon
-                name="i-lucide-arrow-up-right"
-                class="size-4 shrink-0 text-white"
-              />
-            </div>
-          </li>
+        <h2 class="border-r border-default px-4 py-3 text-center text-xl font-semibold">
+          {{ group.title }}
+        </h2>
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">
+          <GalleryMediaCard
+            v-for="item in group.items"
+            :key="item.img"
+            :item="item"
+            :media="mediaByImage.get(item.img)"
+          />
         </ul>
-      </div>
+      </section>
     </UPageSection>
   </div>
 </template>

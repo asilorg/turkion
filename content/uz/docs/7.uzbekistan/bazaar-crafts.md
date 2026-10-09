@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistondagi bozorlar va hunarmandlar mahallalari
 description: O‘zbekiston shahar va tumanlarida bozorlar, hunarmandchilik va ayirboshlashning ijtimoiy tashkil etilishi.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/bazaar-crafts
+sources:
+- title: 'UNESCO: The Crafts Development Center in Margilan'
+  url: https://www.unesco.org/en/articles/crafts-development-center-margilan
 ---
 
 Oʻzbekistondagi bozorlar oziq-ovqat, uy-roʻzgʻor buyumlari, kiyim-kechak, asbob-uskunalar va hunarmandchilik buyumlarini ayirboshlash joylari hisoblanadi. Shuningdek, ular ishlab chiqaruvchilar, savdogarlar, mijozlar va atrofdagi aholi punktlaridan tashrif buyuruvchilarni bogʻlaydi. Vaqt oʻtishi bilan bozor binolari va tartib-qoidalari oʻzgargan boʻlsa-da, bozor mavsumiy mahsulotlarni kuzatish, narxlarni kelishish, mutaxassislar mehnati va mintaqaviy tovarlarning aylanishini kuzatish uchun muhim muhit boʻlib qolmoqda.
@@ -15,7 +20,7 @@ Koʻpgina yirik shaharlarda sotuvchilar mahsulot boʻyicha guruhlangan markaziy 
 
 Bozor taqvimi qishloq xoʻjaligini taklif qiladi. Erta bahor koʻkatlar va yosh sabzavotlarni olib keladi; yoz va kuzda meva, poliz ekinlari, pomidor va uzum tanlovini kengaytiradi; qishki bozorlar koʻproq saqlanadigan mahsulotlar, quritilgan mevalar, donlar va konservalangan oziq-ovqatlarga tayanadi. Ushbu mavsumiylik bozorni mintaqaviy dehqonchilikning amaliy koʻrsatkichi hamda savdo maydonchasiga aylantiradi. Boshqa mintaqalardan yoki chet eldan kelgan mahsulotlar qoʻshimcha oʻzgarishlarni qoʻshadi.
 
-## Tayyor ovqat va xushmuomalalik
+## Tayyor taom va muloqot
 
 Bozorlarda xaridorlar non, *somsa*, panjara goʻshti, choy, shirinliklar va maishiy taomlar uchun masalliqlarni xarid qiladigan oziq-ovqat doʻkonlaridan iborat. Tayyorlanishning hidi va koʻrinishi bozor muhitining bir qismidir: novvoylar *tandir* pechlari yonida ishlaydi, oshpazlar shoʻrva yoki *palov* beradi, sotuvchilar esa tatib koʻrish uchun mevalarni kesishadi. Bu oziq-ovqatlar xaridorlarni, bozor ishchilarini va sayohatchilarni qoʻllab-quvvatlaydi, ammo ular nafaqat tashrif buyuruvchilarga moʻljallangan. Ular vaqt, narx va ingredientlarning mavjudligiga qarab shakllanadigan odatiy ovqatlardir.
 
@@ -42,3 +47,9 @@ Zamonaviy chakana savdo markazlari, onlayn savdo va turizm hunarmandchilik mahsu
 - [Oʻzbekistonda arxitektura hunarmandchiligi](/uz/docs/uzbekistan/architectural-craft) — kafel, yogʻoch va gips boʻyicha mutaxassislik.
 - [Oʻzbekistonda ipak va toʻqimachilik anʼanalari](/uz/docs/uzbekistan/silk-textiles) — tolalar va naqshli matolar.
 - [Oʻzbek oshxonasi](/uz/docs/uzbekistan/gastronomy) — bozor taomlari va ingredientlari.
+
+## Hujjatlashtirilgan misol
+
+Marg‘ilon markazi hunar ta’limini muayyan muassasa va ustaxonalar bilan bog‘laydi; shogirdlik faqat bozor rastalari bilan cheklanmaydi. [UNESCO: The Crafts Development Center in Margilan](https://www.unesco.org/en/articles/crafts-development-center-margilan).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

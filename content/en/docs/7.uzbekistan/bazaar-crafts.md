@@ -1,6 +1,11 @@
 ---
 title: Bazaars and craft quarters in Uzbekistan
 description: Markets, artisan production, and the social organization of exchange in Uzbekistan’s cities and towns.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/bazaar-crafts
+sources:
+- title: 'UNESCO: The Crafts Development Center in Margilan'
+  url: https://www.unesco.org/en/articles/crafts-development-center-margilan
 ---
 
 Bazaars in Uzbekistan are spaces for the exchange of food, household goods, clothing, tools, and craft products. They also connect producers, traders, customers, and visitors from surrounding settlements. Although market buildings and regulations have changed over time, the bazaar remains an important setting for observing seasonal produce, price negotiation, specialist labour, and the circulation of regional goods.
@@ -42,3 +47,9 @@ Modern retail centres, online selling, and tourism have changed the audience for
 - [Architectural craft in Uzbekistan](/en/docs/uzbekistan/architectural-craft) — specialist work in tile, wood, and plaster.
 - [Silk and textile traditions in Uzbekistan](/en/docs/uzbekistan/silk-textiles) — fibres and patterned cloth.
 - [Uzbek cuisine](/en/docs/uzbekistan/gastronomy) — market foods and ingredients.
+
+## Documented example
+
+Margilan’s centre links craft teaching with a specific institution and workshop setting; apprenticeship is not confined to informal market stalls. [UNESCO: The Crafts Development Center in Margilan](https://www.unesco.org/en/articles/crafts-development-center-margilan).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

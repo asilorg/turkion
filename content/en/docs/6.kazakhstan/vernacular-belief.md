@@ -1,6 +1,11 @@
 ---
 title: Vernacular Belief in Kazakhstan
 description: An overview of everyday protective, commemorative, and interpretive practices in Kazakh household and community life.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/vernacular-belief
+sources:
+- title: 'UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21'
+  url: https://ich.unesco.org/en/decisions/13.COM/10.B.21
 ---
 
 Vernacular belief in Kazakhstan refers to customary practices through which people interpret well-being, misfortune, life transitions, and relations with place and kin. These practices are not a single doctrine. They may be observed alongside formal religious practice, secular habits, family memory, and practical knowledge, and their importance varies among individuals.
@@ -44,3 +49,9 @@ Vernacular practices vary by region, age, family background, and personal convic
 - [Hospitality](/en/docs/kazakhstan/hospitality)
 - [Festivals](/en/docs/kazakhstan/festivals)
 - [Nauryz Customs](/en/docs/kazakhstan/nauryz-customs)
+
+## Documented example
+
+The horse breeders’ dossier records ritual expressions of gratitude to nature and wishes for abundant milk; these are locally situated beliefs. [UNESCO: Horse breeders’ rituals, decision 13.COM 10.B.21](https://ich.unesco.org/en/decisions/13.COM/10.B.21).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

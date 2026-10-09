@@ -1,6 +1,11 @@
 ---
 title: Ozarbayjon oshxonasi
 description: Ozarbayjon taomlari, uy oshpazligi, mahsulotlar va hududiy xilma-xillik haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/cuisine
+sources:
+- title: 'UNESCO: Dolma preparation and sharing tradition'
+  url: https://ich.unesco.org/fr/RL/la-tradition-de-la-preparation-et-du-partage-du-dolma-marqueur-d-identite-culturelle-01188
 ---
 
 Ozarbayjon oshxonasi don, sabzavot, koʻkat, sut mahsulotlari, goʻsht, meva va baliqqa asoslangan uy hamda jamoat ovqatlanish amaliyotlarini qamraydi. Taomlarga mavsum, mahalliy yetishtirish, bozorga kirish va oilaviy tadbirlar taʼsir qiladi. Taom nomlari qoʻshni anʼanalar bilan umumiy boʻlishi, ammo tayyorlanishi yoki tortilishida farq qilishi mumkin.
@@ -45,3 +50,9 @@ Bugungi murojaat uy sharoitidagi foydalanish bilan bir qatorda taʼlim, ustaxona
 - [Taomlarning hududiyligi](/uz/docs/azerbaijan/culinary-regionality)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
 - [Novruzning uy amaliyotlari](/uz/docs/azerbaijan/novruz-household)
+
+## Hujjatlashtirilgan misol
+
+Do‘lma qiymani bargga o‘rash yoki sabzavot ichiga solish orqali tayyorlanadi; bu nom bitta o‘zgarmas retseptni anglatmaydi. [UNESCO: Dolma preparation and sharing tradition](https://ich.unesco.org/fr/RL/la-tradition-de-la-preparation-et-du-partage-du-dolma-marqueur-d-identite-culturelle-01188).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

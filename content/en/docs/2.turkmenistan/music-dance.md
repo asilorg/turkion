@@ -1,6 +1,11 @@
 ---
 title: Music and Dance in Turkmenistan
 description: An overview of Turkmen instrumental music, song, dance settings, and the transmission of performance knowledge.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/music-dance
+sources:
+- title: 'UNESCO: Dutar safeguarding plan (2020)'
+  url: https://ich.unesco.org/doc/src/49033-EN.pdf
 ---
 
 Music and dance in Turkmenistan encompass instrumental repertoires, sung poetry, social dancing, and performances associated with family occasions. They are learned through listening, imitation, instruction, and participation in gatherings. A single performance may connect a musician’s individual style with conventions of instrument, repertory, language, and setting.
@@ -44,3 +49,9 @@ Regional styles differ in vocal timbre, dutar technique, dialect, dance movement
 - [Festivals](/en/docs/turkmenistan/festivals)
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
 - [Material Culture](/en/docs/turkmenistan/material-culture)
+
+## Documented example
+
+The 2020 UNESCO safeguarding plan distinguishes six dutar performance styles, including Akhal-Teke, Yomut-Gokleng and Ersary. [UNESCO: Dutar safeguarding plan (2020)](https://ich.unesco.org/doc/src/49033-EN.pdf).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,6 +1,11 @@
 ---
 title: Cuisine in Turkey
 description: An overview of regional foodways, ingredients, meals, and culinary exchange in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/cuisine
+sources:
+- title: 'UNESCO: Turkish coffee culture, decision 8.COM 8.28'
+  url: https://ich.unesco.org/en/decisions/8.COM/8.28
 ---
 
 Cuisine in Turkey is organized through household meals, market provisioning, seasonal preservation, and forms of public eating. It encompasses practices associated with Anatolia, the Black Sea, the Aegean, Thrace, the Mediterranean, and southeastern regions, as well as urban cuisines shaped by migration and trade. Shared dishes acquire different ingredients, names, and social uses across these settings.
@@ -43,3 +48,9 @@ Regional labels are useful starting points rather than closed culinary boundarie
 - [Bread and meze in Turkey](/en/docs/turkey/bread-meze)
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Material culture in Turkey](/en/docs/turkey/material-culture)
+
+## Documented example
+
+Turkish coffee is also a social practice: the UNESCO nomination associates its preparation and serving with visits, celebrations and engagement ceremonies. [UNESCO: Turkish coffee culture, decision 8.COM 8.28](https://ich.unesco.org/en/decisions/8.COM/8.28).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,6 +1,11 @@
 ---
 title: Material Culture
 description: A survey of household objects, tools, clothing, and domestic spaces used in Kyrgyz everyday life.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/material-culture
+sources:
+- title: 'UNESCO: Ala-kiyiz and Shyrdak'
+  url: https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693
 ---
 
 Material culture in Kyrgyzstan includes the objects, materials, and built settings through which households organize work, food, clothing, and social life. It encompasses portable pastoral equipment, settled domestic furnishings, market goods, and contemporary manufactured objects. Felt is important within this field, but its making and decorative textile uses are considered separately in [Felt Textiles](/en/docs/kyrgyzstan/felt-textiles).
@@ -44,3 +49,9 @@ Highland households with seasonal herding use more portable storage and animal e
 - [Felt Textiles](/en/docs/kyrgyzstan/felt-textiles)
 - [Yurt](/en/docs/kyrgyzstan/yurt)
 - [Cuisine](/en/docs/kyrgyzstan/cuisine)
+
+## Documented example
+
+Felt carpets insulate and decorate domestic interiors; UNESCO describes their making as collective work connecting older and younger women. [UNESCO: Ala-kiyiz and Shyrdak](https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

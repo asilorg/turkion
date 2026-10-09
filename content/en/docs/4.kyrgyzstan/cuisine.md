@@ -1,6 +1,11 @@
 ---
 title: Cuisine
 description: An overview of Kyrgyz foodways, their pastoral context, household preparation, and regional variation.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/cuisine
+sources:
+- title: 'Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences'
+  url: https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9
 ---
 
 Kyrgyz cuisine refers to food practices shaped by livestock keeping, seasonal mobility, irrigated cultivation, and exchange with neighboring communities. Meals commonly combine meat, dairy products, cereals, and dough-based dishes, although the proportions and methods differ by household, season, and locality. Food is also organized around the practical demands of preparation, storage, and serving rather than a fixed national menu.
@@ -43,3 +48,9 @@ Southern cuisine often uses more rice, vegetables, fruit, and spices because of 
 - [Food Preservation](/en/docs/kyrgyzstan/food-preservation)
 - [Hospitality](/en/docs/kyrgyzstan/hospitality)
 - [Material Culture](/en/docs/kyrgyzstan/material-culture)
+
+## Documented example
+
+Kurut is produced by straining and drying fermented milk products. The 2022 study identifies the name kurut in Kyrgyzstan and kurt in Kazakhstan. [Mamatova and Aydın (2022): Kurut, Manas Journal of Agriculture Veterinary and Life Sciences](https://agris.fao.org/search/en/records/67053566b1dfe472e145f6d9).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

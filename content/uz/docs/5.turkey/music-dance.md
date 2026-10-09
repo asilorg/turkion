@@ -1,17 +1,22 @@
 ---
 title: Turkiyada musiqa va raqs
-description: Turkiyadagi mintaqaviy asboblar, repertuarlar, ijro sozlamalari va raqslari.
+description: Turkiyadagi mintaqaviy asboblar, repertuarlar, ijro muhiti va raqslari.
+editorialStatus: draft
+translationOf: /en/docs/turkey/music-dance
+sources:
+- title: 'UNESCO: Mevlevi Sema ceremony'
+  url: https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100
 ---
 
 Turkiyadagi musiqa va raqs mahalliy repertuarlar, professional ijro, diniy ifoda va sahnalashtirilgan folklorni o'z ichiga oladi. Ular uylarda, to‘ylarda, qishloq yig‘inlarida, maktablarda va ommaviy axborot vositalarida o‘rganiladi. "Xalq" kabi yorliqlar keng to'plam va ijro toifalarini tavsiflaydi, ammo alohida qo'shiqlar va harakatlar mintaqa, til, voqea va jamoa bilan bog'liq bo'lib qoladi.
 
 ## Tarixiy va geografik kontekst
 
-Anadolu ijrosi an'analari Qora dengiz, Bolqon, Kavkaz, Sharqiy O'rta er dengizi va Mesopotamiya madaniy zonalari bo'ylab aylanishni aks ettiradi. Usmonli shahar musiqa amaliyoti va qishloq repertuarlari o'zaro ta'sirda, lekin turli muassasalar orqali rivojlandi. Yigirmanchi asr yozuvlari, radio, konservatoriyalar va festivallar ba'zi shakllarni standartlashtirdi, shu bilan birga mintaqaviy uslublarni asl sozlamalaridan tashqari foydalanish mumkin qildi.
+Anadolu ijrosi an'analari Qora dengiz, Bolqon, Kavkaz, Sharqiy O'rta er dengizi va Mesopotamiya madaniy zonalari bo'ylab aylanishni aks ettiradi. Usmonli shahar musiqa amaliyoti va qishloq repertuarlari o'zaro ta'sirda, lekin turli muassasalar orqali rivojlandi. Yigirmanchi asr yozuvlari, radio, konservatoriyalar va festivallar ba'zi shakllarni standartlashtirdi, shu bilan birga mintaqaviy uslublarni dastlabki muhitidan tashqari foydalanish mumkin qildi.
 
 ## Asboblar va vokal amaliyoti
 
-*bag'lama* yoki *saz* deb nomlangan uzun bo'yinli lavta ko'plab Onado'li qo'shiq an'analarida, ayniqsa, shoirlar bilan bog'liq repertuarlarda markaziy o'rin tutadi. Boshqa takrorlanuvchi cholgʻu asboblari orasida Qoradengiz mintaqalarining *kemenche* skripkasi, qamishli nay *ney*, qoʻsh qamishli *zurna*, nogʻora *davul* va ramka nogʻoralari bor. Ularning ma'nosi kontekstga bog'liq: xuddi shu asbob to'yda, ansamblda yoki kontsert sahnasida paydo bo'lishi mumkin.
+*bag'lama* yoki *saz* deb nomlangan uzun dastali lavta ko'plab Onado'li qo'shiq an'analarida, ayniqsa, shoirlar bilan bog'liq repertuarlarda markaziy o'rin tutadi. Boshqa takrorlanuvchi cholgʻu asboblari orasida Qoradengiz mintaqalarining *kemenche* skripkasi, qamishli nay *ney*, qoʻsh qamishli *zurna*, nogʻora *davul* va ramka nogʻoralari bor. Ularning ma'nosi kontekstga bog'liq: xuddi shu asbob to'yda, ansamblda yoki kontsert sahnasida paydo bo'lishi mumkin.
 
 Vokal uslublari o'lchovsiz uzoq havoda kuylashdan kuchli ritmik raqs qo'shiqlarigacha. Matnlar sevgi, mehnat, migratsiya, manzara, hazil va diniy sadoqatga qaratilgan. Tarjima va transkripsiya ko'pincha lahjani, bezakni va ijrochilar qo'shiqlarni sharhlaydigan ijtimoiy bilimlarni yo'qotadi.
 
@@ -25,7 +30,7 @@ Ko'p raqslar chiziqlar, doiralar yoki bog'langan shakllarda ijro etiladi. *Halay
 
 To'ylar musiqa, raqs va qarindoshlik munosabatlarini ommaviy namoyish qilish uchun asosiy muhitni ta'minlaydi. Musiqachilar o'zgaruvchan raqqosalar guruhlarini, iltimoslarni va kelinning ketishi kabi marosimlarni muvofiqlashtiradilar. Ba'zi joylarda professional ansambllar kuchaytirilgan asboblardan foydalanadi; boshqalarda qarindoshlar qo'shiq aytadilar yoki cheklangan hamrohlik bilan o'ynaydilar.
 
-Musiqiy ishtirok mavsumiy yig'ilishlar, harbiy jo'natishlar va sunnat bayramlariga hamroh bo'ladi. Ushbu sozlamalar boshqacha harakat qilmaydigan odamlarni birlashtirishi mumkin. Ularni [Mevleviy musiqasi](/uz/docs/turkey/mevlevi-music) da muhokama qilingan rasmiy tartiblangan *sema* marosimidan farqlash kerak.
+Musiqiy ishtirok mavsumiy yig'ilishlar, harbiy jo'natishlar va sunnat bayramlariga hamroh bo'ladi. Bunday tadbirlar kundalik hayotda kam uchrashadigan odamlarni birlashtirishi mumkin. Ularni [Mevleviy musiqasi](/uz/docs/turkey/mevlevi-music) da muhokama qilingan rasmiy tartiblangan *sema* marosimidan farqlash kerak.
 
 ## Etkazish va taqdim etish
 
@@ -44,3 +49,9 @@ Raqs va musiqa, ayniqsa qo‘l, qadam va boshlovchiga javob muhim bo‘lgan zanj
 - [Turkiyada Mavlevi musiqasi](/uz/docs/turkey/mevlevi-music)
 - [Turkiyadagi bayramlar](/uz/docs/turkey/festivals)
 - [Turkiyada moddiy madaniyat](/uz/docs/turkey/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Samo mavlaviy diniy amaliyotiga mansub. Sahnadagi namoyish va diniy jamoa marosimining muhiti hamda maqsadi bir xil emas. [UNESCO: Mevlevi Sema ceremony](https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

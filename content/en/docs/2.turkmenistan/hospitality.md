@@ -1,6 +1,11 @@
 ---
 title: Hospitality in Turkmenistan
 description: A description of guest reception, shared meals, visiting practices, and their changing household contexts in Turkmenistan.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/hospitality
+sources:
+- title: 'Turkmenistan State News Agency: State Museum agriculture exhibition (2017)'
+  url: https://turkmenistan.gov.tm/en/post/8717/exhibition-dedicated-to-traditions-of-agriculture-opened-in-the-state-museumof-turkmenistan
 ---
 
 Hospitality in Turkmenistan refers to practices through which households receive visitors, offer food and tea, arrange seating, and maintain relations with kin, neighbors, and travelers. It is enacted in ordinary visits as well as at larger gatherings. The degree of formality depends on the relationship, available time, household means, and the reason for a visit.
@@ -44,3 +49,9 @@ Rural households with courtyards and larger family compounds may receive more pe
 - [Tea and Bread Etiquette](/en/docs/turkmenistan/tea-bread-etiquette)
 - [Cuisine](/en/docs/turkmenistan/cuisine)
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
+
+## Documented example
+
+At the State Museum’s 2017 agriculture exhibition, hosts greeted visitors with bread and salt and offered churek and pishme. [Turkmenistan State News Agency: State Museum agriculture exhibition (2017)](https://turkmenistan.gov.tm/en/post/8717/exhibition-dedicated-to-traditions-of-agriculture-opened-in-the-state-museumof-turkmenistan).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

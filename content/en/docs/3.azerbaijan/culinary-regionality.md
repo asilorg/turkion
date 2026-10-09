@@ -1,6 +1,11 @@
 ---
 title: Culinary Regionality
 description: An examination of how landscape, cultivation, markets, and household practice shape regional food variation in Azerbaijan.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/culinary-regionality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Culinary regionality in Azerbaijan describes differences in ingredients, preservation, cooking methods, and meal patterns across local environments. It is not a list of separate cuisines with fixed borders. Families move, trade, marry, and learn recipes across regions, so locality provides a set of tendencies rather than a rule for every household. This article focuses on those patterns; general dishes are covered in [Azerbaijani Cuisine](/en/docs/azerbaijan/cuisine).
@@ -43,3 +48,9 @@ Regional labels are used differently by cooks, vendors, researchers, and diners.
 - [Azerbaijani Cuisine](/en/docs/azerbaijan/cuisine)
 - [Novruz Household Practices](/en/docs/azerbaijan/novruz-household)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
+
+## Documented example
+
+UNESCO notes that some Azerbaijani communities flavour tea with thyme, cinnamon or ginger, a concrete example of local variation. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

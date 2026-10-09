@@ -1,6 +1,11 @@
 ---
 title: Hospitality and life-cycle customs in Uzbekistan
 description: Guest etiquette, tea service, and family ceremonies as everyday social practices in Uzbekistan.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/hospitality
+sources:
+- title: 'UNESCO: Palov culture and tradition, decision 11.COM 10.b.35'
+  url: https://ich.unesco.org/en/Decisions/11.COM/10.b.35
 ---
 
 Hospitality in Uzbekistan is expressed through routines of receiving guests, arranging a meal, and maintaining relations among relatives and neighbours. These routines are not identical across the country or across generations, but tea, bread, seating, and shared food commonly structure an encounter. Life-cycle ceremonies surrounding birth, marriage, and death use related practices on a larger scale, bringing practical obligations of cooking, visiting, and assistance into view.
@@ -46,3 +51,9 @@ Tea service, seating, gift exchange, and the scale of life-cycle gatherings diff
 - [Uzbek cuisine](/en/docs/uzbekistan/gastronomy) — foods served in daily and ceremonial settings.
 - [Festivals and seasonal observances in Uzbekistan](/en/docs/uzbekistan/festivals) — calendar-based gatherings.
 - [Material culture in Uzbekistan](/en/docs/uzbekistan/material-culture) — domestic space and household objects.
+
+## Documented example
+
+Palov sharing also supports neighbours and people in need. The documented practice extends beyond entertaining invited guests. [UNESCO: Palov culture and tradition, decision 11.COM 10.b.35](https://ich.unesco.org/en/Decisions/11.COM/10.b.35).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

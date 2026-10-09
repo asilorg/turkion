@@ -1,6 +1,11 @@
-title: Blog
-description: Coming Soon
+title: Loyiha va tahrir ishlari haqida
+description: Turkion — rivojlanayotgan ko‘p tilli ma’lumotnoma. Qoralama maqolalar mutaxassis tekshiruvidan o‘tmagan. Havolalar foydalanilgan dalillarni ko‘rsatadi, manba tashkilotining loyihani ma’qullashini anglatmaydi. Sharhdan boshlang, mahalliy an’analarni qiyoslang va tuzatish tayyorlashda mualliflar qo‘llanmasidan foydalaning. Ilmiy tahrir hay’ati yoki taklif etilgan olimlar dasturi borligi da’vo qilinmaydi.
 navigation: false
 hero:
-  title: Tez orada bo‘lim ochiladi.
-  description: Turk Ensiklopediyasining rasmiy blogiga xush kelibsiz. Bu yerda bosh muharrirlik kengashi va mehmon olimlarimiz Yevrosiyo boʻylab turkiy xalqlar tarixi, tillari, madaniyatlari va xalqlariga oid chuqur maqolalar, tarixiy nozikliklarni o‘rganish va so‘nggi akademik tadqiqotlar haqida yangiliklarni nashr etadilar.
+  title: Loyiha va tahrir ishlari haqida
+  description: Turkion — rivojlanayotgan ko‘p tilli ma’lumotnoma. Qoralama maqolalar mutaxassis tekshiruvidan o‘tmagan. Havolalar foydalanilgan dalillarni ko‘rsatadi, manba tashkilotining loyihani ma’qullashini anglatmaydi. Sharhdan boshlang, mahalliy an’analarni qiyoslang va tuzatish tayyorlashda mualliflar qo‘llanmasidan foydalaning. Ilmiy tahrir hay’ati yoki taklif etilgan olimlar dasturi borligi da’vo qilinmaydi.
+  links:
+  - label: Umumiy sharh
+    to: /docs/common/turkic-peoples
+  - label: Mualliflar qo‘llanmasi
+    to: /docs/essentials/markdown-syntax

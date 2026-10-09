@@ -19,3 +19,6 @@ description: Энциклопедические статьи, охватываю
 - [Турция](/ru/docs/turkey)
 - [Казахстан](/ru/docs/kazakhstan)
 - [Узбекистан](/ru/docs/uzbekistan)
+
+- [О проекте и редакционной работе](/ru/blog)
+- [Каталог народов](/ru/people)

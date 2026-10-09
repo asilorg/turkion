@@ -1,6 +1,11 @@
 ---
 title: Novruz Household Practices
 description: An overview of domestic preparation, food, visiting, symbols, and local variation during Novruz in Azerbaijan.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/novruz-household
+sources:
+- title: 'UNESCO: Nowruz across communities (2021)'
+  url: https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299
 ---
 
 Novruz household practices in Azerbaijan mark the approach of the spring equinox through cleaning, food preparation, visiting, and symbolic displays. The observance is centered in homes and neighborhoods as well as in organized events. Its elements are selected differently by families: some prepare a full seasonal table and receive many visitors, while others keep a smaller meal or observe only a few familiar customs.
@@ -42,3 +47,9 @@ Rural households may connect Novruz preparation to gardens, livestock, and seaso
 - [Festivals and Calendar Observances](/en/docs/azerbaijan/festivals)
 - [Vernacular Belief](/en/docs/azerbaijan/vernacular-belief)
 - [Navruz](/en/docs/common/navruz)
+
+## Documented example
+
+UNESCO’s 2021 Nowruz overview includes Azerbaijan among participating countries and describes shared meals, games and performances around the spring celebration. [UNESCO: Nowruz across communities (2021)](https://ich.unesco.org/en/news/21-march-the-international-day-of-nowruz-13299).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

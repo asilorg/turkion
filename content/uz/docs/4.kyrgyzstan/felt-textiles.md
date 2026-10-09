@@ -1,6 +1,11 @@
 ---
 title: Kigiz toʻqimachilik
 description: Qirgʻizistonda kigizdoʻzlik, toʻqilgan toʻqimachilik, kashtachilik va maishiy bezaklar haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/felt-textiles
+sources:
+- title: 'UNESCO: Ala-kiyiz and Shyrdak'
+  url: https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693
 ---
 
 Qirgʻizistonda kigiz va toʻqimachilik izolyatsiyalash, pol qoplamasi, saqlash, kiyim-kechak, ichki bezatish uchun tayyorlanadi. Ularning ishlab chiqarilishi jun tayyorlash, kigizlash, toʻqish, boʻyash, kashta tikish va yigʻishni oʻz ichiga oladi, koʻpincha oila a'zolari va ixtisoslashgan ustalar oʻrtasida taqsimlanadi. Bu amaliyotlar uy-roʻzgʻor moddiy madaniyati bilan bogʻliq, lekin alohida e'tiborga loyiqdir, chunki ularning texnikasi, naqshlari va muomalasi oʻziga xos tarixga ega.
@@ -44,3 +49,9 @@ Mintaqaviy ustaxonalar turli xil palitralar, chegara muolajalari va nisbatlarni 
 - [Yurt](/uz/docs/kyrgyzstan/yurt)
 - [Moddiy madaniyat](/uz/docs/kyrgyzstan/material-culture)
 - [Festivallar](/uz/docs/kyrgyzstan/festivals)
+
+## Hujjatlashtirilgan misol
+
+Ala-kiyiz va shirdak qirg‘iz kigiz gilamlarining alohida an’analaridir. Ularning umumiy hujjati 2012-yilda UNESCOning shoshilinch muhofaza ro‘yxatiga kiritilgan. [UNESCO: Ala-kiyiz and Shyrdak](https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

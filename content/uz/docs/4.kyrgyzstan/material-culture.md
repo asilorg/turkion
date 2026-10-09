@@ -1,6 +1,11 @@
 ---
 title: Moddiy madaniyat
 description: Qirgʻizlarning kundalik hayotida qoʻllaniladigan uy-roʻzgʻor buyumlari, asbob-uskunalar, kiyim-kechak va maishiy joylarni oʻrganish.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/material-culture
+sources:
+- title: 'UNESCO: Ala-kiyiz and Shyrdak'
+  url: https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693
 ---
 
 Qirgʻizistonda moddiy madaniyat uy xoʻjaliklari mehnat, oziq-ovqat, kiyim-kechak va ijtimoiy hayotni tashkil etuvchi ob'ektlar, materiallar va binolarni oʻz ichiga oladi. U koʻchma chorva jihozlari, uy jihozlari, bozor tovarlari va zamonaviy ishlab chiqarish ob'ektlarini oʻz ichiga oladi. Bu sohada kigiz muhim ahamiyatga ega, ammo uni yasash va dekorativ toʻqimachilikdan foydalanish [Felt Textile](/uz/docs/kyrgyzstan/felt-textiles) da alohida koʻrib chiqiladi.
@@ -44,3 +49,9 @@ Mavsumiy chorvachilik bilan shugʻullanadigan baland togʻli uy xoʻjaliklari ko
 - [Felt Textile](/uz/docs/kyrgyzstan/felt-textiles)
 - [Yurt](/uz/docs/kyrgyzstan/yurt)
 - [Oshxona](/uz/docs/kyrgyzstan/cuisine)
+
+## Hujjatlashtirilgan misol
+
+Kigiz gilam uy ichini isitish va bezashga xizmat qiladi; UNESCO ularni tayyorlashda katta va yosh avlod ayollarining hamkorligini tasvirlaydi. [UNESCO: Ala-kiyiz and Shyrdak](https://ich.unesco.org/en/USL/ala-kiyiz-and-shyrdak-art-of-kyrgyz-traditional-felt-carpets-00693).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

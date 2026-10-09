@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda mehmondo'stlik
 description: Turkmanistonda mehmonlarni qabul qilish, birgalikda ovqatlanish, tashrif buyurish amaliyoti va ularning o‘zgaruvchan uy sharoitlari tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/hospitality
+sources:
+- title: 'Turkmenistan State News Agency: State Museum agriculture exhibition (2017)'
+  url: https://turkmenistan.gov.tm/en/post/8717/exhibition-dedicated-to-traditions-of-agriculture-opened-in-the-state-museumof-turkmenistan
 ---
 Turkmanistonda mehmondo'stlik uy xo'jaliklari mehmonlarni qabul qilish, ovqat va choy taklif qilish, o'tirishni tartibga solish va qarindoshlar, qo'shnilar va sayohatchilar bilan munosabatlarni saqlab turish amaliyotlarini anglatadi. Bu oddiy tashriflarda ham, katta yig'ilishlarda ham kuchga kiradi. Rasmiylik darajasi munosabatlarga, mavjud vaqtga, maishiy vositalarga va tashrif sababiga bog'liq.
 
@@ -10,13 +15,13 @@ Uzoq masofalar, mavsumiy sayohatlar va savdo yo'llari bilan bog'langan aholi pun
 
 Mehmondo'stlik yagona tarixiy omon qolish emas. U doimiy ravishda ish haqi, maktab jadvallari, tijorat oziq-ovqatlari va qarindoshlarning tarqoq yashash joylariga moslashtiriladi. Qisqa choyga tashrif buyurish va ko'p kunlik qolishni mehmondo'stlik deb ta'riflash mumkin, ammo ular juda boshqacha mehnat talab qiladi.
 
-## Mehmonxonani tayyorlash
+## Mehmon uchun joy tayyorlash
 
 Mehmonlar asosiy xonada, hovlida yoki suhbat va ovqatlanish uchun tayyorlangan joyda qabul qilinishi mumkin. Gilamlar, yostiqlar, ko'rpa-to'shaklar va yoyilgan mato erga o'tirgan ovqatni tashkil etishga yordam beradi, stullar va stollar ham ko'p xonadonlarda keng tarqalgan. Oila a'zolari odamlarni yoshi, tanishligi va yig'ilish hajmiga qarab qaerga joylashtirishni hal qiladi.
 
 Kutilmagan qo'shni uchun tayyorgarlik minimal bo'lishi mumkin va kelgan qarindoshlar uchun yanada kengroq bo'lishi mumkin. Tozalash, to'qimachilik mahsulotlarini tartibga solish, meva yoki shirinliklar sotib olish va non pishirish rejalashtirilgan tashrifdan oldin bo'lishi mumkin bo'lgan ish shakllaridir. Kattaroq oilalarda bu ish avlodlar va jinslar o'rtasida taqsimlanadi, ammo haqiqiy mehnat taqsimoti uy xo'jaligida farq qiladi.
 
-## Choy, ovqat va takroriy qurbonliklar
+## Choy, taom va qayta taklif qilish
 
 Choy odatda tashrifni ochadi yoki suhbatga hamroh bo'ladi. Tovoq yoki sacakda non, quritilgan mevalar, shirinliklar, yong'oqlar, konservalar va mavsumiy mahsulotlar bo'lishi mumkin. To'liq ovqatlanish kutilsa, sho'rva, guruch, go'sht yoki pishiriqlar kelishi mumkin. Mezbonlar ko'pincha stakanlarni to'ldiradilar va mehmonlarni ovqatlanishga undashadi, mehmonlar esa ishtaha va tanishlarga qarab tanlab qabul qilishlari mumkin.
 
@@ -28,7 +33,7 @@ Tashriflar tug'ilish, kasallik, o'lim, diniy marosimlar, ketish va qaytishni ang
 
 Sayohat qabul qilishning yana bir shaklini joriy qiladi. Boshqa aholi punktidan kelgan mehmon uxlash uchun joy kerak bo'lishi yoki transportni joylashtirishda yordam berishi mumkin, shaharlik mehmonlar esa restoran yoki kafeda kutib olinishi mumkin. Mobil aloqa endi xostlarga oldindan tayyorgarlik ko'rish imkonini beradi, ammo rejalashtirilmagan qo'ng'iroqlar oddiy ijtimoiy hayotning bir qismi bo'lib qolmoqda.
 
-## Chegaralar va zamonaviy sozlamalar
+## Imkoniyatlar va zamonaviy sharoit
 
 Mehmondo'stlikning ham chegaralari bor. Ish, pul, kasallik, gavjum uy-joy va ijtimoiy masofa kim va qanday qabul qilinishiga ta'sir qiladi. Yosh qarindoshlar ish jadvali bo'yicha qisqa tashriflarni afzal ko'rishlari mumkin, keksa a'zolar esa uzoqroq qo'ng'iroq qilish va birga o'tirishni davom ettirishlari mumkin. Savdo maydonchalari uy mehnatini kamaytirishi mumkin, ammo voqeaning yaqinligi va narxini o'zgartirishi mumkin.
 
@@ -43,3 +48,9 @@ Hovlilari va kattaroq oilaviy majmualari bo'lgan qishloq uy xo'jaliklari ko'p qa
 - [Choy va non odobi](/uz/docs/turkmenistan/tea-bread-etiquette)
 - [Oshxona](/uz/docs/turkmenistan/cuisine)
 - [To'y marosimlari](/uz/docs/turkmenistan/wedding-rituals)
+
+## Hujjatlashtirilgan misol
+
+Davlat muzeyining 2017-yilgi dehqonchilik ko‘rgazmasida mehmonlar non-tuz bilan kutib olinib, churek va pishme bilan siylangan. [Turkmenistan State News Agency: State Museum agriculture exhibition (2017)](https://turkmenistan.gov.tm/en/post/8717/exhibition-dedicated-to-traditions-of-agriculture-opened-in-the-state-museumof-turkmenistan).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

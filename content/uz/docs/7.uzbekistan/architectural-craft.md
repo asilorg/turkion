@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda me'morchilik hunarmandchiligi
 description: O‘zbekistonda koshinkorlik, yog‘och o‘ymakorligi, ganch bezaklari va qurilish hunarmandchiligining davomiy amaliyoti.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/architectural-craft
+sources:
+- title: 'UNESCO World Heritage Centre: Samarkand – Crossroad of Cultures'
+  url: https://whc.unesco.org/en/list/603/
 ---
 
 Oʻzbekistonda meʼmorchilik hunarmandchiligi masjidlar, madrasalar, uylar va jamoat binolarining bezakli yuzalarini, yogʻoch konstruksiyalarini, ichki jihozlarini yasash va taʼmirlashni oʻz ichiga oladi. Plitka, oʻyilgan yogʻoch, pishiq gʻisht, bezakli gips uning asosiy materiallaridandir. Eng mashhur tarixiy yodgorliklar muhim misollar keltiradi, ammo bu hunarmandchilik restavratsiya ustaxonalarida, zamonaviy binolarda va kichikroq bezak buyumlarini ishlab chiqarishda ham davom etmoqda.
@@ -27,7 +32,7 @@ Koʻpincha *ganch* deb ataladigan bezakli gips buyumlari devorlar, shiftlar, bo�
 
 Texnikalar aralashmalar, quritish vaqti, asboblar va shkala haqida bilimlarni talab qiladi. Qogʻozdan devorga oʻtkazilgan naqsh burchaklar, teshiklar va tekis boʻlmagan sirtlarga moslashtirilishi kerak. Shogirdlar materiallarni tayyorlash, dizaynlarni kuzatish va usta tuzatishlarini kuzatish orqali oʻrganadilar. Boshqa hunarmandchilikda boʻlgani kabi, ustaxona amaliyoti ham takroriy motivlarni muayyan komissiya uchun qabul qilingan qarorlar bilan birlashtiradi.
 
-## Hunarmandchilik nasl-nasabi va treningi
+## Hunarmandchilik maktablari va ta’lim
 
 Me’morchilik hunarmandchiligi oilaviy ustaxonalar, usta-shogird munosabatlari, kasb-hunar ta’limi, restavratsiya muassasalari orqali yetkazilgan. Hunarmand kafel ishlab chiqarish, yogʻoch oʻymakorligi, suvoqchilik yoki shunga oʻxshash hunarmandchilikka ixtisoslashgan boʻlishi mumkin, kattaroq loyihalar esa mutaxassisliklar boʻyicha hamkorlikni talab qiladi. Qayta tiklash, turizmga yoʻnaltirilgan qurilish, diniy binolar va xususiy uylar uchun buyurtmalar ishning mavjudligi va ishlab chiqarilgan shakllarga ta'sir qiladi.
 
@@ -42,3 +47,9 @@ Samarqand, Buxoro, Xiva va Farg‘ona vodiysi turli me’morchilik tarixi va ust
 - [Oʻzbekistonda bozorlar va hunarmandchilik kvartallari](/uz/docs/uzbekistan/bazaar-crafts) — hunarmandchilik mahsulotlari va bozorlari.
 - [Oʻzbekistonda moddiy madaniyat](/uz/docs/uzbekistan/material-culture) — maishiy ob'ektlar va makonlar.
 - [Oʻzbekistonda ipak va toʻqimachilik anʼanalari](/uz/docs/uzbekistan/silk-textiles) — ustaxona hunarmandchiligining yana bir sohasi.
+
+## Hujjatlashtirilgan misol
+
+UNESCOning Samarqand tavsifida Registon, Shohi Zinda va Go‘ri Amir turli qurilish tarixiga ega yirik majmualar sifatida ko‘rsatilgan. [UNESCO World Heritage Centre: Samarkand – Crossroad of Cultures](https://whc.unesco.org/en/list/603/).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

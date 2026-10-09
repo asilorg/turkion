@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda xalq e'tiqodi
 description: Turkmanistondagi kundalik diniy amaliyot, shifo, himoya odatlari va mahalliy talqinlarining tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/vernacular-belief
+sources:
+- title: 'J. Allaberdieva, Institute of History and Archaeology: History of the Turkmen tamdyr (2021)'
+  url: https://www.turkmenistan.gov.tm/en/post/55715/history-turkmen-tamdyr-traditional-round-shaped-clay-oven
 ---
 Turkmanistondagi xalq e'tiqodi odamlarning salomatlik, baxtsizlik, himoya, baraka va muqaddas narsalarning mavjudligini talqin qilishning kundalik usullarini anglatadi. Bu amaliyotlar islom ta’limoti, oilaviy urf-odatlar, mahalliy shifo bilimlari va Markaziy Osiyo bo‘ylab baham ko‘rilgan g‘oyalarga tayanishi mumkin. Ular juda xilma-xildir va ularni bir xil tizim sifatida yoki oddiy ijtimoiy hayotdan alohida ko'rib chiqmaslik kerak.
 
@@ -43,3 +48,9 @@ Amaliyot shahar va qishloq uy xo'jaliklari, avlodlar, etnik jamoalar va shaxslar
 - [Festivallar](/uz/docs/turkmenistan/festivals)
 - [To'y marosimlari](/uz/docs/turkmenistan/wedding-rituals)
 - [Mehmondo'stlik](/uz/docs/turkmenistan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Tadqiqotchi Jennet Allaberdiyeva tandirdagi gochak naqshini mahalliy tasavvurlarda ko‘z tegishidan saqlovchi belgi sifatida tavsiflaydi. [J. Allaberdieva, Institute of History and Archaeology: History of the Turkmen tamdyr (2021)](https://www.turkmenistan.gov.tm/en/post/55715/history-turkmen-tamdyr-traditional-round-shaped-clay-oven).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

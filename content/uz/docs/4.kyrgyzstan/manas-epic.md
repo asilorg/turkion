@@ -1,6 +1,11 @@
 ---
 title: Manas dostoni
 description: “Manas” dostonining qirg‘iz og‘zaki adabiyoti va ijro amaliyoti sifatidagi bayoni.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/manas-epic
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 *Manas* dostoni - bu qahramon Manas, uning hamrohlari, avlodlari va ularning jamoalariga qaratilgan katta ogʻzaki hikoya. U maxsus qorilar tomonidan ijro etiladi, bosma va audio shakllarda oʻrganiladi va maktab, teatr va ommaviy axborot vositalari uchun moslashtiriladi. Ushbu maqola tarixiy voqealarning oddiy yozuvi sifatida emas, balki adabiy va ijro amaliyoti sifatida koʻrib chiqiladi.
@@ -9,7 +14,7 @@ description: “Manas” dostonining qirg‘iz og‘zaki adabiyoti va ijro amali
 
 Manas haqidagi rivoyatlar qirg‘izzabon jamoalar orasida bir necha versiya va uzunliklarda tarqaldi. Ularning shakllanishini bitta sana yoki muallifga belgilab boʻlmaydi: ijrochilar tomoshabinlar, oʻqituvchi va muhitga nisbatan epizodlarni qoʻshgan, qisqartirgan va qayta tashkil qilgan. Oʻn toʻqqizinchi va yigirmanchi asrlarda qoʻlyozmalarni toʻplash, transkripsiya va nashr etish muayyan spektakllarni saqlab qoldi, ammo ogʻzaki oʻzgarishlarni tugatmadi.
 
-Doston qahramonona hikoya qilish, poetik improvizatsiya va musiqiy hikoya qilishning kengroq Markaziy Osiyo olamiga tegishli. Uning ishlash tarixi uy xoʻjaliklari, chorva lagerlari, jamoat yigʻinlari va keyinchalik madaniy muassasalar bilan bogʻliq. Turli yozuvlarda qarama-qarshi nasl-nasab, epizodlar, til va hikoyaviy urgʻu boʻlishi mumkin.
+Doston qahramonona hikoya qilish, poetik improvizatsiya va musiqiy hikoya qilishning kengroq Markaziy Osiyo olamiga tegishli. Uning ijro tarixi uy xoʻjaliklari, chorva lagerlari, jamoat yigʻinlari va keyinchalik madaniy muassasalar bilan bogʻliq. Turli yozuvlarda qarama-qarshi nasl-nasab, epizodlar, til va hikoyaviy urgʻu boʻlishi mumkin.
 
 ## Manaschi
 
@@ -25,11 +30,11 @@ Rivoyat epizodlari tugʻilish, bayramlar, nikohlar, dafn marosimlari, kampaniyal
 
 ## Matn, yozib olish va moslashtirish
 
-Bosma nashrlar talabalar va tadqiqotchilarga transkripsiya qilingan variantlarni solishtirish imkonini beradi, lekin sahifadagi matn ma'lum bir nuqtada bitta ishlashni ifodalaydi. Audio va video yozuvlar ovoz va tezlikni toʻgʻridan-toʻgʻri saqlaydi, shu bilan birga ijrochi va tomoshabin oʻrtasidagi toʻliq aloqani yoʻqotadi. Tarjimonlar formulali diksiyani, uzun roʻyxatlarni va madaniy jihatdan oʻziga xos atamalarni ta'sirini tekislamasdan berish muammosiga duch kelishadi.
+Bosma nashrlar talabalar va tadqiqotchilarga transkripsiya qilingan variantlarni solishtirish imkonini beradi, lekin sahifadagi matn ma'lum bir nuqtada bitta ijroni ifodalaydi. Audio va video yozuvlar ovoz va tezlikni toʻgʻridan-toʻgʻri saqlaydi, shu bilan birga ijrochi va tomoshabin oʻrtasidagi toʻliq aloqani yoʻqotadi. Tarjimonlar formulali diksiyani, uzun roʻyxatlarni va madaniy jihatdan oʻziga xos atamalarni ta'sirini tekislamasdan berish muammosiga duch kelishadi.
 
 Doston teatr, opera, illyustratsiya, bolalar kitoblari, animatsiya va ommaviy qiroatda moslashtirilgan. Ushbu formatlar yangi auditoriya va vaqt chegaralarini taqdim etadi. Ular, shuningdek, ogʻzaki hikoya, musiqa, vizual vakillik va individual ijrochi hokimiyati oʻrtasidagi muvozanatni oʻzgartiradilar.
 
-## Ishlash sozlamalari va auditoriya
+## Ijro muhiti va tinglovchilar
 
 Tarixan tilovat uylarda, mavsumiy yigʻinlarda, qarindoshlar va qoʻshnilar huzurida boʻlishi mumkin edi. Zamonaviy sharoitlarga maktablar, festivallar, muzeylar, kontsert zallari va yozib olingan eshittirishlar kiradi. Rasmiy bosqich uchun qisqacha parcha hikoyani biladigan va unga javob bera oladigan tinglovchilar uchun kengaytirilgan qiroatdan farq qiladi.
 
@@ -37,10 +42,16 @@ Tinglovchilar diqqat, soʻrovlar, sharhlar va boshqa oʻquvchilar bilan taqqosla
 
 ## Farqlar
 
-Ijrochilar ovozi, uzunligi, syujet ketma-ketligi va formulali parchalarni saqlash yoki yangilash darajasi bilan farqlanadi. Shimoliy va janubiy qiroat jamoalarining oʻz oʻqituvchilari va afzal koʻrgan versiyalari bor, diaspora va shahar kontekstlari esa qoʻshimcha sozlamalar yaratadi. Demak, doston bitta aniq matn emas, balki oʻzgaruvchan ijrolar majmuasi sifatida mavjud. Har bir ijro voqeaning davomiyligi, tinglovchilarning tanishuvi va ijrochining tanloviga qarab mazmun hamda ohangda boshqa-boshqa tus oladi.
+Ijrochilar ovozi, uzunligi, syujet ketma-ketligi va formulali parchalarni saqlash yoki yangilash darajasi bilan farqlanadi. Shimoliy va janubiy qiroat jamoalarining oʻz oʻqituvchilari va afzal koʻrgan versiyalari bor, diaspora va shahar kontekstlari esa qo‘shimcha ijro muhitlari yaratadi. Demak, doston bitta aniq matn emas, balki oʻzgaruvchan ijrolar majmuasi sifatida mavjud. Har bir ijro voqeaning davomiyligi, tinglovchilarning tanishuvi va ijrochining tanloviga qarab mazmun hamda ohangda boshqa-boshqa tus oladi.
 
 ## Shuningdek qarang
 
 - [Musiqa va raqs](/uz/docs/kyrgyzstan/music-dance)
 - [Umumiy e'tiqod](/uz/docs/kyrgyzstan/vernacular-belief)
 - [Festivallar](/uz/docs/kyrgyzstan/festivals)
+
+## Hujjatlashtirilgan misol
+
+Trilogiya «Manas», «Semetey» va «Seytek»ni birlashtiradi. UNESCO bitta o‘zgarmas yozma matnni emas, faol baxshilar jamoasini tavsiflaydi. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

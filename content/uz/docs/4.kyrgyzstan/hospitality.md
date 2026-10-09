@@ -1,6 +1,11 @@
 ---
 title: Mehmondoʻstlik
 description: Qirg‘iz ijtimoiy amaliyotida mehmonlarni qabul qilish, birgalikda ovqatlanish va uy-ro‘zg‘or odobi tavsifi.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/hospitality
+sources:
+- title: 'UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2'
+  url: https://ich.unesco.org/en/decisions/11.COM/10.B.2
 ---
 
 Qirgʻizistondagi mehmondoʻstlik mehmonlarni qabul qilish, ovqat almashish, oʻtirishni tartibga solish va uy xoʻjaliklari oʻrtasidagi munosabatlarni saqlash amaliyotlaridan iborat. Ushbu amaliyotlar qisqacha choy tashriflari, tunab qolishlar, hayot tsikli yigʻilishlari va rasmiy ovqatlarda ifodalanadi. Ularni yagona qoidalar kitobi sifatida koʻrib chiqmaslik kerak: uy resurslari, avlod, turar joy va mezbonlar va mehmonlar oʻrtasidagi munosabatlar kutilgan narsalarni shakllantiradi.
@@ -11,7 +16,7 @@ Yaylovning harakatchanligi va togʻli erlar boʻylab sayohat qilish tashrif buyu
 
 Mehmondoʻstlik, shuningdek, Oʻrta Osiyoning umumiy ovqatlanish va oʻzaro tashrif buyurish odatlariga tayanadi. Amalda uning soʻz boyligi va ketma-ketligi qirgʻizzabon, oʻzbekzabon, rusiyzabon, dungan va boshqa xonadonlarda farq qilishi mumkin. Mehmonning oila bilan oldingi aloqasi koʻpincha tashrif buyuruvchilarning har qanday mavhum toifasidan koʻra muhimroqdir.
 
-## Salom va taklifnoma
+## Salomlashish va taklif qilish
 
 Tashriflar odatda salomlashish, salomatlik va oila haqida soʻrash va oʻtirishga taklif qilish bilan boshlanadi. Uyda poyafzal uy an'analariga qarab olib tashlanishi mumkin va mehmonlar xonaning ma'lum bir qismiga yoʻnaltirilishi mumkin. Choy yoki oziq-ovqatning dastlabki taklifini rad etish vaziyatga qarab boshqacha talqin qilinishi mumkin; mezbonlar odatda oddiy xushmuomalalik doirasida taklifni takrorlaydilar.
 
@@ -23,7 +28,7 @@ Choy qabul qilishning markaziy vositasidir. Unga non, shirinliklar, quritilgan m
 
 Oziq-ovqat koʻpincha *dastorkon* yoki ovqat uchun ishlatiladigan latta yoki yorma ustiga, erga yoki past stol ustiga qoʻyiladi. Mehmonlar bir piyola choy va umumiy idishlarni olishlari mumkin, mezbonlar esa suhbat davomida non va kichik ovqatlarni toʻldirishadi. Kvartira sharoitida bir xil ijtimoiy tartib ovqatlanish stoliga, restoran xonasiga yoki hovliga moslashtirilishi mumkin.
 
-## Oʻtirish va qismlar
+## O‘tirish tartibi va taom ulushlari
 
 Oʻtirish nisbiy yoshni, mehmon holatini va oilaviy rolni ifodalashi mumkin. Faxriy mehmon xonaning kirish eshigidan eng koʻzga koʻringan yoki eng uzoqda joylashgan qismi hisoblangan *tor* tomonga joylashtirilishi mumkin. Biroq, xonaning tartibi, jinsi, avlodi va tanishligi tartibga ta'sir qiladi va yosh qarindoshlar xizmat qilish va oʻtirish oʻrtasida harakat qilishlari mumkin.
 
@@ -37,10 +42,16 @@ Restoranlar va banket zallari, ayniqsa, toʻy va yubileylarni oʻtkazish imkoniy
 
 ## Farqlar
 
-Togʻli yaylovlarda xosting koʻchma oziq-ovqat, sut mahsulotlari va uy yoki chorvachilik uyida mavjud boʻlgan boshpanalarni ta'kidlashi mumkin. Janubiy uy xoʻjaliklari zich mahalla va bozor tarmoqlariga tayanishi mumkin, shahar kvartiralari esa kichikroq joylar va rejalashtirilgan jadvallarni talab qiladi. Ushbu sozlamalarda oʻlchov va menyu salomlashish, suhbatlashish va oʻzaro tashrif buyurishning asosiy ahamiyatiga qaraganda osonroq oʻzgaradi.
+Togʻli yaylovlarda mehmon kutish koʻchma oziq-ovqat, sut mahsulotlari va uy yoki chorvachilik uyida mavjud boʻlgan boshpanalarni ta'kidlashi mumkin. Janubiy uy xoʻjaliklari zich mahalla va bozor tarmoqlariga tayanishi mumkin, shahar kvartiralari esa kichikroq joylar va rejalashtirilgan jadvallarni talab qiladi. Bu sharoitlarda oʻlchov va menyu salomlashish, suhbatlashish va oʻzaro tashrif buyurishning asosiy ahamiyatiga qaraganda osonroq oʻzgaradi.
 
 ## Shuningdek qarang
 
 - [Oshxona](/uz/docs/kyrgyzstan/cuisine)
 - [Festivallar](/uz/docs/kyrgyzstan/festivals)
 - [Yurt](/uz/docs/kyrgyzstan/yurt)
+
+## Hujjatlashtirilgan misol
+
+Yupqa non nominatsiyasida qirg‘iz jupkasi tilga olinadi; uni birga tayyorlash va oilaviy marosimlarda ulashish mehmondo‘stlik shakli sifatida tavsiflanadi. [UNESCO: Flatbread making and sharing, decision 11.COM 10.B.2](https://ich.unesco.org/en/decisions/11.COM/10.B.2).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

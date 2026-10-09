@@ -9,13 +9,13 @@ description: Развёрнутые очерки о кампаниях и сра
 
 ## Статьи
 
-- [Битва при Таласе (751 г. н.э.)](/ru/docs/wars/battle-of-talas)
-- [Сельджукско-византийские войны (1048–1308)](/ru/docs/wars/seljuk-byzantine-wars)
-- [Монгольские завоевания (1206–1368)](/ru/docs/wars/mongol-conquests)
-- [Османские войны экспансии (XIV–XVI вв.)](/ru/docs/wars/ottoman-wars-of-expansion)
-- [Военные походы Тимура (1370–1405)](/ru/docs/wars/timurs-military-campaigns)
-- [Османо-Габсбургские войны (1526–1791)](/ru/docs/wars/ottoman-habsburg-wars)
-- [Русско-казанские войны (1439–1552)](/ru/docs/wars/russo-kazan-wars)
-- [Османо-сефевидские войны (1514–1639)](/ru/docs/wars/ottoman-safavid-wars)
-- [Основание империи Великих Моголов (1526)](/ru/docs/wars/foundation-of-the-mughal-empire)
-- [Турецкая война за независимость (1919–1923)](/ru/docs/wars/turkish-war-of-independence)
+- [Таласская битва](/ru/docs/wars/battle-of-talas)
+- [Византийско-сельджукские войны](/ru/docs/wars/seljuk-byzantine-wars)
+- [Монгольские завоевания](/ru/docs/wars/mongol-conquests)
+- [Возвышение Османской империи](/ru/docs/wars/ottoman-wars-of-expansion)
+- [Тимур](/ru/docs/wars/timurs-military-campaigns)
+- [Османо-габсбургские войны](/ru/docs/wars/ottoman-habsburg-wars)
+- [Русско-казанские войны](/ru/docs/wars/russo-kazan-wars)
+- [Османо-персидские войны](/ru/docs/wars/ottoman-safavid-wars)
+- [Первая битва при Панипате](/ru/docs/wars/foundation-of-the-mughal-empire)
+- [Турецкая война за независимость](/ru/docs/wars/turkish-war-of-independence)

@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda mehmondoʻstlik va hayot aylanish odatlari
 description: Mehmonlar odobi, choy ichish va oilaviy marosimlar O‘zbekistonda kundalik ijtimoiy amaliyot sifatida.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/hospitality
+sources:
+- title: 'UNESCO: Palov culture and tradition, decision 11.COM 10.b.35'
+  url: https://ich.unesco.org/en/Decisions/11.COM/10.b.35
 ---
 
 O‘zbekistonda mehmondo‘stlik mehmonlarni qabul qilish, taom berish, qarindoshlar va qo‘shnilar o‘rtasidagi munosabatlarni saqlash tartiblari orqali namoyon bo‘ladi. Ushbu tartiblar butun mamlakat boʻylab yoki avlodlar boʻylab bir xil emas, lekin choy, non, oʻtirish va umumiy ovqatlanish odatda uchrashuvni tashkil qiladi. Tugʻilish, nikoh va oʻlim bilan bogʻliq hayot tsikli marosimlari ovqat pishirish, tashrif buyurish va yordam berish boʻyicha amaliy majburiyatlarni hisobga olgan holda kengroq miqyosda tegishli amaliyotlardan foydalanadi.
@@ -46,3 +51,9 @@ Choy xizmati, oʻtiradigan joy, sovgʻalar almashinuvi va hayotiy davrdagi yigʻ
 - [Oʻzbek oshxonasi](/uz/docs/uzbekistan/gastronomy) — kundalik va marosimlarda beriladigan taomlar.
 - [O‘zbekistonda bayramlar va mavsumiy marosimlar](/uz/docs/uzbekistan/festivals) — kalendarga asoslangan yig‘inlar.
 - [Oʻzbekistonda moddiy madaniyat](/uz/docs/uzbekistan/material-culture) — maishiy makon va maishiy ob'ektlar.
+
+## Hujjatlashtirilgan misol
+
+Palov ulashish qo‘shnilar va muhtojlarni qo‘llab-quvvatlashga ham xizmat qiladi; hujjatlashtirilgan odat taklif etilgan mehmonlarni siylashdan kengroqdir. [UNESCO: Palov culture and tradition, decision 11.COM 10.b.35](https://ich.unesco.org/en/Decisions/11.COM/10.b.35).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

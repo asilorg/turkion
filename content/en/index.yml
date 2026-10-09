@@ -1,13 +1,12 @@
 title: Digital Encyclopedia of the Turkic World
 description: Much of history is told through great states and familiar names. Less often remembered are the smaller peoples — those whose languages still live in mountain valleys, steppe villages, and distant towns. Their historical places lie scattered across wide lands, from quiet riverbanks to highland passes and forgotten roads. This encyclopedia gathers what can still be known of their histories and ways of life.
-
 hero:
   title: Encyclopedia of the Turkic World
   description: Much of history is told through great states and familiar names. Less often remembered are the smaller peoples — those whose languages still live in mountain valleys, steppe villages, and distant towns. Their historical places lie scattered across wide lands, from quiet riverbanks to highland passes and forgotten roads. This encyclopedia gathers what can still be known of their histories and ways of life.
   links:
     - label: Get started
       to: /docs/common/turkic-peoples
-      class: 'nuxt-only'
+      class: nuxt-only
     - label: Explore timeline
       to: /timeline
       variant: outline
@@ -18,8 +17,8 @@ hero:
       title: "The Turkic World: Your Digital Gateway"
       description: Discover shared roots, languages, and a vibrant, diverse culture.
     - icon: i-streamline-color:islam-flat
-      title: "One Language, Many Nations: Explore the Turkic World"
-      description: Journey across continents into a constellation of cultures united by history and language. This is your digital gateway to the heart of the dynamic Turkic realm.
+      title: Related languages, diverse peoples
+      description: Explore a language family and the distinct histories of its speakers across Eurasia.
     - icon: i-streamline-plump-color:world-flat
       title: Unlock the New World
       description: From Siberian heartlands to Mediterranean shores, discover the peoples and cultures that shape the Turkic world. Your comprehensive guide to a rich, interconnected heritage awaits.
@@ -27,182 +26,173 @@ features:
   - title: Turkmenistan
     description: A nation of neutrality, deep history, and unique traditions.
     icon: i-circle-flags:tm
-    to: /docs/common/turkic-peoples
+    to: /docs/turkmenistan
   - title: Turkey
     description: Where East meets West, a bridge between continents and a hub of dynamic growth.
     icon: i-circle-flags:lang-tr
-    to: /docs/common
+    to: /docs/turkey
   - title: Kazakhstan
     description: The land of the Great Steppe, a nation of vast resources and ambitious vision.
     icon: i-circle-flags:kz
-    to: /docs/common/turkic-peoples
+    to: /docs/kazakhstan
   - title: Uzbekistan
     description: The cradle of ancient Silk Road civilization, home to legendary cities like Samarkand and Bukhara.
     icon: i-circle-flags:lang-uz
-    to: /docs/common/turkic-peoples
+    to: /docs/uzbekistan
   - title: Azerbaijan
     description: The Land of Fire, where ancient Zoroastrian heritage meets modern energy power.
     icon: i-circle-flags:lang-az
-    to: /docs/common/turkic-peoples
+    to: /docs/azerbaijan
   - title: Kyrgyzstan
     description: The land of celestial mountains, preserving a rich nomadic culture and breathtaking natural beauty
     icon: i-circle-flags:kg
-    to: /docs/common/turkic-peoples
+    to: /docs/kyrgyzstan
 details:
   title: The Turkic World in Detail & Modern Cities
   miniatures:
     - title: Timurid-Egyptian envoy scene by Behzad
       to: /miniatures
-      img: /miniatures/index/Behzad_timur_egyptian.jpg
+      img: /miniatures-web/index/Behzad_timur_egyptian.jpg.webp
     - title: Portrait of Muhammad Shaybani, Khan of the Uzbeks
       to: /miniatures
-      img: /miniatures/index/Muhammad_Shaybani.jpg
+      img: /miniatures-web/index/Muhammad_Shaybani.jpg.webp
     - title: Conquest of Baghdad by Timur, from Zafarnama (Book of Victories)
       to: /miniatures
-      img: /miniatures/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg
+      img: /miniatures-web/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg.webp
     - title: The Battle of Mohács
       to: /miniatures
-      img: /miniatures/index/Battle_of_Mohács.jpg
+      img: /miniatures-web/index/Battle_of_Mohács.jpg.webp
     - title: Funeral of Sultan Murad II
       to: /miniatures
-      img: /miniatures/index/Funeral_of_Murat_II.png
+      img: /miniatures-web/index/Funeral_of_Murat_II.png.webp
     - title: Lion Hunt of Emperor Jahangir, circa 1615
       to: /miniatures
-      img: /miniatures/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg
+      img: /miniatures-web/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg.webp
     - title: Construction of the Fort of Kharnaq, by Kamal-ud-din Bihzad
       to: /miniatures
-      img: /miniatures/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg
+      img: /miniatures-web/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg.webp
     - title: Mughal Troops in Pursuit of the Armies of Da'ud
       to: /miniatures
-      img: /miniatures/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg
+      img: /miniatures-web/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg.webp
     - title: Page from the Jahangir Album with calligraphy by Mir Ali, circa 1600
       to: /miniatures
-      img: /miniatures/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg
+      img: /miniatures-web/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg.webp
     - title: Emperor Shah Jahan on Horseback, from the Shah Jahan Album, circa 1630
       to: /miniatures
-      img: /miniatures/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg
+      img: /miniatures-web/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg.webp
     - title: Pictorial Genealogy of the Descendants of Emperor Jahangir, circa 1623-27
       to: /miniatures
-      img: /miniatures/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg
+      img: /miniatures-web/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg.webp
     - title: Accession of Sultan Selim II to the Throne (Part A)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_A.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_A.jpg.webp
     - title: Accession of Sultan Selim II to the Throne (Part B)
       to: /miniatures
-      img: /miniatures/index/Selim_II_ascends_to_the_throne_-_B.jpg
+      img: /miniatures-web/index/Selim_II_ascends_to_the_throne_-_B.jpg.webp
     - title: Siege of Nakhchivan, from the Süleymanname
       to: /miniatures
-      img: /miniatures/index/Sueleymanname_nahcevan.jpg
+      img: /miniatures-web/index/Sueleymanname_nahcevan.jpg.webp
     - title: Portrait of the Scholar Taqi al-Din
       to: /miniatures
-      img: /miniatures/index/Taqi_al_din.jpg
+      img: /miniatures-web/index/Taqi_al_din.jpg.webp
   cities:
     - title: Kazan
-      to: /docs/common
       img: /cities/kazan.png
     - title: Almaty
-      to: /docs/common
+      to: /docs/kazakhstan
       img: /cities/almaty.png
     - title: Istanbul
-      to: /docs/common
+      to: /docs/turkey
       img: /cities/istanbul.png
     - title: Mazar-e-Sharif
-      to: /docs/common
       img: /cities/mazar-e-sharif.png
     - title: Tashkent
-      to: /docs/common
+      to: /docs/uzbekistan
       img: /cities/tashkent.png
     - title: Baku
-      to: /docs/common
+      to: /docs/azerbaijan
       img: /cities/baku.png
     - title: Astana
-      to: /docs/common
+      to: /docs/kazakhstan
       img: /cities/astana.png
     - title: Ashgabat
-      to: /docs/common
+      to: /docs/turkmenistan
       img: /cities/ashgabat.png
     - title: Ankara
-      to: /docs/common
+      to: /docs/turkey
       img: /cities/ankara.png
     - title: Urumqi
-      to: /docs/common
       img: /cities/urumqi.png
-    - title: Astana
-      to: /docs/common
-      img: /cities/astana.png
-
 users:
-    title: What our users say
-    features:
-      - title: Asilbek Madiev
-        description: Founder
-        icon: i-fa-solid:user-tie
-        img: /users/founder.svg
-        to: /docs/common
-        quote: A number of smaller peoples remain poorly documented, and some risk being lost to the historical record. This project documents their languages and narratives in order to keep them accessible. Contributions of any scale are welcome.
-      - title: For Investors
-        quote: Diversify your portfolio by investing in the next bestseller and sharing in its financial success.
-        description: Investor
-        icon: i-solar:wallet-money-bold
-        to: /docs/common/turkic-peoples
-        img: /users/investor.svg
-      - title: For Authors
-        quote: You have a compelling manuscript; we have the resources and the audience. Learn how our platform connects you with serious investors to fund your publishing journey, retain your creative rights, and earn royalties.
-        description: Author
-        icon: i-ph:student-duotone
-        to: /docs/common/turkic-peoples
-        img: /users/author.svg
+  title: How to contribute
+  features:
+    - title: Asilbek Madiev
+      description: Founder
+      icon: i-fa-solid:user-tie
+      img: /users/founder.svg
+      to: /docs/common/turkic-peoples
+      body: A number of smaller peoples remain poorly documented. Turkion keeps their languages and histories accessible and makes sources visible so the material can be checked and improved.
+    - title: For researchers
+      description: Research review
+      icon: i-lucide:book-open-check
+      img: /users/investor.svg
+      to: /docs/essentials/markdown-syntax
+      body: Check dates and historical claims against primary or academic sources. Suggest precise corrections and references for draft articles.
+    - title: For contributors
+      description: Writing and translation
+      icon: i-lucide:pen-line
+      img: /users/author.svg
+      to: /docs/essentials/markdown-syntax
+      body: Use the contributor guide to prepare sourced articles and translations. Drafts are marked until they receive specialist review.
 wars:
   title: Wars, Battles & Armed Conflicts
   features:
-    - title: Battle of Talas (751 CE)
+    - title: Battle of Talas
       description: Abbasid Caliphate (with Karluk Turks) vs. Tang Dynasty China. A pivotal engagement in Central Asia that halted westward Chinese expansion and allowed for the westward spread of Islam among Turkic peoples. It is also famous for the transfer of papermaking technology from China to the Muslim world.
       to: /docs/wars/battle-of-talas
       img: /wars/Battle of Talas.png
-    - title: Seljuk-Byzantine Wars (1048–1308)
+    - title: Byzantine–Seljuk wars
       description: Seljuk Empire vs. Byzantine Empire. The decisive Seljuk victory at Manzikert opened Anatolia (modern Turkey) to Turkic settlement, leading to its eventual Turkification and Islamization. This is the foundational event for the creation of modern Turkey.
       to: /docs/wars/seljuk-byzantine-wars
       img: /wars/Seljuk-Byzantine Wars.png
-    - title: Mongol Conquests (1206–1368)
+    - title: Mongol conquests
       description: Mongol Empire (incorporating many Turkic tribes) vs. various states across Eurasia. While led by the Mongols, these campaigns incorporated and reshaped vast Turkic populations. The conquests led to the creation of Turkic-Mongol successor states (like the Golden Horde and Chagatai Khanate) that became crucibles for later Turkic empires (e.g., Timurids, Ottomans, Uzbeks).
       to: /docs/wars/mongol-conquests
       img: /wars/Mongol Conquests.png
-    - title: Ottoman Wars of Expansion (14th–16th)
+    - title: Rise of the Ottoman Empire
       description: Ottoman Empire vs. Byzantine Empire, Balkan states, Safavid Persia, Mamluk Sultanate. These wars established the Ottoman Empire as a world power, destroyed the Byzantine Empire, and secured Ottoman dominance in the Balkans, Anatolia, and the Middle East for centuries.
       to: /docs/wars/ottoman-wars-of-expansion
       img: /wars/Ottoman Wars of Expansion.png
-    - title: Timur's Military Campaigns (1370–1405)
+    - title: Timur
       description: Timurid Empire vs. Golden Horde, Delhi Sultanate, Ottoman Empire, Mamluk Sultanate. Led by the Turco-Mongol conqueror Timur (Tamerlane), these brutal campaigns from Central India to Anatolia briefly created a vast empire. Although short-lived, they reshaped political landscapes, crippled rival powers like the Golden Horde, and fostered a cultural renaissance in his capitals.
       to: /docs/wars/timurs-military-campaigns
       img: /wars/Timur's Military Campaigns.png
-    - title: Ottoman-Habsburg Wars (1526–1791)
+    - title: Ottoman–Habsburg wars
       description: Ottoman Empire vs. Habsburg Empire (Austria/Spain) and allies. This centuries-long struggle defined the frontier between Islam and Christianity in Central Europe. The failed second Siege of Vienna (1683) marked the beginning of the Ottoman Empire's prolonged retreat from Europe.
       to: /docs/wars/ottoman-habsburg-wars
       img: /wars/Ottoman-Habsburg Wars.png
-    - title: Russo-Kazan Wars (1439–1552)
+    - title: Russo-Kazan Wars
       description: Tsardom of Russia vs. Khanate of Kazan. The conquest of Kazan by Ivan the Terrible ended the rule of the last major successor state of the Golden Horde on the Volga River. It was a catastrophic turning point, leading to the gradual Russian conquest and absorption of most other Turkic khanates in the region (Astrakhan, Sibir).
       to: /docs/wars/russo-kazan-wars
       img: /wars/Russo-Kazan Wars.png
-    - title: Ottoman-Safavid Wars (1514–1639)
+    - title: Ottoman–Persian Wars
       description: Ottoman Empire vs. Safavid Empire (Persia). A sectarian and geopolitical struggle between the Sunni Ottoman and Shia Safavid empires. It solidified the split of the West Asian world along Ottoman-Persian lines and established a lasting border, heavily influencing the identities of modern Turkey, Iran, and Iraq.
       to: /docs/wars/ottoman-safavid-wars
       img: /wars/Ottoman-Safavid Wars.png
-    - title: Foundation of the Mughal Empire (1526)
+    - title: First Battle of Panipat
       description: Forces of Babur (a Timurid prince of Turco-Mongol heritage) vs. Delhi Sultanate. Using Ottoman-style gunpowder tactics, Babur defeated a much larger Indian army. This victory laid the foundation for the Mughal Empire in India, which became one of the world's greatest powers and left an indelible cultural legacy on the subcontinent.
       to: /docs/wars/foundation-of-the-mughal-empire
       img: /wars/Mughal Empire.png
-    - title: The Turkish War of Independence (1919–1923)
+    - title: Turkish War of Independence
       description: Turkish National Movement (Ankara Government) vs. Allied Powers (Greece, France, Armenia, UK/Italy) & the Ottoman Sultanate. Led by Mustafa Kemal Atatürk, this conflict followed WWI and prevented the partition of Anatolia by Allied powers. It resulted in the abolition of the Ottoman Sultanate and the establishment of the Republic of Turkey as a modern, secular nation-state.
       to: /docs/wars/turkish-war-of-independence
       img: /wars/The Turkish War of Independence.png
-
 gallery:
   title: Turkestan Series
   description: |
-      The Turkestan Series of paintings was created during two expeditions to Central Asia in 1867–1868 and 1869–1870, as well as in Paris during the winter of 1868–1869 and in Munich between 1871 and 1873.
+    The Turkestan Series of paintings was created during two expeditions to Central Asia in 1867–1868 and 1869–1870, as well as in Paris during the winter of 1868–1869 and in Munich between 1871 and 1873.
 
-      In the summer of 1867, V. V. Vereshchagin learned that General Konstantin Petrovich Kaufman—newly appointed as the Governor-General of Turkestan and Commander of the Turkestan Military District—was seeking an artist to join his entourage. Through friends, Vereshchagin secured a meeting with the Governor-General and presented his Caucasian sketches. Kaufman was intrigued by the young man and commissioned him into service with the rank of ensign (praporshchik). Notably, Vereshchagin negotiated the right to abstain from wearing a military uniform and received a guarantee that he would not be considered for further promotions.
-
+    In the summer of 1867, V. V. Vereshchagin learned that General Konstantin Petrovich Kaufman—newly appointed as the Governor-General of Turkestan and Commander of the Turkestan Military District—was seeking an artist to join his entourage. Through friends, Vereshchagin secured a meeting with the Governor-General and presented his Caucasian sketches. Kaufman was intrigued by the young man and commissioned him into service with the rank of ensign (praporshchik). Notably, Vereshchagin negotiated the right to abstain from wearing a military uniform and received a guarantee that he would not be considered for further promotions.
   features:
     - title: The Apotheosis of War, 1872, Oil on canvas
       description: |
@@ -248,74 +238,57 @@ gallery:
       icon: i-streamline-plump-color:painting-board-flat
       to: /docs/common/turkic-peoples
       img: /turkestan-series/shah-i-zinda.jpg
-
 countries:
-  title: Wars, Battles & Armed Conflicts
+  title: Countries and cultural practices
   features:
-    - title: 'Uzbekistan'
-      to: '/flags'
-      img: '/flags/uz.svg'
-
-    - title: 'Kazakhstan'
-      to: '/flags'
-      img: '/flags/kz.svg'
-
-    - title: 'Azerbaijan'
-      to: '/flags'
-      img: '/flags/az.svg'
-
-    - title: 'Kyrgyzstan'
-      to: '/flags'
-      img: '/flags/kg.svg'
-
-    - title: 'Turkmenistan'
-      to: '/flags'
-      img: '/flags/tm.svg'
-
-    - title: 'Turkey'
-      to: '/flags'
-      img: '/flags/tr.svg'
-
-
+    - title: Uzbekistan
+      to: /docs/uzbekistan
+      img: /flags/uz.svg
+    - title: Kazakhstan
+      to: /docs/kazakhstan
+      img: /flags/kz.svg
+    - title: Azerbaijan
+      to: /docs/azerbaijan
+      img: /flags/az.svg
+    - title: Kyrgyzstan
+      to: /docs/kyrgyzstan
+      img: /flags/kg.svg
+    - title: Turkmenistan
+      to: /docs/turkmenistan
+      img: /flags/tm.svg
+    - title: Turkey
+      to: /docs/turkey
+      img: /flags/tr.svg
 historyCountries:
   title: Wars, Battles & Armed Conflicts
   features:
-    - title: 'Emirate of Bukhara'
-      to: '/flags'
-      img: '/history-flags/bukhara.svg'
-
-    - title: 'Bayat'
-      to: '/flags'
-      img: '/history-flags/bayat.svg'
-
-    - title: 'Young turks'
-      to: '/flags'
-      img: '/history-flags/young_turk.svg'
-
-    - title: 'Gagauz'
-      to: '/flags'
-      img: '/history-flags/gagauz.svg'
-
-    - title: 'Gokturk'
-      to: '/flags'
-      img: '/history-flags/gokturk.svg'
-
-    - title: 'Nogai'
-      to: '/flags'
-      img: '/history-flags/nogai.svg'
-
-    - title: 'Uyghur'
-      to: '/flags'
-      img: '/history-flags/uyghur.svg'
-
-    - title: 'Khalaj'
-      to: '/flags'
-      img: '/history-flags/khalaj.svg'
-
-    - title: 'Zangezur'
-      to: '/flags'
-      img: '/history-flags/zangezur.svg'
-
+    - title: Emirate of Bukhara
+      to: /flags
+      img: /history-flags/bukhara.svg
+    - title: Bayat
+      to: /flags
+      img: /history-flags/bayat.svg
+    - title: Young turks
+      to: /flags
+      img: /history-flags/young_turk.svg
+    - title: Gagauz
+      to: /flags
+      img: /history-flags/gagauz.svg
+    - title: Gokturk
+      to: /flags
+      img: /history-flags/gokturk.svg
+    - title: Nogai
+      to: /flags
+      img: /history-flags/nogai.svg
+    - title: Uyghur
+      to: /flags
+      img: /history-flags/uyghur.svg
+    - title: Khalaj
+      to: /flags
+      img: /history-flags/khalaj.svg
+    - title: Zangezur
+      to: /flags
+      img: /history-flags/zangezur.svg
 community:
   title: Join us in a collaborative journey
   description: The story of the Turkic world is ever-evolving. We invite scholars, enthusiasts, and all who hold knowledge to contribute to this living resource, helping us build the most accurate and comprehensive portrait of our shared heritage.

@@ -1,6 +1,11 @@
 ---
 title: Mehmondoʻstlik
 description: Ozarbayjonda mehmon kutish, choy tortish, ovqatlanish, tashrif va uy odobi haqida maqola.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/hospitality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Mehmondoʻstlik mehmonlarni kutib olish, taom va choy ulashish, oʻtirishni tashkil qilish hamda qarindosh, qoʻshni va tanishlar bilan munosabatni saqlash amaliyotlarini bildiradi. Bu qatʼiy bitta tartib emas: u holat, munosabat, uy kattaligi, vaqt va oila resurslariga bogʻliq.
@@ -44,3 +49,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine)
 - [Bayramlar va taqvimiy odatlar](/uz/docs/azerbaijan/festivals)
 - [Novruzning uy amaliyotlari](/uz/docs/azerbaijan/novruz-household)
+
+## Hujjatlashtirilgan misol
+
+Ozarbayjon–Turkiya qo‘shma nominatsiyasida issiq choy noksimon idishda murabbo yoki qoqi bilan tortilishi tasvirlangan. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

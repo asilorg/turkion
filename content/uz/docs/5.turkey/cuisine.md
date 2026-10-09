@@ -1,6 +1,11 @@
 ---
 title: Turkiya oshxonasi
 description: Turkiyadagi mintaqaviy taomlar, ingredientlar, taomlar va oshpazlik almashinuviga umumiy nuqtai.
+editorialStatus: draft
+translationOf: /en/docs/turkey/cuisine
+sources:
+- title: 'UNESCO: Turkish coffee culture, decision 8.COM 8.28'
+  url: https://ich.unesco.org/en/decisions/8.COM/8.28
 ---
 
 Turkiya oshxonasi uy ovqatlari, bozor ta'minoti, mavsumiy konservatsiya va ommaviy ovqatlanish shakllari orqali tashkil etilgan. U Anadolu, Qora dengiz, Egey, Trakya, O'rta er dengizi va janubi-sharqiy mintaqalar bilan bog'liq amaliyotlarni, shuningdek, migratsiya va savdo bilan shakllangan shahar oshxonalarini o'z ichiga oladi. Umumiy taomlar ushbu sozlamalarda turli ingredientlar, nomlar va ijtimoiy maqsadlarda foydalaniladi.
@@ -45,3 +50,9 @@ Ovqat tayyorlash bilimlarni avlodlar va uy xoʻjaligi aʼzolari o‘rtasida ham 
 - [Turkiyada non va meze](/uz/docs/turkey/bread-meze)
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Turkiyada moddiy madaniyat](/uz/docs/turkey/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Turk qahvasi ijtimoiy odat hamdir: UNESCO nominatsiyasida uni tayyorlash va tortish tashriflar, bayramlar va unashtirish bilan bog‘langan. [UNESCO: Turkish coffee culture, decision 8.COM 8.28](https://ich.unesco.org/en/decisions/8.COM/8.28).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

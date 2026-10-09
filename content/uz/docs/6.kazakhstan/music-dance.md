@@ -1,9 +1,14 @@
 ---
 title: Qozog'istonda musiqa va raqs
 description: Maishiy, bayram va sahna ko'rinishlarida qozoq vokal, cholg'u va raqs amaliyotlari haqida umumiy ma'lumot.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/music-dance
+sources:
+- title: 'UNESCO: Kazakh traditional art of Dombra Kuy'
+  url: https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996
 ---
 
-Qozogʻistondagi musiqa va raqs yakka cholgʻu ijrosi, kuylangan sheʼr, ijtimoiy raqs va uyushtirilgan sahna koʻrinishini oʻz ichiga oladi. Ular oilaviy tadbirlar, oʻrgatish munosabatlari, yozuvlar va ommaviy tadbirlar orqali tarqaladi, repertuarlar til, mahalliy, avlod va odamlar tinglash va ijro etishning oʻzgaruvchan sozlamalari asosida shakllanadi.
+Qozogʻistondagi musiqa va raqs yakka cholgʻu ijrosi, kuylangan sheʼr, ijtimoiy raqs va uyushtirilgan sahna koʻrinishini oʻz ichiga oladi. Ular oilaviy tadbirlar, oʻrgatish munosabatlari, yozuvlar va ommaviy tadbirlar orqali tarqaladi, repertuarlar til, mahalliy, avlod va odamlar tinglash va ijro etishning o‘zgaruvchan sharoiti asosida shakllanadi.
 
 ## Tarixiy va geografik kontekst
 Koʻchma chorvachilik hayoti, shaharlar oʻrtasidagi savdo va qoʻshni musiqa madaniyatlari bilan aloqalar turli ijro amaliyotlariga yordam berdi. Musiqa koʻpincha tashrif buyurish, uchrashish, ish, marosim oʻtkazish va hikoya qilish bilan birga boʻlgan. Asboblar koʻchma boʻlishi mumkin edi va ijrochining obroʻsi yozuvlar va rasmiy muassasalar tirajini kengaytirishdan oldin qarindoshlar tarmoqlari va mahalliy auditoriya orqali tarqaldi.
@@ -26,7 +31,7 @@ Raqs oilaviy bayramlarda, maktab tadbirlarida va sahnalashtirilgan dasturlarda i
 ## O'rganish va uzatish
 Musiqachilar tinglash, taqlid qilish, oilaviy ta'lim va rasmiy koʻrsatmalar orqali oʻrganadilar. Tajribali ijrochi iborani talaba uni takrorlay olmaguncha qayta-qayta koʻrsatishi mumkin, yozma yozuv va yozuvlar esa qoʻshimcha yordam beradi. Spektakl tanlovlari va onlayn video endi oʻquvchilarga oʻzlarining yaqin joylaridan tashqari talqinlarni solishtirish imkonini beradi.
 
-Tomoshabinlarning bilimi ham muhimdir. Tinglovchilar tanish kuylarni taniydilar, qoʻshiqlar soʻrashadi va yigʻilishda ijrochining tanloviga javob berishadi. Bu oʻzaro e'tibor faqat rasmiy konsert sozlamalariga bogʻliq boʻlmagan janrlarni saqlab qolishga yordam beradi.
+Tomoshabinlarning bilimi ham muhimdir. Tinglovchilar tanish kuylarni taniydilar, qoʻshiqlar soʻrashadi va yigʻilishda ijrochining tanloviga javob berishadi. Bu oʻzaro e'tibor faqat rasmiy konsert muhitiga bogʻliq boʻlmagan janrlarni saqlab qolishga yordam beradi.
 
 Ommaviy axborot vositalari tirajlari bayramlarda eshitiladigan musiqa doirasini kengaytirdi. Bitta tadbir oilaviy qoʻshiq yoki instrumental asardan mashhur raqs musiqasiga oʻtishi mumkin, ishtirokchilar bu oʻzgarishlarni yoshi, didi va yigʻilish maqsadiga qarab muhokama qiladilar.
 
@@ -44,3 +49,9 @@ Repertuar va ijro uslubi mintaqalar, etnik jamoalar, shahar va qishloq joylarida
 - [Dombira va Kui](/uz/docs/kazakhstan/dombyra-kui)
 - [Festivallar](/uz/docs/kazakhstan/festivals)
 - [Moddiy madaniyat](/uz/docs/kazakhstan/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Do‘mbira kuyi ustoz-shogird ta’limi va tinglash orqali o‘rganiladi. Bu cholg‘u shaklini she’riy qo‘shiq ijrosidan farqlash kerak. [UNESCO: Kazakh traditional art of Dombra Kuy](https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

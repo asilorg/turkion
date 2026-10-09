@@ -1,6 +1,11 @@
 ---
 title: Music and Dance in Kazakhstan
 description: An overview of Kazakh vocal, instrumental, and dance practices in domestic, festive, and staged performance settings.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/music-dance
+sources:
+- title: 'UNESCO: Kazakh traditional art of Dombra Kuy'
+  url: https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996
 ---
 
 Music and dance in Kazakhstan encompass solo instrumental playing, sung poetry, social dance, and organized stage performance. They circulate through family occasions, teaching relationships, recordings, and public events, with repertories shaped by language, locality, generation, and the changing settings in which people listen and perform.
@@ -44,3 +49,9 @@ Repertory and performance style differ between regions, ethnic communities, and 
 - [Dombyra and Kui](/en/docs/kazakhstan/dombyra-kui)
 - [Festivals](/en/docs/kazakhstan/festivals)
 - [Material Culture](/en/docs/kazakhstan/material-culture)
+
+## Documented example
+
+Dombra kuy is learned through apprenticeship as well as listening. Its instrumental form should be distinguished from sung poetic performance. [UNESCO: Kazakh traditional art of Dombra Kuy](https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

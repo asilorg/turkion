@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda musiqa va raqs
-description: Turkman cholgʻu musiqasi, qoʻshiq, raqs sozlamalari va ijrochilik bilimlarini uzatish haqida umumiy maʼlumot.
+description: Turkman cholgʻu musiqasi, qoʻshiq, raqs muhiti va ijrochilik bilimlarini uzatish haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/music-dance
+sources:
+- title: 'UNESCO: Dutar safeguarding plan (2020)'
+  url: https://ich.unesco.org/doc/src/49033-EN.pdf
 ---
 Turkmanistondagi musiqa va raqs cholg'u repertuarlarini, kuylangan she'rlarni, ijtimoiy raqslarni va oilaviy tadbirlar bilan bog'liq chiqishlarni o'z ichiga oladi. Ular tinglash, taqlid qilish, ko'rsatma berish va yig'ilishlarda qatnashish orqali o'rganiladi. Bitta spektakl musiqachining individual uslubini asbob, repertuar, til va sahna konventsiyalari bilan bog'lashi mumkin.
 
@@ -12,7 +17,7 @@ Yozib olish, radioeshittirish, konservatoriya ta'limi va kuchaytirilgan tadbirla
 
 ## Dutor va cholg'u asboblari repertuari
 
-*Dutor* deb nomlangan uzun boʻyinli ikki torli lavta koʻpgina turkman cholgʻu anʼanalarida markaziy oʻrin tutadi. O'yinchilar *kuý* deb nomlanuvchi qismlarni shakllantirish uchun yirtilgan naqshlar, takroriy ohangdor formulalar va turli pacinglardan foydalanadilar. Spektakl yakkaxon yoki qo'shiqchiga hamroh bo'lishi mumkin, musiqachilar esa sozlash, barmoqlar, bezaklar va afzal qilingan repertuarda farqlanadi.
+*Dutor* deb nomlangan uzun dastali ikki torli dutor koʻpgina turkman cholgʻu anʼanalarida markaziy oʻrin tutadi. Ijrochilar *kuý* deb ataladigan kuylarni chalishda tor chertish usullari, takroriy ohanglar va turli sur’atlardan foydalanadilar. Spektakl yakkaxon yoki qo'shiqchiga hamroh bo'lishi mumkin, musiqachilar esa sozlash, barmoqlar, bezaklar va afzal qilingan repertuarda farqlanadi.
 
 Asbob yasash yog'ochni tanlashni, tana va bo'yinni shakllantirishni, torlarni o'rnatishni va torlarni saqlashni talab qiladi. Asboblar ham ishchi asboblar, ham qimmatbaho uy-ro'zg'or buyumlari hisoblanadi. Zamonaviy ishlab chiqarish va sahnani kuchaytirish yangi materiallar va o'yin sharoitlarini taqdim etdi, ammo ko'plab ijrochilar ixtisoslashgan ishlab chiqaruvchilar tomonidan tayyorlangan yoki sozlangan asboblarni afzal ko'rishda davom etmoqdalar.
 
@@ -28,7 +33,7 @@ Raqs ko'pincha to'ylar, mavsumiy yig'inlar va sahnalashtirilgan dasturlar bilan 
 
 Oilaviy tadbirda raqsni o'qitilgan mutaxassislar bajarishi shart emas. Yosh, jins konventsiyasi, ishonch va mahalliy urf-odatlar kim qo'shilishi va qancha vaqt raqsga tushishiga ta'sir qiladi. Yozib olingan musiqa endi ijtimoiy raqsga hamroh bo'ladi, jonli musiqachilar esa ba'zi bayram tadbirlarida muhimligicha qolmoqda.
 
-## Ishlash, til va imkoniyat
+## Ijro, til va marosim
 
 Qo'shiqning mazmuniga uning sozlanishi ta'sir qiladi. To'y birlashma yoki oila haqida parchalarni talab qilishi mumkin, samimiy oqshom esa uzoqroq hikoya qilish imkonini beradi. Musiqachilar, shuningdek, tinglovchilarning yoshi va til bilimiga qarab repertuar tanlaydilar. Ushbu vaziyatni tanlash asarning ma'nosini uning ijro kontekstidan butunlay ajratib bo'lmasligini anglatadi.
 
@@ -47,3 +52,9 @@ Festival maydonlari, radio, televidenie va onlayn yozuvlar repertuarning tarqali
 - [Festivallar](/uz/docs/turkmenistan/festivals)
 - [Toʻy marosimlari](/uz/docs/turkmenistan/wedding-rituals)
 - [Moddiy madaniyat](/uz/docs/turkmenistan/material-culture)
+
+## Hujjatlashtirilgan misol
+
+UNESCOga 2020-yilda taqdim etilgan saqlash rejasida dutor ijrosining olti uslubi, jumladan axalteke, yomut-go‘klan va ersari uslublari ajratilgan. [UNESCO: Dutar safeguarding plan (2020)](https://ich.unesco.org/doc/src/49033-EN.pdf).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

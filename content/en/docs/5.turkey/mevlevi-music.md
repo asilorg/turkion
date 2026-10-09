@@ -1,6 +1,11 @@
 ---
 title: Mevlevi music in Turkey
 description: The musical and ceremonial structure of Mevlevi devotional performance in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/mevlevi-music
+sources:
+- title: 'UNESCO: Mevlevi Sema ceremony'
+  url: https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100
 ---
 
 Mevlevi music is a devotional performance tradition associated with the Mevlevi Sufi order and the ceremony known as *mukabele* or *sema*. It joins composed vocal and instrumental music, poetry, movement, and ritual sequence. Public presentations may borrow its visible elements, but the ceremonial form has specific religious and institutional histories.
@@ -42,3 +47,9 @@ Ceremonies and performances differ in venue, available musicians, audience, and 
 - [Music and dance in Turkey](/en/docs/turkey/music-dance)
 - [Festivals in Turkey](/en/docs/turkey/festivals)
 - [Vernacular belief in Turkey](/en/docs/turkey/vernacular-belief)
+
+## Documented example
+
+The Mevlevi ayin combines vocal and instrumental sections; UNESCO describes a four-part musical structure accompanying the sema ceremony. [UNESCO: Mevlevi Sema ceremony](https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

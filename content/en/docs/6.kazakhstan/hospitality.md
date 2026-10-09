@@ -1,6 +1,11 @@
 ---
 title: Hospitality in Kazakhstan
 description: An examination of guest reception, shared meals, kin obligations, and life-cycle visiting practices in Kazakh households.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/hospitality
+sources:
+- title: 'UNESCO: Spring festive rites of Kazakh horse breeders'
+  url: https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402
 ---
 
 Hospitality in Kazakhstan describes a set of practices for receiving guests, arranging food, and recognizing relations among households. Although individual homes differ in resources and formality, the guest meal remains an important setting for conversation, kinship, and the distribution of attention between host and visitor.
@@ -44,3 +49,9 @@ Apartment living, work schedules, and restaurants have changed the space and dur
 - [Cuisine](/en/docs/kazakhstan/cuisine)
 - [Festivals](/en/docs/kazakhstan/festivals)
 - [Vernacular Belief](/en/docs/kazakhstan/vernacular-belief)
+
+## Documented example
+
+In Terisakkan, families share the first koumiss of the season. The documented local rite links hospitality to the annual milking cycle. [UNESCO: Spring festive rites of Kazakh horse breeders](https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

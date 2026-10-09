@@ -1,6 +1,11 @@
 ---
 title: Festivals and seasonal observances in Turkey
 description: An account of religious holidays, seasonal gatherings, and local fairs as cultural practices in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/festivals
+sources:
+- title: 'UNESCO: Spring celebration Hıdrellez'
+  url: https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284
 ---
 
 Festivals in Turkey bring together religious calendars, agricultural seasons, municipal events, and family obligations. They are not a single national repertoire: observance changes by locality, household, generation, and religious affiliation. Visiting, food preparation, public entertainment, and market activity commonly connect formal holidays with ordinary social life.
@@ -43,3 +48,9 @@ Holiday observance varies according to household resources, migration patterns, 
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Music and dance in Turkey](/en/docs/turkey/music-dance)
 - [Vernacular belief in Turkey](/en/docs/turkey/vernacular-belief)
+
+## Documented example
+
+Hıdrellez is documented through a joint Türkiye–North Macedonia heritage inscription, showing that a seasonal tradition can cross modern borders. [UNESCO: Spring celebration Hıdrellez](https://ich.unesco.org/en/RL/spring-celebration-hdrellez-01284).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

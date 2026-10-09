@@ -1,6 +1,11 @@
 ---
 title: Hospitality in Turkey
 description: Everyday practices of welcoming, feeding, visiting, and reciprocal obligation in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/hospitality
+sources:
+- title: 'UNESCO: Culture of Çay (tea)'
+  url: https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685
 ---
 
 Hospitality in Turkey concerns the practical work of receiving visitors, offering food and drink, and maintaining relationships across households. It is expressed in formal visits, unannounced calls, life-cycle events, and encounters with travelers, but its forms are shaped by means, time, and local convention. A guest’s treatment is a social practice rather than evidence of an unchanging national character.
@@ -42,3 +47,9 @@ Norms differ across regions, class positions, religious communities, and generat
 - [Cuisine in Turkey](/en/docs/turkey/cuisine)
 - [Coffeehouses and tea gardens](/en/docs/turkey/coffeehouse-tea-garden)
 - [Hammam in Turkey](/en/docs/turkey/hammam)
+
+## Documented example
+
+The joint tea inscription covers Türkiye and Azerbaijan. It treats serving tea as relationship-building work involving growers, hosts and makers of utensils. [UNESCO: Culture of Çay (tea)](https://ich.unesco.org/en/RL/culture-of-cay-tea-a-symbol-of-identity-hospitality-and-social-interaction-01685).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -3,14 +3,15 @@ import { WEBSITE_NAME } from '~/constants/common'
 
 const { locale } = useI18n()
 const localePath = useLocalePath()
-const { data: page } = await useAsyncData('index', () => queryCollection(`index_${locale.value}`).first(), { watch: [locale] })
+const { data: page } = await useAsyncData(() => `index-${locale.value}`, () => queryCollection(`index_${locale.value}`).first(), { watch: [locale] })
 
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
-const title = page.value.seo?.title || page.value.title
-const description = page.value.seo?.description || page.value.description
+const title = computed(() => page.value?.seo?.title || page.value?.title)
+const description = computed(() => page.value?.seo?.description || page.value?.description)
+const siteUrl = useRuntimeConfig().public.siteUrl
 
 useSeoMeta({
   titleTemplate: `%s - ${WEBSITE_NAME}`,
@@ -18,8 +19,8 @@ useSeoMeta({
   ogTitle: title,
   description,
   ogDescription: description,
-  ogImage: 'public/preview.png',
-  twitterImage: 'public/preview.png'
+  ogImage: new URL('/preview.png', siteUrl).href,
+  twitterImage: new URL('/preview.png', siteUrl).href
 })
 </script>
 
@@ -72,20 +73,14 @@ useSeoMeta({
           />
         </div>
         <div class="flex flex-col gap-4">
-          <Motion
-            v-for="(feature, index) in page.hero.features"
+          <div
+            v-for="feature in page.hero.features"
             :key="feature.title"
-            as-child
-            :initial="{ opacity: 0, transform: 'translateX(-10px)' }"
-            :while-in-view="{ opacity: 1, transform: 'translateX(0)' }"
-            :transition="{ delay: 0.2 + 0.4 * index }"
-            :in-view-options="{ once: true }"
           >
             <UPageFeature
               v-bind="feature"
-              class="opacity-0"
             />
-          </Motion>
+          </div>
         </div>
       </template>
 
@@ -104,12 +99,12 @@ useSeoMeta({
             v-for="component of page.historyCountries.features"
             :key="component.to"
             class="relative group/link aspect-video border-default w-[290px] xl:w-[330px] 2xl:w-[320px] 2xl:p-2 2xl:border-y"
-            :to="localePath(component.to)"
+            :to="component.to ? localePath(component.to) : undefined"
           >
             <UColorModeImage
               :light="component.img"
               :dark="component.img"
-              :alt="`${component.title} preview`"
+              :alt="component.title"
               width="290"
               height="163"
               class="hover:scale-105 lg:hover:scale-110 transition-transform aspect-video w-full border-x lg:border-x-0 lg:border-y border-default 2xl:border-y-0"
@@ -138,12 +133,12 @@ useSeoMeta({
             v-for="component of page.countries.features"
             :key="component.to"
             class="relative group/link aspect-video border-default w-[290px] xl:w-[330px] 2xl:w-[320px] 2xl:p-2 2xl:border-y"
-            :to="localePath(component.to)"
+            :to="component.to ? localePath(component.to) : undefined"
           >
             <UColorModeImage
               :light="component.img"
               :dark="component.img"
-              :alt="`${component.title} preview`"
+              :alt="component.title"
               width="290"
               height="163"
               class="object-fill hover:scale-105 lg:hover:scale-110 transition-transform aspect-video w-full border-x lg:border-x-0 lg:border-y border-default 2xl:border-y-0"
@@ -165,23 +160,17 @@ useSeoMeta({
 
     <UPageSection :ui="{ container: 'lg:py-16', root: 'bg-muted/25' }">
       <ul class="grid grid-cols-1 gap-x-6 sm:grid-cols-2 lg:grid-cols-3 gap-y-6 lg:gap-x-8 lg:gap-y-8 xl:gap-y-10">
-        <Motion
-          v-for="(feature, index) in page.features"
+        <li
+          v-for="feature in page.features"
           :key="feature.title"
-          as="li"
-          :initial="{ opacity: 0, transform: 'translateY(10px)' }"
-          :while-in-view="{ opacity: 1, transform: 'translateY(0)' }"
-          :transition="{ delay: 0.1 * index }"
-          :in-view-options="{ once: true }"
           class="flex items-start gap-x-3 relative group"
         >
           <NuxtLink
             v-if="feature.to"
             :to="localePath(feature.to)"
             class="absolute inset-0 z-10"
-          >
-            <span class="sr-only">Go to {{ feature.title }}</span>
-          </NuxtLink>
+            :aria-label="feature.title"
+          />
 
           <div
             class="relative p-3"
@@ -259,7 +248,7 @@ useSeoMeta({
               {{ feature.description }}
             </p>
           </div>
-        </Motion>
+        </li>
       </ul>
     </UPageSection>
 
@@ -281,12 +270,12 @@ useSeoMeta({
             v-for="miniature of page.details.miniatures"
             :key="miniature.img"
             class="relative group/link 2xl:w-[320px] 2xl:p-2"
-            :to="localePath(miniature.to)"
+            :to="miniature.to ? localePath(miniature.to) : undefined"
           >
             <UColorModeImage
               :light="miniature.img"
               :dark="miniature.img"
-              :alt="`${miniature.title} preview`"
+              :alt="miniature.title"
               width="350"
               height="500"
               class="hover:scale-105 lg:hover:scale-110 transition-transform w-87.5 h-125 bg-cover"
@@ -312,13 +301,14 @@ useSeoMeta({
           <ULink
             v-for="city of page.details.cities"
             :key="city.img"
+            :as="city.to ? 'a' : 'div'"
             class="relative group/link 2xl:p-2"
-            :to="localePath(city.to)"
+            :to="city.to ? localePath(city.to) : undefined"
           >
             <UColorModeImage
               :light="city.img"
               :dark="city.img"
-              :alt="`${city.title} preview`"
+              :alt="city.title"
               width="300"
               height="300"
               class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"
@@ -346,12 +336,13 @@ useSeoMeta({
           v-for="(user, index) in page.users.features"
           :key="user.title + index"
           as="li"
-          :description="user.quote"
+          :description="user.body"
+          :to="user.to ? localePath(user.to) : undefined"
           orientation="vertical"
           spotlight
           spotlight-color="primary"
           :ui="{
-            description: 'before:content-[open-quote] after:content-[close-quote] min-h-[160px] text-center',
+            description: 'min-h-[160px] text-center',
             header: 'flex flex-col w-full items-center text-center'
           }"
         >
@@ -396,7 +387,7 @@ useSeoMeta({
         }"
       >
         <UPageCard
-          :to="localePath(item.to)"
+          :to="item.to ? localePath(item.to) : undefined"
           :icon="item.icon"
           :title="item.title"
           target="_blank"
@@ -411,7 +402,7 @@ useSeoMeta({
         >
           <NuxtImg
             :src="item.img"
-            :alt="`Template ${item.title} screenshot`"
+            :alt="item.title"
             width="620"
             height="348"
             loading="lazy"
@@ -437,12 +428,12 @@ useSeoMeta({
             v-for="war of page.wars.features"
             :key="war.img"
             class="relative group/link 2xl:p-2"
-            :to="localePath(war.to)"
+            :to="war.to ? localePath(war.to) : undefined"
           >
             <UColorModeImage
               :light="war.img"
               :dark="war.img"
-              :alt="`${war.title} preview`"
+              :alt="war.title"
               width="300"
               height="300"
               class="hover:scale-105 lg:hover:scale-110 transition-transform w-[300px]"

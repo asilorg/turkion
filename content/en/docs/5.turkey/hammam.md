@@ -1,6 +1,11 @@
 ---
 title: Hammam in Turkey
 description: Bathing architecture, bodily care, labor, and sociability in hammams in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/hammam
+sources:
+- title: 'Metropolitan Museum of Art: Ottoman hammam shoes, object 81722'
+  url: https://www.metmuseum.org/art/collection/search/81722
 ---
 
 A *hammam* is a bathhouse organized around washing, heat, massage, and social interaction. In Turkey, hammams include historic urban buildings, neighborhood bathhouses, hotel facilities, and contemporary wellness businesses. Their practices are shaped by gender arrangements, class, religious ideas of cleanliness, commercial labor, and changing patterns of domestic plumbing.
@@ -44,3 +49,9 @@ Hammams vary from small local baths to restored historic complexes and hotel spa
 - [Material culture in Turkey](/en/docs/turkey/material-culture)
 - [Hospitality in Turkey](/en/docs/turkey/hospitality)
 - [Coffeehouses and tea gardens](/en/docs/turkey/coffeehouse-tea-garden)
+
+## Documented example
+
+The Metropolitan Museum preserves Ottoman wooden bath shoes with mother-of-pearl inlay, documenting footwear made specifically for the bathhouse. [Metropolitan Museum of Art: Ottoman hammam shoes, object 81722](https://www.metmuseum.org/art/collection/search/81722).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

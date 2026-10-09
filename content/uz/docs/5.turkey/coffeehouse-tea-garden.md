@@ -1,6 +1,11 @@
 ---
 title: Turkiyadagi qahvaxonalar va choyxonalar
 description: Turkiyadagi qahvaxonalar va choy bog'larida ommaviy muloqot, suhbat, o'yinlar va ichimliklar.
+editorialStatus: draft
+translationOf: /en/docs/turkey/coffeehouse-tea-garden
+sources:
+- title: 'UNESCO: Turkish coffee culture, decision 8.COM 8.28'
+  url: https://ich.unesco.org/en/decisions/8.COM/8.28
 ---
 
 Qahvaxonalar va choy bog'lari Turkiyada suhbat, dam olish va norasmiy almashinuv uchun har kungi joylardir. Ular kichik mahalla xonalaridan tortib obodonlashtirilgan ochiq korxonalar va zamonaviy kafelargacha. Ularning ijtimoiy tarkibi, narxlari va qabul qilingan xatti-harakatlari juda xilma-xildir, shuning uchun har ikkala joy turi ham yagona barqaror ma'noga ega emas.
@@ -44,3 +49,9 @@ Joy tanlash kundalik hayot ritmiga ham bogʻliq bo‘ladi. Bir yerda ustaxona, b
 - [Turkiyadagi mehmondoʻstlik](/uz/docs/turkey/hospitality)
 - [Turkiya oshxonasi](/uz/docs/turkey/cuisine)
 - [Turkiyadagi hamam](/uz/docs/turkey/hammam)
+
+## Hujjatlashtirilgan misol
+
+Qahva merosi hujjatida qahvaxonalar ichimlik tayyorlash bilan birga suhbat, yangilik almashish va mutolaa makoni sifatida tasvirlangan. [UNESCO: Turkish coffee culture, decision 8.COM 8.28](https://ich.unesco.org/en/decisions/8.COM/8.28).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

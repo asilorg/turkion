@@ -1,6 +1,11 @@
 ---
 title: Music and dance in Turkey
 description: Regional instruments, repertoires, performance settings, and dances in Turkey.
+editorialStatus: draft
+translationOf: /en/docs/turkey/music-dance
+sources:
+- title: 'UNESCO: Mevlevi Sema ceremony'
+  url: https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100
 ---
 
 Music and dance in Turkey comprise locally transmitted repertoires, professional performance, religious expression, and staged folklore. They are learned in homes, weddings, village gatherings, schools, and media environments. Labels such as “folk” describe broad collecting and performance categories, but particular songs and movements remain tied to region, language, occasion, and community.
@@ -42,3 +47,9 @@ Regional repertoires overlap and change through migration, marriage, touring mus
 - [Mevlevi music in Turkey](/en/docs/turkey/mevlevi-music)
 - [Festivals in Turkey](/en/docs/turkey/festivals)
 - [Material culture in Turkey](/en/docs/turkey/material-culture)
+
+## Documented example
+
+Sema belongs to Mevlevi devotional practice. A staged demonstration and a ceremony within a religious community have different settings and purposes. [UNESCO: Mevlevi Sema ceremony](https://ich.unesco.org/en/RL/mevlevi-sema-ceremony-00100?RL=00100).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

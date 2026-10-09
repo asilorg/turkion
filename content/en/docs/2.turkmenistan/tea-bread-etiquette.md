@@ -1,6 +1,11 @@
 ---
 title: Tea and Bread Etiquette in Turkmenistan
 description: A description of tea service, bread handling, guest seating, and everyday table manners in Turkmenistan.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/tea-bread-etiquette
+sources:
+- title: 'Turkmenistan State News Agency: Tamdyr, national bakery traditions (2021)'
+  url: https://turkmenistan.gov.tm/en/post/54809/tamdyr-national-bakery-traditions
 ---
 
 Tea and bread etiquette in Turkmenistan concerns the small practices through which people begin visits, share food, and recognize guests at home. These practices include preparing tea, arranging bread and accompaniments, offering refills, and deciding who sits where. They are learned through participation and vary with household, generation, setting, and the formality of a visit.
@@ -45,3 +50,9 @@ Tea preference varies by region, household history, and age, as do bread types a
 - [Hospitality](/en/docs/turkmenistan/hospitality)
 - [Cuisine](/en/docs/turkmenistan/cuisine)
 - [Festivals](/en/docs/turkmenistan/festivals)
+
+## Documented example
+
+Chörek is baked against the heated inner wall of a tamdyr, a clay oven; placing and removing the dough requires practiced skill. [Turkmenistan State News Agency: Tamdyr, national bakery traditions (2021)](https://turkmenistan.gov.tm/en/post/54809/tamdyr-national-bakery-traditions).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

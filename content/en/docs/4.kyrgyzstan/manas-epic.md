@@ -1,6 +1,11 @@
 ---
 title: Manas Epic
 description: An account of the Manas epic as a Kyrgyz oral literary and performance practice.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/manas-epic
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 The *Manas* epic is a large body of oral narrative centered on the hero Manas, his companions, descendants, and their communities. It is performed by specialist reciters, studied in print and audio forms, and adapted for school, theatre, and media. This article considers it as a literary and performance practice rather than as a simple record of historical events.
@@ -44,3 +49,9 @@ Performers differ in voice, length, plot sequence, and the degree to which they 
 - [Music and Dance](/en/docs/kyrgyzstan/music-dance)
 - [Vernacular Belief](/en/docs/kyrgyzstan/vernacular-belief)
 - [Festivals](/en/docs/kyrgyzstan/festivals)
+
+## Documented example
+
+The trilogy follows Manas, Semetey and Seytek. UNESCO describes a living community of narrators, rather than a single fixed written text. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

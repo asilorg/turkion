@@ -1,6 +1,11 @@
 ---
 title: Qozog'istonda mehmondo'stlik
 description: Qozoq uy xo'jaliklarida mehmonlarni qabul qilish, umumiy ovqatlanish, qarindosh-urug'larning majburiyatlari va hayot davomida tashrif buyurish amaliyotini tekshirish.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/hospitality
+sources:
+- title: 'UNESCO: Spring festive rites of Kazakh horse breeders'
+  url: https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402
 ---
 
 Qozogʻistondagi mehmondoʻstlik mehmonlarni qabul qilish, ovqatlanishni tashkil qilish va uy xoʻjaliklari oʻrtasidagi munosabatlarni tan olish amaliyotlarini tavsiflaydi. Garchi individual uylar resurslari va rasmiyatchiligida farq qilsa-da, mehmon taomlari suhbat, qarindoshlik va mezbon va mehmon oʻrtasidagi e'tiborni taqsimlash uchun muhim muhit boʻlib qolmoqda.
@@ -42,3 +47,9 @@ Kvartirada yashash, ish jadvali va restoranlar tashriflar maydoni va davomiyligi
 - [Oshxona](/uz/docs/kazakhstan/cuisine)
 - [Festivallar](/uz/docs/kazakhstan/festivals)
 - [Xalq e'tiqodi](/uz/docs/kazakhstan/vernacular-belief)
+
+## Hujjatlashtirilgan misol
+
+Terisakkanda oilalar mavsumning ilk qimizini ulashadi. Hujjatlashtirilgan mahalliy odat mehmondo‘stlikni biyalarni sog‘ish davri bilan bog‘laydi. [UNESCO: Spring festive rites of Kazakh horse breeders](https://ich.unesco.org/en/RL/traditional-spring-festive-rites-of-the-kazakh-horse-breeders-01402).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

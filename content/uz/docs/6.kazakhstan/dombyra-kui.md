@@ -1,9 +1,14 @@
 ---
 title: Dombira va kuy
 description: Dombira va cholg'u kuylari repertuarini tekshirish, jumladan ijro amaliyoti, uzatish va mintaqaviy o'zgarishlar.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/dombyra-kui
+sources:
+- title: 'UNESCO: Kazakh traditional art of Dombra Kuy'
+  url: https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996
 ---
 
-*Dombira* qozoqning koʻplab cholgʻu asboblarida markaziy oʻrinni egallagan uzun boʻyinli, ikki torli lavta hisoblanadi. Uning yakkaxon repertuariga *kui*, cholgʻu kompozitsiyalari yoki nomlari, texnikasi va bogʻliq rivoyatlari tinglashga yordam beradigan asarlar kiradi. Dombira musiqasi festivallar va kontsert zallarida paydo boʻlsa-da, u uy sharoitida ham oʻrganiladi va ijro etiladi.
+*Dombira* qozoqning koʻplab cholgʻu asboblarida markaziy oʻrinni egallagan uzun dastali, ikki torli lavta hisoblanadi. Uning yakkaxon repertuariga *kui*, cholgʻu kompozitsiyalari yoki nomlari, texnikasi va bogʻliq rivoyatlari tinglashga yordam beradigan asarlar kiradi. Dombira musiqasi festivallar va kontsert zallarida paydo boʻlsa-da, u uy sharoitida ham oʻrganiladi va ijro etiladi.
 
 ## Tarixiy va geografik kontekst
 Koʻchma torli asboblar musiqachilarning lagerlar, aholi punktlari va yigʻilishlar oʻrtasida harakatlanishi uchun mos edi. Ogʻzaki oʻqitish asarlarni takroriy namoyish qilish orqali saqlab qolishga imkon berdi, hikoyalar esa hayvonlar, landshaftlar, sayohatlar yoki nomli ijrochilar bilan alohida kompozitsiyalarni bogʻladi. Yozma yozuvlar va yozuvlar keyinchalik oʻqituvchi va talaba bilan bevosita aloqa qilishdan tashqari versiyalarni tarqatish imkonini berdi.
@@ -23,7 +28,7 @@ Musiqachilar va olimlar dombira ijrochiligida gʻarbiy va sharqiy tendentsiyalar
 
 Ogʻzaki janr tarixida nomlari koʻrsatilgan kompozitor va ijrochilar muhim oʻrin tutadi. Ularning asarlari talabalarning avlodlari, nashr etilgan toʻplamlari, yozuvlari va konservatoriyadagi oʻqishlari orqali uzatiladi. Asar koʻp avlodlar davomida ogʻzaki ravishda tarqalib ketgan boʻlsa, atribut murakkab boʻlishi mumkin.
 
-## O'qitish va zamonaviy ishlash
+## Ta’lim va zamonaviy ijrochilik
 Oʻrganish koʻpincha oʻqituvchining qisqa iboralarni koʻrsatishini tinglashdan boshlanadi. Talabalar ularni koʻpaytiradilar, barmoqlarni oʻrganadilar va iboralarni asta-sekin toʻliq qismga birlashtiradilar. Rasmiy musiqa maktablari nota, imtihonlar va ansambl aranjirovkalaridan foydalanishi mumkin, oilada oʻqitish esa ma'lum bir uy repertuariga yoki uslubiga ustunlik beradi.
 
 Zamonaviy ijrochilar yakkaxon albomlar yozadilar, boshqa asboblar bilan hamkorlik qiladilar va katta konsertlarda kuylarni taqdim etadilar. Bunday aranjirovkalar tovush oʻlchovini oʻzgartiradi, lekin dombiraning ohangdor va ritmik tafsilotlar manbai sifatidagi rolini saqlab qoladi. Onlayn video, shuningdek, ijrochilarga texnikani solishtirish va yangi oʻquvchilarni jalb qilish imkonini beradi.
@@ -42,3 +47,9 @@ Cholg‘u shakli, sozlashuvi, repertuar va o‘qitish usuli mintaqa va ijrochiga
 - [Musiqa va raqs](/uz/docs/kazakhstan/music-dance)
 - [Festivallar](/uz/docs/kazakhstan/festivals)
 - [Moddiy madaniyat](/uz/docs/kazakhstan/material-culture)
+
+## Hujjatlashtirilgan misol
+
+UNESCO kuyni ikki torli do‘mbirada chalinadigan qisqa yakkaxon asar sifatida tavsiflaydi; ijroga ko‘pincha hikoya yoki rivoyat hamroh bo‘ladi. [UNESCO: Kazakh traditional art of Dombra Kuy](https://ich.unesco.org/en/RL/kazakh-traditional-art-of-dombra-kuy-00996).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

@@ -1,6 +1,11 @@
 ---
 title: Xalq e'tiqodi
 description: Qirgʻizistonda odat tusiga kirgan shifo, himoyalanish amaliyotlari va diniy e'tiqodlarga umumiy nuqtai.
+editorialStatus: draft
+translationOf: /en/docs/kyrgyzstan/vernacular-belief
+sources:
+- title: 'UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek'
+  url: https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876
 ---
 
 Qirgʻizistonda xalq e'tiqodi farovonlik, baxtsizlik, himoya, shifo va joylar yoki ajdodlar bilan munosabatlarga oid kundalik gʻoyalar va amaliyotlarni anglatadi. Bu amaliyotlar islomiy ilmlar, oilaviy odatlar, shifo bilimlari va islomdan oldingi ramziy shakllarga tayanishi mumkin. Ular alohida, qat'iy e'tiqod tizimi emas va ularning ma'nolari amaliyotchilar, diniy oʻqituvchilar va uy xoʻjaliklarida farqlanadi.
@@ -11,7 +16,7 @@ Qirg‘iz jamoalari tarixan cho‘ponlik harakatchanligi, mahalliy ziyoratgohlar
 
 "Umumiy til" atamasi foydalidir, chunki u e'tiborni faqat rasmiy ta'limotga emas, balki oddiy harakatlarga qaratadi. Biror kishi bu tanlovlarni qarama-qarshi deb hisoblamasdan, davolanishga murojaat qilishi, diniy mutaxassisga murojaat qilishi va oilaviy davolanishga amal qilishi mumkin. Amaliyotlar ham muhokama qilinadi: ba'zi odamlar ularni odatiy deb qabul qilishadi, boshqalari esa muayyan harakatlarni notoʻgʻri deb bilishadi.
 
-## Yomon koʻzdan himoya qilish
+## Ko‘z tegishidan saqlanish
 
 * Koʻz tiyuu* yoki yomon koʻz haqida tashvish turli yoʻllar bilan ifodalanadi, jumladan, maqtov, bolalar, chorva mollari va yangi sotib olingan narsalar atrofida ehtiyotkorlik. Kontseptsiya, odatda, moʻljallanganmi yoki yoʻqmi, hasad yoki haddan tashqari kuchli e'tibor natijasida etkazilgan zararni anglatadi. Himoya javoblari ibodatlar, maqtovlar bilan ehtiyotkorlik bilan muomala qilish, tumorlar yoki oqsoqol yoki tabib bilan maslahatlashishni oʻz ichiga olishi mumkin.
 
@@ -44,3 +49,9 @@ Amaliyot mintaqalar, diniy jamoalar, avlodlar va alohida xonadonlarda farqlanadi
 - [Festivallar](/uz/docs/kyrgyzstan/festivals)
 - [Manas dostoni](/uz/docs/kyrgyzstan/manas-epic)
 - [Mehmondoʻstlik](/uz/docs/kyrgyzstan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+UNESCO ayrim dostonchilar o‘z da’vatini bashoratli tush bilan bog‘lashini qayd etadi. Bu tush mazmunining tasdig‘i emas, ijrochilar e’tiqodining tavsifidir. [UNESCO: Kyrgyz epic trilogy Manas, Semetey, Seytek](https://ich.unesco.org/fr/RL/manas-semetey-seitek-trilogie-epique-kirghize-00876).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

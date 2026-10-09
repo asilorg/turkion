@@ -1,6 +1,11 @@
 ---
 title: Oʻzbekistonda ipakchilik va toʻqimachilik anʼanalari
 description: Oʻzbekistonda ipakchilik, toʻquvchilik, boʻyash, naqshli gazlama, kashtachilik, toʻqimachilik ayirboshlash.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/silk-textiles
+sources:
+- title: 'UNESCO: The Crafts Development Center in Margilan'
+  url: https://www.unesco.org/en/articles/crafts-development-center-margilan
 ---
 
 O‘zbekistonda ipak va to‘qimachilik qishloq xo‘jaligi ishlab chiqarishi, maishiy mehnat, ixtisoslashtirilgan ustaxonalar va bozor almashinuvini bog‘laydi. Oʻrta Osiyoning bir qancha mintaqalarida asrlar davomida ipak yetishtirilib, toʻqilib kelinmoqda, paxta, jun va import qilingan sintetik tolalar mahalliy liboslar va mebel jihozlarini ham shakllantirgan. Eng mashhur naqshli matolar, jumladan *atlas* va *adras* oddiy mato, ikat boʻyash, kashta tikish va koʻrpa-toʻqimachilik kabi kengroq toʻqimachilik sohasining bir qismidir.
@@ -48,3 +53,9 @@ Elyaf aralashmalari, boʻyoq palitralari, naqsh nomlari va ustaxonalar usullari 
 - [O‘zbekistonda moddiy madaniyat](/uz/docs/uzbekistan/material-culture) — kiyim-kechak, jihozlar va maishiy foydalanish.
 - [Oʻzbekistonda bozorlar va hunarmandchilik kvartallari](/uz/docs/uzbekistan/bazaar-crafts) — ustaxonalar va toʻqimachilik birjalari.
 - [Oʻzbekistonda arxitektura hunarmandchiligi](/uz/docs/uzbekistan/architectural-craft) — dizayn va shogirdlikning tegishli amaliyotlari.
+
+## Hujjatlashtirilgan misol
+
+Marg‘ilon hunarmandchilikni rivojlantirish markazi atlas va adras an’analarini qo‘llab-quvvatlash uchun 2007-yilda Said Ahmadxo‘ja madrasasida tashkil etilgan. [UNESCO: The Crafts Development Center in Margilan](https://www.unesco.org/en/articles/crafts-development-center-margilan).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

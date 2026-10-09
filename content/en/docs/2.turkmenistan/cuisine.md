@@ -1,6 +1,11 @@
 ---
 title: Turkmen Cuisine
 description: An overview of Turkmen foodways, including grain dishes, meat cookery, dairy foods, and the organization of meals.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/cuisine
+sources:
+- title: 'Turkmenistan State News Agency: Traditions of national cuisine (2015)'
+  url: https://turkmenistan.gov.tm/en/post/4563/traditions-of-national-cuisine
 ---
 
 Turkmen cuisine describes household food practices shaped by pastoral production, irrigated farming, and exchange with neighboring regions of Central Asia. Meals commonly combine wheat products, rice, meat, dairy foods, vegetables, and tea. Recipes and serving practices are learned within households and change with season, income, access to markets, and family preference.
@@ -45,3 +50,9 @@ Foodways differ between oasis settlements, pastoral areas, and cities, as well a
 - [Hospitality](/en/docs/turkmenistan/hospitality)
 - [Tea and Bread Etiquette](/en/docs/turkmenistan/tea-bread-etiquette)
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
+
+## Documented example
+
+A 2015 cooking competition in Dashoguz documented dograma: broth served with pieces of bread, meat and onion. [Turkmenistan State News Agency: Traditions of national cuisine (2015)](https://turkmenistan.gov.tm/en/post/4563/traditions-of-national-cuisine).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

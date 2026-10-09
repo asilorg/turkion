@@ -5,6 +5,7 @@ const config = useRuntimeConfig().public
 const locales = config.i18n.locales as LocaleObject[]
 const { locale } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
+const open = ref(false)
 
 function getEmojiFlag(locale: string): string {
   const languageToCountry: Record<string, string> = {
@@ -49,6 +50,7 @@ function getEmojiFlag(locale: string): string {
 
 <template>
   <UPopover
+    v-model:open="open"
     mode="click"
     :content="{ align: 'end' }"
   >
@@ -74,6 +76,7 @@ function getEmojiFlag(locale: string): string {
             class="flex justify-between py-1.5 px-2 gap-1 hover:bg-muted"
             :to="switchLocalePath(localeItem.code)"
             :aria-label="localeItem.name"
+            @click="open = false"
           >
             <span class="text-sm">
               {{ localeItem.name }}

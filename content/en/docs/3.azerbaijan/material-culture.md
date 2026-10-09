@@ -1,6 +1,11 @@
 ---
 title: Material Culture
 description: An overview of domestic objects, dress, tools, building practices, and craft use in Azerbaijan.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/material-culture
+sources:
+- title: 'UNESCO: Traditional art of Azerbaijani carpet weaving'
+  url: https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867
 ---
 
 Material culture in Azerbaijan includes the objects, materials, and spaces through which households organize cooking, storage, dress, work, visiting, and ritual occasions. It includes both handmade and manufactured goods, inherited items and recently purchased ones. Objects acquire meaning through use and maintenance, so an item’s role cannot be inferred only from its decorative appearance or age.
@@ -42,3 +47,9 @@ Housing and equipment differ sharply between urban apartments, courtyard houses,
 - [Carpet and Textiles](/en/docs/azerbaijan/carpet-textiles)
 - [Azerbaijani Cuisine](/en/docs/azerbaijan/cuisine)
 - [Hospitality](/en/docs/azerbaijan/hospitality)
+
+## Documented example
+
+Carpet weaving uses horizontal or vertical looms. The choice of loom and yarn belongs to the object’s production history. [UNESCO: Traditional art of Azerbaijani carpet weaving](https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

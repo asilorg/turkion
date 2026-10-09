@@ -9,13 +9,13 @@ Each article is written as a self-contained encyclopedia entry—more narrative 
 
 ## Articles
 
-- [Battle of Talas (751 CE)](/en/docs/wars/battle-of-talas)
-- [Seljuk-Byzantine Wars (1048–1308)](/en/docs/wars/seljuk-byzantine-wars)
-- [Mongol Conquests (1206–1368)](/en/docs/wars/mongol-conquests)
-- [Ottoman Wars of Expansion (14th–16th centuries)](/en/docs/wars/ottoman-wars-of-expansion)
-- [Timur's Military Campaigns (1370–1405)](/en/docs/wars/timurs-military-campaigns)
-- [Ottoman-Habsburg Wars (1526–1791)](/en/docs/wars/ottoman-habsburg-wars)
-- [Russo-Kazan Wars (1439–1552)](/en/docs/wars/russo-kazan-wars)
-- [Ottoman-Safavid Wars (1514–1639)](/en/docs/wars/ottoman-safavid-wars)
-- [Foundation of the Mughal Empire (1526)](/en/docs/wars/foundation-of-the-mughal-empire)
-- [The Turkish War of Independence (1919–1923)](/en/docs/wars/turkish-war-of-independence)
+- [Battle of Talas](/en/docs/wars/battle-of-talas)
+- [Byzantine–Seljuk wars](/en/docs/wars/seljuk-byzantine-wars)
+- [Mongol conquests](/en/docs/wars/mongol-conquests)
+- [Rise of the Ottoman Empire](/en/docs/wars/ottoman-wars-of-expansion)
+- [Timur](/en/docs/wars/timurs-military-campaigns)
+- [Ottoman–Habsburg wars](/en/docs/wars/ottoman-habsburg-wars)
+- [Russo-Kazan Wars](/en/docs/wars/russo-kazan-wars)
+- [Ottoman–Persian Wars](/en/docs/wars/ottoman-safavid-wars)
+- [First Battle of Panipat](/en/docs/wars/foundation-of-the-mughal-empire)
+- [Turkish War of Independence](/en/docs/wars/turkish-war-of-independence)

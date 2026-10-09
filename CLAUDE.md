@@ -1,53 +1,43 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Commands
 
+Use pnpm and Node.js >=22.18.0 (CI uses Node 24).
+
 ```bash
-pnpm dev          # Start development server
-pnpm build        # Build for production
-pnpm preview      # Preview production build
-pnpm lint         # Run ESLint
-pnpm typecheck    # TypeScript type checking
+pnpm dev            # Development server
+pnpm build          # Production build, including linked localized prerender routes
+pnpm preview        # Production preview
+pnpm lint           # ESLint
+pnpm typecheck      # TypeScript
+pnpm content:check  # Local links/assets, metadata and locale parity
+pnpm test           # Node regression tests
+pnpm media:prepare  # Regenerate public miniature derivatives from archival originals
 ```
 
-Package manager is **pnpm**. There are no tests — CI runs lint and typecheck only.
+CI runs media checks, regression tests (including content validation), lint, typecheck and build on pushes and pull requests.
 
 ## Architecture
 
-**Turkion** is a Nuxt 4 (Vue 3) digital encyclopedia of the Turkic world. It is a content-driven, SSR site with tri-language support (English, Uzbek, Russian).
+Turkion is a Nuxt 4 / Vue 3 content-driven SSR encyclopedia with English, Russian and Uzbek locale prefixes.
 
-### Key layers
+- `app/pages/`: homepage plus routes under `[[lang]]`; `/en`, `/ru`, `/uz` prefixes.
+- `content/{en,ru,uz}`: YAML/Markdown, seven collections per locale (index, docs, timeline, flags, blog, people, miniatures). `content.config.ts` also defines the shared `media` data collection.
+- `app/components/`: reusable UI. `GalleryMediaCard` separates the local image action from verified attribution.
+- `app/app.vue`: localized navigation, reactive SEO and search sections fetched on first opening.
+- `app/app.config.ts`: UI colors, navigation and footer configuration.
+- `i18n/locales/{en,ru,uz}.json`: interface translations; editorial copy lives in content.
+- `server/routes/`: raw Markdown export, sitemap and robots.
+- `public/`: deployable static assets and miniature WebP derivatives.
+- `media/originals/`: archival originals, excluded from public deployment.
+- `scripts/`, `tests/`: repeatable content/media tooling and regression coverage.
 
-- **`app/pages/`** — File-based routing. `index.vue` is the home page; all other routes live under `[[lang]]/` for i18n prefix routing (`/en/*`, `/uz/*`, `/ru/*`). Default locale is English.
-- **`content/`** — All site content stored as YAML and Markdown files, organized by locale (`content/en/`, `content/uz/`, `content/ru/`). Managed via Nuxt Content v3 with 11 typed collections per locale defined in `content.config.ts` (index, docs, timeline, flags, blog, people, miniatures, templates, community, team, releases). Collections are named with locale suffix e.g. `docs_en`, `docs_uz`, `docs_ru`.
-- **`app/components/`** — Vue components, grouped by feature (e.g. `home/`, `content/`, `OgImage/`).
-- **`app/composables/`** — Shared logic: `useNavigation.ts`, `useHeader.ts`, `useMiniatures.ts`, `useFrameworks.ts`.
-- **`app/app.config.ts`** — App-level runtime config: UI colors, header/footer links, SEO defaults, TOC settings.
-- **`i18n/locales/`** — Translation strings in `en.json` and `uz.json`. UI strings go here; page content goes in `content/`.
-- **`server/routes/raw/`** — Server-side API routes.
-- **`public/`** — Static assets: flags, city images, miniatures, war images, audio, user avatars.
+Nuxt Content uses native SQLite. Nuxt Image detects the deployment provider, defaulting to IPX on Node. Motion is a direct dependency. Vercel Analytics is guarded by runtime configuration. The unused component metadata module is intentionally absent.
 
-### Notable modules & their roles
+## Content contracts
 
-| Module | Role |
-|--------|------|
-| `@nuxt/content` | Markdown/YAML CMS with typed collections (native SQLite connector) |
-| `@nuxtjs/i18n` | Locale prefix routing and translation (en, uz, ru) |
-| `@nuxt/ui` + Tailwind CSS 4 | Component library and styling |
-| `@nuxt/image` | Optimized image handling (`vercel` provider in prod, `ipx` in dev) |
-| `nuxt-og-image` | Dynamic OG image generation (requires `NUXT_PUBLIC_SITE_URL`) |
-| `nuxt-llms` | LLM integration (exposes `/llms.txt` and `/llms-full.txt`) |
-| `@nuxtjs/mcp-toolkit` | MCP server integration |
-| `nuxt-component-meta` | Component metadata extraction |
-| `motion-v/nuxt` | Animations |
-| `@vercel/analytics` | Vercel Analytics |
+Schemas live in `content.config.ts`. Country subject articles require relevant `sources: [{title, url}]`; additional fields include `editorialStatus`, `updatedAt`, `translationOf`. Never imply expert review from the presence of citations.
 
-### Environment
+Timeline IDs must correspond across all three locales. Shared media entries contain `id`, public `img`, `originalFile`, and `attributionStatus`; source/credit/license fields are populated only from verified records. Flag entries distinguish states, peoples, movements and reconstructions. Preserve existing article routes and archival originals.
 
-Copy `.env.example` to `.env` and set `NUXT_PUBLIC_SITE_URL` for OG image generation to work locally.
-
-### Content schema
-
-Collection schemas are defined with Zod in `content.config.ts`. When adding or modifying content types, update the schema there first.
+Set `NUXT_PUBLIC_SITE_URL` before building for another domain. It controls canonical/alternate URLs, sitemap and social preview metadata. The default is https://www.turkion.org.

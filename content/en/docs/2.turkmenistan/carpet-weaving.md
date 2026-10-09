@@ -1,6 +1,11 @@
 ---
 title: Carpet Weaving in Turkmenistan
 description: An account of Turkmen carpet materials, weaving processes, design vocabularies, and changing uses.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/carpet-weaving
+sources:
+- title: 'UNESCO: Traditional Turkmen carpet making'
+  url: https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486
 ---
 
 Carpet weaving in Turkmenistan is a specialized textile practice involving wool preparation, spinning, dyeing, loom work, and the organization of patterned surfaces. Carpets have served as floor coverings, tent furnishings, storage textiles, gifts, and saleable goods. Their production links household labor with specialist knowledge and regional trade.
@@ -44,3 +49,9 @@ Weaves differ in knot density, palette, proportions, and the relation between fi
 - [Material Culture](/en/docs/turkmenistan/material-culture)
 - [Wedding Rituals](/en/docs/turkmenistan/wedding-rituals)
 - [Horse Culture](/en/docs/turkmenistan/horse-culture)
+
+## Documented example
+
+UNESCO records both horizontal and vertical looms in Turkmen carpet making; dyed wool forms the patterned textile. [UNESCO: Traditional Turkmen carpet making](https://ich.unesco.org/en/RL/traditional-turkmen-carpet-making-art-in-turkmenistan-01486?RL=01486).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

@@ -1,5 +1,5 @@
 {
-  "banner": "We are inviting scholars, students, visionaries and investors. Let's shape legacy together.",
+  "banner": "Scholars, students, writers and translators are welcome to help improve Turkion. Let's document this heritage together.",
   "contact": "Write to the Author",
   "navigation": {
     "explore": "Explore",
@@ -27,6 +27,40 @@
     "links": "Community",
     "toc": "On this page",
     "report": "Report an issue",
-    "edit": "Edit this page"
+    "edit": "Edit this page",
+    "star": "Star on GitHub"
+  },
+  "gallery": {
+    "viewImage": "View image",
+    "source": "Source",
+    "sourceUnknown": "Source unknown",
+    "credit": "Credit",
+    "license": "License",
+    "symbolType": {
+      "state": "State, territory or organization",
+      "people": "People or community",
+      "movement": "Movement",
+      "reconstruction": "Reconstruction or uncertain attribution"
+    }
+  },
+  "article": {
+    "references": "References",
+    "editorialStatus": "Editorial status",
+    "draft": "Draft",
+    "reviewed": "Reviewed",
+    "updatedAt": "Updated"
+  },
+  "miniatures": {
+    "timurid": "Timurid miniatures",
+    "ottoman": "Ottoman miniatures",
+    "mughal": "Mughal miniatures"
+  },
+  "search": {
+    "title": "Search Turkion",
+    "description": "Search encyclopedia articles and sections."
+  },
+  "header": {
+    "menuTitle": "Site navigation",
+    "menuDescription": "Browse Turkion sections and articles."
   }
 }

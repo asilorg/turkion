@@ -1,6 +1,11 @@
 ---
 title: Material culture in Uzbekistan
 description: Dress, domestic objects, household textiles, and spatial habits in Uzbekistan’s everyday life.
+editorialStatus: draft
+translationOf: /en/docs/uzbekistan/material-culture
+sources:
+- title: 'Uzbekistan intangible heritage inventory: Kulolchilik'
+  url: https://www.ich.uz/en/ich-of-uzbekistan/national-list/domain-5/440-kulolchilik
 ---
 
 Material culture in Uzbekistan includes the clothing, textiles, furniture, utensils, and spatial arrangements through which households conduct everyday life. These objects are made locally, purchased in markets, inherited, repaired, or adapted to new housing. Their use varies by region, income, age, and the urban or rural setting. A description of material culture therefore concerns habits of use as much as it does the visual appearance of individual objects.
@@ -42,3 +47,9 @@ Bukhara and Samarkand are associated with particular embroidery and urban domest
 - [Silk and textile traditions in Uzbekistan](/en/docs/uzbekistan/silk-textiles) — fibres, weaving, and patterned fabrics.
 - [Architectural craft in Uzbekistan](/en/docs/uzbekistan/architectural-craft) — built surfaces and artisan work.
 - [Hospitality and life-cycle customs in Uzbekistan](/en/docs/uzbekistan/hospitality) — meals and domestic reception.
+
+## Documented example
+
+The national ceramics inventory distinguishes glazed and unglazed wares and identifies Rishtan, Gijduvan and Tashkent among craft centres. [Uzbekistan intangible heritage inventory: Kulolchilik](https://www.ich.uz/en/ich-of-uzbekistan/national-list/domain-5/440-kulolchilik).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

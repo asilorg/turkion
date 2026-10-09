@@ -1,6 +1,11 @@
 ---
 title: Qozogʻistonda Navroʻz urf-odatlari
 description: Bahorgi Navro'z uy xo'jaligi amaliyotlari, jumladan tozalash, tashrif buyurish, umumiy ovqatlanish va mavsumiy yangilanishlarni o'rganish.
+editorialStatus: draft
+translationOf: /en/docs/kazakhstan/nauryz-customs
+sources:
+- title: 'UNESCO: International Day of Nowruz'
+  url: https://www.unesco.org/en/days/nowruz?hub=68184
 ---
 
 Nauriz Qozogʻistonda uy-roʻzgʻor tayyorlash, tashrif buyurish, ovqatlanish va ommaviy yigʻilishlar orqali nishonlanadigan bahorgi tengkunlik bayramidir. Uning urf-odatlari yangi mavsumiy tsiklga oʻtishni ta'kidlaydi, ammo ularning shakllari oilalar va aholi punktlari oʻrtasida farq qiladi. Ushbu maqola kengroq yillik festival taqvimiga emas, balki mahalliy va oshpazlik amaliyotlariga qaratilgan.
@@ -26,7 +31,7 @@ Tashrif amaliyoti qishda yoki ish bilan band boʻlgan davrda kamroq e'tibor qara
 ## Ochiq faoliyat va maishiy namoyish
 Ommaviy Nauriz tadbirlari musiqa, oʻyinlar, oziq-ovqat doʻkonlari va tashrif buyuruvchilar uchun jihozlangan vaqtinchalik turar joylarni oʻz ichiga olishi mumkin. Uy xoʻjaliklari darajasida kiyim-kechak, dasturxon va ovqatni tartibga solish mavsumiy yangilanishni koʻrinadigan qiladi. Bolalar maktab tomoshalari, hunarmandchilik faoliyati yoki kattaroq qarindoshlariga tashrif buyurishlari mumkin.
 
-Ushbu sozlamalar uy ishlarini bir xil qilmasdan ommaviy bayram bilan bogʻlaydi. Oilalar vaqt, afzallik yoki joylashuvga qarab tinch ovqatlanish, katta yigʻilish yoki tanlangan tadbirlar orqali ishtirok etishlari mumkin.
+Bunday tadbirlar uy ishlarini bir qolipga solmasdan ommaviy bayram bilan bogʻlaydi. Oilalar vaqt, afzallik yoki joylashuvga qarab tinch ovqatlanish, katta yigʻilish yoki tanlangan tadbirlar orqali ishtirok etishlari mumkin.
 
 Navroʻz bayramiga tayyorgarlik mavsumiy ingredientlar va uy-roʻzgʻor asboblarini yangidan koʻrish imkonini beradi. Qarindoshlar uchun har hafta tayyorlanmaydigan idishlar tayyorlanishi mumkin, mehmonlar uchun esa saqlanadigan toʻqimachilik va xizmat koʻrsatish idishlari olib kelinadi. Ushbu moddiy tafsilotlar yangilanishning amaliy uy shaklini beradi.
 
@@ -43,3 +48,9 @@ Nauryz koje ingredientlari, tashrif naqshlari va jamoat tadbirlari mintaqa va uy
 - [Oshxona](/uz/docs/kazakhstan/cuisine)
 - [Mehmondoʻstlik](/uz/docs/kazakhstan/hospitality)
 - [Navroʻz](/uz/docs/common/navruz)
+
+## Hujjatlashtirilgan misol
+
+Nauriz keng tarqalgan bahorgi Navro‘z an’anasiga kiradi. UNESCO qarindoshlarni yo‘qlash va ayniqsa bolalarga sovg‘alar berishni qayd etadi. [UNESCO: International Day of Nowruz](https://www.unesco.org/en/days/nowruz?hub=68184).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

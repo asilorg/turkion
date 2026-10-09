@@ -1,0 +1,1806 @@
+{
+  "maxDimension": 1600,
+  "quality": 82,
+  "items": [
+    {
+      "originalFile": "media/originals/miniatures/index/Battle_of_Mohács.jpg",
+      "img": "/miniatures-web/index/Battle_of_Mohács.jpg.webp",
+      "sha256": "26a89927d06b6c5b289591310e44d0968c16f74a2367d920dd5406f4a322d47b",
+      "originalBytes": 3485294
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Behzad_timur_egyptian.jpg",
+      "img": "/miniatures-web/index/Behzad_timur_egyptian.jpg.webp",
+      "sha256": "412904b9b78fd6f5ec3789940d84643706afbe292e0e24aba2a58056c5f11b09",
+      "originalBytes": 806809
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg",
+      "img": "/miniatures-web/index/Conquest_of_Baghdad_by_Timur_,_Folio_from_a_Zafarnama_(Book_of_Victories)_MET.jpg.webp",
+      "sha256": "9bcfbd6b8be413624e1d60b347dfe62b1e2c119bd2cb72d2735c94fae924acb2",
+      "originalBytes": 2297901
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Funeral_of_Murat_II.png",
+      "img": "/miniatures-web/index/Funeral_of_Murat_II.png.webp",
+      "sha256": "1cd94202caaf6d2df28d65c9ff42a9f2f946812e044876446aa3bd441d6a7380",
+      "originalBytes": 4080437
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg",
+      "img": "/miniatures-web/index/Jahangir's_Lion_Hunt_ca._1615,_Aga_Khan_Museum,_Geneva.jpg.webp",
+      "sha256": "48c245df7d896592288929eb49cb96bfb0bf398539b82b9c16643c1c38b5478d",
+      "originalBytes": 1477138
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
+      "img": "/miniatures-web/index/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg.webp",
+      "sha256": "04223f5e05e57d8657ae6460b6c42008a09ad6098150fa59941d8e29b7b6feab",
+      "originalBytes": 4948460
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg",
+      "img": "/miniatures-web/index/Mughal_Troops_Chase_the_Armies_of_Da'ud.jpg.webp",
+      "sha256": "081daf0ba2f366e9cfd4ee9141723c498f84085c5d357bab7f4d635c76079c89",
+      "originalBytes": 411373
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Muhammad_Shaybani.jpg",
+      "img": "/miniatures-web/index/Muhammad_Shaybani.jpg.webp",
+      "sha256": "ce71a53c4ab47a7eb1ea01d4d6de6e65ad70bbaf2cc8a79ae621e8e0c86542fc",
+      "originalBytes": 399004
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg",
+      "img": "/miniatures-web/index/Page_from_Jahangir_Album_with_calligraphy_Mir_Ali,_ca._1600,_Freer_Gallery_of_Art,_Washington.jpg.webp",
+      "sha256": "c88d4b557e99040d7e066319e2b92205b129304656ee1d3883cd12487b2c77c9",
+      "originalBytes": 2255728
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg",
+      "img": "/miniatures-web/index/Payag,_Shah_Jahan_on_Horseback,_Folio_from_the_Shah_Jahan_Album_ca._1630,_Metmuseum.jpg.webp",
+      "sha256": "1f05ec9e9c7cf35b430c9005f30a1918332797b620af8c6ed8161aaa91344528",
+      "originalBytes": 3012691
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg",
+      "img": "/miniatures-web/index/Pictorial_Genealogy_Of_The_Descendants_Of_Jahangir._ca._1623-27,_Aga_Khan_Museum,_Ceneva.jpg.webp",
+      "sha256": "e86719f74002dccb9e0864b36202a9c321b280d3c0c9ad65994fcfae3696db9b",
+      "originalBytes": 3470004
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Selim_II_ascends_to_the_throne_-_A.jpg",
+      "img": "/miniatures-web/index/Selim_II_ascends_to_the_throne_-_A.jpg.webp",
+      "sha256": "6d669c06429016b738811a5783c0252f730dea0c428fc3f1dc97e4518bb50367",
+      "originalBytes": 7445781
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Selim_II_ascends_to_the_throne_-_B.jpg",
+      "img": "/miniatures-web/index/Selim_II_ascends_to_the_throne_-_B.jpg.webp",
+      "sha256": "0c3bc4f3af421a2d1d4db1160253ca94d408101d475195fd5e4f714d2e19dae8",
+      "originalBytes": 7261844
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Sueleymanname_nahcevan.jpg",
+      "img": "/miniatures-web/index/Sueleymanname_nahcevan.jpg.webp",
+      "sha256": "bd40033d2917e419c7c0c0846a815c575ba7d4f3dd598e4e9ed53e9b0c0c52e8",
+      "originalBytes": 459265
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Taqi_al_din.jpg",
+      "img": "/miniatures-web/index/Taqi_al_din.jpg.webp",
+      "sha256": "07fb7c2a39cb6a21a79a7f5fb2309875666de6a9503ecbc6e14ff11725335eea",
+      "originalBytes": 1186765
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg",
+      "img": "/miniatures-web/index/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg.webp",
+      "sha256": "be49d4ccfd1624f4587c45e9bd51bdc628c3c93188b792120bd2315a195b47ad",
+      "originalBytes": 5193895
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Timur_Holding_an_Audience_in_Balkh_in_1370_from_a_copy_of_the_Zafarnama_of_Sharaf_al-Din_‘Ali_Yazdi._Herat_(probably),_1467–8_and_c._1480_Johns_Hopkins_University,_folios_82b–83a.jpg",
+      "img": "/miniatures-web/index/Timur_Holding_an_Audience_in_Balkh_in_1370_from_a_copy_of_the_Zafarnama_of_Sharaf_al-Din_‘Ali_Yazdi._Herat_(probably),_1467–8_and_c._1480_Johns_Hopkins_University,_folios_82b–83a.jpg.webp",
+      "sha256": "cb211f04f19054a2ccac1e06f64f9af5f2f5d9b7d75f67c058aec1272cece96e",
+      "originalBytes": 4022581
+    },
+    {
+      "originalFile": "media/originals/miniatures/index/Timur_reviews_his_troops_in_the_plain_of_Sivas_in_the_battle_of_Ankara_in_mid-summer_1402._Zafarnama_of_1436,_facing_folios_356r_(left),_355v_(right).jpg",
+      "img": "/miniatures-web/index/Timur_reviews_his_troops_in_the_plain_of_Sivas_in_the_battle_of_Ankara_in_mid-summer_1402._Zafarnama_of_1436,_facing_folios_356r_(left),_355v_(right).jpg.webp",
+      "sha256": "46c4ef0648d6ec50f4dbdf74962dbc9847600c7d64f9d9dd54a2d184c347aa37",
+      "originalBytes": 289691
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/'Elephant_with_Mahout',_circa_1660,_The_Metropolitan_Museum_of_Art.jpg",
+      "img": "/miniatures-web/mughal/'Elephant_with_Mahout',_circa_1660,_The_Metropolitan_Museum_of_Art.jpg.webp",
+      "sha256": "f4f69a0a24c18cca75dbdf001c7fee3f430b5bc61509cae8a43f6d42a233e0ff",
+      "originalBytes": 5251633
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1._AN._Ādam_Khān_wird_gefangen_genommen.jpg",
+      "img": "/miniatures-web/mughal/1._AN._Ādam_Khān_wird_gefangen_genommen.jpg.webp",
+      "sha256": "6988e79fca0fc719916cea7e341107b8d7d69f62e2d981253961905934ef87a4",
+      "originalBytes": 762315
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1494-Abubekr_Duglat_attempting_unsuccessfully_to_take_Uzgend_th.jpg",
+      "img": "/miniatures-web/mughal/1494-Abubekr_Duglat_attempting_unsuccessfully_to_take_Uzgend_th.jpg.webp",
+      "sha256": "95c26b03278e55815297694a313a2b350870067de641c44a5468065915e7924a",
+      "originalBytes": 273477
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1494-Babur_enthroned.png",
+      "img": "/miniatures-web/mughal/1494-Babur_enthroned.png.webp",
+      "sha256": "02748af6e58cdb12b61e9b492b6c081262c04623ec0d6e7f44a8036a473d6439",
+      "originalBytes": 4049419
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1498-In_Samarkand_Babur_took_seriously_ill.jpg",
+      "img": "/miniatures-web/mughal/1498-In_Samarkand_Babur_took_seriously_ill.jpg.webp",
+      "sha256": "003b961c524d3a2e686f26816febd2091f0927862eea18226eca9d8e6ad62dd9",
+      "originalBytes": 80400
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1499-Babur's_siege_of_Andijan.jpg",
+      "img": "/miniatures-web/mughal/1499-Babur's_siege_of_Andijan.jpg.webp",
+      "sha256": "3aeea2dfbad7851d57a9883ce93d19197ef1d84fbc4b89bb5fd6e85c9c07cfa2",
+      "originalBytes": 133473
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1502_Acclamation_of_Nine_Standards-detail.jpg",
+      "img": "/miniatures-web/mughal/1502_Acclamation_of_Nine_Standards-detail.jpg.webp",
+      "sha256": "ec75a80b2885a5a181d958013d5a3a4d8c2a68ef24ce81ca96acd96cc0490ede",
+      "originalBytes": 70991
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1502_Acclamation_of_Nine_Standards_th.jpg",
+      "img": "/miniatures-web/mughal/1502_Acclamation_of_Nine_Standards_th.jpg.webp",
+      "sha256": "f69faf189cc68f80199c21ad62510e664f1da697e03a7037b4db2639d8ca0266",
+      "originalBytes": 282614
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1504-5-Baqi_Beg_Chaghaniani_paying_homage_to_Babur.jpg",
+      "img": "/miniatures-web/mughal/1504-5-Baqi_Beg_Chaghaniani_paying_homage_to_Babur.jpg.webp",
+      "sha256": "ae8a1bd059d8bb91ec0092ce9d046c78c1ba5f4940d4f84e0acc08c94d8b820c",
+      "originalBytes": 124448
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1507-A_banquet_including_roast_goose_given_for_Babur_by_the_Mirzas.jpg",
+      "img": "/miniatures-web/mughal/1507-A_banquet_including_roast_goose_given_for_Babur_by_the_Mirzas.jpg.webp",
+      "sha256": "681abd04eba3f0e8fba7774e47791d556c18985799a424a193c311f96187fdab",
+      "originalBytes": 185275
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1507-Babur_hunting_on_the_plains_of_Kattavaz.jpg",
+      "img": "/miniatures-web/mughal/1507-Babur_hunting_on_the_plains_of_Kattavaz.jpg.webp",
+      "sha256": "fd873deb956e6a1eb73029a6741b7af6234162cd971e332417a26a3152d20758",
+      "originalBytes": 101437
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1508-Babur_celebrates_the_birth_of_Humayun_in_the_Chahar_Bagh_of_Kabul.jpg",
+      "img": "/miniatures-web/mughal/1508-Babur_celebrates_the_birth_of_Humayun_in_the_Chahar_Bagh_of_Kabul.jpg.webp",
+      "sha256": "a80891312edbcd6f1fbfa2dddcf8624cfe533446261931ad1fb6a2e691498a94",
+      "originalBytes": 3144617
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/1530-Babur_orders_the_inscription_at_the_spring_near_Zarafshan.jpg",
+      "img": "/miniatures-web/mughal/1530-Babur_orders_the_inscription_at_the_spring_near_Zarafshan.jpg.webp",
+      "sha256": "03cd3359b019049865c0bbc4bc667d645560b592b017e9b93dd24753a3db30b0",
+      "originalBytes": 215403
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/18_Abu'l_Hasan._Portrait_of_Jahangir,_1615-20,_Metropolitan_Museum_of_Art,_New-York.jpg",
+      "img": "/miniatures-web/mughal/18_Abu'l_Hasan._Portrait_of_Jahangir,_1615-20,_Metropolitan_Museum_of_Art,_New-York.jpg.webp",
+      "sha256": "d262ef6e4949377f695e5bc77b8e70313802d898abc602e75f06d0425a89ceda",
+      "originalBytes": 3410832
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/2_Basawan._Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj,_Folio_from_a_Hamzanama_1564-69_Metropolitan_Museum_N-Y.jpg",
+      "img": "/miniatures-web/mughal/2_Basawan._Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj,_Folio_from_a_Hamzanama_1564-69_Metropolitan_Museum_N-Y.jpg.webp",
+      "sha256": "e765ca09a53bcf543ade680f099e25102d522121e4a4a4545fc90d53a9ca3d5d",
+      "originalBytes": 3065302
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/51_The_Crucifixion_With_The_Virgin_And_St._John_ca._1600,_Aga_Khan_Museum,_Geneva.jpg",
+      "img": "/miniatures-web/mughal/51_The_Crucifixion_With_The_Virgin_And_St._John_ca._1600,_Aga_Khan_Museum,_Geneva.jpg.webp",
+      "sha256": "a36bae1caa22413001d82dc8e4afc07a9b0928b0f26b577dd97cc98cb4092eba",
+      "originalBytes": 2118407
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/ALI_HUSAIN_bhisma_retells_that_the_four_varna's_emerges_from_Brahma's_head_,_arms_,_things_and_feet.jpg",
+      "img": "/miniatures-web/mughal/ALI_HUSAIN_bhisma_retells_that_the_four_varna's_emerges_from_Brahma's_head_,_arms_,_things_and_feet.jpg.webp",
+      "sha256": "6fe9bb1ff6365a5e76fc3bd8a51c23733791d030fed6a6e29561438f4b16b00b",
+      "originalBytes": 69403
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_Lion_at_Rest,_ca_1585,_Collection_Nasli_and_Alice_Heeramaneck,_New_Haven.jpg",
+      "img": "/miniatures-web/mughal/A_Lion_at_Rest,_ca_1585,_Collection_Nasli_and_Alice_Heeramaneck,_New_Haven.jpg.webp",
+      "sha256": "fd5a5b8530b2b50f9073913ae483abb8c0063c0295d10d84110f1fb5e8411000",
+      "originalBytes": 3678794
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_Nawab_of_Awadh,_Lucknow,_India._19th_century.jpg",
+      "img": "/miniatures-web/mughal/A_Nawab_of_Awadh,_Lucknow,_India._19th_century.jpg.webp",
+      "sha256": "ea7e8c454b9ec1774a86e4d1f16eefe93adc747b4e39225295b9d2065d155e1d",
+      "originalBytes": 204419
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_Sudden_Flight_is_Reported-_Umar_and_Landhaur_Converse_outside_Hamza's_tent_._._(6125071400).jpg",
+      "img": "/miniatures-web/mughal/A_Sudden_Flight_is_Reported-_Umar_and_Landhaur_Converse_outside_Hamza's_tent_._._(6125071400).jpg.webp",
+      "sha256": "311e2c5fab2ec235cf95af451ab797cb710715a58741d23a76e5aa8acabef78d",
+      "originalBytes": 751637
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_Woman_Visiting_a_Yogini_by_a_River.jpg",
+      "img": "/miniatures-web/mughal/A_Woman_Visiting_a_Yogini_by_a_River.jpg.webp",
+      "sha256": "e7e37b4d2d376ead671f4308ea7b5eee6844cadae77f3ca0fd5fe81bbb6cbba9",
+      "originalBytes": 2025579
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_banquet_for_Babur.jpg",
+      "img": "/miniatures-web/mughal/A_banquet_for_Babur.jpg.webp",
+      "sha256": "078f963c87037d47dcc036bb37df7a69c4e8d37621b91ac47be72242d908824a",
+      "originalBytes": 245600
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_party_held_in_the_pillared_porch_of_Sultan_Ibrahim’s_private_apartments_in_Agra_during_which_gifts_were_made_to_various_officers_(1526)_(Bhura).jpg",
+      "img": "/miniatures-web/mughal/A_party_held_in_the_pillared_porch_of_Sultan_Ibrahim’s_private_apartments_in_Agra_during_which_gifts_were_made_to_various_officers_(1526)_(Bhura).jpg.webp",
+      "sha256": "bf2aa0d89ec2e95705e1ef6d5daf4b2f9547dec791b70fc2acc72553b7405a14",
+      "originalBytes": 276555
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_portrait_of_Khwajah_Abu'l_Hasan_seated_in_profile_wearing_double_dagger_at_wais.jpg",
+      "img": "/miniatures-web/mughal/A_portrait_of_Khwajah_Abu'l_Hasan_seated_in_profile_wearing_double_dagger_at_wais.jpg.webp",
+      "sha256": "c8b1bae4d2611eb8e562e95fbe3009b0094378ba2ae362f6ffca977cd98d2bcb",
+      "originalBytes": 334486
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_royal_couple_in_a_pavilion_with_attendants.jpg",
+      "img": "/miniatures-web/mughal/A_royal_couple_in_a_pavilion_with_attendants.jpg.webp",
+      "sha256": "f4449460aab0120440f8986a131e1eb88d439672fe611c345788d110ce8fd10f",
+      "originalBytes": 293126
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/A_seated_portrait_of_Sayyid_Abdullah_Khan_holding_court_Early_18th_century_The_British_Museum.jpg",
+      "img": "/miniatures-web/mughal/A_seated_portrait_of_Sayyid_Abdullah_Khan_holding_court_Early_18th_century_The_British_Museum.jpg.webp",
+      "sha256": "e67e1379299445d6d568bf6039ca5be5b2a2968e5c9c39efcbae2ad619d7a86c",
+      "originalBytes": 438756
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/After_the_Rhinoceros_hunt_th.jpg",
+      "img": "/miniatures-web/mughal/After_the_Rhinoceros_hunt_th.jpg.webp",
+      "sha256": "27e947b4f701b906666ad8a8f65e2713eff65c8758a5f65fa06f760ba68aa956",
+      "originalBytes": 91122
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Ahmad_Miran_Shahi_and_Mahmud_Chaghata’i,_uncles_of_Babur,_routing_the_enemy_on_a_bridge_when_they_invaded_Farghana_(Murhan).jpg",
+      "img": "/miniatures-web/mughal/Ahmad_Miran_Shahi_and_Mahmud_Chaghata’i,_uncles_of_Babur,_routing_the_enemy_on_a_bridge_when_they_invaded_Farghana_(Murhan).jpg.webp",
+      "sha256": "ad4f65f2372f93bf3b5865e69d59724dc68f7abe5993442f77e8d2463f09f88b",
+      "originalBytes": 2138640
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Ain-i_Akbari_Weaponry.jpg",
+      "img": "/miniatures-web/mughal/Ain-i_Akbari_Weaponry.jpg.webp",
+      "sha256": "c78e5ca228f8a2a281abed3b9a80b288655178bed79eeb648d7d23de0972cd47",
+      "originalBytes": 906546
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Alam_Shah_cleaving_the_chain_of_the_wheel_-_1565_-_Cleveland_Museum_of_Art_(30164502511).jpg",
+      "img": "/miniatures-web/mughal/Alam_Shah_cleaving_the_chain_of_the_wheel_-_1565_-_Cleveland_Museum_of_Art_(30164502511).jpg.webp",
+      "sha256": "b9aec332b9ba12b29a65ed870baef48a779b5c8746684f6400fa8de928517136",
+      "originalBytes": 4295972
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Ambassador_of_Bengal_at_a_reception_with_Babur._Baburnama_of_1590,_British_Library_Or._3714.jpg",
+      "img": "/miniatures-web/mughal/Ambassador_of_Bengal_at_a_reception_with_Babur._Baburnama_of_1590,_British_Library_Or._3714.jpg.webp",
+      "sha256": "84f0f093e090d6769ad7a0db32ece95ae1ef2e8d89be7ca481fefe53a09fed76",
+      "originalBytes": 1918878
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusrau,_Brahman_and_Muslim_pilgrim,_Detail,_MET_13.228.29.jpeg",
+      "img": "/miniatures-web/mughal/Amir_Khusrau,_Brahman_and_Muslim_pilgrim,_Detail,_MET_13.228.29.jpeg.webp",
+      "sha256": "f438335e0829600e4e32ebdbec0db8556d814093321c4dc0e81b47b8601322a0",
+      "originalBytes": 511028
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._115a,_Detail,_Layli_visits_Majnun_in_the_wilderness.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._115a,_Detail,_Layli_visits_Majnun_in_the_wilderness.jpg.webp",
+      "sha256": "4cf7ba2797239a5e7f1aee018d78036d09e34252733f970bd793d3b807ee6987",
+      "originalBytes": 271100
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._139a,_The_Khaqan_of_China_pays_Homage_to_Sikandar.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._139a,_The_Khaqan_of_China_pays_Homage_to_Sikandar.jpg.webp",
+      "sha256": "29f3902aea1f36cb455417dae3e57d3e46dd635da264a9b1ab582e7a2392087f",
+      "originalBytes": 2192802
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._203b,_Prince_Ram_and_the_div_in_the_Temple.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusrau,_Khamsa_W.624,_fol._203b,_Prince_Ram_and_the_div_in_the_Temple.jpg.webp",
+      "sha256": "05f6a25e563775a2115eba862e9bcff39ac1e35f355c243c56ab9bbfefd2b83a",
+      "originalBytes": 2221906
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusrau,_Met_13.228.24,_Bahram_Gur_visits_the_Blue_Pavilion.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusrau,_Met_13.228.24,_Bahram_Gur_visits_the_Blue_Pavilion.jpg.webp",
+      "sha256": "579cff990f31480deb9d10f676cedb888e20c3b53cdc2475a480d5770acb3060",
+      "originalBytes": 215566
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusraw_Dihlavi_-_Five_Poems_(Quintet)_-_Google_Art_Project.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusraw_Dihlavi_-_Five_Poems_(Quintet)_-_Google_Art_Project.jpg.webp",
+      "sha256": "701e65814d862cc6158965a844bbdda8629e2d9d00feea02adceaad2f3e836d5",
+      "originalBytes": 23306027
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusraw_Dihlavi_-_Fratricide_Witnesses_the_Loyalty_of_Two_Friends_-_Walters_W62424B_-_Full_Page.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusraw_Dihlavi_-_Fratricide_Witnesses_the_Loyalty_of_Two_Friends_-_Walters_W62424B_-_Full_Page.jpg.webp",
+      "sha256": "d7278955086f16d05554efb1fb14c6d79e2b59dead5cfad4a50f3fdf563b9b89",
+      "originalBytes": 363680
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusraw_Dihlavi_-_Illuminated_Finispiece_-_Walters_W624173B_-_Full_Page.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusraw_Dihlavi_-_Illuminated_Finispiece_-_Walters_W624173B_-_Full_Page.jpg.webp",
+      "sha256": "0216db3f1d984daf9c7727af5bbfad173030ee3cbfbdb18507252e371eed7339",
+      "originalBytes": 296675
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Amir_Khusraw_Dihlavi_-_The_Story_of_the_Man_Falsely_Accused_of_Incest_as_Told_by_the_Princess_of_the_Sandlwood_Pavilion_-_Walters_W624203B_-_Full_Page.jpg",
+      "img": "/miniatures-web/mughal/Amir_Khusraw_Dihlavi_-_The_Story_of_the_Man_Falsely_Accused_of_Incest_as_Told_by_the_Princess_of_the_Sandlwood_Pavilion_-_Walters_W624203B_-_Full_Page.jpg.webp",
+      "sha256": "0e45c60e6494b2e4a31308ffb60dce333f50b8875f1fe9c655c8062d79a1745b",
+      "originalBytes": 326823
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/An_elderly_woman,_Bibi_Juliyana_(Juliana_Dias_da_Costa),_a_former_attendant_of_the_Mughal_Emperors,_Mughal,_circa_1730-50.jpg",
+      "img": "/miniatures-web/mughal/An_elderly_woman,_Bibi_Juliyana_(Juliana_Dias_da_Costa),_a_former_attendant_of_the_Mughal_Emperors,_Mughal,_circa_1730-50.jpg.webp",
+      "sha256": "da46a4e451d0ba89ab49b3376152ad5c68adab08969eead186ee1f9addefeb01",
+      "originalBytes": 936449
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Arrival_of_Babur_and_his_army_at_Kabul_(1507)_(Tiriyya).jpg",
+      "img": "/miniatures-web/mughal/Arrival_of_Babur_and_his_army_at_Kabul_(1507)_(Tiriyya).jpg.webp",
+      "sha256": "8b9ed6b0bc22c394a93ce31bc18553e694b47d3ca8bd43fa3fab45817bcca25b",
+      "originalBytes": 336219
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Aswamedhayaga_from_Razmnama.jpg",
+      "img": "/miniatures-web/mughal/Aswamedhayaga_from_Razmnama.jpg.webp",
+      "sha256": "3aa5eeca31379ea5fc85d84575020fb0c386757839b614e45fe19eb7a85b49d4",
+      "originalBytes": 1416831
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Aurangzeb_reading_the_Quran.jpg",
+      "img": "/miniatures-web/mughal/Aurangzeb_reading_the_Quran.jpg.webp",
+      "sha256": "5711eab37143817dd728a43f512863b7eeccb819285202566db92f88183b3e99",
+      "originalBytes": 256116
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_Seeks_His_Grandmothers_Advice.jpg",
+      "img": "/miniatures-web/mughal/Babur_Seeks_His_Grandmothers_Advice.jpg.webp",
+      "sha256": "fdb76eb91d31d59c8d2a714537c57328afdff69e3aabda8a007414c482d259be",
+      "originalBytes": 232553
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_and_his_army_arriving_at_Bila_on_the_Indus_(1505)_(Dhanraj).jpg",
+      "img": "/miniatures-web/mughal/Babur_and_his_army_arriving_at_Bila_on_the_Indus_(1505)_(Dhanraj).jpg.webp",
+      "sha256": "c3c390e6981dd7e33cceba1b5e537ff4a7cd744b570d2bb6f686a92d5deacb26",
+      "originalBytes": 319489
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_and_his_troops_warming_themselves_by_fires_on_their_way_to_Kabul_(1507)_(Ramdas).jpg",
+      "img": "/miniatures-web/mughal/Babur_and_his_troops_warming_themselves_by_fires_on_their_way_to_Kabul_(1507)_(Ramdas).jpg.webp",
+      "sha256": "dfaabab1f678ff53fb19f7a5781b266fd8e83153d8ecc334f8543f491bba04a8",
+      "originalBytes": 325027
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_entertained_by_Jahangir_Mirza_at_Ghazni_(1505)_(Bhim_Gujarati).jpg",
+      "img": "/miniatures-web/mughal/Babur_entertained_by_Jahangir_Mirza_at_Ghazni_(1505)_(Bhim_Gujarati).jpg.webp",
+      "sha256": "017a97b52c96db99213014fdc7dc319161bd35f6446d85b4ea6bb52977d34bb9",
+      "originalBytes": 307584
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_fights_Hazara_tribesmen_in_February_1507_on_the_road_from_Herat_to_Kabul.jpg",
+      "img": "/miniatures-web/mughal/Babur_fights_Hazara_tribesmen_in_February_1507_on_the_road_from_Herat_to_Kabul.jpg.webp",
+      "sha256": "66f383188e6ff246fe8bddcab4ad1fa55936d76cc1ab9acc5fef1a4846b82372",
+      "originalBytes": 991126
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_greets_courtiers_at_the_Id_festival.jpg",
+      "img": "/miniatures-web/mughal/Babur_greets_courtiers_at_the_Id_festival.jpg.webp",
+      "sha256": "f66b3f97373a3ae11b2e984f8a5d4203807190502fd185ad4834d32071dd3ba6",
+      "originalBytes": 177606
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_having_prisoners_brought_before_him_after_his_army_had_taken_the_fort_of_Bajaur_(1519)_(Paras).jpg",
+      "img": "/miniatures-web/mughal/Babur_having_prisoners_brought_before_him_after_his_army_had_taken_the_fort_of_Bajaur_(1519)_(Paras).jpg.webp",
+      "sha256": "6e23f1012a0f0f418f84d3b8cd80726553d96f9925a42b8b92b6376b1f68009a",
+      "originalBytes": 332149
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_meets_Khanzada_Begam_and_other_ladies_at_Qunduz,_in_January_1511._Baburnama_of_1598.jpg",
+      "img": "/miniatures-web/mughal/Babur_meets_Khanzada_Begam_and_other_ladies_at_Qunduz,_in_January_1511._Baburnama_of_1598.jpg.webp",
+      "sha256": "266a3e926e8c3770d0feb476193eb13eb6f958b9fdabedd67a1a9a52910a91a2",
+      "originalBytes": 5062882
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_supervising_the_laying_out_of_the_Garden_of_Fidelity_in_Kabul_(facing_double_page).jpg",
+      "img": "/miniatures-web/mughal/Babur_supervising_the_laying_out_of_the_Garden_of_Fidelity_in_Kabul_(facing_double_page).jpg.webp",
+      "sha256": "0425948d62defba82b8480f54c855a51d522485886f1035574d9991303d069eb",
+      "originalBytes": 16839304
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_treated_by_doctors_during_a_serious_illness.jpg",
+      "img": "/miniatures-web/mughal/Babur_treated_by_doctors_during_a_serious_illness.jpg.webp",
+      "sha256": "775c392a6c1b3c9d565d337b6e850ce3cda36f8fed604bb1d26a0c880d0f7fd7",
+      "originalBytes": 102151
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_visiting_the_Begums_at_Herat_in_Sultan_Husain_Baiqara_Mirza’s_college_at_his_mausoleum_(1506)_(Khizr_Chela).jpg",
+      "img": "/miniatures-web/mughal/Babur_visiting_the_Begums_at_Herat_in_Sultan_Husain_Baiqara_Mirza’s_college_at_his_mausoleum_(1506)_(Khizr_Chela).jpg.webp",
+      "sha256": "ea4c5bc2d04bbb87ccf7ebbb8eb7658253fe367f2be02ecdb8cfbe4623eb3cc1",
+      "originalBytes": 294824
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_watching_men_altering_the_course_of_the_stream.jpg",
+      "img": "/miniatures-web/mughal/Babur_watching_men_altering_the_course_of_the_stream.jpg.webp",
+      "sha256": "53917bb9c20f21a0ea033a7e79de395980ef74ee8868e621d6807848cfcf615d",
+      "originalBytes": 123734
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur_with_a_guide_during_his_visit_to_Bigram_(1505)_(Jagannath)._Baburnama_of_1590.jpg",
+      "img": "/miniatures-web/mughal/Babur_with_a_guide_during_his_visit_to_Bigram_(1505)_(Jagannath)._Baburnama_of_1590.jpg.webp",
+      "sha256": "7d701b2589ff1a9b1bf5a0cc43991b42b606d5819f79415cef8868cbc2c1071a",
+      "originalBytes": 311949
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Baburnama.jpg",
+      "img": "/miniatures-web/mughal/Baburnama.jpg.webp",
+      "sha256": "8899cd39b39652e0b093402cc2b66b12ad210b89ec32c06fb90f6b247c99dc0e",
+      "originalBytes": 91297
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur’s_army_in_battle_against_the_army_of_Rana_Sanga_at.jpg",
+      "img": "/miniatures-web/mughal/Babur’s_army_in_battle_against_the_army_of_Rana_Sanga_at.jpg.webp",
+      "sha256": "6e71191c3d001d484ff3ccddc1a746475cd14b02f106fbbed46ee9477fff8124",
+      "originalBytes": 2247778
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur’s_army_skirmishing_with_Baisunghur’s_army_at_Khan_Yurti,_near_Samarkand_(1496)_(Bhawani).jpg",
+      "img": "/miniatures-web/mughal/Babur’s_army_skirmishing_with_Baisunghur’s_army_at_Khan_Yurti,_near_Samarkand_(1496)_(Bhawani).jpg.webp",
+      "sha256": "f9a0732ff1603f335b5902f026212672044f0a2e803aeba91daea6e0d37470e3",
+      "originalBytes": 318059
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur’s_army_storming_Samarkand_(1497)_(Paras).jpg",
+      "img": "/miniatures-web/mughal/Babur’s_army_storming_Samarkand_(1497)_(Paras).jpg.webp",
+      "sha256": "94e752d19154b3dad7a6d578e6c8019659312f309262e8d7c9aae669b0a63bcb",
+      "originalBytes": 330716
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur’s_meeting_with_Sultan_‘Ali_Mirza_near_the_Kohik_water,_to_beleaguer_Samarqand_(1495-96)._Baburnama_of_1598.jpg",
+      "img": "/miniatures-web/mughal/Babur’s_meeting_with_Sultan_‘Ali_Mirza_near_the_Kohik_water,_to_beleaguer_Samarqand_(1495-96)._Baburnama_of_1598.jpg.webp",
+      "sha256": "f56a9b30d814945e563b284f673de629978f816076813b6699e3164b62b15989",
+      "originalBytes": 4923365
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Babur’s_second_raid_on_the_Hazaras_(1507);_by_Banwari_Khurd.jpg",
+      "img": "/miniatures-web/mughal/Babur’s_second_raid_on_the_Hazaras_(1507);_by_Banwari_Khurd.jpg.webp",
+      "sha256": "bde32845457e7a91d39ac9e248dff81c7caa9fa3e4c6e73313ee036ade28afd4",
+      "originalBytes": 330012
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bagta_-_Portrait_of_Rawat_Gokal_Das_Celebrating_'holi'_with_his_consorts,_dated_1808.jpg",
+      "img": "/miniatures-web/mughal/Bagta_-_Portrait_of_Rawat_Gokal_Das_Celebrating_'holi'_with_his_consorts,_dated_1808.jpg.webp",
+      "sha256": "557bb45f7488e818b73a0277e4e2ea454015280a44f4079c54ee26c366cbc2a1",
+      "originalBytes": 179778
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Baharistan_Manuscript_from_Bodleian_Libraries_folio_35b.jpg",
+      "img": "/miniatures-web/mughal/Baharistan_Manuscript_from_Bodleian_Libraries_folio_35b.jpg.webp",
+      "sha256": "e349744be2f4063b51ef2477e31bd2db40fa698b0c12a3240f7bfc4704ef21e1",
+      "originalBytes": 208827
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Basawan._The_Vain_Dervish_and_the_Sufi._Baharistan_of_Jami._Dated_1595,_Bodleian_Library,_Oxford..jpg",
+      "img": "/miniatures-web/mughal/Basawan._The_Vain_Dervish_and_the_Sufi._Baharistan_of_Jami._Dated_1595,_Bodleian_Library,_Oxford..jpg.webp",
+      "sha256": "5e25bf1cbacd8b72bd97c54c21dbce57e1d4bdecc39f5a8ba9c4c9fb52076244",
+      "originalBytes": 1011995
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Battle_of_Panipat_(20_April_1526)._Baburnama_of_1598.jpg",
+      "img": "/miniatures-web/mughal/Battle_of_Panipat_(20_April_1526)._Baburnama_of_1598.jpg.webp",
+      "sha256": "346eb05faebf767de2798209e800d8e316a08f63e586db565b7848e95a59b54e",
+      "originalBytes": 10332108
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Battle_scene_from_the_1570_Hamzanama_of_Akbar.jpg",
+      "img": "/miniatures-web/mughal/Battle_scene_from_the_1570_Hamzanama_of_Akbar.jpg.webp",
+      "sha256": "b9b4b9a316913fe164b7e9bc3f8aa888931e3ec2eb3dfe4e67de84aa772edb92",
+      "originalBytes": 245343
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bhima_Kills_Kichaka_and_his_brothers,_signed_by_Dhannu_-_Mughal_Miniature_Painting,_circa_1598-99.jpg",
+      "img": "/miniatures-web/mughal/Bhima_Kills_Kichaka_and_his_brothers,_signed_by_Dhannu_-_Mughal_Miniature_Painting,_circa_1598-99.jpg.webp",
+      "sha256": "76b72fb352e2c549e875f374d8d661c32541c87468c5834cf39d5e6ca188dd5b",
+      "originalBytes": 1020761
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Blochmann_Ain_i_Akbari_Titelseite_1873.jpg",
+      "img": "/miniatures-web/mughal/Blochmann_Ain_i_Akbari_Titelseite_1873.jpg.webp",
+      "sha256": "769abdde3ccc8257a70e71566b2a977234b956a46082aea8307840fd60778c71",
+      "originalBytes": 1152620
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bobur_ko'l_o'rtasiga_qurilgan_sufada-large.jpg",
+      "img": "/miniatures-web/mughal/Bobur_ko'l_o'rtasiga_qurilgan_sufada-large.jpg.webp",
+      "sha256": "c33bcb661f69e6281ed5c34155e9d4558bc6c4980a88de1507ed956617ffc142",
+      "originalBytes": 428574
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bodleian_Library_MS._Pers._d.104_p_82.jpg",
+      "img": "/miniatures-web/mughal/Bodleian_Library_MS._Pers._d.104_p_82.jpg.webp",
+      "sha256": "a55663a6429f14d2e9bbae22d72be4ac1f82796bf3eb8215d93b275aaccc2391",
+      "originalBytes": 657745
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bodleian_Library_MS._Pers._d.109_p_65_crop.jpg",
+      "img": "/miniatures-web/mughal/Bodleian_Library_MS._Pers._d.109_p_65_crop.jpg.webp",
+      "sha256": "6366945400b853b2826047f7e4eafd5f24ca4d7547449153314273947e289a46",
+      "originalBytes": 325837
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Bodleian_Library_MS._Pers._d.110_p_105_crop.jpg",
+      "img": "/miniatures-web/mughal/Bodleian_Library_MS._Pers._d.110_p_105_crop.jpg.webp",
+      "sha256": "fcd6719a9dade8390177f996629bbdd6cce5dcbae8404a4250aa8fff2a900b1f",
+      "originalBytes": 110272
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg",
+      "img": "/miniatures-web/mughal/Brooklyn_Museum_-_Arghan_Div_Brings_the_Chest_of_Armor_to_Hamza.jpg.webp",
+      "sha256": "c8bbdaa4096897b7de3dcb597ea1145d894875c3d29f0dcd360c8f28eaf59668",
+      "originalBytes": 839450
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Brooklyn_Museum_-_Yusuf_and_Zulaykha.jpg",
+      "img": "/miniatures-web/mughal/Brooklyn_Museum_-_Yusuf_and_Zulaykha.jpg.webp",
+      "sha256": "fe2d61a7d649e58b89cc3ad85985c26c1218771ee650f2cd6b68118f0a9ad740",
+      "originalBytes": 116887
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Chaupar,_Ain-i_Akbari,_Ahmad_Khan.jpg",
+      "img": "/miniatures-web/mughal/Chaupar,_Ain-i_Akbari,_Ahmad_Khan.jpg.webp",
+      "sha256": "6d13d9409a4170b8976db4021c0445ed64999af881a4b54d25631ec4e86bdaf0",
+      "originalBytes": 286297
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Colophon_page_from_the_manuscript_of_Gulistan_of_Sa‘di.jpg",
+      "img": "/miniatures-web/mughal/Colophon_page_from_the_manuscript_of_Gulistan_of_Sa‘di.jpg.webp",
+      "sha256": "a0dec8073fedfb2134cbe9d180575e1c592ff854c4781d06ea4dd2ac065d6844",
+      "originalBytes": 7918823
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Darbar_of_Jahangir,_folio_from_the_St._Petersburg_Album_(Russian_Academy_of_Sciences_E-14_f.22r).jpg",
+      "img": "/miniatures-web/mughal/Darbar_of_Jahangir,_folio_from_the_St._Petersburg_Album_(Russian_Academy_of_Sciences_E-14_f.22r).jpg.webp",
+      "sha256": "9d39c0fe4b975fae563262015e260032efbabfeb471ccbaca2ecabf3ed4156d0",
+      "originalBytes": 1017323
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Darbar_of_Jahangir_(1620_AD).jpg",
+      "img": "/miniatures-web/mughal/Darbar_of_Jahangir_(1620_AD).jpg.webp",
+      "sha256": "b37cdfef22f2ba9c2df02e5e8bc2007372b98ec0fef792a444dd2aa99805efc2",
+      "originalBytes": 233026
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Darbar_of_Shah_Jahan,_Page_from_the_Windsor_Padshahnama,_ca._1657,_The_Royal_Library,_Windsor_Castle.jpg",
+      "img": "/miniatures-web/mughal/Darbar_of_Shah_Jahan,_Page_from_the_Windsor_Padshahnama,_ca._1657,_The_Royal_Library,_Windsor_Castle.jpg.webp",
+      "sha256": "f38ed8cca197d5e0f4660adf4cc3f7b436879bfadcc4c094f1aefec467d72798",
+      "originalBytes": 1270286
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Darbarscene.jpg",
+      "img": "/miniatures-web/mughal/Darbarscene.jpg.webp",
+      "sha256": "9d057596385fc34788d23a35d947f3d9a79dcb105978f16653229dd9ac083138",
+      "originalBytes": 291732
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Delhi-National_Museum-Babur_at_Samarkand-20131006.jpg",
+      "img": "/miniatures-web/mughal/Delhi-National_Museum-Babur_at_Samarkand-20131006.jpg.webp",
+      "sha256": "4ba9e9f5b9b1951f40b78be2fd13d3bc2a16b770ed07ec56077b0de24182918a",
+      "originalBytes": 18587856
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Dust_Muhammad_1550.jpg",
+      "img": "/miniatures-web/mughal/Dust_Muhammad_1550.jpg.webp",
+      "sha256": "ba0a17d47958972043a666764bc3ad8b95e6e1ed27199eee40255c0727d08c60",
+      "originalBytes": 6170568
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Dārāb-nāma,_Or._4615,_Fol._66v_Geschenke_für_Dārāb._Maler_Sānwala.png",
+      "img": "/miniatures-web/mughal/Dārāb-nāma,_Or._4615,_Fol._66v_Geschenke_für_Dārāb._Maler_Sānwala.png.webp",
+      "sha256": "f186300e148151ad8452d9812a15e4f89f3a7f983b636abc0242878314171af2",
+      "originalBytes": 990053
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Elefant_und_Jungtier_aus_dem_Stall_der_Moghulkaiser.jpg",
+      "img": "/miniatures-web/mughal/Elefant_und_Jungtier_aus_dem_Stall_der_Moghulkaiser.jpg.webp",
+      "sha256": "7dc2e5df83f33eb133b9353234e18d8a02b20b7c6b6e563e854b64315ff7a6d0",
+      "originalBytes": 355159
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Emissaries_bring_news_from_the_provinces_of_Khaybar_and_Chin_to_Anoshirvan._From_the_Hamzanama.jpg",
+      "img": "/miniatures-web/mughal/Emissaries_bring_news_from_the_provinces_of_Khaybar_and_Chin_to_Anoshirvan._From_the_Hamzanama.jpg.webp",
+      "sha256": "8e38eba882a8065db806370ff5ffb77d121100a21722eaaec8f44ee0f461b99d",
+      "originalBytes": 48334808
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art.jpg",
+      "img": "/miniatures-web/mughal/Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art.jpg.webp",
+      "sha256": "55ef73cf2cda68dd1207b656262e134a4a2d2fc624b93e4ce83c958dd0960eac",
+      "originalBytes": 2602031
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Gulistan_RAS_258,_Fol._86r.png",
+      "img": "/miniatures-web/mughal/Gulistan_RAS_258,_Fol._86r.png.webp",
+      "sha256": "a2e179be103bbbb9724252b0351361aa798eddef4365bef8ee6d9f12643812ff",
+      "originalBytes": 823235
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Gulistan_Saadi_RAS_258,_128r.png",
+      "img": "/miniatures-web/mughal/Gulistan_Saadi_RAS_258,_128r.png.webp",
+      "sha256": "5d6e860784d0d7d5df8a93ae545d311ca865b6c3e54dc5fcd5fae4a54dfaf2c0",
+      "originalBytes": 711837
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Hamzanama.jpg",
+      "img": "/miniatures-web/mughal/Hamzanama.jpg.webp",
+      "sha256": "76a4af3e174e09f3243b66ff0d17022804dd0f7851876e9838d4eeb21ba1809e",
+      "originalBytes": 135557
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Humayun_Khamsa_of_Nizami,_Kabul,_1550-54,_folio_34r.jpg",
+      "img": "/miniatures-web/mughal/Humayun_Khamsa_of_Nizami,_Kabul,_1550-54,_folio_34r.jpg.webp",
+      "sha256": "1733a0ed1d98f470da0bf9b93dcc232c0d499e453ef7f1cc554c8492751e6b10",
+      "originalBytes": 1503981
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Hunting_1.jpg",
+      "img": "/miniatures-web/mughal/Hunting_1.jpg.webp",
+      "sha256": "e3147030c063ce92bbc39aa9c0051abfbed384ff66f12beb7b1d29d302989a20",
+      "originalBytes": 421753
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Illustrations_from_Babur-namah_1.jpg",
+      "img": "/miniatures-web/mughal/Illustrations_from_Babur-namah_1.jpg.webp",
+      "sha256": "461f52e6debc282c7d4e7362bb4da4d31db4d3a98a8d5d8f21f157c8f8436f8e",
+      "originalBytes": 273952
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Image_of_the_almond_harvest_and_dervish_from_the_Memoirs_of_Babur.jpg",
+      "img": "/miniatures-web/mughal/Image_of_the_almond_harvest_and_dervish_from_the_Memoirs_of_Babur.jpg.webp",
+      "sha256": "b459ef7180b5657e5ee67de8df34a39b88b49efb179c1884ca56fe6687363713",
+      "originalBytes": 85417
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/India,_forse_Pratapgarh,_l'imperatore_shah_jahan_dà_una_spada_a_rawat_hari_singh,_gouache_su_carta_con_lumeggiature_in_oro_e_argento,_1675-1700_ca.jpg",
+      "img": "/miniatures-web/mughal/India,_forse_Pratapgarh,_l'imperatore_shah_jahan_dà_una_spada_a_rawat_hari_singh,_gouache_su_carta_con_lumeggiature_in_oro_e_argento,_1675-1700_ca.jpg.webp",
+      "sha256": "8c9830a1bce2cebb380f3f90e80486291f8ffb7a900150deb4d0de2f5e57ce3e",
+      "originalBytes": 11040353
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/India_Female_eremite.jpg",
+      "img": "/miniatures-web/mughal/India_Female_eremite.jpg.webp",
+      "sha256": "559ff508b8bd55107c9a8330ba41a46441a709c34e68137f40c0427e389b3e77",
+      "originalBytes": 71464
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Indian_-_A_Lady_at_Her_Toilette_-_Walters_W878.jpg",
+      "img": "/miniatures-web/mughal/Indian_-_A_Lady_at_Her_Toilette_-_Walters_W878.jpg.webp",
+      "sha256": "c4d61519a30f33bfe85630316c494bd7679fdfc378ee684eb93159bf738d38ae",
+      "originalBytes": 877419
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Indian_-_Bracelet_with_Portrait_Miniatures_-_Walters_38665_-_Open.jpg",
+      "img": "/miniatures-web/mughal/Indian_-_Bracelet_with_Portrait_Miniatures_-_Walters_38665_-_Open.jpg.webp",
+      "sha256": "a0fc81212dd53715783063e3b66bdd07a771c2d91e645c04af6d93a3deaac321",
+      "originalBytes": 1202566
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Indian_-_Embracing_Lovers_with_Sparklers_-_Walters_W870.jpg",
+      "img": "/miniatures-web/mughal/Indian_-_Embracing_Lovers_with_Sparklers_-_Walters_W870.jpg.webp",
+      "sha256": "b3c4f56fdff784534f98e45070b49eef1f2cf9bd6e3ac689e7d19c17a18c4454",
+      "originalBytes": 1053156
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Islamic_-_Two_Illustrations_from_a_Manuscript_of_Gulistan_by_Sadi_-_Walters_W66849A.jpg",
+      "img": "/miniatures-web/mughal/Islamic_-_Two_Illustrations_from_a_Manuscript_of_Gulistan_by_Sadi_-_Walters_W66849A.jpg.webp",
+      "sha256": "5d927a880414f27faf4b65901fcb1b2a27c0c469dab4806a21fff873e23ff0e4",
+      "originalBytes": 2803987
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Jahangir_-_Abu_al-Hasan.jpeg",
+      "img": "/miniatures-web/mughal/Jahangir_-_Abu_al-Hasan.jpeg.webp",
+      "sha256": "1d68ea23a0bf5583dba0a07e39f9e19a34926c6967c674397eb78c2081900c97",
+      "originalBytes": 2815488
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Jahangir_holding_the_picture_of_Madonna_-_Google_Art_Project.jpg",
+      "img": "/miniatures-web/mughal/Jahangir_holding_the_picture_of_Madonna_-_Google_Art_Project.jpg.webp",
+      "sha256": "62d6d167227d9f49cf4ab58d73b18c636fa6dd468e511c0458267364541acce8",
+      "originalBytes": 6493535
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Kolophonportrait_Gulistan_RAS_258,_Fol._128r.png",
+      "img": "/miniatures-web/mughal/Kolophonportrait_Gulistan_RAS_258,_Fol._128r.png.webp",
+      "sha256": "bf2a6646884fdaa08950d5b276a5d8083c747208e2dfecc289f134c6cca2da26",
+      "originalBytes": 718458
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Krishna-kills-the-evil-king-of-Mathura-Kansa---Mughal-Painting-c1590_V_&_A.jpg",
+      "img": "/miniatures-web/mughal/Krishna-kills-the-evil-king-of-Mathura-Kansa---Mughal-Painting-c1590_V_&_A.jpg.webp",
+      "sha256": "54420c4cdca22e343f9b1f9021abe826a9af62072a6bf52029a677d6fed31d3b",
+      "originalBytes": 797692
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Löwenangriff._Free_Library_Philadelphia.jpg",
+      "img": "/miniatures-web/mughal/Löwenangriff._Free_Library_Philadelphia.jpg.webp",
+      "sha256": "5cfe98ea45c1f8f76a66fd85989caa4762c6f7a2e66c975362818acd9adc0274",
+      "originalBytes": 204201
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mahiya_frees_Zambur,_Beheads_his_sleeping_guards,_and_suspends_Gharrad_in_his_stead_Hamzanama,_Harvard_Art_Museum,_Cambridge.jpg",
+      "img": "/miniatures-web/mughal/Mahiya_frees_Zambur,_Beheads_his_sleeping_guards,_and_suspends_Gharrad_in_his_stead_Hamzanama,_Harvard_Art_Museum,_Cambridge.jpg.webp",
+      "sha256": "149f974e29d4f9c7ab0244c3a8d4dde113f76b70f0f5158360e5b0fd109d98ab",
+      "originalBytes": 1680572
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mahlaj_shows_his_skill_to_Zumurrud_Shah_and_runs_a_spear_through_a_tree_(From_the_Hamzanama,_Volume_11).jpg",
+      "img": "/miniatures-web/mughal/Mahlaj_shows_his_skill_to_Zumurrud_Shah_and_runs_a_spear_through_a_tree_(From_the_Hamzanama,_Volume_11).jpg.webp",
+      "sha256": "6b36322f4c4898ba1a0c5d58c869a787bda16be13d91b1623b89dbadc42cf010",
+      "originalBytes": 2485982
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Meeting_of_Babur_with_his_elder_sister_Khanzade_Begum_(f._13b)_in_1510._Miniature_from_the_manuscript_Baburnama_of_1590._British_Library_Or._3714.jpg",
+      "img": "/miniatures-web/mughal/Meeting_of_Babur_with_his_elder_sister_Khanzade_Begum_(f._13b)_in_1510._Miniature_from_the_manuscript_Baburnama_of_1590._British_Library_Or._3714.jpg.webp",
+      "sha256": "e0b766d7525f0178f58394feeabba7a5910015fa2bbdba47ca9bbdd64b7d5a91",
+      "originalBytes": 2316445
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Miniatura_moghul,_krishna_che_conversa_con_altri_re,_01.jpg",
+      "img": "/miniatures-web/mughal/Miniatura_moghul,_krishna_che_conversa_con_altri_re,_01.jpg.webp",
+      "sha256": "4a87ede5870a7d4f32197d3f57ff9d222d90c6e0334156f6901042e6264ef514",
+      "originalBytes": 7202078
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mir_Sayyid_Ali_Ilia_prorok.jpg",
+      "img": "/miniatures-web/mughal/Mir_Sayyid_Ali_Ilia_prorok.jpg.webp",
+      "sha256": "8d96bacb86fd630ffa9c52e8b9b34a4163334a625c82859efe599308ea055d5a",
+      "originalBytes": 1363709
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House,_folio_from_a_Hamzanama.jpg",
+      "img": "/miniatures-web/mughal/Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House,_folio_from_a_Hamzanama.jpg.webp",
+      "sha256": "a1f38814a90ee878cd6a4ea3714adbf02da171124cbe9633055074a53ecb1aa8",
+      "originalBytes": 120697
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mughal_-_A_page_of_the_Dastan-i_Amir_Hamza_(Hamzanama)_-_Google_Art_Project.jpg",
+      "img": "/miniatures-web/mughal/Mughal_-_A_page_of_the_Dastan-i_Amir_Hamza_(Hamzanama)_-_Google_Art_Project.jpg.webp",
+      "sha256": "3800f5c6eecee481bcfbe3dad53b7c0f2b45983a45d680d05ecaee630fc56de0",
+      "originalBytes": 17526826
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mughal_Ganjiya_Playing_Cards,_Early_19th_century,_courtesy_the_Wovensouls_collection.jpg",
+      "img": "/miniatures-web/mughal/Mughal_Ganjiya_Playing_Cards,_Early_19th_century,_courtesy_the_Wovensouls_collection.jpg.webp",
+      "sha256": "8bc9c05af596b1a815016ded83beda8614528b92d4957f92115be3fadbc6561a",
+      "originalBytes": 597896
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Mughal_emperor_farrukhsiyar16_hi.jpg",
+      "img": "/miniatures-web/mughal/Mughal_emperor_farrukhsiyar16_hi.jpg.webp",
+      "sha256": "2a5ad8c10489e23a62832aa6f1d8645b56cf95bf4f95f04df10cf96694d93cea",
+      "originalBytes": 1197642
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Muhammad_Beg_Zulfiqar_Khan.jpg",
+      "img": "/miniatures-web/mughal/Muhammad_Beg_Zulfiqar_Khan.jpg.webp",
+      "sha256": "62921fd329e64c5ac8c68ae4b694a23121fe1a66cceac69f8d16258ed81123e9",
+      "originalBytes": 379516
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Muhammad_Faqirullah_Khan_A_lady_visiting_a_Saivite_shrine_ca._1750_British_Library,.jpg",
+      "img": "/miniatures-web/mughal/Muhammad_Faqirullah_Khan_A_lady_visiting_a_Saivite_shrine_ca._1750_British_Library,.jpg.webp",
+      "sha256": "e487e928cd3202d3a75f94d1a5ea17f6f279fac876c902e79bd538cc45ac8b82",
+      "originalBytes": 167035
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Muhammad_Husain_Mirza_brought_before_Babur_and_laughing_courtiers_in_the_bedroll_in_which_he_tried_to_hide_(1507)_(Shankar_Gujarati).jpg",
+      "img": "/miniatures-web/mughal/Muhammad_Husain_Mirza_brought_before_Babur_and_laughing_courtiers_in_the_bedroll_in_which_he_tried_to_hide_(1507)_(Shankar_Gujarati).jpg.webp",
+      "sha256": "79f9c19e83287bc4b8fba7d061aa1293c5e95f2df1ac9b1cc0f804a2ac4a7a17",
+      "originalBytes": 321144
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Periodo_del_sultanato_mogul,_folio_dal_manoscritto_dell'anvar-i-suhayli,_cap._4-7,_il_sempliciotto_e_la_sua_pecora,_1575_ca._01.jpg",
+      "img": "/miniatures-web/mughal/Periodo_del_sultanato_mogul,_folio_dal_manoscritto_dell'anvar-i-suhayli,_cap._4-7,_il_sempliciotto_e_la_sua_pecora,_1575_ca._01.jpg.webp",
+      "sha256": "d0b34ff840c6ab74385d4c4e8be0972624250c67e5f6e4bfb78bc5f6aaf35148",
+      "originalBytes": 4936500
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Periodo_mogul,_ritratto_di_shaista_khan,_delhi_1650_ca._01.jpg",
+      "img": "/miniatures-web/mughal/Periodo_mogul,_ritratto_di_shaista_khan,_delhi_1650_ca._01.jpg.webp",
+      "sha256": "3450249a4149f2a3f0309dc07f82ae5f19f75a5771cf0e7738711fef24cc9b03",
+      "originalBytes": 4789418
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Portrait_of_Akbar_II.jpg",
+      "img": "/miniatures-web/mughal/Portrait_of_Akbar_II.jpg.webp",
+      "sha256": "63952826043a3abdb111816c9ffa1458602f4fe6e0ae5ccc5c02d72ebf685a8a",
+      "originalBytes": 266688
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Prince_Akbar_and_Noblemen_Hawking,_Probably_Accompanied_by_His_Guardian_Bairam_Khan.jpg",
+      "img": "/miniatures-web/mughal/Prince_Akbar_and_Noblemen_Hawking,_Probably_Accompanied_by_His_Guardian_Bairam_Khan.jpg.webp",
+      "sha256": "1c8317e368357bae42e27ad3dd9c8d4fbe921f2b9af993872099c628a24eeb6e",
+      "originalBytes": 695399
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Prince_Khurram.jpg",
+      "img": "/miniatures-web/mughal/Prince_Khurram.jpg.webp",
+      "sha256": "2c467edf98f3db3f31f33b8ec3dc13b0377f21ddec8e13b051cb56065c82fa84",
+      "originalBytes": 694096
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(1_of_2).jpg",
+      "img": "/miniatures-web/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(1_of_2).jpg.webp",
+      "sha256": "698c9a279d4587b60a4c061e972d1052ca33a0c93f952cefa812332d31718953",
+      "originalBytes": 272486
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(2_of_2).jpg",
+      "img": "/miniatures-web/mughal/Prince_Qasim_and_the_Champions_of_Iran_and_Turan,_Folio_from_a_Hamzanama_(Adventures_of_Hamza)_LACMA_M.78.9.1_(2_of_2).jpg.webp",
+      "sha256": "474025035fc843f460496c67d71ca4b64a377ca4f29e43d1d90794dc0213f7dd",
+      "originalBytes": 1117519
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Princes_of_the_House_of_Timur.jpg",
+      "img": "/miniatures-web/mughal/Princes_of_the_House_of_Timur.jpg.webp",
+      "sha256": "34f77144f006d75fe29ae2700110631d8c23f9262abac1d36d25047c328fdce7",
+      "originalBytes": 9513321
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Reunion_of_Babur_with_his_sister_Khanzada_Begum_at_Kunduz_in_1511,_after_her_release_from_captivity_by_their_Iranian_enemies.jpg",
+      "img": "/miniatures-web/mughal/Reunion_of_Babur_with_his_sister_Khanzada_Begum_at_Kunduz_in_1511,_after_her_release_from_captivity_by_their_Iranian_enemies.jpg.webp",
+      "sha256": "aa81c770d9d99fad272757c7a8edaca7eadf46c28a5bf67fbe3f622f46c54d9d",
+      "originalBytes": 907134
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/RhinoHuntBabur.jpg",
+      "img": "/miniatures-web/mughal/RhinoHuntBabur.jpg.webp",
+      "sha256": "717ec8ff8b09dee1349da3f122a0583ede0b04461a505c96a8ff99c134e45cb0",
+      "originalBytes": 796423
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Shah_Jahan,_Standing_with_a_Flower_and_a_Sword,_Rembrandt,_c.1656-61.jpg",
+      "img": "/miniatures-web/mughal/Shah_Jahan,_Standing_with_a_Flower_and_a_Sword,_Rembrandt,_c.1656-61.jpg.webp",
+      "sha256": "0c99143936ef7384d70133330785ea6dbffc20f6eef79b539d402675d182a0e1",
+      "originalBytes": 107344
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Shah_Jahan_Receives_Persian_Ambassadors.jpg",
+      "img": "/miniatures-web/mughal/Shah_Jahan_Receives_Persian_Ambassadors.jpg.webp",
+      "sha256": "d93db95be14d61673d2161173358e3e7399b52114998923c10afe86e5b02e0f8",
+      "originalBytes": 1156698
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Shah_Jahan_on_the_Peacock_Throne_by_'Abid_son_of_Aqa_Riza_SDM_6124501635.jpg",
+      "img": "/miniatures-web/mughal/Shah_Jahan_on_the_Peacock_Throne_by_'Abid_son_of_Aqa_Riza_SDM_6124501635.jpg.webp",
+      "sha256": "3c769a0cb614f97e1ebbd37e4765e6eee5221ad0ed8984b053b25edc7834280d",
+      "originalBytes": 544993
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Simorgh_und_Qilin_im_Gulistan_RAS_258,_Fol._82v.png",
+      "img": "/miniatures-web/mughal/Simorgh_und_Qilin_im_Gulistan_RAS_258,_Fol._82v.png.webp",
+      "sha256": "c2cb887694d7c843bad82ff15752225934875d15d9b2a0f27f7e3fb27b31a49e",
+      "originalBytes": 618616
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Sultan_Ahmad_Alaq_meeting_Babur_and_sending_his_son_Sultan_Sai‘d_Khan_forward_to_greet_him_in_1502._By_Sanwlah,_circa_1590._Or._3714,_f.133.jpg",
+      "img": "/miniatures-web/mughal/Sultan_Ahmad_Alaq_meeting_Babur_and_sending_his_son_Sultan_Sai‘d_Khan_forward_to_greet_him_in_1502._By_Sanwlah,_circa_1590._Or._3714,_f.133.jpg.webp",
+      "sha256": "e6c062d1531cb2f7d63710629e454c0efa0ca3a50272b91da44ecc3933f98c7e",
+      "originalBytes": 2868069
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Sultan_Sanjar_und_die_alte_Frau._Khamsa_DMA.jpg",
+      "img": "/miniatures-web/mughal/Sultan_Sanjar_und_die_alte_Frau._Khamsa_DMA.jpg.webp",
+      "sha256": "5fa150fc5797d9c34964ac6bfcb295ccbc44e2254b260c680d35c306287c1406",
+      "originalBytes": 6477121
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Sunset_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg",
+      "img": "/miniatures-web/mughal/Sunset_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg.webp",
+      "sha256": "b464a900b4b651823b28f5047cfa0d519ff1d139983546be97571648e388680a",
+      "originalBytes": 356206
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/The_Fourth_Mughal_Emperor_Janhangir,_c._1850,_Doris_Duke_Foundation_11.29.jpg",
+      "img": "/miniatures-web/mughal/The_Fourth_Mughal_Emperor_Janhangir,_c._1850,_Doris_Duke_Foundation_11.29.jpg.webp",
+      "sha256": "370d3183ea615ca7675bf1e07d437cf0943493398aeed8ad841900c2e96c6c9b",
+      "originalBytes": 1266548
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/The_Maharana_of_Mewar_submitting_to_Prince_Khurram.jpg",
+      "img": "/miniatures-web/mughal/The_Maharana_of_Mewar_submitting_to_Prince_Khurram.jpg.webp",
+      "sha256": "bef0ef6b724ea623f877d6a35e5e77792edbe66a1c28ecb698873940db3b746e",
+      "originalBytes": 1284322
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/The_Punishment_of_Khwaja_Mu'azzam_-_Google_Art_Project_(cropped).jpg",
+      "img": "/miniatures-web/mughal/The_Punishment_of_Khwaja_Mu'azzam_-_Google_Art_Project_(cropped).jpg.webp",
+      "sha256": "6a10c6c4aff024271d43c94564120791c862862d3faf2f42dfb9ece62f6e3724",
+      "originalBytes": 3345396
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/The_Younger_Khan,_Alasha,_the_Slayer,_paying_homage_to_Babur_near_Yagha_village_situated_between_Tashkent_and_Sairam_(1502-03)._Baburnama_of_1598.jpg",
+      "img": "/miniatures-web/mughal/The_Younger_Khan,_Alasha,_the_Slayer,_paying_homage_to_Babur_near_Yagha_village_situated_between_Tashkent_and_Sairam_(1502-03)._Baburnama_of_1598.jpg.webp",
+      "sha256": "d76617d30c0b450c629f70eaeac7c3b0991c3290c2e66df201d20c2a4b5e9b30",
+      "originalBytes": 5034938
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/The_battle_of_Mazandaran.jpg",
+      "img": "/miniatures-web/mughal/The_battle_of_Mazandaran.jpg.webp",
+      "sha256": "9556a8cf4bd812a22fa30fc12c6a12c472dddbedb050dc43849e6afb727f8595",
+      "originalBytes": 20222864
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/This_painting_depicts_Ahmad_Shah_(1748-54)..jpg",
+      "img": "/miniatures-web/mughal/This_painting_depicts_Ahmad_Shah_(1748-54)..jpg.webp",
+      "sha256": "a2cda45aabe24eab73064a18f70a86708477a9c7a275c1950acba95b644e8894",
+      "originalBytes": 774748
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Three_horsemen_on_a_mountain_road_near_Begram_in_1525_(in_a_scene_of_Babur_and_his_sons_hunting_a_rhinoceros).jpg",
+      "img": "/miniatures-web/mughal/Three_horsemen_on_a_mountain_road_near_Begram_in_1525_(in_a_scene_of_Babur_and_his_sons_hunting_a_rhinoceros).jpg.webp",
+      "sha256": "984e3817edb3275c9c59cd5636db80ffc424538c8ac441203f9f56b700a1c256",
+      "originalBytes": 1960636
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Timur's_army_attacks_the_fortress_of_Herat_and_Ghiyath_al-Din,_the_Kartid_ruler,_sues_for_peace,_signed_Dharm_Das,_Mughal_India,_circa_1595-1600.jpg",
+      "img": "/miniatures-web/mughal/Timur's_army_attacks_the_fortress_of_Herat_and_Ghiyath_al-Din,_the_Kartid_ruler,_sues_for_peace,_signed_Dharm_Das,_Mughal_India,_circa_1595-1600.jpg.webp",
+      "sha256": "2a36143fb66696b97a503f38c24fd0064b5c7467fb350eadf505af0c07205e92",
+      "originalBytes": 1092825
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Umar_Defeats_a_Dragon_-_Daswanth.jpg",
+      "img": "/miniatures-web/mughal/Umar_Defeats_a_Dragon_-_Daswanth.jpg.webp",
+      "sha256": "5e1c45acc0c8427a9e5bbd7b27f4e1baea5dfa08d49af371e4e769bd768d0466",
+      "originalBytes": 7329562
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground,_Folio_from_a_Hamzanama_ca._1570_(73x56.5_cm)_Metmuseum_N-Y.jpg",
+      "img": "/miniatures-web/mughal/Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground,_Folio_from_a_Hamzanama_ca._1570_(73x56.5_cm)_Metmuseum_N-Y.jpg.webp",
+      "sha256": "b84d3ac527e8f9ab9ded34ba91c9141783b105f896618a031795c58b3238e0bd",
+      "originalBytes": 2703525
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Weighing_grain,_from_the_Babur-namah.jpg",
+      "img": "/miniatures-web/mughal/Weighing_grain,_from_the_Babur-namah.jpg.webp",
+      "sha256": "224a3cb9a859fa9f273510609b6c51efc02c3208ea3dbe2424fb99880dfd7529",
+      "originalBytes": 61776
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/Women_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg",
+      "img": "/miniatures-web/mughal/Women_detail,_Fayzullah_-_A_blindfolded_suitor_is_brought_before_a_princess_-_2013.343.a_-_Cleveland_Museum_of_Art_(cropped).jpg.webp",
+      "sha256": "30312e5c43b2dda3337a9d16e75d35f64d8f3f15bc3ad7abebbf0a304e282378",
+      "originalBytes": 323718
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_'Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_DP235937.jpg",
+      "img": "/miniatures-web/mughal/_'Umar_Walks_around_Fulad_Castle,_Meets_a_Foot_Soldier_and_Kicks_Him_to_the_Ground_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_DP235937.jpg.webp",
+      "sha256": "1534ca4df1c15089174b9ee62de027ed748aa38b8c9278fd654ab8134365433b",
+      "originalBytes": 3935750
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_A_Bathhouse_Keeper_is_Consumed_by_Passion_for_his_Beloved_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120806.jpg",
+      "img": "/miniatures-web/mughal/_A_Bathhouse_Keeper_is_Consumed_by_Passion_for_his_Beloved_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120806.jpg.webp",
+      "sha256": "c3d0aa311346afb5bcaba1fea6dddea4c35b686aa3aefe5449fc13699dbb3528",
+      "originalBytes": 2276096
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Alexander_Fights_a_Sea_Battle_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120807.jpg",
+      "img": "/miniatures-web/mughal/_Alexander_Fights_a_Sea_Battle_,_Folio_from_a_Khamsa_(Quintet)_of_Amir_Khusrau_Dihlavi_MET_DP120807.jpg.webp",
+      "sha256": "8bd0acd7d5cb433d3dcff122d0cdb68d1236ae216d489329b0716f752d886107",
+      "originalBytes": 2319687
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Alexander_is_Lowered_Into_the_Sea_.jpg",
+      "img": "/miniatures-web/mughal/_Alexander_is_Lowered_Into_the_Sea_.jpg.webp",
+      "sha256": "03e33dce8f0cba3bbc9f72b057d76746b80ca2f079caa19afcf86589dda6d49c",
+      "originalBytes": 1913771
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_CAT_10r1_89A.jpg",
+      "img": "/miniatures-web/mughal/_Assad_Ibn_Kariba_Launches_a_Night_Attack_on_the_Camp_of_Malik_Iraj_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_CAT_10r1_89A.jpg.webp",
+      "sha256": "99ec7fdafbf3eb40a267440b42b6b8c51a886abdeb9f8965cf6734f07476555d",
+      "originalBytes": 4493596
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Hamza's_Heroes_Fight_in_Support_of_Qasim_and_Badi'uzzaman_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf18-44-2a.jpg",
+      "img": "/miniatures-web/mughal/_Hamza's_Heroes_Fight_in_Support_of_Qasim_and_Badi'uzzaman_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf18-44-2a.jpg.webp",
+      "sha256": "2894785fbe633069d625ec94b644d45e246f436a0febaa9f31a7de147ff5f639",
+      "originalBytes": 343314
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Krishna_Holds_Up_Mount_Govardhan_to_Shelter_the_Villagers_of_Braj_,_Folio_from_a_Harivamsa_(The_Legend_of_Hari_(Krishna))_MET_is28.63.1.R.jpg",
+      "img": "/miniatures-web/mughal/_Krishna_Holds_Up_Mount_Govardhan_to_Shelter_the_Villagers_of_Braj_,_Folio_from_a_Harivamsa_(The_Legend_of_Hari_(Krishna))_MET_is28.63.1.R.jpg.webp",
+      "sha256": "3f68e5b03645efb2a571b43416e43e9feab2d380eb3c051b9bf81914bf0556f4",
+      "originalBytes": 1037253
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf24-48-1a.jpg",
+      "img": "/miniatures-web/mughal/_Misbah_the_Grocer_Brings_the_Spy_Parran_to_his_House_,_Folio_from_a_Hamzanama_(The_Adventures_of_Hamza)_MET_sf24-48-1a.jpg.webp",
+      "sha256": "56ba62548aa610608227f272642b63d5d1149b8990158b3d6f3cda326f0593b0",
+      "originalBytes": 311791
+    },
+    {
+      "originalFile": "media/originals/miniatures/mughal/_Shah_Jahan_on_Horseback_,_Folio_from_the_Shah_Jahan_Album_MET_DT1030.jpg",
+      "img": "/miniatures-web/mughal/_Shah_Jahan_on_Horseback_,_Folio_from_the_Shah_Jahan_Album_MET_DT1030.jpg.webp",
+      "sha256": "1fe990a0a76d97471322e33f47c252ff20ab2b093f49f80216fa3b1e1de0625c",
+      "originalBytes": 2120898
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/(Fol._34r)_A_Tavern_Scene.jpg",
+      "img": "/miniatures-web/ottoman/(Fol._34r)_A_Tavern_Scene.jpg.webp",
+      "sha256": "f142878fda3c3ef2f33e3a3d5b70a8cdd6542d46bf21332bc9333858df66d93a",
+      "originalBytes": 846809
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/(Fol._82v)_Locals_Confront_an_Adulterous_Woman.jpg",
+      "img": "/miniatures-web/ottoman/(Fol._82v)_Locals_Confront_an_Adulterous_Woman.jpg.webp",
+      "sha256": "cb2c5853f06f055919b2885174434a27b0812f09646b0aecac4c59bf9c19a21c",
+      "originalBytes": 6130527
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/1396-Battle_of_Nicopolis.jpg",
+      "img": "/miniatures-web/ottoman/1396-Battle_of_Nicopolis.jpg.webp",
+      "sha256": "c26d97150d12156ba522f072602084b09e2d703005dea4f1c286debcb861d671",
+      "originalBytes": 131359
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/1526-Cavalry_units_participating_in_the_Battle_of_Mohacs-Hunername.jpg",
+      "img": "/miniatures-web/ottoman/1526-Cavalry_units_participating_in_the_Battle_of_Mohacs-Hunername.jpg.webp",
+      "sha256": "745d360f82b78d9004c4aac6537cbc3e375cd2c18372fa4029c1e3fe1b13d85b",
+      "originalBytes": 160927
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg",
+      "img": "/miniatures-web/ottoman/1526-Suleiman_the_Magnificent_and_the_Battle_of_Mohacs-Hunername.jpg.webp",
+      "sha256": "905e5ca19dcdf9c51bae064c134e54623b5195a79b5c1e3015ad26627ba45dfa",
+      "originalBytes": 130361
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/1566-The_Funeral_of_Sultan_Suleyman_the_Magnificent-left-large.jpg",
+      "img": "/miniatures-web/ottoman/1566-The_Funeral_of_Sultan_Suleyman_the_Magnificent-left-large.jpg.webp",
+      "sha256": "003180ab0b2198fc6b4f485ba9e3598d5dc08bb83ca5991c1ebf8b5858ae3c12",
+      "originalBytes": 470251
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/A_miniature_depicting_the_capture_of_Bayezid_I.jpg",
+      "img": "/miniatures-web/ottoman/A_miniature_depicting_the_capture_of_Bayezid_I.jpg.webp",
+      "sha256": "bcb4817e347a59830e6842b6af6baa3d8441197532826f23a414d3a46ad73fed",
+      "originalBytes": 240049
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Ali_Beheading_Nadr_ibn_al-Harith_in_the_Presence_of_the_Prophet_Muhammad._Miniature_from_volume_4_of_a_copy_of_Mustafa_al-Darir’s_Siyar-i-Nabi._Istanbul;_c._1594_The_David_Col..jpg",
+      "img": "/miniatures-web/ottoman/Ali_Beheading_Nadr_ibn_al-Harith_in_the_Presence_of_the_Prophet_Muhammad._Miniature_from_volume_4_of_a_copy_of_Mustafa_al-Darir’s_Siyar-i-Nabi._Istanbul;_c._1594_The_David_Col..jpg.webp",
+      "sha256": "1d7e67b9d20a720f28c598627f84598d1426dd47a2e93f9e1aee8de11e6eaf7d",
+      "originalBytes": 3176175
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Alim_Şəmsəddin_Əhməd_Qarabaği,_Seyyid_Loğman_və_Alimin_Komandanlığında_Nəkka_və_Xəttlar_Məclisi_T.S.M._A._3595,_s._9a.jpg",
+      "img": "/miniatures-web/ottoman/Alim_Şəmsəddin_Əhməd_Qarabaği,_Seyyid_Loğman_və_Alimin_Komandanlığında_Nəkka_və_Xəttlar_Məclisi_T.S.M._A._3595,_s._9a.jpg.webp",
+      "sha256": "70111448747ee33303629e67659d31fcaadf0926539074476ceb41e60faa277b",
+      "originalBytes": 67803
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/BASA-822K-1-77-17a-Shahnameh_-_Shemailname-al-Osman.jpg",
+      "img": "/miniatures-web/ottoman/BASA-822K-1-77-17a-Shahnameh_-_Shemailname-al-Osman.jpg.webp",
+      "sha256": "dcf22244b8eada96e538ed943c35870b0c109deb01585a1feaa8778e1b68ee3f",
+      "originalBytes": 85624
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/BASA-822K-1-77-18-Shahnameh_-_Shemailname-al-Osman.jpg",
+      "img": "/miniatures-web/ottoman/BASA-822K-1-77-18-Shahnameh_-_Shemailname-al-Osman.jpg.webp",
+      "sha256": "86094866aab5e4514c2c74e2445626151a45a2443a53891cde8caa197e2ecdd8",
+      "originalBytes": 85436
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+      "img": "/miniatures-web/ottoman/Barbarossa_fleet_wintering_in_Toulon_1543.jpg.webp",
+      "sha256": "b1eecac71fa334a961f986b96640960b6d4b24abcb9dd2589668b7915251470e",
+      "originalBytes": 2351324
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Bataille_de_Siffîn.png",
+      "img": "/miniatures-web/ottoman/Bataille_de_Siffîn.png.webp",
+      "sha256": "f9833af0974abdabf892349c8d7823ad484b21f0e0f0e1b809811684ea29e492",
+      "originalBytes": 135343
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Battle_against_the_Cossacks-Shahin-Shah-nama.jpg",
+      "img": "/miniatures-web/ottoman/Battle_against_the_Cossacks-Shahin-Shah-nama.jpg.webp",
+      "sha256": "97bc974daffff1cce39058d1e3ff4685336f10d7d415096224c0eb5f0da15d58",
+      "originalBytes": 163152
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Battle_at_Lipova,_1551.jpg",
+      "img": "/miniatures-web/ottoman/Battle_at_Lipova,_1551.jpg.webp",
+      "sha256": "ff8a9251fe06fc20f3cdd21b37bb81085f36a8ea5290d10873726eeaff19b273",
+      "originalBytes": 5427995
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Battle_of_Mezőkeresztes_1596.jpg",
+      "img": "/miniatures-web/ottoman/Battle_of_Mezőkeresztes_1596.jpg.webp",
+      "sha256": "ed11aefc5e22a47ac4434c99c7000a1db6fa198cc367ffecfbec1f68a971e86d",
+      "originalBytes": 11410368
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Battle_of_Mohács,_Turkish_miniature.jpg",
+      "img": "/miniatures-web/ottoman/Battle_of_Mohács,_Turkish_miniature.jpg.webp",
+      "sha256": "d3ddded950f89b187342271ec21a32c719aa89ab40c40e5b154b7d70a602a7fd",
+      "originalBytes": 9341587
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Battle_of_Mohács,_with_Suleiman_I_in_the_middle.jpg",
+      "img": "/miniatures-web/ottoman/Battle_of_Mohács,_with_Suleiman_I_in_the_middle.jpg.webp",
+      "sha256": "566c68b4df80ead87369fc24f367b73e8282deaa434258d9d5fb81ef0181989c",
+      "originalBytes": 7707774
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/British_Library_MS_Oriental_7238,_fol_10v_Maktel-i_Ali_Resul_The_Battle_of_Nehrevan.jpg",
+      "img": "/miniatures-web/ottoman/British_Library_MS_Oriental_7238,_fol_10v_Maktel-i_Ali_Resul_The_Battle_of_Nehrevan.jpg.webp",
+      "sha256": "843cf966e1ea25e237ee3874c24cc4363423c7d3b53fcba6a52c636efda97260",
+      "originalBytes": 2198501
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Büyükçekmece_köprüsu.jpg",
+      "img": "/miniatures-web/ottoman/Büyükçekmece_köprüsu.jpg.webp",
+      "sha256": "2d8d3e10de73e132bdc71e7fe048f5a43baf66504113cfec26a0b9a02432d494",
+      "originalBytes": 276333
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Chester_Beatty_T_414_fol_92v_Irmiya_in_the_wilderness.jpg",
+      "img": "/miniatures-web/ottoman/Chester_Beatty_T_414_fol_92v_Irmiya_in_the_wilderness.jpg.webp",
+      "sha256": "14be848b88b1a20ec96dc8d9b8dd3d63611d9def6d9409f00fc5f1156657b2c4",
+      "originalBytes": 1024219
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Chester_Beatty_T_414_fol_99r_baby_Yahya_being_held_by_two_angels.jpg",
+      "img": "/miniatures-web/ottoman/Chester_Beatty_T_414_fol_99r_baby_Yahya_being_held_by_two_angels.jpg.webp",
+      "sha256": "b6642630c58e30a84be92dbfcc8ef247afd733242912420693a887c7db31948f",
+      "originalBytes": 3193543
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Chingui_ou_joueuse_d'instrument.jpg",
+      "img": "/miniatures-web/ottoman/Chingui_ou_joueuse_d'instrument.jpg.webp",
+      "sha256": "f4baca5be2180ccf308ffdd8fae155d1640e7959cf86a231f85903114db70d8e",
+      "originalBytes": 2705483
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Chronology_of_Ancient_Nations_BNF_112v.jpg",
+      "img": "/miniatures-web/ottoman/Chronology_of_Ancient_Nations_BNF_112v.jpg.webp",
+      "sha256": "bc52b503c07926506e8d8890733e9b270f3ef1a045eaa3c4d9c1438633c946ae",
+      "originalBytes": 351160
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Chronology_of_Ancient_Nations_BNF_87r_(detail).jpg",
+      "img": "/miniatures-web/ottoman/Chronology_of_Ancient_Nations_BNF_87r_(detail).jpg.webp",
+      "sha256": "d21675508234d5ff9862cd91a6e50cdf6511b1370253d5ed7b304ac654e2ac9c",
+      "originalBytes": 1627709
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Cod._Cicogna_1971,_fol._22r.png",
+      "img": "/miniatures-web/ottoman/Cod._Cicogna_1971,_fol._22r.png.webp",
+      "sha256": "763b3597cb49302b14ac6332d40ba0c25e3775450c97b7423caf3e235d526cf3",
+      "originalBytes": 2505926
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Cod._Cicogna_1971,_fol._30r.png",
+      "img": "/miniatures-web/ottoman/Cod._Cicogna_1971,_fol._30r.png.webp",
+      "sha256": "ad9ccc5782cacfa16e0d30ad61cb11526c4b1cf457a171287d09cfc35959087f",
+      "originalBytes": 2019010
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Cod._Cicogna_1971,_fol._54r.png",
+      "img": "/miniatures-web/ottoman/Cod._Cicogna_1971,_fol._54r.png.webp",
+      "sha256": "03ce731354b62056d6a7ea4cb60d0f0d7fac21cdff36dcbf53ed5c976080f179",
+      "originalBytes": 1044700
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Crossing_the_Bridge_on_the_Drava,_from_the_History_of_Sultan_Süleyman_(CBL_T_413.60).jpg",
+      "img": "/miniatures-web/ottoman/Crossing_the_Bridge_on_the_Drava,_from_the_History_of_Sultan_Süleyman_(CBL_T_413.60).jpg.webp",
+      "sha256": "be86e1e77c1995edab6020c8548c6dc9ccbed724c1ca7450ddae48c15b180bca",
+      "originalBytes": 64038359
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Double_page_from_the__Divan-i_Muhibbi__(IÜ_Ktp._T.5467).jpg",
+      "img": "/miniatures-web/ottoman/Double_page_from_the__Divan-i_Muhibbi__(IÜ_Ktp._T.5467).jpg.webp",
+      "sha256": "c7118c11e6659417145dfbb354a69b0f03cc659ccc1694b1ec765037c9ca9244",
+      "originalBytes": 820210
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Expedition_to_Revan-Shahin-Shah-nama.jpg",
+      "img": "/miniatures-web/ottoman/Expedition_to_Revan-Shahin-Shah-nama.jpg.webp",
+      "sha256": "ad9179e94e42d68ec21fab9dfa3c88628318bbc8e2ff3fe9858390e35ca6cf68",
+      "originalBytes": 501309
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Futuh_al-Haramain_(Description_of_the_Holy_Cities)_MET_DP285263.jpg",
+      "img": "/miniatures-web/ottoman/Futuh_al-Haramain_(Description_of_the_Holy_Cities)_MET_DP285263.jpg.webp",
+      "sha256": "636ac761a77a57c5a7acd4d5dfb00aaa3c4c5aad409a3b0894eb0518a5c96b90",
+      "originalBytes": 2353731
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Garden_of_the_Blessed.jpg",
+      "img": "/miniatures-web/ottoman/Garden_of_the_Blessed.jpg.webp",
+      "sha256": "a7d209587f7cc57bd19517a44f070eaab90881deda24f9928dc1aa3e45bb1c94",
+      "originalBytes": 169671
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Genealogia_od_początku_świata.jpg",
+      "img": "/miniatures-web/ottoman/Genealogia_od_początku_świata.jpg.webp",
+      "sha256": "7fb5ded7aa62e19585109e64ca928fcc814912e4187336cbbf49001062522295",
+      "originalBytes": 634143
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Iskendername.jpg",
+      "img": "/miniatures-web/ottoman/Iskendername.jpg.webp",
+      "sha256": "a841dd0c03f9e73d12756de7fd6d0ee8f229f877f68ddf627594369a64efff32",
+      "originalBytes": 3251808
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Istanbul,_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakkaş_Osman.jpg",
+      "img": "/miniatures-web/ottoman/Istanbul,_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakkaş_Osman.jpg.webp",
+      "sha256": "4c595c1fa916f4dc951a079c13c11b9139b0494f63d853244807da1bd9f1d3db",
+      "originalBytes": 1877632
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_1038_fol_19b-20a.jpg",
+      "img": "/miniatures-web/ottoman/Khalili_Collection_Hajj_and_Arts_of_Pilgrimage_mss_1038_fol_19b-20a.jpg.webp",
+      "sha256": "b942465c62f5176e60e121f0503c33ad43a80018a1233b23f923a307793d60e1",
+      "originalBytes": 6557169
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Khusrau_and_Shirin_MET_DP236653.jpg",
+      "img": "/miniatures-web/ottoman/Khusrau_and_Shirin_MET_DP236653.jpg.webp",
+      "sha256": "86bea908590a3a5cd94b0be6c9e22da15b1b62f83674846d606dde3ce57c8432",
+      "originalBytes": 2201301
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Khusrau_and_Shirin_MET_sf69-27frontcov.jpg",
+      "img": "/miniatures-web/ottoman/Khusrau_and_Shirin_MET_sf69-27frontcov.jpg.webp",
+      "sha256": "ca8dad1a5af7022472aea8cc5429935782e43431b0350a928b2b429388361d13",
+      "originalBytes": 321505
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/La_Bataille_de_Badr_-_Siyar-i_nabi_-_1595_ca_-_Turkey_-_Louvre_-_MAO_928.jpg",
+      "img": "/miniatures-web/ottoman/La_Bataille_de_Badr_-_Siyar-i_nabi_-_1595_ca_-_Turkey_-_Louvre_-_MAO_928.jpg.webp",
+      "sha256": "6555565556c22301a2b89e5c074b7b5afba0b20e07cd54a49398373237331222",
+      "originalBytes": 7430574
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Leaf_from_an_Illustrated_Herbal_LACMA_AC1995.124.10.jpg",
+      "img": "/miniatures-web/ottoman/Leaf_from_an_Illustrated_Herbal_LACMA_AC1995.124.10.jpg.webp",
+      "sha256": "a14fc40571237bf0a8ee6c87ab469123b85428ee375018299b4b915239692750",
+      "originalBytes": 576635
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Matrakçı_Nasuh_-_İstanbul.jpg",
+      "img": "/miniatures-web/ottoman/Matrakçı_Nasuh_-_İstanbul.jpg.webp",
+      "sha256": "5b7bb2b3753c4cd7ca124b3b258348de5891ca45e2f315c8f9a9a5a2db76f3b3",
+      "originalBytes": 1616784
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Matrakçı_Nasuh_-_İstanbul_(cropped-Galata).jpg",
+      "img": "/miniatures-web/ottoman/Matrakçı_Nasuh_-_İstanbul_(cropped-Galata).jpg.webp",
+      "sha256": "cb55f6c34b587de8464090ac7595a4a71b7ec338443eb5034d45abb30e27fcc9",
+      "originalBytes": 666107
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Matrakçı_Nasuh_Map_(17).jpeg",
+      "img": "/miniatures-web/ottoman/Matrakçı_Nasuh_Map_(17).jpeg.webp",
+      "sha256": "41365059333943bc3ca08fe64c66d4b0a27d4d21652ea28a0304f22144bd3dc0",
+      "originalBytes": 1315060
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Matrakçı_Nasuh_Map_(19).jpeg",
+      "img": "/miniatures-web/ottoman/Matrakçı_Nasuh_Map_(19).jpeg.webp",
+      "sha256": "e582b755934fa9fe6a13d7faa26581bd07cd6597ff62cd6691d99549fa064df5",
+      "originalBytes": 1759086
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Matrakçı_Nasuh_Map_of_Tabriz.jpeg",
+      "img": "/miniatures-web/ottoman/Matrakçı_Nasuh_Map_of_Tabriz.jpeg.webp",
+      "sha256": "0ebe8750e103098bdc1e6b91a6fc9b347a146b123bf88f48adac98e397d21809",
+      "originalBytes": 4036830
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Mohamed_Ramaḍān_ibn_Muḥammad_al-Zǎʾiraǧī.jpg",
+      "img": "/miniatures-web/ottoman/Mohamed_Ramaḍān_ibn_Muḥammad_al-Zǎʾiraǧī.jpg.webp",
+      "sha256": "17a360e729a8d1b286b7d9d03e1ed65da22e711acc2609fb2281672356c0dfa8",
+      "originalBytes": 2438799
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Muhammad_3.jpg",
+      "img": "/miniatures-web/ottoman/Muhammad_3.jpg.webp",
+      "sha256": "c4c1bb27278a91332d6598f7effd6c81024ccc2871c4f7d1f0302b5f0c570e95",
+      "originalBytes": 4816937
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Muhammad_ibn_Muhammad_Shakir_Ruzmah-'i_Nathani_-_A_Parrot_and_a_Nightingale_-_Walters_W659118A_-_Full_Page.jpg",
+      "img": "/miniatures-web/ottoman/Muhammad_ibn_Muhammad_Shakir_Ruzmah-'i_Nathani_-_A_Parrot_and_a_Nightingale_-_Walters_W659118A_-_Full_Page.jpg.webp",
+      "sha256": "267663e19e82c52439735dbea4143dea5193f92c67ccd7210bcfc70610e32deb",
+      "originalBytes": 264306
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/New_York_Public_Library,_Spencer_Collection_Turk._MS._3_Siyar-i_Nabî_fol._215v_Abd_Allah_ibn_Salam_argues_to_the_Jews_that_the_Tawrat_foretells_the_coming_of_Muhammad.jpg",
+      "img": "/miniatures-web/ottoman/New_York_Public_Library,_Spencer_Collection_Turk._MS._3_Siyar-i_Nabî_fol._215v_Abd_Allah_ibn_Salam_argues_to_the_Jews_that_the_Tawrat_foretells_the_coming_of_Muhammad.jpg.webp",
+      "sha256": "ecdd69ac0ede2a39688d4041e2c9689ffe3c8942250b0cf400aa6a708a750618",
+      "originalBytes": 9954459
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Old_Tabriz_(1538_Matrakçı_Nasuh_Map_vs_1827_Russian_map).jpg",
+      "img": "/miniatures-web/ottoman/Old_Tabriz_(1538_Matrakçı_Nasuh_Map_vs_1827_Russian_map).jpg.webp",
+      "sha256": "48b0864720dd7c477cad8d7be697907e945b67060e24be2a726e258c0c3e9a3b",
+      "originalBytes": 17793739
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Ottoman_Dynasty,_Portrait_of_a_Painter,_Reign_of_Mehmet_II_(1444-1481).jpg",
+      "img": "/miniatures-web/ottoman/Ottoman_Dynasty,_Portrait_of_a_Painter,_Reign_of_Mehmet_II_(1444-1481).jpg.webp",
+      "sha256": "5d9374f355dd84ef29a5cb383fd9fdc674b678924941c4776e849a53109a8a2d",
+      "originalBytes": 223163
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Secaatname_0198.jpg",
+      "img": "/miniatures-web/ottoman/Secaatname_0198.jpg.webp",
+      "sha256": "fe781b23ae034db4f9e94c77e229a600dcf3caf1ae7467948c29c888eadc6e79",
+      "originalBytes": 741538
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Siyar-I-Nabi_of_Mustafa_Dharir-_the_aftermath_of_the_Battle_of_Badr,_copied_by_Mustafa_Bin_Vali,_Turkey,_1594-95.jpg",
+      "img": "/miniatures-web/ottoman/Siyar-I-Nabi_of_Mustafa_Dharir-_the_aftermath_of_the_Battle_of_Badr,_copied_by_Mustafa_Bin_Vali,_Turkey,_1594-95.jpg.webp",
+      "sha256": "a0681d3ede073c3bdde26aaa7763a05ebd8f32167c84f541a6d744cd51a19484",
+      "originalBytes": 1370360
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Siyer-i_Nebi_-_Imam_Ali_und_Hamza_bei_dem_vorgezogenen_Einzelkampf_in_Badr_gegen_die_Götzendiener.jpg",
+      "img": "/miniatures-web/ottoman/Siyer-i_Nebi_-_Imam_Ali_und_Hamza_bei_dem_vorgezogenen_Einzelkampf_in_Badr_gegen_die_Götzendiener.jpg.webp",
+      "sha256": "fe64e5c64991e4b443febee52af0e4be6274edeecf46c47de3eb40641627e322",
+      "originalBytes": 113724
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Siyer-i_Nebi_-_Muhammad_auf_dem_himmlischen_Thron_mit_den_Erzenegeln_um_sich.jpg",
+      "img": "/miniatures-web/ottoman/Siyer-i_Nebi_-_Muhammad_auf_dem_himmlischen_Thron_mit_den_Erzenegeln_um_sich.jpg.webp",
+      "sha256": "cfd5b454c9454b628a962f498d38b7ba515454150905e1ae115af013edb47e1f",
+      "originalBytes": 137969
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Siyer-i_Nebi_-_Muhammad_und_Imam_Ali_werfen_die_Götzen_aus_der_Kaaba.jpg",
+      "img": "/miniatures-web/ottoman/Siyer-i_Nebi_-_Muhammad_und_Imam_Ali_werfen_die_Götzen_aus_der_Kaaba.jpg.webp",
+      "sha256": "cb7bfeec403bfcfc6abef9b2c5d3ce727da044f979d1e912a62dd87bc1da1d98",
+      "originalBytes": 86373
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Suleiman_I_after_the_victory_at_Mohács.jpg",
+      "img": "/miniatures-web/ottoman/Suleiman_I_after_the_victory_at_Mohács.jpg.webp",
+      "sha256": "389456d1d8b03d86dc2d71c3b03721c16c8a2616ee5e2c1e887c2053ef61e9f2",
+      "originalBytes": 3664126
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Suleiman_the_Magnificent_receives_an_Ambassador-by_Matrakci_Nasuh.jpg",
+      "img": "/miniatures-web/ottoman/Suleiman_the_Magnificent_receives_an_Ambassador-by_Matrakci_Nasuh.jpg.webp",
+      "sha256": "6867e355d5dfce680f13b419169adf334a1a547e4e161fa4ffc61b7cf1ce70d1",
+      "originalBytes": 116524
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Sultan_Selim_between_Plovdiv_(Filibe)_and_Sofĳia_on_the_way_to_Szigetvár;_Nüzhet,_fols._83b–84a.jpg",
+      "img": "/miniatures-web/ottoman/Sultan_Selim_between_Plovdiv_(Filibe)_and_Sofĳia_on_the_way_to_Szigetvár;_Nüzhet,_fols._83b–84a.jpg.webp",
+      "sha256": "9b52749fbc9854d42be8ac40b86a2c256505442ca5a2d62c3ad502255d07ca24",
+      "originalBytes": 6151020
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Sultans_of_the_Ottoman_Empire_-_Orhan_-_Murad_I_-_Bayezid_I_-_Mehmed_I.jpeg",
+      "img": "/miniatures-web/ottoman/Sultans_of_the_Ottoman_Empire_-_Orhan_-_Murad_I_-_Bayezid_I_-_Mehmed_I.jpeg.webp",
+      "sha256": "3e6245480a2a56af38abe9d6853c448ebea56e322fdfc31f8293b8d4ed9986c5",
+      "originalBytes": 2481984
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Surname-ı_Hümayun_Dragon.png",
+      "img": "/miniatures-web/ottoman/Surname-ı_Hümayun_Dragon.png.webp",
+      "sha256": "6918a20f7a69354d08320964ba6cde6ec75b388c0c95fd49d23204991e922ca3",
+      "originalBytes": 4552012
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Surname-ı_Hümayun_parade.png",
+      "img": "/miniatures-web/ottoman/Surname-ı_Hümayun_parade.png.webp",
+      "sha256": "214950d0bc679b907f079b2fb78278231bc3cc0cfd6e164fc40a414e211254d2",
+      "originalBytes": 5451445
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Süleyman's_Pilgrimage_to_Eyüp_(CBL_T_413.38).jpg",
+      "img": "/miniatures-web/ottoman/Süleyman's_Pilgrimage_to_Eyüp_(CBL_T_413.38).jpg.webp",
+      "sha256": "7ba31ae24073bfa7efb8f023e9c8610a225b89651edc88026ccd1b7666dc21c4",
+      "originalBytes": 46997561
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Taner_Alakuş_eseri_-_Kız_kulesi.jpg",
+      "img": "/miniatures-web/ottoman/Taner_Alakuş_eseri_-_Kız_kulesi.jpg.webp",
+      "sha256": "2b0e38596a1395bb3ee5e9ef908382bde7779ac090f7595100230b71c462ca59",
+      "originalBytes": 95220
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Taner_Alakuş_eseri_-_Yeni_Çeri.jpg",
+      "img": "/miniatures-web/ottoman/Taner_Alakuş_eseri_-_Yeni_Çeri.jpg.webp",
+      "sha256": "cdd837e356c9dd590e2ff8f66c17679c4c2d6c72149235abcc678e1fb263db92",
+      "originalBytes": 56742
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/The_Funeral_Procession_of_Suleyman_the_Magnificent_(CBL_T_413,_f._115b).jpg",
+      "img": "/miniatures-web/ottoman/The_Funeral_Procession_of_Suleyman_the_Magnificent_(CBL_T_413,_f._115b).jpg.webp",
+      "sha256": "9ff529987b1c8a341ce3b0c00880586da015b58708018830e16efa296885fb88",
+      "originalBytes": 10207642
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg",
+      "img": "/miniatures-web/ottoman/The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg.webp",
+      "sha256": "197cd1b70e520435b33300034134bbdf71219674c82da50d4694e074e3721c25",
+      "originalBytes": 1799702
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/The_Ottoman_army_arrives_at_Szigetvar,_from_the_History_of_Sultan_Süleyman_(Chester_Beatty,_T._413).jpg",
+      "img": "/miniatures-web/ottoman/The_Ottoman_army_arrives_at_Szigetvar,_from_the_History_of_Sultan_Süleyman_(Chester_Beatty,_T._413).jpg.webp",
+      "sha256": "8dd460d5177ed89e57a2b855bb063606f23592b4b422d68a61d166b034c154d9",
+      "originalBytes": 26448371
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Tughra_Suleiman.jpg",
+      "img": "/miniatures-web/ottoman/Tughra_Suleiman.jpg.webp",
+      "sha256": "f1eb473a045bac3a6bc43b3cb8d8e063787cc4ff60011be0d2093296f728c7de",
+      "originalBytes": 3659221
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár (1).jpg",
+      "img": "/miniatures-web/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár (1).jpg.webp",
+      "sha256": "d20c2305bc1aceb7ff519b38f4e622852621c42cc36c2ae1edf3d3b30334c9a8",
+      "originalBytes": 5007382
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár.jpg",
+      "img": "/miniatures-web/ottoman/Turkish_State_Council_meeting_after_the_conquest_of_Szigetvár.jpg.webp",
+      "sha256": "d20c2305bc1aceb7ff519b38f4e622852621c42cc36c2ae1edf3d3b30334c9a8",
+      "originalBytes": 5007382
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/War_council_after_the_unsuccessful_siege_of_Vienna.jpg",
+      "img": "/miniatures-web/ottoman/War_council_after_the_unsuccessful_siege_of_Vienna.jpg.webp",
+      "sha256": "77eff281408910e76fcaa4d4e462afd1c709cf972d9ce21a4d2ba6fd64af2a95",
+      "originalBytes": 4908613
+    },
+    {
+      "originalFile": "media/originals/miniatures/ottoman/Zakariya_ibn_Muhammad_Qazwini_-_An_Elephant-like_Animal_-_Walters_W659104A_-_Full_Page.jpg",
+      "img": "/miniatures-web/ottoman/Zakariya_ibn_Muhammad_Qazwini_-_An_Elephant-like_Animal_-_Walters_W659104A_-_Full_Page.jpg.webp",
+      "sha256": "fffece536a79b96a21e38281d11e480a65ffdd1c8dc0bff4373c03a62d50707f",
+      "originalBytes": 244845
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/A_drunken_prince_assaults_a_Chinese_maiden.Miniature_from_Gulistan_Sa'di._Herat,_1427._Chester_Beatty_Library,_Dublin._f.16r.jpg",
+      "img": "/miniatures-web/timurid/A_drunken_prince_assaults_a_Chinese_maiden.Miniature_from_Gulistan_Sa'di._Herat,_1427._Chester_Beatty_Library,_Dublin._f.16r.jpg.webp",
+      "sha256": "deced5238e22b9ff26f2183ab8c6c7f1fdffbf5bcf10e8fc6e75a2a1e424d94f",
+      "originalBytes": 1586713
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Amir_Khalil._A_youth_is_marooned_by_an_angry_boatman._Sa'di,_Gulistan._f.29v._Chester_Beatty_Library,_Dublin..jpg",
+      "img": "/miniatures-web/timurid/Amir_Khalil._A_youth_is_marooned_by_an_angry_boatman._Sa'di,_Gulistan._f.29v._Chester_Beatty_Library,_Dublin..jpg.webp",
+      "sha256": "cc114e55c1e92f8d00485098a5862f5caa58e79bf80b0ec1242df2488ac7cdd5",
+      "originalBytes": 7130278
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Bahram_and_dragon.jpg",
+      "img": "/miniatures-web/timurid/Bahram_and_dragon.jpg.webp",
+      "sha256": "da25ab6e2106cea8627df596365845f43476e4f08dd0b44f17e65cdb0b0dbd01",
+      "originalBytes": 808175
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Battle_of_Homs_(1299)_(Bibliothèque_nationale_de_France,_Supplément_Persan_1113_f.236).jpg",
+      "img": "/miniatures-web/timurid/Battle_of_Homs_(1299)_(Bibliothèque_nationale_de_France,_Supplément_Persan_1113_f.236).jpg.webp",
+      "sha256": "e8275b38ac6ca7ea17ea0add8e9e3b3178a9ffdf24dbd51472b8407264f4b814",
+      "originalBytes": 2509377
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Battle_on_the_River_Oxus,_Zafarnama_of_Sultan_Husayn_or_‘Garrett_Zafarnama’,_c.1480_painting.jpg",
+      "img": "/miniatures-web/timurid/Battle_on_the_River_Oxus,_Zafarnama_of_Sultan_Husayn_or_‘Garrett_Zafarnama’,_c.1480_painting.jpg.webp",
+      "sha256": "1b9f3f332fad7536bf5e6f1098104c426c90f6b4bc71aa69ad8365e0b74d642b",
+      "originalBytes": 16517193
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Bayasanghori_Shahnameh_5_(crop-b).jpg",
+      "img": "/miniatures-web/timurid/Bayasanghori_Shahnameh_5_(crop-b).jpg.webp",
+      "sha256": "51806220f715c5d508daf8335cbdd4448fa32345109eaf63e74bfd071c2fa68f",
+      "originalBytes": 188984
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Baysonghori_Shahnameh_battle-scene-cropped.jpg",
+      "img": "/miniatures-web/timurid/Baysonghori_Shahnameh_battle-scene-cropped.jpg.webp",
+      "sha256": "3dca50c441a19cb44f3c283701b7f57a1408a12dbb9b18461e79b1c9aa1483df",
+      "originalBytes": 313514
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Behzad_beggar_at_a_mosque.jpg",
+      "img": "/miniatures-web/timurid/Behzad_beggar_at_a_mosque.jpg.webp",
+      "sha256": "c72119f08a72e2aa1f1a4df29acea813879844dc94fdb69662a3214452400ec8",
+      "originalBytes": 301129
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Behzad_or_Qasim_Ali._Iskandar,_in_the_likeness_of_Husayn_Bayqara,_visiting_the_wise_man_in_a_cave._Ascribed_to_Bihzad_underneath,_but_to_Qasim_ʻAli_in_the_text_panel..jpg",
+      "img": "/miniatures-web/timurid/Behzad_or_Qasim_Ali._Iskandar,_in_the_likeness_of_Husayn_Bayqara,_visiting_the_wise_man_in_a_cave._Ascribed_to_Bihzad_underneath,_but_to_Qasim_ʻAli_in_the_text_panel..jpg.webp",
+      "sha256": "1b891f8ab0777e981e379e6898dca2222abe5a9e0ed6d7dab7097bd4d937a6b0",
+      "originalBytes": 1479500
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Building_Samarkand_Mosque.jpg",
+      "img": "/miniatures-web/timurid/Building_Samarkand_Mosque.jpg.webp",
+      "sha256": "0ccafb46368fdf1f970a17fd0d277fe6de8a0d23ff044fb03f5d180916383205",
+      "originalBytes": 3473775
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Building_of_the_Great_Mosque_in_Samarkand_(left).jpg",
+      "img": "/miniatures-web/timurid/Building_of_the_Great_Mosque_in_Samarkand_(left).jpg.webp",
+      "sha256": "02c7d1615e5aa78005d085f18310ea9c07046ac34a064bb0e1fd18dc198a9785",
+      "originalBytes": 408122
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Building_of_the_Great_Mosque_in_Samarkand_(right).jpg",
+      "img": "/miniatures-web/timurid/Building_of_the_Great_Mosque_in_Samarkand_(right).jpg.webp",
+      "sha256": "86107e9d80e0f0b3b8599ec1888e1755f0a6464d08fe2a55052f5a02ce68f8c2",
+      "originalBytes": 417031
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Combat_between_Gav_and_Talhand_(wounded_on_his_elephant),_folio_430v._Shahnama,_1440,_Herat_(Royal_Asiatic_Society_of_Great_Britain_and_Ireland,_no._239).jpg",
+      "img": "/miniatures-web/timurid/Combat_between_Gav_and_Talhand_(wounded_on_his_elephant),_folio_430v._Shahnama,_1440,_Herat_(Royal_Asiatic_Society_of_Great_Britain_and_Ireland,_no._239).jpg.webp",
+      "sha256": "b5e2e356589f2767957dd31c49634b65d317e2c473643241224af61c2ba699a6",
+      "originalBytes": 4198999
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Coronation_of_Mahmud_II,_son_of_Muhammad,_grandson_of_Malik_Shah,_great_grandson_of_Alp_Arslan_of_Seljuk_dynasty,_King_of_Iran_(571-525_A.H._-_1117-1131_CE).jpg",
+      "img": "/miniatures-web/timurid/Coronation_of_Mahmud_II,_son_of_Muhammad,_grandson_of_Malik_Shah,_great_grandson_of_Alp_Arslan_of_Seljuk_dynasty,_King_of_Iran_(571-525_A.H._-_1117-1131_CE).jpg.webp",
+      "sha256": "93220ae742f9acbe79cfe3eec90013266e9479c5896b824ba24ebcc28789e6fd",
+      "originalBytes": 6065368
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Dance_of_Sufi_Dervishes.jpg",
+      "img": "/miniatures-web/timurid/Dance_of_Sufi_Dervishes.jpg.webp",
+      "sha256": "463cc339fbef463526b1fdbc0ae138c207d58f17bc33b7e557323ec88cf789b3",
+      "originalBytes": 3020903
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Death_of_Farhads,_CBL_163,_f._72r.jpg",
+      "img": "/miniatures-web/timurid/Death_of_Farhads,_CBL_163,_f._72r.jpg.webp",
+      "sha256": "032d40307ef702d160823731778585a8323c9edacf2d37390cd4ebe2cb9807d7",
+      "originalBytes": 1456891
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Depiction_of_Timur_granting_audience_on_the_occasion_of_his_accession,_in_the_near_contemporary_Zafarnama_(1424-1428),_1467_edition.jpg",
+      "img": "/miniatures-web/timurid/Depiction_of_Timur_granting_audience_on_the_occasion_of_his_accession,_in_the_near_contemporary_Zafarnama_(1424-1428),_1467_edition.jpg.webp",
+      "sha256": "0e80c5d9fb3750f2ad4810336855de60950429b6cccf3d7299607f959a1457b8",
+      "originalBytes": 8238067
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Destruction_of_the_remnant_of_the_Kipchak_Army_(left).jpg",
+      "img": "/miniatures-web/timurid/Destruction_of_the_remnant_of_the_Kipchak_Army_(left).jpg.webp",
+      "sha256": "218065f91273289b2e46ee81e9cd0a497b02febc10d8fe6380bbc80c4619aa00",
+      "originalBytes": 495360
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/F._467v_The_Byzantine_emperor_is_brought_before_Šāpūr_II_in_chains,_his_ears_cut_off_and_his_nose_pierced._Shahnama,_1444,_Shiraz_(BNF,_Supplément_Persan_494).jpg",
+      "img": "/miniatures-web/timurid/F._467v_The_Byzantine_emperor_is_brought_before_Šāpūr_II_in_chains,_his_ears_cut_off_and_his_nose_pierced._Shahnama,_1444,_Shiraz_(BNF,_Supplément_Persan_494).jpg.webp",
+      "sha256": "9c5f2ba8def4b7b9d71add87591568562f5bf03c9a83ae129d9c7f3ee505cf6c",
+      "originalBytes": 415415
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Frontispiece_Baysunghur's_Shahnama_(Gulistan_Palace_Library,_MS._716)_folio_4r_Hunting_scene_in_the_presence_of_prince_Baysunghur.jpg",
+      "img": "/miniatures-web/timurid/Frontispiece_Baysunghur's_Shahnama_(Gulistan_Palace_Library,_MS._716)_folio_4r_Hunting_scene_in_the_presence_of_prince_Baysunghur.jpg.webp",
+      "sha256": "ad53bc23c86d3fdc5d730798d1a0913e1b61949cb883fc5967598fcfc38433e0",
+      "originalBytes": 8680588
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Frontispiece_from_the_Cairo_Bustan._Herat,_c._1488,_for_Sultan_Husayn_Bayqara._Cairo,_Dar_al-kutub,_Adab_farisi_22,_folio_1b-2a.jpg",
+      "img": "/miniatures-web/timurid/Frontispiece_from_the_Cairo_Bustan._Herat,_c._1488,_for_Sultan_Husayn_Bayqara._Cairo,_Dar_al-kutub,_Adab_farisi_22,_folio_1b-2a.jpg.webp",
+      "sha256": "ed82e1aed87c9a79fa244d0f76e2e86246fabd0f525ac780089363ed6bb4b918",
+      "originalBytes": 7153218
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Gulnar_sees_Ardashir_and_falls_in_love_with_him._Baysungur's_Shahnama,_1430._The_Gulistan_Palace_Museum,_Tehran.f469.jpg",
+      "img": "/miniatures-web/timurid/Gulnar_sees_Ardashir_and_falls_in_love_with_him._Baysungur's_Shahnama,_1430._The_Gulistan_Palace_Museum,_Tehran.f469.jpg.webp",
+      "sha256": "fb30621cbef96474e4285e9dd9b82b48257ea859497358af41ff61db0b532311",
+      "originalBytes": 1389434
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Horoscope_from_'The_book_of_birth_of_Iskandar__Wellcome_L0040150.jpg",
+      "img": "/miniatures-web/timurid/Horoscope_from_'The_book_of_birth_of_Iskandar__Wellcome_L0040150.jpg.webp",
+      "sha256": "3adb330e4ec3dbb0c52d9af1562dcf85b60f39404312c52356fc085978918b2f",
+      "originalBytes": 2828351
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Humay_and_Humayun_in_a_garden._Possibly_from_an_Anthology._Herat,_circa_1430.jpg",
+      "img": "/miniatures-web/timurid/Humay_and_Humayun_in_a_garden._Possibly_from_an_Anthology._Herat,_circa_1430.jpg.webp",
+      "sha256": "64dd34e553d830bc38d6d69dda5a99dd9c14000b5bd1ef25dc1576bce1b72f74",
+      "originalBytes": 5875851
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_11.jpg",
+      "img": "/miniatures-web/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_11.jpg.webp",
+      "sha256": "d378a5fbdf2b71aaaca0def5435cf4b4e7dc92da85a8b876f96aafc382659288",
+      "originalBytes": 4947096
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_12.jpg",
+      "img": "/miniatures-web/timurid/Jam’i_Jam_(The_Cup_of_Jamshid),_1459-60,_Herat_12.jpg.webp",
+      "sha256": "5f83c6b1572ad3a0e9a68994e6cd5cbf9d95b71aa8982e372311d4e7a21a8b3b",
+      "originalBytes": 3130292
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_1.jpg",
+      "img": "/miniatures-web/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_1.jpg.webp",
+      "sha256": "d6dadfce9d0a990fecf3bd3d211052a5273dc007075f00fea9d505960beeda2c",
+      "originalBytes": 5397484
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_21.jpg",
+      "img": "/miniatures-web/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_21.jpg.webp",
+      "sha256": "d8ce9bd448de2a3c79cb382e220f3de0eb0900db230a7a4dde3c17c1b2d74add",
+      "originalBytes": 7284940
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_4.jpg",
+      "img": "/miniatures-web/timurid/Jam’i_Jam_(The_Cup_of_Jamshid)_4.jpg.webp",
+      "sha256": "0528333c53f59e8fd233372d1fa4496ab930a3d1c8b7f7fbae2ef6e2be9b3a2f",
+      "originalBytes": 3795878
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Jésus_et_Mahomet_dans_un_manuscrit_timouride_(Collection_Al_Thani,_Paris).jpg",
+      "img": "/miniatures-web/timurid/Jésus_et_Mahomet_dans_un_manuscrit_timouride_(Collection_Al_Thani,_Paris).jpg.webp",
+      "sha256": "02a0f948e86e68abe0d4ed35410b4c2e50fe63690f5c6ce94dc94681913e4033",
+      "originalBytes": 11094866
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg",
+      "img": "/miniatures-web/timurid/Kamal-ud-din_Bihzad_-_Construction_of_the_fort_of_Kharnaq.jpg.webp",
+      "sha256": "04223f5e05e57d8657ae6460b6c42008a09ad6098150fa59941d8e29b7b6feab",
+      "originalBytes": 4948460
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Les_chemins_du_paradis_(Collection_Al_Thani,_Paris)._For_Abu_Sa'id_Gurkan,_Herat,_Afghanistan._Timurid_1458-1469_(1466_probable).jpg",
+      "img": "/miniatures-web/timurid/Les_chemins_du_paradis_(Collection_Al_Thani,_Paris)._For_Abu_Sa'id_Gurkan,_Herat,_Afghanistan._Timurid_1458-1469_(1466_probable).jpg.webp",
+      "sha256": "bc72f2c43ccbc7967999e15bbd6c9d50e2d17fe93dd78472075145fb61cf2132",
+      "originalBytes": 10003686
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Muhammad_and__mocking_women__in_Hell.jpg",
+      "img": "/miniatures-web/timurid/Muhammad_and__mocking_women__in_Hell.jpg.webp",
+      "sha256": "e24c249fd100bdedd8e15b7585dcebcaf68c0f916a55d408db40bc972428ea65",
+      "originalBytes": 81981
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Muhammad_and__shameless_women__in_Hell.jpg",
+      "img": "/miniatures-web/timurid/Muhammad_and__shameless_women__in_Hell.jpg.webp",
+      "sha256": "7935d70a920694fa820d8f9f9fad213345564e2a4600af8ebe34d3a45daf991a",
+      "originalBytes": 71670
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Princely_banquet._Frontispiece_from_a_Shahnama_manuscript,_Shiraz,_1444._Possibly_made_for_Abdallah_Mirza,_son_of_Ibrahim_Sultan.jpg",
+      "img": "/miniatures-web/timurid/Princely_banquet._Frontispiece_from_a_Shahnama_manuscript,_Shiraz,_1444._Possibly_made_for_Abdallah_Mirza,_son_of_Ibrahim_Sultan.jpg.webp",
+      "sha256": "a776ac06b17db99c3260e713c35dd4209a18fab08c1226ebbe08f9c5478fbea0",
+      "originalBytes": 7689872
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Rustam_and_Isfandiyar_testing_each_other’s_grip._Golestan_Palace_Library,_ms._716.jpg",
+      "img": "/miniatures-web/timurid/Rustam_and_Isfandiyar_testing_each_other’s_grip._Golestan_Palace_Library,_ms._716.jpg.webp",
+      "sha256": "339bd8a9e757ce4fb69cbce2d15cb70cf1d09e0c43cfab5c58ecc847ba1b7f50",
+      "originalBytes": 3578556
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Sad'i_and_the_Youth_of_Kashgar,_Ascribed_to_Bihzad,_From_a_copy_of_the_Gulistan_(Rosegarden)_by_Sa'di.jpg",
+      "img": "/miniatures-web/timurid/Sad'i_and_the_Youth_of_Kashgar,_Ascribed_to_Bihzad,_From_a_copy_of_the_Gulistan_(Rosegarden)_by_Sa'di.jpg.webp",
+      "sha256": "6416c3ff0356392b9fb30bc941ee4dc7ec5f0a0a4edd6e27f413d4a3304e4b96",
+      "originalBytes": 4256463
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Sham_Ghazan,_mausoleum_of_Ghazan_in_Tabriz_(also_called_Gunbad-i_'Âlî)_(BNF,_Supplément_Persan_1113_f.256v-257).jpg",
+      "img": "/miniatures-web/timurid/Sham_Ghazan,_mausoleum_of_Ghazan_in_Tabriz_(also_called_Gunbad-i_'Âlî)_(BNF,_Supplément_Persan_1113_f.256v-257).jpg.webp",
+      "sha256": "75ef32a8b8444f5e72465e708d839ff6f7f447442d81d55ff49c4641a8e7d41a",
+      "originalBytes": 4435577
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Sharaf_al-Din_Ali_Yazdi._Timur_Besieges_the_Georgian_Castle_of_Gortin._Miniature_manuscripts_(15th_century).jpg",
+      "img": "/miniatures-web/timurid/Sharaf_al-Din_Ali_Yazdi._Timur_Besieges_the_Georgian_Castle_of_Gortin._Miniature_manuscripts_(15th_century).jpg.webp",
+      "sha256": "34878e136121a63e719aff372d42bb128bb72d5283f3e02e4541f93def7602d8",
+      "originalBytes": 1757210
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Siege_of_Alamut._BnF_MS_pers._206_f._149v.jpg",
+      "img": "/miniatures-web/timurid/Siege_of_Alamut._BnF_MS_pers._206_f._149v.jpg.webp",
+      "sha256": "b52c55fde930cd4aa36354a0528f4168fb3a2ebe753ebd855724773e962a6874",
+      "originalBytes": 479545
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Siège_de_Mossoul_(1261-1262).jpeg",
+      "img": "/miniatures-web/timurid/Siège_de_Mossoul_(1261-1262).jpeg.webp",
+      "sha256": "d540c1abea3cbf11dc34e21bb1ccadaa9032cfc1f87b76cd3c8fcb5f192ef556",
+      "originalBytes": 2074106
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Sultan-Husayn_Bayqara,_possibly_in_conversation_with_Majd_al-Din_Muhammad_Khvafi.png",
+      "img": "/miniatures-web/timurid/Sultan-Husayn_Bayqara,_possibly_in_conversation_with_Majd_al-Din_Muhammad_Khvafi.png.webp",
+      "sha256": "63c527eb8209040d7272d96e740256d75c443133b47a2ffa488b85765752c5de",
+      "originalBytes": 783284
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Temüjin_proclaimed_as_Genghis_Khan_in_1206_Jami'_al-tawarikh_manuscript.jpg",
+      "img": "/miniatures-web/timurid/Temüjin_proclaimed_as_Genghis_Khan_in_1206_Jami'_al-tawarikh_manuscript.jpg.webp",
+      "sha256": "a7e45e42d13ebdea4115339c5854729dce5219f3d06c0a1ffa82890c82747838",
+      "originalBytes": 11069017
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Terken_Khatun-1.1.jpg",
+      "img": "/miniatures-web/timurid/Terken_Khatun-1.1.jpg.webp",
+      "sha256": "fac106e4e420dddc2bb70d3bfb3ff165f30c1555d1d7262853a324e144f8553e",
+      "originalBytes": 1536368
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg",
+      "img": "/miniatures-web/timurid/The_Poet_at_the_Judge’s_Court,_from_the_Cairo_Bustan._Herat,_December_1488–November_1489._Bihzad._Dar_al-kutub,_Adab_farisi_22,_folio_30b.jpg.webp",
+      "sha256": "aeee299f08990b4076eec0ee8b12acfc7f0e04b9261db8c97862bed57c18f943",
+      "originalBytes": 2325380
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg",
+      "img": "/miniatures-web/timurid/Timur's_army,_commanded_by_Umar_Shaykh,_attacks_Urgench_in_1379._Garrett_Zafarnama,_painted_in_1480.jpg.webp",
+      "sha256": "be49d4ccfd1624f4587c45e9bd51bdc628c3c93188b792120bd2315a195b47ad",
+      "originalBytes": 5193895
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(left).jpg",
+      "img": "/miniatures-web/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(left).jpg.webp",
+      "sha256": "3f04172af0e03b6bc066887dde3565687aa70588e69bb446832941d0f0b8dd3b",
+      "originalBytes": 510413
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(right).jpg",
+      "img": "/miniatures-web/timurid/Timur_granting_audience_on_the_occasion_of_his_accession_(right).jpg.webp",
+      "sha256": "733a2303fa7e0b5104b2b96bd6dc1572a5ffc0daf2f3185d9ab8bd62ce398068",
+      "originalBytes": 1103691
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Timurid_Anthology.jpg",
+      "img": "/miniatures-web/timurid/Timurid_Anthology.jpg.webp",
+      "sha256": "d39bbd9b0eed4695996234561a6851abd0ca374d61d05586c19bbcca1f1c4c11",
+      "originalBytes": 1519692
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/Troops_of_Timur_attacking_the_city_of_Khiva,_Urganj_(right).jpg",
+      "img": "/miniatures-web/timurid/Troops_of_Timur_attacking_the_city_of_Khiva,_Urganj_(right).jpg.webp",
+      "sha256": "3173f391940aaa21f09cfc5ebaf28af2afb202d73809c04165b8ae28b268313f",
+      "originalBytes": 401497
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/_Dancing_Dervishes_,_Folio_from_a_Divan_of_Hafiz_MET_DP231332.jpg",
+      "img": "/miniatures-web/timurid/_Dancing_Dervishes_,_Folio_from_a_Divan_of_Hafiz_MET_DP231332.jpg.webp",
+      "sha256": "f6bc7eda0e878c5446c1fe5729475d9a5ba67841974969bd622a0f549cbbd1d6",
+      "originalBytes": 2968151
+    },
+    {
+      "originalFile": "media/originals/miniatures/timurid/_Laila_and_Majnun_at_School_,_Folio_from_a_Khamsa_(Quintet)_of_Nizami_MET_DP159399.jpg",
+      "img": "/miniatures-web/timurid/_Laila_and_Majnun_at_School_,_Folio_from_a_Khamsa_(Quintet)_of_Nizami_MET_DP159399.jpg.webp",
+      "sha256": "ed63ef95a463398177848432009f9ef01a7ba8a28c83094075b20c2939bc8bd8",
+      "originalBytes": 3812332
+    }
+  ]
+}

@@ -1,6 +1,16 @@
-title: People
-description: Coming Soon
+title: Peoples
+description: An initial directory of three Turkic peoples beyond the site’s country sections. More profiles are needed.
 navigation: false
 hero:
-  title: Coming Soon
-  description: Journey from the steppes of Central Asia to the coasts of the Mediterranean. Discover the vibrant mosaic of Turkic peoples—their nomadic heritage, ancient roots, spiritual traditions, artistic expressions, and the enduring legacy that connects them across continents.
+  title: Peoples
+  description: An initial directory of three Turkic peoples beyond the site’s country sections. More profiles are needed.
+items:
+- name: Chuvash
+  description: Chuvash communities are associated especially with the Volga region.
+  to: /docs/common/people/chuvash
+- name: Gagauz
+  description: Gagauz is a Turkic language associated with communities in Moldova and Ukraine and in parts of the Balkans.
+  to: /docs/common/people/gagauz
+- name: Karakalpaks
+  description: Karakalpak is a Turkic language associated with Karakalpakstan and communities elsewhere in Central Asia.
+  to: /docs/common/people/karakalpaks

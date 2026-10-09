@@ -1,6 +1,11 @@
 ---
 title: Mugʻom va oshiq
 description: Ozarbayjon mugʻomi va oshiq ijrochiligi, repertuar, cholgʻu va anʼanani uzatish haqida kirish.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/mugham-ashug
+sources:
+- title: 'UNESCO: Azerbaijani Mugham'
+  url: https://ich.unesco.org/en/RL/azerbaijani-mugham-00039
 ---
 
 *Mugʻom* va oshiq ijrochiligi Ozarbayjondagi alohida, ammo oʻzaro bogʻliq musiqiy anʼanalardir. Mugʻom maqomiy rivoj, vokal talqin va cholgʻu muloqotiga, oshiq esa kuylangan sheʼr, hikoya va torli cholgʻu joʻrligiga tayanadi.
@@ -44,3 +49,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Musiqa va raqs](/uz/docs/azerbaijan/music-dance)
 - [Bayramlar va taqvimiy odatlar](/uz/docs/azerbaijan/festivals)
 - [Moddiy madaniyat](/uz/docs/azerbaijan/material-culture)
+
+## Hujjatlashtirilgan misol
+
+Mug‘om ansamblida xonandaga tor, kamancha va daf jo‘r bo‘lishi mumkin. Maqomiy an’ana doirasida badihaga keng o‘rin beriladi. [UNESCO: Azerbaijani Mugham](https://ich.unesco.org/en/RL/azerbaijani-mugham-00039).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

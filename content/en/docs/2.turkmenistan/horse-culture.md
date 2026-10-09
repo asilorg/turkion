@@ -1,6 +1,11 @@
 ---
 title: Horse Culture and Pastoral Skills in Turkmenistan
 description: An overview of horse care, riding, breeding knowledge, and related pastoral practices in Turkmenistan.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/horse-culture
+sources:
+- title: 'UNESCO: Akhal-Teke horse breeding, nomination photographs'
+  url: https://ich.unesco.org/en/8b-representative-list-01325?call=slideshow&id=01978&include=slideshow_inc.php&mode=scroll&width=620
 ---
 
 Horse culture in Turkmenistan includes the breeding, feeding, training, riding, and social valuation of horses, alongside wider skills of pastoral care. Horses have been used for travel, work, competition, and display, while their management requires detailed knowledge of animals, forage, weather, and equipment. Contemporary equestrian practice ranges from professional facilities to household-level ownership and recreational riding.
@@ -44,3 +49,9 @@ Horse keeping differs between urban stables, village households, and pastoral ar
 - [Material Culture](/en/docs/turkmenistan/material-culture)
 - [Festivals](/en/docs/turkmenistan/festivals)
 - [Cuisine](/en/docs/turkmenistan/cuisine)
+
+## Documented example
+
+The UNESCO nomination photographs document Akhal-Teke breeding together with decorative horse equipment, treating care and craft as related skills. [UNESCO: Akhal-Teke horse breeding, nomination photographs](https://ich.unesco.org/en/8b-representative-list-01325?call=slideshow&id=01978&include=slideshow_inc.php&mode=scroll&width=620).
+
+The cited record supports this example. This broader overview remains an editorial draft; local practices and historical interpretations still require specialist review.

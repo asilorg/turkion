@@ -1,6 +1,11 @@
 ---
 title: Turkmanistonda choy va non odobi
 description: Choy tortish, non bilan muomala, mehmon o‘tirishi va kundalik dasturxon odatlari.
+editorialStatus: draft
+translationOf: /en/docs/turkmenistan/tea-bread-etiquette
+sources:
+- title: 'Turkmenistan State News Agency: Tamdyr, national bakery traditions (2021)'
+  url: https://turkmenistan.gov.tm/en/post/54809/tamdyr-national-bakery-traditions
 ---
 
 Turkmanistondagi choy va non odob-axloqi odamlarning tashrif buyurishi, ovqatlanishini baham ko'rishi va uyda mehmonlarni taniy oladigan kichik amaliyotlarga tegishli. Bu amaliyotlarga choy tayyorlash, non va hamrohlik qilish, to'ldirishni taklif qilish va kim qayerda o'tirishini hal qilish kiradi. Ular ishtirok etish orqali o'rganiladi va uy xo'jaligi, avlod, muhit va tashrifning rasmiyligiga qarab farqlanadi.
@@ -45,3 +50,9 @@ Choyni afzal ko'rish mintaqaga, uy xo'jaligi tarixiga va yoshga, non turlariga v
 - [Mehmondoʻstlik](/uz/docs/turkmenistan/hospitality)
 - [Turkman oshxonasi](/uz/docs/turkmenistan/cuisine)
 - [Bayramlar](/uz/docs/turkmenistan/festivals)
+
+## Hujjatlashtirilgan misol
+
+Churek loydan qurilgan tandirning qizigan ichki devoriga yopib pishiriladi; nonni yopish va uzib olish amaliy mahorat talab qiladi. [Turkmenistan State News Agency: Tamdyr, national bakery traditions (2021)](https://turkmenistan.gov.tm/en/post/54809/tamdyr-national-bakery-traditions).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.

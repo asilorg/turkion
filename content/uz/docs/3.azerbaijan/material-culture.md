@@ -1,6 +1,11 @@
 ---
 title: Moddiy madaniyat
 description: Ozarbayjondagi uy buyumlari, kiyim, asboblar, qurilish amaliyotlari va hunarmandchilik haqida umumiy maʼlumot.
+editorialStatus: draft
+translationOf: /en/docs/azerbaijan/material-culture
+sources:
+- title: 'UNESCO: Traditional art of Azerbaijani carpet weaving'
+  url: https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867
 ---
 
 Moddiy madaniyat uylar oshpazlik, saqlash, kiyinish, mehnat, mehmon kutish va marosimlarni tashkil etadigan buyumlar, materiallar hamda makonlarni qamraydi. U qoʻlda va sanoatda yaratilgan, meros qolgan hamda yangi sotib olingan narsalarni oʻz ichiga oladi.
@@ -48,3 +53,9 @@ Bunday materiallar bilan ishlaganda mavjud dalillarning chegarasini ham hisobga 
 - [Gilamlar va toʻqimachilik](/uz/docs/azerbaijan/carpet-textiles)
 - [Ozarbayjon oshxonasi](/uz/docs/azerbaijan/cuisine)
 - [Mehmondoʻstlik](/uz/docs/azerbaijan/hospitality)
+
+## Hujjatlashtirilgan misol
+
+Gilamlar gorizontal yoki vertikal dastgohda to‘qiladi. Dastgoh va ip turini aniqlash buyumning yaratilish tarixini tushunishga yordam beradi. [UNESCO: Traditional art of Azerbaijani carpet weaving](https://ich.unesco.org/doc/src/17331-EN.pdf?t=1344431867).
+
+Ko‘rsatilgan manba ushbu misolni tasdiqlaydi. Umumiy sharh tahririy qoralama bo‘lib, mahalliy odatlar va tarixiy talqinlar mutaxassis tekshiruvini talab qiladi.
